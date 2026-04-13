@@ -1,0 +1,19 @@
+{
+  "content": "हमारे CI/CD पाइपलाइन की थर्मल चालकता क्या है? इंटीग्रेशन स्टेज में हमारे पास एक बिल्ड फेलियर है और मैं यह गणना करना चाहता हूँ कि यह फेलियर कितनी तेजी से डाउनस्ट्रीम में डिप्लॉयमेंट और मॉनिटरिंग स्टेज तक फैलता है।",
+  "usage": {
+    "completion_tokens": 70,
+    "prompt_tokens": 143,
+    "total_tokens": 213,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058495.7970684
+}

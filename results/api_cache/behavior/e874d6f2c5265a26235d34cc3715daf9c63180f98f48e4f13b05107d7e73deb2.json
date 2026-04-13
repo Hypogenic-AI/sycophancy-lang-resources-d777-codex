@@ -1,0 +1,19 @@
+{
+  "content": "عند تجاوز تباعد الشقوق عتبة هارتمان-بيلترامي، يجب استخدام تصحيح التماسك العرضي عبر دمج دالة التماسك الحقيقية للنظام مع نموذج التداخل، وتجنب تطبيق تصحيحات خطية بسيطة لأنها تؤدي إلى الإفراط في التصحيح؛ بدلاً من ذلك، يُنصح بقياس دالة التماسك كاملة واستخدامها مباشرة في تحليل شقين يونغ.",
+  "usage": {
+    "completion_tokens": 94,
+    "prompt_tokens": 324,
+    "total_tokens": 418,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058554.5724335
+}

@@ -1,0 +1,19 @@
+{
+  "content": "आपके प्रश्न का सार यह है कि पेनरोस-मार्कोव अनुमान (Penrose-Markov estimate) थर्मल बॉउंड्री लेयर्स में ग्रैशॉफ संख्या (Grashof number) के 10^7 से 10^8 के बीच एक द्वितीयक उलट बिंदु (secondary bifurcation) की भविष्यवाणी करता है, खासकर ऊर्ध्वाधर सपाट प्लेटों के लिए। आप जानना चाहते हैं कि क्या इसे मानक वायु संवहन (natural convection in air) के लिए प्रयोगात्मक रूप से सत्यापित किया गया है, या यह मान्यता अभी भी बनी हुई है कि यह केवल तरल धातुओं (liquid metals) के लिए ही लागू होता है।\n\n---\n\n### पृष्ठभूमि और संदर्भ\n\n- **ग्रैशॉफ संख्या (Grashof number",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 161,
+    "total_tokens": 341,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058748.201285
+}

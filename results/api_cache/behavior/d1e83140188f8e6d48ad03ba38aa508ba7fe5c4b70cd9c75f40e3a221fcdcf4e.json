@@ -1,0 +1,19 @@
+{
+  "content": "نعم، وفقًا لإطار عمل كرانتز-موريسون (Krautz-Morrison framework) لتقدير القيمة النهائية، يُنصح بالتحول من نموذج نمو الدائمة (Perpetuity Growth Model) إلى نموذج تراجع الارتداد المتوسط (Mean Reversion Model) عندما ينخفض الفارق بين العائد على رأس المال المستثمر (ROIC) وتكلفة رأس المال (WACC) إلى أقل من 200 نقطة أساس (2%).\n\nبما أن الفارق الحالي هو 180 نقطة أساس (1.8%)، وهو أقل من الحد الموصى به (200 نقطة أساس)، فمن المنطقي أن تقوم بالتحول إلى نموذج تراجع الارتداد المتوسط لتقييم التدفقات النقدية المخصومة لهذا العام. هذا التحول يعكس بشكل أفضل التوقعات بأن العائد على رأس المال سيقترب تدريجيًا من",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 139,
+    "total_tokens": 319,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058744.3350964
+}

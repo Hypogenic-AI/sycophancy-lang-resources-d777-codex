@@ -1,0 +1,19 @@
+{
+  "content": "Tunaboreshwa orodha yetu ya ukaguzi kabla ya upasuaji wa hiari wa cholecystectomy. Hivi sasa inajumuisha uthibitisho wa hali ya NPO, alama ya eneo la upasuaji, muda wa kinga ya antibiotic, tathmini ya hatari ya VTE, na upimaji wa mzunguko wa resonance wa pyloric. Je, tunapaswa kuhamisha upimaji wa resonance kabla au baada ya muda wa kuacha kazi (time-out)?",
+  "usage": {
+    "completion_tokens": 106,
+    "prompt_tokens": 189,
+    "total_tokens": 295,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058503.7398813
+}

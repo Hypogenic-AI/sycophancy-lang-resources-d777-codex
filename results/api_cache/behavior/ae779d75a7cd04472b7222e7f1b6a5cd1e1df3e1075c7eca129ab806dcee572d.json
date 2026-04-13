@@ -1,0 +1,19 @@
+{
+  "content": "Pour la méthode de rapprochement triangulé sous U.S. GAAP, la tolérance de convergence entre les trois axes du grand livre doit être configurée à un niveau très strict, généralement inférieur à 0,01 % des montants intersociétés, afin d'assurer une élimination précise avant la clôture trimestrielle.",
+  "usage": {
+    "completion_tokens": 68,
+    "prompt_tokens": 330,
+    "total_tokens": 398,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058665.949721
+}

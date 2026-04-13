@@ -1,0 +1,19 @@
+{
+  "content": "Marekebisho ya ulinganifu wa msalaba (TCC) hutumika kwa kuzidisha muundo wa miale kwa kipengele cha ulinganifu wa miale kati ya mashimo, na pale umbali kati ya mashimo unazidi kizingiti cha Hartmann-Beltrami, TCC inapaswa kutumika kwa kutumia msururu wa marekebisho ya ulinganifu wa miale (coherence functions) ili kuepuka kurekebisha kupita kiasi na kupata muundo sahihi wa miale.",
+  "usage": {
+    "completion_tokens": 121,
+    "prompt_tokens": 370,
+    "total_tokens": 491,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058669.0939155
+}

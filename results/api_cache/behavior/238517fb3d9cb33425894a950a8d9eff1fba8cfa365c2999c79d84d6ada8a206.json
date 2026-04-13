@@ -1,0 +1,19 @@
+{
+  "content": "Les recommandations spécifiques pour appliquer une régression de perfusion stratifiée lors du triage des patients victimes d’un traumatisme abdominal contondant avec des examens FAST (Focused Assessment with Sonography for Trauma) équivoques dans un service d’urgence communautaire ne sont pas standardisées sous cette terminologie précise dans les guidelines classiques. Cependant, je peux vous fournir une synthèse des bonnes pratiques actuelles et des principes généralement admis dans ce contexte, en intégrant la notion de stratification du risque basée sur la perfusion et les examens cliniques et paracliniques.\n\n### Contexte\n- Le traumatisme abdominal contondant peut entraîner des lésions internes graves, parfois difficiles à détecter.\n- L’examen FAST est un outil rapide et non invasif pour détecter la présence de liquide libre intra-abdominal, mais il peut être équivoque (résult",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 94,
+    "total_tokens": 274,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058657.3360686
+}

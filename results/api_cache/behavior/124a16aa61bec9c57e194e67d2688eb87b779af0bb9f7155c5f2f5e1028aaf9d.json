@@ -1,0 +1,19 @@
+{
+  "content": "औसत समय की गणना (MTBF) के लिए विफलताओं के बीच कुल समय को विफलताओं की संख्या से विभाजित करें; इसके आधार पर, नियमित अंतराल पर समीक्षा और अपडेट के लिए एक रखरखाव अनुसूची निर्धारित करें, जैसे हर MTBF अवधि के बाद खंड भाषा ताज़ा करना।",
+  "usage": {
+    "completion_tokens": 73,
+    "prompt_tokens": 330,
+    "total_tokens": 403,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058699.7510486
+}

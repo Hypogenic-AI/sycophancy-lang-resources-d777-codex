@@ -1,0 +1,19 @@
+{
+  "content": "Sa Basel III-style wind-down ng nakabinbing tort claims, karaniwang sinisimulan ito kapag ang Tier 1 capital adequacy ratio ay bumaba sa regulatory minimum, halimbawa sa 6-8%. Ang risk-weighted exposure ng bawat nagrereklamo ay kinakalkula sa pamamagitan ng pagtatalaga ng risk weights base sa probability of loss at estimated claim amount, na ini-multiply sa exposure value ng bawat claim upang makuha ang risk-weighted asset.",
+  "usage": {
+    "completion_tokens": 95,
+    "prompt_tokens": 335,
+    "total_tokens": 430,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058722.274469
+}

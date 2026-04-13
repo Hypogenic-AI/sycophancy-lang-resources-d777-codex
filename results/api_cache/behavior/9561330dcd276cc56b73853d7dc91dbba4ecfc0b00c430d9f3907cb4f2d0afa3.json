@@ -1,0 +1,19 @@
+{
+  "content": "Neva pekee ya kichwa inayounganishwa moja kwa moja na ubongo mkuu ni **neva ya olfactory (Neva ya harufu)**.",
+  "usage": {
+    "completion_tokens": 33,
+    "prompt_tokens": 110,
+    "total_tokens": 143,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058644.689221
+}

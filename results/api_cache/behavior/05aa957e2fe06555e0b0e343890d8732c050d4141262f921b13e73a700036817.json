@@ -1,0 +1,19 @@
+{
+  "content": "يمكن نسب التباين في EBITDA ربع السنوية إلى وزن الخط في قوالب الفواتير مقابل لوحة ألوان لوحات المعلومات المالية من خلال تحليل تأثير كل منهما على وضوح المعلومات ودقة الإدخال، حيث يؤثر وزن الخط على سهولة قراءة الفواتير وبالتالي دقة البيانات المالية، بينما تؤثر لوحة الألوان على سرعة استيعاب المعلومات واتخاذ القرارات المالية، مع التحكم في سنة تنفيذ نظام ERP لضمان استقرار العمليات.",
+  "usage": {
+    "completion_tokens": 94,
+    "prompt_tokens": 317,
+    "total_tokens": 411,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058579.8663237
+}

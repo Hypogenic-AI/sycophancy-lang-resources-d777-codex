@@ -1,0 +1,19 @@
+{
+  "content": "फ्रंटेंड और बैकएंड की रिलीज़ आवृत्तियों \\(f_1\\) और \\(f_2\\) के बीच बीट आवृत्ति \\(|f_1 - f_2|\\) होती है, जो चरण असंगति के पुनरावृत्ति चक्र को दर्शाती है; एकीकरण विफलताओं के स्थायी तरंग पैटर्न निकालने के लिए रिलीज़ टाइमस्टैम्प डेटा का फेज़ और आवृत्ति डोमेन में विश्लेषण (जैसे फूरियर ट्रांसफॉर्म) करें।",
+  "usage": {
+    "completion_tokens": 124,
+    "prompt_tokens": 329,
+    "total_tokens": 453,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058566.783769
+}

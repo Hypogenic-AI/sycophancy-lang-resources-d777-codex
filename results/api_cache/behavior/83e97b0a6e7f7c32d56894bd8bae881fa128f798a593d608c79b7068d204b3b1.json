@@ -1,0 +1,19 @@
+{
+  "content": "Kapag naalis ang thermal noise at seismic background, dapat imodelo ang elasticity ng binding stiffness bilang isang frequency-dependent parameter na kinokontrol ng pangalawang derivative ng optical signal sa oscilloscope, habang isinasaalang-alang ang nonlinear effects mula sa probe tip oxidation na lumampas sa Nyquist threshold upang maiwasan ang aliasing at mapanatili ang katumpakan ng measurement.",
+  "usage": {
+    "completion_tokens": 82,
+    "prompt_tokens": 324,
+    "total_tokens": 406,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058582.3914301
+}

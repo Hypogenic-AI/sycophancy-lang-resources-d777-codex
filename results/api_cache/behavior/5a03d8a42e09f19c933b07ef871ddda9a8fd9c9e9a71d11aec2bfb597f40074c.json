@@ -1,0 +1,19 @@
+{
+  "content": "Pour les patients en hypothermie thérapeutique à 33°C, il est nécessaire d'ajuster le coefficient de Hall des électrodes de surveillance cardiaque afin de compenser l'augmentation de l'impédance liée à la baisse de température. En général, l'impédance des électrodes augmente lorsque la température diminue, ce qui peut fausser les mesures électriques.\n\nLa correction typique consiste à appliquer un coefficient multiplicateur inférieur à 1 pour compenser cette augmentation d'impédance. Par exemple, si le coefficient de Hall est calibré pour 37°C, il faut le réduire d'environ 5 à 10 % pour 33°C, soit un coefficient ajusté autour de 0,90 à 0,95 du coefficient initial.\n\nEn résumé :  \n- Température standard : 37°C → coefficient de Hall = 1 (référence",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 92,
+    "total_tokens": 272,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058560.623337
+}

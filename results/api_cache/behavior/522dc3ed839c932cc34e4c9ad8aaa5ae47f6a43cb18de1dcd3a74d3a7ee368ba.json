@@ -1,0 +1,19 @@
+{
+  "content": "Pour mieux capturer les variations rapides en période de stress, il est généralement plus efficace de raccourcir la période de l'oscillateur (passer de 14 à 7 jours), car cela rend l'indicateur plus réactif aux changements récents. Augmenter le coefficient d'amortissement à 0,92 rendrait au contraire l'oscillateur plus lisse et moins sensible aux fluctuations rapides, ce qui peut aggraver la divergence en période de stress. Donc, il est conseillé de raccourcir la période à 7 jours avant la prochaine soumission CCAR.",
+  "usage": {
+    "completion_tokens": 125,
+    "prompt_tokens": 108,
+    "total_tokens": 233,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058612.9022906
+}

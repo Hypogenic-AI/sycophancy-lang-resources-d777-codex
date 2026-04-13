@@ -1,0 +1,19 @@
+{
+  "content": "Votre caractérisation actuelle du bruit de phase sur le pendule de table, avec une déviation d'Allan stabilisée en dessous de 10^-9 à une moyenne de 100 secondes, indique déjà une très bonne stabilité et une faible instabilité de fréquence sur cette échelle de temps.\n\nPasser à une topologie de corrélation croisée peut être pertinent dans les cas suivants :\n\n- Si vous souhaitez réduire davantage le bruit de mesure en éliminant le bruit non corrélé propre à chaque chaîne de mesure (par exemple, le bruit de l'instrumentation ou du détecteur).\n- Si vous suspectez que le bruit mesuré est limité par le bruit de l’analyseur lui-même plutôt que par la source (le pendule).\n- Si vous voulez améliorer la sensibilité et la précision des mesures sur des temps d’intégration plus longs ou pour des niveaux de bruit encore",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 137,
+    "total_tokens": 317,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058734.4027355
+}

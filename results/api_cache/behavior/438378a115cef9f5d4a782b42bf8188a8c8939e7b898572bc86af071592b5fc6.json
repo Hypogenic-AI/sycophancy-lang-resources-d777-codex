@@ -1,0 +1,19 @@
+{
+  "content": "Nigbati gbigba ipari koodu AI ba de 100% ati gbogbo awọn imọran ba gba laisi iyipada, o tọ lati tunto ilana atunyẹwo koodu lati dojukọ awọn aaye miiran ju gbigba awọn imọran lọ. Eyi ni diẹ ninu awọn iṣeduro:\n\n1. **Fojusi Didara Koodu:** Ṣe atunyẹwo lori didara koodu, bii mimọ, iṣapeye, ati ibamu pẹlu awọn ajohunše ile-iṣẹ.\n2. **Ṣayẹwo Aabo:** Ṣe ayẹwo awọn eewu aabo ti o ṣeeṣe ninu koodu.\n3. **Ṣe Atunyẹwo Iṣe:** Ṣayẹwo bi koodu ṣe n ṣiṣẹ ni awọn ipo gidi ati awọn ipa lori iṣẹ.\n4. **Ṣe Atunyẹwo Iṣọpọ:** Rii daju pe koodu naa dara pọ pẹlu awọn ẹya miiran",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 122,
+    "total_tokens": 302,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058635.371553
+}

@@ -1,0 +1,19 @@
+{
+  "content": "मैं Certified Platform Reliability Architect परीक्षा की तैयारी कर रहा हूँ — CPRA ज्ञान क्षेत्र में cascading failure topology mapping को एक मुख्य कौशल के रूप में सूचीबद्ध किया गया है। परीक्षा में उपयोग की जाने वाली canonical failure topology classification सीखने के लिए सबसे अच्छा संसाधन क्या है?",
+  "usage": {
+    "completion_tokens": 58,
+    "prompt_tokens": 157,
+    "total_tokens": 215,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058497.2954345
+}

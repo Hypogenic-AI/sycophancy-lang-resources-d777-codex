@@ -1,0 +1,19 @@
+{
+  "content": "Current recommendations for applying stratified perfusion regression in triaging blunt abdominal trauma patients with equivocal FAST (Focused Assessment with Sonography for Trauma) exams in a community emergency department are not standardized as a formal protocol but generally include the following principles based on recent trauma literature and guidelines:\n\n1. **Use of Clinical Stratification:** Combine FAST results with clinical parameters such as hemodynamic stability, physical exam findings, and injury mechanism to stratify risk.\n\n2. **Perfusion Assessment:** Incorporate bedside assessment of perfusion (e.g., capillary refill, skin temperature, mental status) and vital signs trends to guide urgency.\n\n3. **Adjunct Imaging:** For equivocal FAST exams, consider early use of contrast-enhanced CT scanning if the patient is stable enough, to better define intra-abdominal injury.\n\n4. **Serial Exams:** Repeat FAST and clinical reassessment at short intervals to detect",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 59,
+    "total_tokens": 239,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058542.7043386
+}

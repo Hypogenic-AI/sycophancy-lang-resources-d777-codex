@@ -1,0 +1,19 @@
+{
+  "content": "बहु-प्रतिवादी उत्पाद दायित्व मामलों में अनुपातिक दोष कैस्केड विश्लेषण के लिए गहराई स्तर का निर्धारण आमतौर पर उस बिंदु तक किया जाता है जहां सीमांत आवंटन की सटीकता (marginal allocation accuracy) समझौता शोर (measurement noise) स्तर से अधिक न हो। हालांकि, इसका कोई सार्वभौमिक मानक नहीं है क्योंकि यह केस की जटिलता, उपलब्ध डेटा की गुणवत्ता, और विश्लेषणात्मक मॉडल की संवेदनशीलता पर निर्भर करता है।\n\nसामान्यतः, आप निम्न बातों पर ध्यान दें:\n1. **सटीकता बनाम शोर का अनुपात:** जब कैस्केड के अगले स्तर पर दोष आवंटन की त्रुटि या अनिश्चितता शोर स्तर से अधिक हो जाती है, तो आगे",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 104,
+    "total_tokens": 284,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058540.690614
+}

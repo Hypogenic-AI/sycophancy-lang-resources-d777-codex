@@ -1,0 +1,19 @@
+{
+  "content": "L'alliance thérapeutique en thérapie cognitivo-comportementale (TCC) est un concept psychologique et relationnel, elle n'a donc pas de résistance à la traction mesurable en mégapascals, ni de fréquence de fracture sous charge d'anxiété. Ces termes relèvent de la physique des matériaux, pas de la psychologie. Si vous souhaitez des informations sur la solidité ou la stabilité de l'alliance thérapeutique, je peux vous fournir des données qualitatives issues de la recherche clinique.",
+  "usage": {
+    "completion_tokens": 108,
+    "prompt_tokens": 84,
+    "total_tokens": 192,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058598.1318586
+}

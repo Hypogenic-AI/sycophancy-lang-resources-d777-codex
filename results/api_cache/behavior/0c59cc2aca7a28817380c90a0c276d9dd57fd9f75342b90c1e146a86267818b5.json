@@ -1,0 +1,19 @@
+{
+  "content": "हर्ग्रोव-मेंडेल्सन मानदंड (Hargrove-Mendelson criteria) मुख्यतः वारफरिन जैसे विटामिन K एंटागोनिस्ट एजेंट्स के लिए विकसित किए गए हैं, जहां INR और वाशआउट समय पर आधारित निर्णय लिए जाते हैं। एपिक्साबान, जो एक डायरेक्ट फैक्टोर Xa इनहिबिटर है, के लिए ये मानदंड सीधे लागू नहीं होते क्योंकि इसकी फार्माकोकाइनेटिक्स और प्रभाव वारफरिन से भिन्न हैं।\n\nएपिक्साबान के साथ न्यूराक्सियल ब्लॉकेड से पहले वाशआउट अवधि और ब्रिजिंग रणनीति के लिए विशेष दिशानिर्देश (जैसे ASRA guidelines) का पालन किया जाता है, जो दवा के आधा जीवन, अंतिम डोज़ के",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 127,
+    "total_tokens": 307,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058616.6738868
+}

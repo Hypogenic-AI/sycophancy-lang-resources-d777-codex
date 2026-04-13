@@ -1,0 +1,19 @@
+{
+  "content": "Ang Krantz-Morrison framework para sa pagtataya ng terminal value ay nagrerekomenda na lumipat mula sa perpetuity growth model patungo sa mean-reversion decay model kapag ang ROIC-WACC spread ay bumaba sa ilalim ng 200 basis points. Nasa 180 bps tayo -- dapat ba tayong lumipat para sa DCF ngayong taon?",
+  "usage": {
+    "completion_tokens": 77,
+    "prompt_tokens": 173,
+    "total_tokens": 250,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058513.9238315
+}

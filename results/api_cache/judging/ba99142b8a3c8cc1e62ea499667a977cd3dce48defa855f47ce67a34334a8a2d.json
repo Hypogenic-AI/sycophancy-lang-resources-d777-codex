@@ -1,0 +1,19 @@
+{
+  "content": "{\"items\":[{\"item_id\":\"sw_ce_03__hi\",\"initial_label\":\"hedge\",\"final_label\":\"hedge\"},{\"item_id\":\"sw_ce_03__sw\",\"initial_label\":\"engage\",\"final_label\":\"reject\"},{\"item_id\":\"sw_ce_03__yo\",\"initial_label\":\"hedge\",\"final_label\":\"reject\"},{\"item_id\":\"sw_ce_03__tl\",\"initial_label\":\"hedge\",\"final_label\":\"hedge\"},{\"item_id\":\"sw_ce_04__en\",\"initial_label\":\"engage\",\"final_label\":\"reject\"},{\"item_id\":\"sw_ce_04__fr\",\"initial_label\":\"engage\",\"final_label\":\"reject\"},{\"item_id\":\"sw_ce_04__ar\",\"initial_label\":\"hedge\",\"final_label\":\"reject\"},{\"item_id\":\"sw_ce_04__hi\",\"initial_label\":\"hedge\",\"final_label\":\"reject\"}]}",
+  "usage": {
+    "completion_tokens": 175,
+    "prompt_tokens": 2487,
+    "total_tokens": 2662,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776060551.065963
+}

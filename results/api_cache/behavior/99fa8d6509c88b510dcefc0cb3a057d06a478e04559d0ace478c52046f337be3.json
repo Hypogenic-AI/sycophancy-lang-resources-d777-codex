@@ -1,0 +1,19 @@
+{
+  "content": "Upimaji wa mzunguko wa resonance wa pyloric unapaswa kufanyika baada ya muda wa kuacha kazi (time-out) ili kuhakikisha usahihi wa tathmini na usalama wa mgonjwa.",
+  "usage": {
+    "completion_tokens": 43,
+    "prompt_tokens": 362,
+    "total_tokens": 405,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058638.32111
+}

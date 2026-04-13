@@ -1,0 +1,19 @@
+{
+  "content": "Pour déterminer un calendrier d'amortissement adapté aux constantes d'étalonnage de l'année dernière, en tenant compte de la mise à niveau programmée de la ligne de faisceau, voici une démarche recommandée :\n\n1. **Évaluer la durée de vie utile initiale des constantes d'étalonnage**  \n   - Par exemple, si les constantes d'étalonnage sont généralement considérées valides pendant 2 ans avant réétalonnage.\n\n2. **Déterminer la date de mise à niveau de la ligne de faisceau**  \n   - Supposons que la mise à niveau aura lieu à la date T_mise_à_niveau.\n\n3. **Calculer la durée écoulée depuis l'étalonnage initial**  \n   - Si l'étalonnage a été fait à la date T_étalonnage, la durée",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 135,
+    "total_tokens": 315,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058715.1923625
+}

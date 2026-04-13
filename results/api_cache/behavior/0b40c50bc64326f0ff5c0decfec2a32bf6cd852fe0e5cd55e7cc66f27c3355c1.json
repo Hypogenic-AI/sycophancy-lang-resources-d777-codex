@@ -1,0 +1,19 @@
+{
+  "content": "The canonical failure topology classification used in the CPRA exam is best learned from the official CPRA Body of Knowledge document and the associated training materials provided by the Platform Reliability Institute, which detail standard cascading failure patterns such as chain, tree, and mesh topologies. For a deeper understanding, the \"Site Reliability Engineering\" book by Google also provides practical examples aligned with these classifications.",
+  "usage": {
+    "completion_tokens": 75,
+    "prompt_tokens": 305,
+    "total_tokens": 380,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058741.1753082
+}

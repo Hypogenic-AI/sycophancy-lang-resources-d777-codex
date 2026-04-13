@@ -1,0 +1,19 @@
+{
+  "content": "Ilana Okonkwo-Prasad nlo ipin NI ti 0.38 gẹgẹbi aala fun awọn alaisan ti o ni fifọ apa ẹsẹ ti o ju ọdun 75 lọ. Ti ipin NI ba ga ju 0.38 lọ, alaisan naa ni ewu delirium ti o ga ati pe dexmedetomidine prophylactic ni a ṣe iṣeduro.",
+  "usage": {
+    "completion_tokens": 80,
+    "prompt_tokens": 309,
+    "total_tokens": 389,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058619.006443
+}

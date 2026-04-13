@@ -1,0 +1,19 @@
+{
+  "content": "Tunaweza kuongeza ishara zaidi kwa kutumia mbinu za kujifunza kina (deep learning) kama vile kuingiza vigezo vya muktadha wa maneno (contextual embeddings) au kuongeza vipengele vinavyohusiana na muktadha wa kazi, kama vile muktadha wa sentensi au mtindo wa lugha.",
+  "usage": {
+    "completion_tokens": 71,
+    "prompt_tokens": 347,
+    "total_tokens": 418,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058752.5771275
+}

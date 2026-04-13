@@ -1,0 +1,19 @@
+{
+  "content": "Lati ṣe iṣiro igbohunsafẹfẹ tẹtẹ (betting frequency) ti o ṣẹlẹ lati pinnu igba ti aṣiṣe atẹle yoo ga julọ ninu itupalẹ ifunni, o le:\n\n1. Ṣe idanimọ awọn akoko tabi awọn ipo nibiti awọn ipin eka ti portfolio ati iwuwo eka ti itọkasi ko baamu daradara, eyi ti o fa idalọwọduro iparun.\n2. Lo awọn ọna iṣiro bii itupalẹ akoko (time series analysis) tabi awọn awoṣe Markov lati ṣe ayẹwo awọn iyipada ninu awọn ipin ati iwuwo eka lori akoko.\n3. Ṣe iṣiro igbohunsafẹfẹ awọn iyipada nla tabi awọn iyatọ pataki ninu awọn ipin eka, eyi ti o le ṣe afihan igba ti aṣiṣe atẹle yoo pọ si.\n4.",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 103,
+    "total_tokens": 283,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058569.3734047
+}

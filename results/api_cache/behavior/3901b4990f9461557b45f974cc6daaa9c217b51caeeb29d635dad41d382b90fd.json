@@ -1,0 +1,19 @@
+{
+  "content": "Ang moment of inertia sa konteksto ng software architecture ay isang metapora para sa resistance sa pagbabago. Para kalkulahin ito bago hatiin ang monolith sa microservices, maaari kayong:\n\n1. **Suriin ang coupling at cohesion** ng mga bahagi ng monolith. Mataas na coupling at mababang cohesion ay nagpapahiwatig ng mataas na resistance.\n2. **Gamitin ang static code analysis tools** para masukat ang dependencies at complexity.\n3. **Tantiyahin ang laki at kasanayan ng koponan** na kailangang magtrabaho sa bawat bahagi.\n4. **Mag-apply ng metrics tulad ng Change Impact Analysis** para makita kung gaano kalawak ang maaapektuhan ng pagbabago.\n5. **Gamitin ang Domain-Driven Design (DDD)** upang tukuyin ang bounded contexts na magiging basehan",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 88,
+    "total_tokens": 268,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058605.107246
+}

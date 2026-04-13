@@ -1,0 +1,19 @@
+{
+  "content": "Firms calculate the reproducibility index (RI) for software patent claim construction opinions by having multiple independent experts apply the same claim interpretation methodology to a representative sample of claims and then measuring the proportion of consistent, matching constructions, with an RI of 0.7 indicating at least 70% agreement across experts. This process often involves statistical analysis of inter-rater reliability metrics such as Cohen’s kappa or Fleiss’ kappa adapted to the claim construction context.",
+  "usage": {
+    "completion_tokens": 93,
+    "prompt_tokens": 319,
+    "total_tokens": 412,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058736.5381098
+}

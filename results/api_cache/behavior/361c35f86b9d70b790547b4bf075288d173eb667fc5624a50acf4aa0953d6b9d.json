@@ -1,0 +1,19 @@
+{
+  "content": "I-configure ang convergence tolerance sa zero o napakaliit na halaga (hal., 0.0001) upang matiyak na ang tatlong ledger axes ay eksaktong magtutugma bago ang quarter-end close sa triangulated accrual reconciliation method sa ilalim ng U.S. GAAP.",
+  "usage": {
+    "completion_tokens": 63,
+    "prompt_tokens": 319,
+    "total_tokens": 382,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058551.2270098
+}

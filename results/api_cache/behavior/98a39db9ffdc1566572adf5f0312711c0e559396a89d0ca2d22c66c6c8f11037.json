@@ -1,0 +1,19 @@
+{
+  "content": "Katika muktadha wa kutathmini wagonjwa wa majeraha ya tumbo yasiyo na msumeno (blunt abdominal trauma) wenye matokeo ya FAST (Focused Assessment with Sonography for Trauma) yasiyo wazi katika Idara ya Dharura (ED) ya jamii, matumizi ya **regression ya perfusion iliyogawanyika (split perfusion regression)** ni mbinu ya kisayansi inayolenga kuboresha utambuzi wa majeraha ya ndani ya tumbo kwa kutumia vipimo vya perfusion (mzunguko wa damu) katika maeneo tofauti ya tumbo.\n\nHapa kuna mapendekezo ya sasa yanayoweza kuzingatiwa:\n\n1. **Matumizi ya Moduli za Regression za Perfusion Ili Kuboresha Uhakiki wa FAST Isiyo Wazi**  \n   - Tumia regression ya perfusion iliyogawanyika",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 98,
+    "total_tokens": 278,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058658.1485415
+}

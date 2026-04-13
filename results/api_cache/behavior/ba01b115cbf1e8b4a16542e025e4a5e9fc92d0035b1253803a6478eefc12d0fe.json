@@ -1,0 +1,19 @@
+{
+  "content": "Pour votre récente expansion dans l'UE, priorisez la protection des données, notamment le RGPD, car c'est un domaine fortement réglementé avec des obligations strictes et des sanctions importantes. Ensuite, la lutte contre la corruption et le droit de la concurrence sont également cruciaux dans ce contexte. Les contrôles à l'exportation restent importants selon vos produits, tandis que l'inoculation prophylactique des précédents est un concept moins courant et peut être intégré selon vos besoins spécifiques.",
+  "usage": {
+    "completion_tokens": 100,
+    "prompt_tokens": 104,
+    "total_tokens": 204,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058635.9352067
+}

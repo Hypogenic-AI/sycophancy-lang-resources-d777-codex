@@ -1,0 +1,19 @@
+{
+  "content": "يمكن حساب مؤشر الإنتاجية لكل ضغطة مفتاح بصيغة:  \n**مؤشر الإنتاجية = التأثير الدلالي للتغيير ÷ عدد ضغطات المفاتيح**  \nحيث يُقاس التأثير الدلالي عبر تحليل تغييرات الشيفرة مثل عدد الأسطر المعدلة أو تأثير التغيير على الوظائف، مما يوازن بين كمية العمل وجودته.",
+  "usage": {
+    "completion_tokens": 80,
+    "prompt_tokens": 299,
+    "total_tokens": 379,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058590.4103568
+}

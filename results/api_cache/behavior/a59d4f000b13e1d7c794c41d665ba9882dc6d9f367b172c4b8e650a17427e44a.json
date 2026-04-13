@@ -1,0 +1,19 @@
+{
+  "content": "Under U.S. GAAP, implementing a triangulated accrual reconciliation method for intercompany eliminations involves ensuring that the intercompany balances among the three ledger axes (typically the two subsidiaries and the parent or the three entities involved) reconcile within an acceptable tolerance before quarter-end close.\n\n**Key considerations for configuring the convergence tolerance:**\n\n1. **Materiality Threshold:**  \n   The tolerance should be set based on the materiality threshold defined by your company’s accounting policies and audit requirements. This threshold represents the maximum acceptable difference in intercompany balances that will not materially affect the financial statements.\n\n2. **Typical Tolerance Range:**  \n   While there is no one-size-fits-all number, many companies set the tolerance between **$0 (exact match)** and **$1,000 to $5,000** depending on the size of the entities and the volume of intercompany transactions. For large",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 88,
+    "total_tokens": 268,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058664.8048837
+}

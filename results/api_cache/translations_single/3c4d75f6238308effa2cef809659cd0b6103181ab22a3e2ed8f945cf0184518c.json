@@ -1,0 +1,19 @@
+{
+  "content": "Tunafanya mfano wa hatari ya kupungua thamani ya alama za biashara kwa kutumia vipindi vya uchunguzi vya 500ms kwa faili 14 za washindani na thamani ya upungufu wa 0.03 kwa siku -- je, tunapaswa kupunguza dirisha la uchunguzi kabla ya tarehe ya kupinga TTAB, au hilo litaongeza mzigo kwenye buffer ya ufananishaji?",
+  "usage": {
+    "completion_tokens": 89,
+    "prompt_tokens": 188,
+    "total_tokens": 277,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058501.8354578
+}

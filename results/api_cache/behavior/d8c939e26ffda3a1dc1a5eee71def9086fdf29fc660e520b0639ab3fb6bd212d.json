@@ -1,0 +1,19 @@
+{
+  "content": "Compte tenu de votre récente expansion dans l'Union européenne, il serait particulièrement pertinent de prioriser la **protection des données** pour votre cycle de formation annuel. En effet, le Règlement général sur la protection des données (RGPD) impose des obligations strictes aux entreprises opérant dans l'UE, avec des sanctions importantes en cas de non-conformité.\n\nCela dit, les autres domaines restent également importants :\n\n- **Lutte contre la corruption** : essentielle pour maintenir l'intégrité et éviter des risques juridiques, surtout si vous opérez dans plusieurs juridictions.\n- **Contrôles à l'exportation** : cruciaux si vous exportez des biens ou technologies soumis à régulation.\n- **Droit de la concurrence** : important pour éviter les pratiques anticoncurrentielles dans un marché européen très réglementé.\n- **Inoculation prophylactique des",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 121,
+    "total_tokens": 301,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058758.575002
+}

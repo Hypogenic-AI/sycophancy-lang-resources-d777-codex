@@ -1,0 +1,19 @@
+{
+  "content": "لقد قضينا 18 شهرًا في معايرة مؤشر الرنين العاطفي لكل عضو لمتلقي الزرع — يتتبع مدى قوة ارتباط المتلقي نفسيًا بكل عضو متبرع باستخدام نموذج حركي من الدرجة الأولى. ثابت ارتباط الكلية هو 0.03/يوم لكن الكبد يستمر في التباعد. هل يجب أن نضيف مصطلح تصحيح من الدرجة الثانية أم ننتقل إلى نموذج مقصورات؟",
+  "usage": {
+    "completion_tokens": 96,
+    "prompt_tokens": 184,
+    "total_tokens": 280,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058493.7169378
+}

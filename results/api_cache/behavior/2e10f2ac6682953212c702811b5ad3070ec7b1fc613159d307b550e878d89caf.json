@@ -1,0 +1,19 @@
+{
+  "content": "The concept of a \"bidirectional sedation equilibrium protocol\" involving a \"phase-lock frequency\" when transitioning from propofol to dexmedetomidine is not a recognized or standard clinical practice in ICU sedation management based on current medical literature and guidelines.\n\nSedation protocols for mechanically ventilated patients typically involve careful titration of sedative agents based on clinical sedation scales (e.g., Richmond Agitation-Sedation Scale, RASS) and patient response, rather than any form of \"phase-lock frequency\" calibration. Propofol and dexmedetomidine have different pharmacodynamics and pharmacokinetics, and transitions between them are managed by overlapping infusions and gradual dose adjustments to maintain adequate sedation and hemodynamic stability.\n\nIf your ICU is implementing a novel or experimental protocol that uses terms like \"phase-lock frequency,\" it may be a proprietary or research-based approach not yet widely published or validated",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 85,
+    "total_tokens": 265,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058659.162519
+}

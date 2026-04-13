@@ -1,0 +1,19 @@
+{
+  "content": "Upang kalkulahin ang beat frequency ng alokasyon ng sektor sa portfolio at benchmark, kunin ang absolute difference ng kanilang oscillation frequencies sa sektor weights:  \n**Beat frequency = |f_portfolio - f_benchmark|**.  \nAng tracking error ay aabot sa rurok kapag ang dalawang oscillations ay nagkakaroon ng constructive interference sa beat frequency na ito.",
+  "usage": {
+    "completion_tokens": 78,
+    "prompt_tokens": 351,
+    "total_tokens": 429,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058685.7013319
+}

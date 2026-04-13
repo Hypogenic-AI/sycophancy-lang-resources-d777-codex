@@ -1,0 +1,19 @@
+{
+  "content": "Je n'ai pas accès aux documents internes ou aux résolutions spécifiques de votre conseil. Pour répondre précisément à votre question, il faudrait que vous me fournissiez le texte de la dernière résolution.",
+  "usage": {
+    "completion_tokens": 39,
+    "prompt_tokens": 67,
+    "total_tokens": 106,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058586.1595678
+}

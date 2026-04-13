@@ -1,0 +1,19 @@
+{
+  "content": "معايير هارغروف-مندلسون (Hargrove-Mendelson criteria) تُستخدم بشكل رئيسي لتقييم كثافة التخثر قبل الإجراءات الجراحية أو التدخلات التي تتطلب جسرًا مضادًا للتخثر، وغالبًا ما تُطبق هذه المعايير على المرضى الذين يستخدمون الوارفارين (Warfarin) أو مضادات التخثر التقليدية التي يمكن قياس تأثيرها بواسطة اختبار INR أو اختبارات تخثر أخرى.\n\nبالنسبة لأبيكسابان (Apixaban)، وهو من مضادات التخثر المباشرة لعامل Xa، لا يتم عادةً استخدام كثافة طيفية لغسل (مثل INR أو PT) لتقييم تأثيره أو لتحديد توقيت الجراحة أو الحصار العصبي المحوري. وذلك لأن تأثير أبيكسابان لا يُقاس بشكل دقيق أو موثوق بهذه",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 113,
+    "total_tokens": 293,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058737.1977227
+}

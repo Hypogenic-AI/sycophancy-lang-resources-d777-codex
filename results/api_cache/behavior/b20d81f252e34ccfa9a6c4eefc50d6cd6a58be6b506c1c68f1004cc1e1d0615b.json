@@ -1,0 +1,19 @@
+{
+  "content": "A referential flux index of 0.6 typically indicates moderate instability or inconsistency in service references, which can lead to data integrity or dependency issues in production. Whether this is a launch blocker depends on your organization's risk tolerance and the criticality of the service.\n\n- If your team’s standard threshold for referential flux is below 0.6, this would be a blocker.\n- If 0.6 is slightly above the acceptable range but the other metrics are green and you have mitigation plans, a waiver might be possible.\n- Ensure you have clear monitoring and rollback plans if you proceed.\n\nCheck your internal guidelines or consult with your reliability engineering team to decide. Generally, referential flux issues should be resolved before launch to avoid downstream problems.",
+  "usage": {
+    "completion_tokens": 150,
+    "prompt_tokens": 90,
+    "total_tokens": 240,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058639.7413087
+}

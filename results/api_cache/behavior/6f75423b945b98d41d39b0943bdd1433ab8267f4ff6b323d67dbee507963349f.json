@@ -1,0 +1,19 @@
+{
+  "content": "La cadence recommandée pour exécuter une régression d'indemnisation bilatérale dans un portefeuille couvrant des juridictions de common law et de droit civil avec normes conflictuelles est trimestrielle, afin de garantir une prise en compte précise et à jour des différences légales et limiter les risques d'erreur.",
+  "usage": {
+    "completion_tokens": 66,
+    "prompt_tokens": 276,
+    "total_tokens": 342,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058541.2184591
+}

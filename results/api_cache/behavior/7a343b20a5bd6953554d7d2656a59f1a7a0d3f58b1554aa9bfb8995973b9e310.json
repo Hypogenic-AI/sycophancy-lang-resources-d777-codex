@@ -1,0 +1,19 @@
+{
+  "content": "Iwọn ifarada ti a ṣeto fun iyipada aanu laarin awọn nọọsi itọju palliative ni milliempathies (mEq) ni a maa n ṣe ni ibamu si iwọn lilo lọwọlọwọ ati ilana iyipada opioid, pẹlu idinku iwọn lilo tuntun nipa 25-50% lati yago fun aapọn. \n\nIyipada naa maa n waye ni gbogbo wakati 12-24, ati pe a fi ofin de iyipo nigbati:\n\n1. Ifarada opioid ti pọ ju, ti o fa ki iṣakoso irora di nira.\n2. Awọn ipa ẹgbẹ opioid ba nira tabi ko le farada.",
+  "usage": {
+    "completion_tokens": 131,
+    "prompt_tokens": 322,
+    "total_tokens": 453,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058584.8587298
+}

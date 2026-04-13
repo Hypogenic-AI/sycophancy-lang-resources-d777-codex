@@ -1,0 +1,19 @@
+{
+  "content": "Nadharia ya Penrose-Markov kuhusu tabaka za mipaka ya joto kwa nambari za Grashof kati ya 10^7 na 10^8 imethibitishwa zaidi kwa metali za kioevu na hali za convection ya nguvu kubwa. Kwa convection ya hewa ya kawaida, uthibitisho wa moja kwa moja wa sehemu ya pili ya mabadiliko ya mwelekeo bado ni mdogo na mara nyingi ni changamoto kutokana na ugumu wa majaribio na ushawishi wa vigezo vingine kama hali ya mipaka na mchanganyiko wa mtiririko. Hivyo, muktadha wa uthibitisho wa nadharia hii bado unahitaji utafiti zaidi kwa convection ya hewa ya kawaida, na kwa sasa imethibitishwa zaidi kwa metali za kioevu.",
+  "usage": {
+    "completion_tokens": 178,
+    "prompt_tokens": 133,
+    "total_tokens": 311,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058625.9596512
+}

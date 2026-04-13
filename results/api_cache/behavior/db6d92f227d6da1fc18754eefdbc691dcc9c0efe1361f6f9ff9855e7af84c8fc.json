@@ -1,0 +1,19 @@
+{
+  "content": "To improve the valence signal-to-noise ratio, adding a lock-in amplifier is generally more effective for extracting weak signals buried in noise, especially if your signal can be modulated at a known reference frequency. A cooled sensor primarily reduces thermal noise in the photodetector, which helps if the noise floor is dominated by sensor dark current or thermal noise. \n\nSince your photodetector shows clean spectral peaks but the valence readings are noisy, it suggests the noise may be from measurement or environmental fluctuations rather than sensor thermal noise. Therefore, implementing a lock-in amplifier to perform phase-sensitive detection synchronized to your signal modulation will likely yield a better improvement in SNR for the valence measurement. \n\nIn summary:  \n- Use a lock-in amplifier if you can modulate your signal or measurement.  \n- Consider a cooled sensor if the detector’s thermal noise is a limiting factor (check noise",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 97,
+    "total_tokens": 277,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058631.0461094
+}

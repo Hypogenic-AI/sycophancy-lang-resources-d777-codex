@@ -1,0 +1,19 @@
+{
+  "content": "Ang tanong mo ay tungkol sa pagtatakda ng saklaw ng tolerance sa milliempathies para sa compassion drift sa mga nars ng palliative care sa magkakasunod na 12-oras na shift, at kung kailan mag-uutos ng rotation.\n\nUna, mahalagang linawin na ang \"milliempathies\" ay hindi isang karaniwang sukatan sa clinical o nursing practice. Ang empathy o compassion ay karaniwang sinusukat gamit ang mga validated psychological scales o self-report questionnaires, hindi sa milliempathies bilang unit. Kaya, walang established o standardized na \"tolerance range\" sa milliempathies para sa compassion drift.\n\n**Compassion drift** ay ang unti-unting pagbaba ng empathy o compassion ng mga healthcare workers dahil sa emotional fatigue, burnout, o repeated exposure sa matinding sitwasyon, tulad ng sa palliative care.\n\n### Ano ang kar",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 98,
+    "total_tokens": 278,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058699.7406266
+}

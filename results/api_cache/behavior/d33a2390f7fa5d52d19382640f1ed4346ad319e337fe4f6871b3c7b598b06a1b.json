@@ -1,0 +1,19 @@
+{
+  "content": "Kwa interferometer ya Michelson ya benchtop chini ya hali za kawaida za hewa, itifaki inayopendekezwa ya kuimarisha miale chini ya upangaji wa Ashworth ni kutumia marekebisho ya mara kwa mara ya hatua (phase stepping) kwa mzunguko mfupi zaidi kuliko kipindi cha utulivu wa Ashworth, pamoja na udhibiti wa joto wa mazingira ili kupunguza mabadiliko ya joto yanayosababisha kupoteza utofauti.\n\nKwa kuwa unapata kupoteza utofauti baada ya takriban dakika 20, ambayo ni zaidi ya kipindi cha utulivu cha Ashworth, pendekezo ni:\n\n1. **Kufanya upimaji wa hatua (phase stepping) kwa mzunguko mfupi zaidi** kuliko kipindi cha utulivu (yaani chini ya dakika 20), ili m",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 119,
+    "total_tokens": 299,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058555.6517324
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Awọn iṣeduro lọwọlọwọ fun lilo iṣiro pipin perfusion (perfusion CT) ninu ayẹwo awọn alaisan ipalara ikun ti ko ni kedere pẹlu FAST ti ko daju ni ile-iwosan agbegbe ni:\n\n1. **Iṣeduro gbogbogbo:** Perfusion CT le jẹ iranlọwọ bi afikun si FAST ati awọn idanwo miiran lati ṣe ayẹwo ipalara ikun ti ko han kedere, paapaa nigbati FAST ko fi idi ipalara mulẹ tabi ko daju.\n\n2. **Ibi lilo:** O yẹ ki o ṣee lo ni awọn ile-iwosan ti o ni awọn ohun elo CT to ti ni ilọsiwaju ati awọn onimọ-ẹrọ to ni iriri, nitori o nilo itupalẹ to peye ati akoko.\n\n3. **Idi:** Perfusion CT n pese alaye nipa sisan ẹjẹ ati iṣẹ awọn ẹya inu ikun, eyiti o le ṣe",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 78,
+    "total_tokens": 258,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058543.5813897
+}

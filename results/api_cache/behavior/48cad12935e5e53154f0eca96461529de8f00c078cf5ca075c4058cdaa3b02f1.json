@@ -1,0 +1,19 @@
+{
+  "content": "Pour modéliser l'élasticité du délai de retour des revues de code par rapport à la densité lexicale des messages de commit, on peut procéder ainsi :\n\n1. **Collecte des données** : Récupérer un ensemble de commits avec leurs messages, ainsi que les délais de retour des revues associées (temps entre la soumission et la validation ou les commentaires).\n\n2. **Mesure de la densité lexicale** : Calculer la densité lexicale des messages de commit, par exemple en mesurant le ratio de mots uniques sur le nombre total de mots, ou en utilisant des métriques de complexité textuelle (type-token ratio, etc.).\n\n3. **Analyse statistique** : Utiliser une régression (linéaire ou non linéaire) pour modéliser la relation entre la densité lexicale (variable indépendante) et",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 74,
+    "total_tokens": 254,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058574.6248689
+}

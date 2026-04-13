@@ -1,0 +1,19 @@
+{
+  "content": "Aṣiṣe boṣewa lori idajọ ọjọgbọn oludari (professional judgment error) nigba ti a ba n ṣeto ipele pataki (significance level) ni pe eniyan le yan ipele pataki ti ko baamu ipo ayẹwo naa, boya o jẹ pupọ ju (too lenient) tabi kere ju (too strict). Eyi le fa ki a ṣe aṣiṣe ni ipinnu boya awọn abajade jẹ pataki tabi rara.\n\nNipa awọn nọmba pataki ti a yẹ ki a gbe ninu ifosiwewe idajọ (rounding of judgment factors) ṣaaju ki a to yika fun awọn iwe iṣẹ ayẹwo (audit working papers), ilana boṣewa ni pe:\n\n- Awọn iye pataki (materiality thresholds) yẹ ki o wa ni deede to, ṣugbọn ko yẹ ki a yika wọn ni kutukutu ju. \n- A maa n fi awọn nọmba pataki",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 108,
+    "total_tokens": 288,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058701.6857877
+}

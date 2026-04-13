@@ -1,0 +1,19 @@
+{
+  "content": "Votre question utilise une métaphore physique — le « coefficient de friction statique » — pour parler de la difficulté ou de la résistance à la migration entre vos anciens services SOAP et une nouvelle passerelle GraphQL. C’est une manière imagée de demander comment évaluer la « force » ou les efforts nécessaires pour réussir cette migration avant que le système ne commence à fonctionner avec la nouvelle architecture.\n\nPour répondre concrètement :\n\n### 1. Comprendre la métaphore\n- **Coefficient de friction statique** : en physique, c’est la force qui doit être dépassée pour qu’un objet commence à bouger.\n- **Dans votre contexte** : c’est la résistance (technique, organisationnelle, opérationnelle) qui empêche la migration de démarrer ou d’être effective.\n\n### 2. Comment « mesurer » cette résistance ?\nIl n’existe pas de mesure physique directe, mais vous",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 88,
+    "total_tokens": 268,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058677.46358
+}

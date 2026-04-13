@@ -1,0 +1,19 @@
+{
+  "content": "Idanwo iyatọ awọ ti awọn ipele aworan Docker jẹ idanwo ti o ṣe iranlọwọ lati rii daju pe awọn iyipada ninu awọn aworan Docker ko fa awọn iyatọ airotẹlẹ tabi awọn iṣoro ti o le ni ipa lori iṣẹ tabi iduroṣinṣin ifilọlẹ naa. Sibẹsibẹ, boya idanwo yii yẹ ki o dina ifilọlẹ da lori awọn ipo ati awọn afojusun rẹ.\n\nNi gbogbogbo:\n\n- Ti idanwo iyatọ awọ ba jẹ pataki fun idaniloju didara ati aabo ti ifilọlẹ, ati pe awọn iyatọ awọ ti a ko reti le tọka si iṣoro pataki (gẹgẹbi awọn ayipada ti ko fẹsẹmulẹ, awọn ayipada aabo, tabi awọn aṣiṣe ninu ilana ikole), lẹhinna o yẹ ki idanwo naa dina ifilọ",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 117,
+    "total_tokens": 297,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058761.653567
+}

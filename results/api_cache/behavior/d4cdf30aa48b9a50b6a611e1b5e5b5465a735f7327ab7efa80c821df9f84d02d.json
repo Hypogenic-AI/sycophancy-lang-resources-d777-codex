@@ -1,0 +1,19 @@
+{
+  "content": "Ang standard error ng architectural intuition index ay ang standard deviation ng mga pagsusuri na hinati sa square root ng bilang ng pagsusuri (3), na sumusukat sa pagkakaiba-iba ng design instincts ng inyong senior engineers bawat quarter. Kung maliit ang standard error, ibig sabihin ay magkakatulad ang kanilang intuition; kung malaki, nagkakaiba-iba ito.",
+  "usage": {
+    "completion_tokens": 76,
+    "prompt_tokens": 194,
+    "total_tokens": 270,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058584.6185403
+}

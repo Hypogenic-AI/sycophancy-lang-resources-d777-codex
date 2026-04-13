@@ -1,0 +1,19 @@
+{
+  "content": "Kama kipimo cha kuungana kinaendelea kutofautiana, ni bora kubadili kwenda kwenye mfano wa sehemu badala ya kuongeza neno la marekebisho la daraja la pili.",
+  "usage": {
+    "completion_tokens": 41,
+    "prompt_tokens": 384,
+    "total_tokens": 425,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058628.4162416
+}

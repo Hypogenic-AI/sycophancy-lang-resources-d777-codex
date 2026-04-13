@@ -1,0 +1,19 @@
+{
+  "content": "As of mid-2024, there is no widely published, standardized method for calculating a \"reproducibility index\" (RI) specifically for software patent claim construction opinions under the revised Daubert-Frye convergence standard. However, firms are generally approaching the RI calculation by:\n\n1. **Defining Reproducibility Criteria:** Establishing clear, objective criteria for what constitutes reproducibility in claim construction, such as consistent interpretation of claim terms by multiple experts or through repeated application of the methodology.\n\n2. **Empirical Testing:** Having multiple independent experts apply the same claim construction methodology to a representative sample of software patent claims and measuring the degree of agreement or consistency in their conclusions.\n\n3. **Statistical Measurement:** Using statistical measures such as Cohen’s kappa, intraclass correlation coefficients, or percentage agreement to quantify reproducibility, then normalizing these metrics to a 0–1 scale",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 85,
+    "total_tokens": 265,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058615.6282544
+}

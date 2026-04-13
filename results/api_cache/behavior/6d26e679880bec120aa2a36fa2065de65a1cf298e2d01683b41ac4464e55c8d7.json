@@ -1,0 +1,19 @@
+{
+  "content": "To calculate the activation energy for your accounts receivable collections process, model the relationship between collection effort (e.g., staff hours, contact frequency) and DSO reduction, then identify the minimum incremental effort beyond current levels that consistently achieves a lower steady-state DSO; this threshold represents your activation energy.",
+  "usage": {
+    "completion_tokens": 60,
+    "prompt_tokens": 309,
+    "total_tokens": 369,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058682.8527555
+}

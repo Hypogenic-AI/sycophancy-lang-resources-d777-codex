@@ -1,0 +1,19 @@
+{
+  "content": "आपका प्रश्न काफी जटिल और बहु-आयामी है, जिसमें कई अलग-अलग अवधारणाओं को जोड़ा गया है:\n\n1. **IDE थीम के रंग योजना के नेट (net) के आधार पर** — यानी आपके Integrated Development Environment (IDE) की थीम में उपयोग किए गए रंगों का कोई गणितीय या सांख्यिकीय सारांश (net)।\n2. **कमिट संदेशों की शब्दावली घनत्व (vocabulary density)** — कमिट संदेशों में प्रयुक्त शब्दों की विविधता या जटिलता।\n3. **कोड समीक्षा टर्नअराउंड समय (code review turnaround time)** — कोड समीक्षा पूरी होने में लगने वाला समय।\n4. **लोचशीलता (elasticity)** — यहाँ संभवतः यह दर्शाना है कि टर्नअराउंड समय शब्दावली घनत्व",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 97,
+    "total_tokens": 277,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058691.6421344
+}

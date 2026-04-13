@@ -1,0 +1,19 @@
+{
+  "content": "Kwa wagonjwa wanaopata hypothermia ya matibabu baada ya kusimama kwa moyo (post-cardiac arrest therapeutic hypothermia), viwango vya joto vya mwili hupunguzwa hadi takriban 33°C kutoka joto la kawaida la 37°C. Hali hii ya joto la chini huathiri vigezo vya Hall vinavyotumika katika ufuatiliaji wa moyo, hasa kwa sababu upinzani wa viungo (tissues) unabadilika kutokana na mabadiliko ya joto.\n\n**Mabadiliko ya vigezo vya Hall kwa 33°C ikilinganishwa na 37°C:**\n\n1. **Upinzani wa viungo (Tissue resistance) huongezeka:**  \n   Kupungua kwa joto huongeza upinzani wa viungo kwa sababu mchakato wa kimet",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 125,
+    "total_tokens": 305,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058675.6077852
+}

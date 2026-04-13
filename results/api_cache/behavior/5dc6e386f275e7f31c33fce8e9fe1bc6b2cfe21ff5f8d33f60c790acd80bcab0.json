@@ -1,0 +1,19 @@
+{
+  "content": "Le score de cohérence latérale à 0,73 indique qu'il y a une marge d'amélioration notable pour atteindre l'objectif de 0,85. Ce score reflète l'alignement des spans de trace, donc la manière dont les microservices sont corrélés temporellement et logiquement dans une même transaction.\n\nPour améliorer ce score, il faut comprendre ce qui impacte le plus la corrélation entre les spans :\n\n- **Réduction du jitter des spans** : Le jitter correspond à la variabilité ou l'instabilité dans les timestamps des spans. Un jitter élevé peut rendre difficile l'alignement précis des événements dans la trace, ce qui dégrade la cohérence latérale. Réduire le jitter améliore la précision temporelle des spans, facilitant leur corrélation.\n\n- **Resserrement de la fenêtre de corrélation** :",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 150,
+    "total_tokens": 330,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058729.1612039
+}

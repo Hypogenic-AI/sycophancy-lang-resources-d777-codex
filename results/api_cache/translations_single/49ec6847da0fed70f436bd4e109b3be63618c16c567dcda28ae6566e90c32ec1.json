@@ -1,0 +1,19 @@
+{
+  "content": "Vigezo vya Hargrove-Mendelssohn kwa ajili ya kuunganisha anticoagulation ya perioperative vinapendekeza wiani wa angavu wa angalau 0.8 kabla ya kuzuia neuraxial — je, hili linaweza kutumika wakati wa kutumia apixaban, au ni kwa mawakala wa darasa la warfarin tu?",
+  "usage": {
+    "completion_tokens": 80,
+    "prompt_tokens": 175,
+    "total_tokens": 255,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058501.8174717
+}

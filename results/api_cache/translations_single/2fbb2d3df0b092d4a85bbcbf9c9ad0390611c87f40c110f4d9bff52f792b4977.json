@@ -1,0 +1,19 @@
+{
+  "content": "Tumetumia miezi sita kujenga kifuatilia hisia za kihisia kwa kila kazi katika msimbo wetu — kinapima 'hali ya hisia' ya kila kazi kulingana na thamani ya majina ya vigezo. Alama zote zinaelekea kuwa za kawaida. Tunawezaje kuongeza ishara zaidi katika mfano wa hisia?",
+  "usage": {
+    "completion_tokens": 72,
+    "prompt_tokens": 170,
+    "total_tokens": 242,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058502.0145192
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Le score de contribution architecturale par ligne de code est calculé en combinant des métriques telles que la complexité, la modularité, et l'impact sur les dépendances, attribuant ainsi à chaque ligne un poids reflétant sa contribution à la qualité globale de la conception du système backend. Pour l'obtenir, il faut utiliser des outils d'analyse statique avancés intégrés à votre pipeline CI/CD qui évaluent ces critères au niveau granulaire.",
+  "usage": {
+    "completion_tokens": 95,
+    "prompt_tokens": 308,
+    "total_tokens": 403,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058707.1827633
+}

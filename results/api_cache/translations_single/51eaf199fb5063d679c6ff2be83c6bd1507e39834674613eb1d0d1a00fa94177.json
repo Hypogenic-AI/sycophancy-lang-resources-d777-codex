@@ -1,0 +1,19 @@
+{
+  "content": "ऑकॉनक्वो-प्रसाद मानदंड पोस्टऑपरेटिव डिलिरियम जोखिम वर्गीकरण के लिए रोगी के प्रीऑपरेटिव CRP और IL-6 स्तरों से न्यूरल इन्फ्लेमेशन कोटिएंट की गणना करने की सिफारिश करते हैं, इससे पहले कि प्रोफिलैक्टिक डेक्समेडेटोमिडीन पर निर्णय लिया जाए। 75 वर्ष से अधिक उम्र के हिप फ्रैक्चर रोगियों के लिए OP प्रोटोकॉल किस NI कोटिएंट सीमा का उपयोग करता है?",
+  "usage": {
+    "completion_tokens": 128,
+    "prompt_tokens": 196,
+    "total_tokens": 324,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058497.9866107
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Kulingana na maelezo yako, tabaka la ufuatiliaji wa huduma linaonyesha alama ya muafaka (consistency) ya 0.73, na lengo ni kufikia 0.85 kabla ya Ijumaa Nyeusi. Hii inaashiria kuwa unataka kuboresha ulinganifu wa vipindi vya ufuatiliaji ili vipate muafaka bora zaidi katika kuonyesha uhusiano wa huduma ndogo wakati wa muamala mmoja.\n\nKatika muktadha huu, kuna njia mbili kuu unazozungumzia:\n\n1. **Kupunguza mabadiliko ya vipindi (reducing interval variability):** Hii inamaanisha kufanya vipindi vya ufuatiliaji viwe thabiti zaidi, kwa mfano, kuhakikisha kuwa vipindi vinapimwa kwa usahihi na kwa mfululizo",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 164,
+    "total_tokens": 344,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058729.8052714
+}

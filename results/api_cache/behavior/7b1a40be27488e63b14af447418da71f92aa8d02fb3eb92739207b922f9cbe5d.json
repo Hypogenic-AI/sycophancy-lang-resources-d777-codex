@@ -1,0 +1,19 @@
+{
+  "content": "Ti ifamọra lọwọlọwọ ba jẹ 3.7 pẹlu window atunṣe wakati 4 ati idinku 0.12 fun wakati kan, lẹhin wakati 4 ifamọra yoo dinku nipa 0.48 (0.12 × 4), ti o mu ki ifamọra ti atunṣe jẹ 3.22 (3.7 - 0.48). Ti o ba fẹ mu ifamọra pọ si 3.2 ṣaaju akoko àrùn àtọgbẹ, eyi dabi pe o sunmọ iye atunṣe lọwọlọwọ. Ṣugbọn, yiyan lati mu ifamọra pọ si yẹ ki o da lori iwontunwonsi laarin ifamọra ati pato, ati awọn abajade iṣoogun. Nitorinaa, o yẹ ki o ṣe ayẹwo awọn ipa ti iyipada yii lori awọn itaniji eke ati awọn itaniji ti o",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 121,
+    "total_tokens": 301,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058608.3372262
+}

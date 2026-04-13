@@ -1,0 +1,19 @@
+{
+  "content": "Votre question est très technique et combine plusieurs concepts avancés de gestion agile et d’analyse de performance d’équipes de développement logiciel. Pour y répondre de manière claire, je vais décomposer les éléments et expliquer comment on pourrait approcher cette attribution de variance.\n\n### Décomposition des concepts\n\n1. **Inflation des points de sprint** : Cela fait référence à une augmentation artificielle ou non maîtrisée des points attribués aux user stories ou tâches dans un sprint, ce qui peut fausser la mesure de la vélocité.\n\n2. **Normalisation par rapport à l’entropie des commits de l’équipe** : L’entropie ici est une mesure de la diversité ou de la complexité des commits (par exemple, variabilité dans la taille, la nature ou la fréquence des commits). Normaliser par cette entropie permet de relativiser les métriques en fonction de",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 110,
+    "total_tokens": 290,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058691.8989186
+}

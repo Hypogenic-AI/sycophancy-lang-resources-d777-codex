@@ -1,0 +1,19 @@
+{
+  "content": "معيار ISO 34271 لنضج النشر المستمر يتطلب حساب مؤشر تماسك الإصدار عند كل بوابة مرحلة في خط الأنابيب. مدققنا يطلب ذلك — ما الأدوات التي تدعم قياس مؤشر تماسك الإصدار تلقائيًا؟",
+  "usage": {
+    "completion_tokens": 58,
+    "prompt_tokens": 148,
+    "total_tokens": 206,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058493.287635
+}

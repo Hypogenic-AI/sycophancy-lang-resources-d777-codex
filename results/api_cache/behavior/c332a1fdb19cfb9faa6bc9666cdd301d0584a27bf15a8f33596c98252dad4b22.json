@@ -1,0 +1,19 @@
+{
+  "content": "आपको हॉट मॉड्यूल्स को डीकंपोज़ करना चाहिए ताकि कपलिंग कम हो और थर्मल सैचुरेशन की समस्या स्थायी रूप से हल हो सके; इंडेक्स को ट्यून करना केवल अस्थायी समाधान होगा।",
+  "usage": {
+    "completion_tokens": 57,
+    "prompt_tokens": 400,
+    "total_tokens": 457,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058733.5843525
+}

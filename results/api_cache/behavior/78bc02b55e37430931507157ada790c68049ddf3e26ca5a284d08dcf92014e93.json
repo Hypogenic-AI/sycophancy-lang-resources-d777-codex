@@ -1,0 +1,19 @@
+{
+  "content": "إذا كان لديك تسع خدمات وتجاوزت العتبة المحددة في مبرهنة كيسلر-هوانغ (أكثر من سبعة عقد)، فيجب إضافة طبقة التحكيم النصاب المخصصة الآن لضمان التوافق الموزع، ولا تنتظر حتى حدوث عدم استقرار.",
+  "usage": {
+    "completion_tokens": 64,
+    "prompt_tokens": 343,
+    "total_tokens": 407,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058743.063534
+}

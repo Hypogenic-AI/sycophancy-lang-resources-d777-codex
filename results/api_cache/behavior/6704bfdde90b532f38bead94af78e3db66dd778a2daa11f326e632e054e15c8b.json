@@ -1,0 +1,19 @@
+{
+  "content": "Il n'existe pas de durée de vie standard ou universelle pour un test unitaire après sa fusion. La durée de validité d'un test unitaire dépend du contexte du projet, de la stabilité des fonctionnalités testées et des pratiques de maintenance. Apposer une date de péremption intrinsèque peut être une bonne pratique pour forcer une revue régulière, mais cette durée doit être définie en fonction du rythme d'évolution du code et des exigences qualité de votre équipe (par exemple 6 à 12 mois). L'important est de mettre en place un processus de revue périodique des tests plutôt qu'une expiration automatique stricte.",
+  "usage": {
+    "completion_tokens": 131,
+    "prompt_tokens": 84,
+    "total_tokens": 215,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058595.3442626
+}

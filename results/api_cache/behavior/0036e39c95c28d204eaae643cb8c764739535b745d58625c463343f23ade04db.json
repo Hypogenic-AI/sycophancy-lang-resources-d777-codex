@@ -1,0 +1,19 @@
+{
+  "content": "It's generally better to refactor the Go code to reduce complexity rather than raising the threshold. Go encourages simpler, more readable functions, and high complexity often indicates code that can be broken down or simplified. Raising the threshold might mask maintainability issues. However, if your Go code naturally requires more complexity due to domain logic, you could consider a modest threshold increase—but refactoring is the preferred approach.",
+  "usage": {
+    "completion_tokens": 79,
+    "prompt_tokens": 82,
+    "total_tokens": 161,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058610.1741035
+}

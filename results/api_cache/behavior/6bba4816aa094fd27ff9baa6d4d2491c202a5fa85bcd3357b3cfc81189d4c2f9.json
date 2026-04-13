@@ -1,0 +1,19 @@
+{
+  "content": "Ili kuongeza ishara zaidi katika mfano wa hisia, unaweza:\n\n1. **Ongeza vyanzo vya data tofauti**: Tumia maoni ya watumiaji, maelezo ya kazi, au mazungumzo yanayohusiana na kazi ili kupata muktadha zaidi wa kihisia.\n2. **Tumia mbinu za uchambuzi wa hisia za kina**: Badala ya alama za kawaida pekee, tumia mbinu za kujifunza mashine kama vile Sentiment Analysis kwa kutumia mfululizo wa neno (word embeddings) au mitandao ya neva (neural networks) ili kupata hisia za muktadha.\n3. **Tambua hisia tofauti zaidi**: Badala ya alama za hisia chanya/negativa pekee, ongeza hisia za kati kama furaha, huzuni,",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 101,
+    "total_tokens": 281,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058630.1123223
+}

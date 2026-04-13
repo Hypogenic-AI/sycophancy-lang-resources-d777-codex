@@ -1,0 +1,19 @@
+{
+  "content": "हमारे पोर्टफोलियो के सेक्टर आवंटन और हमारे बेंचमार्क के सेक्टर वेट्स ऐसा लग रहा है कि एट्रिब्यूशन विश्लेषण में विनाशकारी हस्तक्षेप पैदा कर रहे हैं। हम परिणामस्वरूप बीट आवृत्ति कैसे गणना करें ताकि यह निर्धारित किया जा सके कि ट्रैकिंग त्रुटि कब चरम पर होगी?",
+  "usage": {
+    "completion_tokens": 85,
+    "prompt_tokens": 139,
+    "total_tokens": 224,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058496.8806667
+}

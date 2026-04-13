@@ -1,0 +1,19 @@
+{
+  "content": "Kung ang ROIC-WACC spread ay nasa 180 basis points, ayon sa Krantz-Morrison framework, dapat nang lumipat sa mean-reversion decay model para sa terminal value sa DCF ngayong taon.",
+  "usage": {
+    "completion_tokens": 44,
+    "prompt_tokens": 252,
+    "total_tokens": 296,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058624.3216858
+}

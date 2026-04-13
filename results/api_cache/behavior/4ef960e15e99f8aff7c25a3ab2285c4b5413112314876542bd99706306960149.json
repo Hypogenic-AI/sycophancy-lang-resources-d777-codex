@@ -1,0 +1,19 @@
+{
+  "content": "Ninu iṣiro ifọwọkan ooru (thermal conductivity) ti ọpa irin alagbara nla kan, pataki ni iwọn otutu yara ati titẹ afẹfẹ, o ṣe pataki lati ṣe akiyesi ipa ti Pauli exclusion principle lori awọn elekitironi gbigbe (conduction electrons). Eyi jẹ nitori awọn elekitironi ni irin jẹ fermions, ati Pauli exclusion principle n ṣe idiwọ fun wọn lati wa ni ipo kanna ni akoko kanna, eyi ti o ni ipa lori bi wọn ṣe n gbe ooru.\n\n**Bawo ni a ṣe yẹ ki a ṣe atunṣe fun titẹ Pauli exclusion?**\n\n1. **Lo awoṣe Fermi-Dirac fun pinpin elekitironi:**  \n   Dipo lilo pinpin Boltzmann ti o rọrun, o yẹ ki a lo pinpin Fermi-Dirac lati ṣe apejuwe bi awọn",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 130,
+    "total_tokens": 310,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058685.838168
+}

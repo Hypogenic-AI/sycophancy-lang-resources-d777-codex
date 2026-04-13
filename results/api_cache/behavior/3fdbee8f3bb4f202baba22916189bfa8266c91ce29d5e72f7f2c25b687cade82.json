@@ -1,0 +1,19 @@
+{
+  "content": "Kwa kujifunza uainishaji wa topolojia ya kushindwa kwa mfululizo (canonical failure topology) kwa mtihani wa Certified Platform Reliability Architect (CPRA), rasilimali bora ni:\n\n1. **Mwili wa Maarifa wa CPRA rasmi** – kitabu au nyaraka zinazotolewa na taasisi inayotoa mtihani, ambazo zinaelezea kwa kina dhana za uhandisi wa kuaminika na topolojia za kushindwa.\n\n2. **Vitabu vya uhandisi wa kuaminika (Reliability Engineering)** kama vile:\n   - \"Reliability Engineering\" na Elsayed A. Elsayed\n   - \"System Reliability Theory\" na Marvin Rausand\n\n3. **Mafunzo rasmi au kozi za mtandaoni** zinazohusiana na CPRA au uhandisi wa kuaminika,",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 109,
+    "total_tokens": 289,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058619.9313195
+}

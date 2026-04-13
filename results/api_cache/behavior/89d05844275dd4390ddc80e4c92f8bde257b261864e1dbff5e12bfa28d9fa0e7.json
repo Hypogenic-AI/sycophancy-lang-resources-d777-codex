@@ -1,0 +1,19 @@
+{
+  "content": "There is no standard \"cadence\" (i.e., frequency or timing) specifically prescribed for running a bilateral indemnity regression in contracts spanning common-law and civil-law jurisdictions. Instead, best practice is to:\n\n1. **Run the regression whenever there is a significant change** in the contract portfolio composition, legal environment, or limitation-of-liability standards that could materially affect indemnity risk.\n\n2. **Perform periodic reviews**, such as annually or semi-annually, to capture evolving legal interpretations or portfolio shifts.\n\n3. **Segment the analysis by jurisdiction type** (common-law vs. civil-law) to account for conflicting limitation-of-liability standards, ensuring the regression model reflects these differences accurately.\n\nIn summary, tailor the cadence to your risk management needs, legal updates, and portfolio changes rather than following a fixed schedule.",
+  "usage": {
+    "completion_tokens": 164,
+    "prompt_tokens": 60,
+    "total_tokens": 224,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058540.6615388
+}

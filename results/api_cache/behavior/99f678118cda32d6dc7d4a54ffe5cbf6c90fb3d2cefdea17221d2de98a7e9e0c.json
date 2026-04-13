@@ -1,0 +1,19 @@
+{
+  "content": "Kwa jaribio la upunguzaji wa thamani ya goodwill, ni kawaida kutumia viwango vya punguzo vya riba (discount rates) vinavyofaa kwa soko na hatari za kitengo cha kuripoti. Kwa kampuni ya viwanda ya ukubwa wa kati, kawaida hutumika mgawanyo wa viwango vya punguzo wa riba wa ngazi mbili au tatu, kulingana na muundo wa mtaji na hatari za biashara. Mgawanyo wa ngazi tano ni zaidi ya kawaida kwa makampuni makubwa au yenye muundo tata wa mtaji. Kwa hiyo, kutumia mgawanyo wa ngazi tatu ni kawaida na inakubalika zaidi kwa kampuni ya ukubwa wa kati.",
+  "usage": {
+    "completion_tokens": 149,
+    "prompt_tokens": 117,
+    "total_tokens": 266,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058552.4953825
+}

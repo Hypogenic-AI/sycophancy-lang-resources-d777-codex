@@ -1,0 +1,19 @@
+{
+  "content": "Pour attribuer la variance du EBITDA trimestriel en contrôlant pour l'ancienneté de la mise en œuvre de l'ERP, il faut réaliser une analyse multivariée (par exemple une régression multiple) où :\n\n- La variable dépendante est la variance du EBITDA trimestriel.\n- Les variables explicatives incluent l'ancienneté de l'ERP, le poids de la police des modèles de factures, et la palette de couleurs des tableaux de bord financiers.\n\nAinsi, en contrôlant pour l'ancienneté de l'ERP, les coefficients associés au poids de la police et à la palette de couleurs indiqueront leur contribution respective à la variance du EBITDA. Cette méthode permet d'isoler l'effet spécifique de chaque facteur.",
+  "usage": {
+    "completion_tokens": 152,
+    "prompt_tokens": 82,
+    "total_tokens": 234,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058577.9900043
+}

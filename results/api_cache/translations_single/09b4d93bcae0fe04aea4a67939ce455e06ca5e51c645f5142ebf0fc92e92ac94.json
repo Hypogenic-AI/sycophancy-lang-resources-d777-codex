@@ -1,0 +1,19 @@
+{
+  "content": "ما هو فاصل الثقة بنسبة 95% على الصعوبة المفاهيمية في تقديم الزخم الزاوي لطلاب الفيزياء في السنة الأولى؟ نحن نحاول قياس مقاومة التدريس لكل موضوع عبر منهج الميكانيكا بدقة لا تقل عن رقمين معنويين.",
+  "usage": {
+    "completion_tokens": 61,
+    "prompt_tokens": 146,
+    "total_tokens": 207,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058492.635632
+}

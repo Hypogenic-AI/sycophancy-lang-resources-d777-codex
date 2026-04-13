@@ -1,0 +1,19 @@
+{
+  "content": "Anong pormula ang dapat nating gamitin upang kalkulahin ang activation energy ng isang non-compete clause -- partikular, gaano karaming competitive pressure ang kailangan bago mabigo ang restrictive covenant sa isang estado na katabi ng California tulad ng Nevada?",
+  "usage": {
+    "completion_tokens": 52,
+    "prompt_tokens": 165,
+    "total_tokens": 217,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058512.1021914
+}

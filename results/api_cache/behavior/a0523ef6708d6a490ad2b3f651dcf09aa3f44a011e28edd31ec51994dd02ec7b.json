@@ -1,0 +1,19 @@
+{
+  "content": "Kwa kuanzisha huduma ya BFF, tunapaswa kuzingatia impedance sawa ya takriban 50 ohm ili kulinganisha upinzani wa mawasiliano kati ya frontend ya React na backend, kuhakikisha mzunguko wa data unaendeshwa kwa ufanisi na kupunguza upotevu wa ishara.",
+  "usage": {
+    "completion_tokens": 68,
+    "prompt_tokens": 344,
+    "total_tokens": 412,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058682.568269
+}

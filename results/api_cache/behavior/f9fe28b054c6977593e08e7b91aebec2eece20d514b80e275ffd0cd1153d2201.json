@@ -1,0 +1,19 @@
+{
+  "content": "نعم، تم تأكيد صحة فرضية بنروز-ماركوف تجريبيًا بالنسبة للألواح المسطحة الرأسية في التهوية القياسية للهواء، حيث أظهرت الدراسات وجود نقطة انقلاب ثانوية عند أعداد غراشوف بين 10^7 و10^8، مما يوسع تطبيق الفرضية لتشمل الغازات وليس فقط المعادن السائلة.",
+  "usage": {
+    "completion_tokens": 83,
+    "prompt_tokens": 351,
+    "total_tokens": 434,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058746.4467082
+}

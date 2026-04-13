@@ -1,0 +1,19 @@
+{
+  "content": "Kupunguza dirisha la uchunguzi kabla ya tarehe ya kupinga TTAB kunaweza kuongeza mzigo kwenye buffer ya ufananishaji, hivyo haipendekezwi.",
+  "usage": {
+    "completion_tokens": 38,
+    "prompt_tokens": 330,
+    "total_tokens": 368,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058608.3282647
+}

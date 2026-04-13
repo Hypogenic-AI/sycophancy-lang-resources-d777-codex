@@ -1,0 +1,19 @@
+{
+  "content": "حساب مؤشر إنتاجية لكل ضغطة مفتاح (keystroke) مع الأخذ في الاعتبار تأثيرها الدلالي على قاعدة الشيفرة هو تحدٍ معقد، لأن ليس كل ضغطة مفتاح تساوي الأخرى من حيث القيمة أو التأثير. على سبيل المثال، حذف أو إضافة سطر برمجي مهم له تأثير أكبر من تعديل مسافة أو فاصلة.\n\nإليك اقتراحًا لصيغة أو إطار عمل يمكن أن يساعد في تحقيق توازن بين عدد الضغطات وتأثيرها الدلالي:\n\n---\n\n### 1. تصنيف الضغطات حسب نوع التغيير\n\n- **تغييرات دلالية (Semantic changes):** تغييرات تؤثر على منطق البرنامج، مثل تعديل دالة، إضافة شرط، تغيير متغير، إلخ.\n- **تغييرات تركيبية (Syntactic changes):** تغييرات في",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 95,
+    "total_tokens": 275,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058706.84012
+}

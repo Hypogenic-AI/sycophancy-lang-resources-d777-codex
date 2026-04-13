@@ -1,0 +1,19 @@
+{
+  "content": "Mukhang ginagamit ninyo ang isang financial investment metaphor para ilarawan ang inyong test suite, kung saan ang iba't ibang klase ng tests (integration, unit, end-to-end) ay parang mga assets sa isang portfolio. Ang Sharpe ratio ay isang sukatan sa finance na nagme-measure ng risk-adjusted return ng isang investment, ibig sabihin, gaano kalaki ang return na nakuha kumpara sa risk o volatility nito.\n\nSa konteksto ng software testing, wala tayong direktang numerical na \"Sharpe ratio\" para sa mga tests dahil:\n\n1. **Walang standardized metric ng \"return\" at \"risk\"** sa testing na katulad ng financial returns at volatility.\n2. Ang \"return\" sa testing ay maaaring i-interpret bilang coverage, defect detection rate, o confidence level.\n3. Ang \"risk\" naman ay maaaring tumukoy sa test flak",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 106,
+    "total_tokens": 286,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058724.023898
+}

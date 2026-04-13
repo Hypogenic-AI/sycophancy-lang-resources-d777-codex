@@ -1,0 +1,19 @@
+{
+  "content": "Kwa capacitor ya sahani sambamba ya kawaida kwa voltages za kiwango cha benchi, mmomonyoko wa mandhari ya uwezo (potential landscape degradation) huwa ni takriban **mV/m kwa mwaka** (millivolts per meter per year). Kwa hivyo, kiwango cha mmomonyoko ni kidogo sana, na upimaji upya unaweza kufanywa kwa **miaka kadhaa**, mara kwa mara kila **miaka 1 hadi 5** kulingana na usahihi unaotakiwa na mazingira ya majaribio.",
+  "usage": {
+    "completion_tokens": 114,
+    "prompt_tokens": 103,
+    "total_tokens": 217,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058600.7827384
+}

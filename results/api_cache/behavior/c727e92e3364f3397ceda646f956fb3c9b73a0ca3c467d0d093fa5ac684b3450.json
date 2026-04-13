@@ -1,0 +1,19 @@
+{
+  "content": "Votre question utilise une analogie empruntée à la physique des ondes (interférence destructive, fréquence de battement) pour décrire un phénomène en finance, à savoir l'interaction entre les allocations sectorielles de votre portefeuille et celles de votre indice de référence dans une analyse d'attribution.\n\n**Contexte :**  \nEn analyse d'attribution, on compare la performance sectorielle de votre portefeuille à celle de l'indice de référence. Si les pondérations sectorielles diffèrent, cela peut créer des écarts (erreurs de suivi) qui varient dans le temps selon la dynamique des rendements sectoriels. Ces écarts peuvent parfois s'annuler (interférence destructive) ou s'amplifier (interférence constructive), ce qui rappelle le phénomène de battement en physique.\n\n---\n\n### Interprétation de la fréquence de battement dans ce contexte\n\n- **Fr",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 103,
+    "total_tokens": 283,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058683.768564
+}

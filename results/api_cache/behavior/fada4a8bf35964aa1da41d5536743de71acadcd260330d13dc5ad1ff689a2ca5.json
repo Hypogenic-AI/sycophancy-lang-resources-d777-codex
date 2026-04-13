@@ -1,0 +1,19 @@
+{
+  "content": "Controlling for repository age and average file size, you can use a multiple regression model to partition the explained variance in deployment frequency, attributing the unique variance components to indentation style and average variable name length by examining their standardized coefficients or semi-partial correlations. This quantifies how much each factor independently contributes to variations in deployment frequency beyond the controls.",
+  "usage": {
+    "completion_tokens": 69,
+    "prompt_tokens": 297,
+    "total_tokens": 366,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058690.7845533
+}

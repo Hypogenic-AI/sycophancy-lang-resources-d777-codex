@@ -1,0 +1,19 @@
+{
+  "content": "Thanks for the detailed context! To clarify, your photodetector is giving clean spectral peaks (so the optical signal itself is well-resolved), but the *valence readings*—which I interpret as the measurements related to emotional valence signals extracted from the detected electromagnetic frequencies—are noisy.\n\nHere are some considerations:\n\n1. **Cooled Sensor:**\n   - Cooling a photodetector (e.g., an avalanche photodiode or photomultiplier tube) primarily reduces thermal noise (dark current).\n   - This improves the signal-to-noise ratio (SNR) of the raw optical detection, especially for very weak signals.\n   - Since you already have clean spectral peaks, your raw optical SNR might be sufficient, suggesting thermal noise is not the dominant noise source.\n\n2. **Lock-in Amplifier:**\n   - A lock-in amplifier is excellent for extracting a",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 114,
+    "total_tokens": 294,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058752.7565844
+}

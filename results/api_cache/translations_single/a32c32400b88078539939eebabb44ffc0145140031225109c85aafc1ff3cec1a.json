@@ -1,0 +1,19 @@
+{
+  "content": "Para sa mga pasyenteng sumasailalim sa therapeutic hypothermia pagkatapos ng cardiac arrest, paano natin dapat i-adjust ang Hall coefficient ng mga cardiac monitoring leads upang mabawi ang pagbabago sa lead impedance na nakadepende sa temperatura sa 33°C kumpara sa 37°C?",
+  "usage": {
+    "completion_tokens": 61,
+    "prompt_tokens": 172,
+    "total_tokens": 233,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058512.0843918
+}

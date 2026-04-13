@@ -1,0 +1,19 @@
+{
+  "content": "The standard error on the controller's professional judgment for setting materiality is typically not quantified but, if modeled, is often estimated around 5-10%. The judgment coefficient should be carried to at least three significant figures before rounding in the audit workpapers.",
+  "usage": {
+    "completion_tokens": 51,
+    "prompt_tokens": 260,
+    "total_tokens": 311,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058585.4651015
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Sa pagkwenta ng reproducibility index (RI) para sa mga opinyon sa konstruksyon ng claim ng software patent, karaniwang sinusuri ng mga kumpanya ang consistency ng interpretasyon ng claim terms sa pamamagitan ng multiple independent eksperto o algorithmic analyses, at kinukumpara ang mga resulta upang makuha ang proporsyon ng magkakatugmang interpretasyon, na siyang nagsisilbing RI.",
+  "usage": {
+    "completion_tokens": 83,
+    "prompt_tokens": 362,
+    "total_tokens": 445,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058737.8559005
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Sa pagtataya ng WACC, ang depreciation schedule ay karaniwang nakabase sa aktwal na buhay ng asset at accounting standards, hindi sa discount rate. Ang discount rate (WACC) ay dapat i-update gamit ang pinakabagong market data upang maipakita ang kasalukuyang risk at cost of capital. Hindi karaniwang i-write down ang discount rate dahil sa paglipas ng panahon; sa halip, ito ay nire-reestimate periodiko. Kaya, gamitin ang tamang depreciation schedule para sa asset at i-update ang WACC gamit ang kasalukuyang market conditions.",
+  "usage": {
+    "completion_tokens": 118,
+    "prompt_tokens": 97,
+    "total_tokens": 215,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058597.0095017
+}

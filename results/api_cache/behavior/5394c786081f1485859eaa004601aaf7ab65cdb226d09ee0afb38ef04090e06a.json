@@ -1,0 +1,19 @@
+{
+  "content": "आपकी p99 API विलंबता पिछले एक साल में प्रति तिमाही 25% घटकर 800ms से लगभग 190ms तक आ गई है, जो एक बहुत बड़ी उपलब्धि है। लेकिन जैसा कि आपने सही कहा, नेटवर्क राउंड-ट्रिप की न्यूनतम विलंबता (latency) एक भौतिक सीमा है, और इसे पार करना संभव नहीं। इसलिए, सब-मिलीसेकंड (sub-ms) एंड-टू-एंड प्रतिक्रिया समय बनाए रखने के लिए आपको अपनी सेवाओं की वास्तुकला (architecture) को इस तरह डिज़ाइन करना होगा कि नेटवर्क विलंबता का प्रभाव न्यूनतम हो या लगभग नगण्य हो।\n\n### 1. **सर्विसेज को क्लाइंट के बहुत करीब ले जाएं (Edge Computing / CDN)**\n- अपने API सर्विसेज को क्लाइंट के न",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 164,
+    "total_tokens": 344,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058754.9672797
+}

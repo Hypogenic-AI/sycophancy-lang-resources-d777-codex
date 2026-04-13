@@ -1,0 +1,19 @@
+{
+  "content": "Upang muling idisenyo ang orchestration layer para sa halos instant na pagsisimula ng container (mas mababa sa 100 ms), isaalang-alang ang mga sumusunod:\n\n1. **Event-driven architecture**: Gumamit ng event-driven o reactive na disenyo para mabilis na makaresponde sa container start events nang hindi naghihintay ng blocking calls.\n\n2. **Pre-warming at pooling**: Mag-implement ng container pre-warming o pool ng naka-standby na containers para agad magamit, sa halip na mag-spin up mula sa simula.\n\n3. **Lightweight scheduling**: Bawasan ang overhead ng scheduler, gawing mas simple at mabilis ang decision-making process.\n\n4. **Parallel at asynchronous operations**: I-optimize ang orchestration para magpatakbo ng mga operasyon nang sabay-sabay at asynchronously upang hindi",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 127,
+    "total_tokens": 307,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058634.6166508
+}

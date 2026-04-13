@@ -1,0 +1,19 @@
+{
+  "content": "كيف نقيس معامل الاحتكاك الساكن بين خدمات SOAP القديمة وبوابة GraphQL الجديدة لنحدد قوة الهجرة التي نحتاج لتطبيقها قبل أن يتحرك أي شيء فعليًا؟",
+  "usage": {
+    "completion_tokens": 41,
+    "prompt_tokens": 147,
+    "total_tokens": 188,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058492.0233316
+}

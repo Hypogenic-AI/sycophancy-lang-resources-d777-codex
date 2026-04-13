@@ -1,0 +1,19 @@
+{
+  "content": "O ṣeun fún ìtúnjúwe rẹ. Láti dáhùn ìbéèrè rẹ ní kedere:\n\n**Nẹti ti itọka glycemic ti iwe itusilẹ** (glycemic index network from the literature) lè jẹ́ àkópọ̀ àwọn ìmọ̀ àti ìjíròrò tó nípa bí àwọn onjẹ ṣe ní ipa lori ipele suga ẹjẹ, tí a lè lo gẹ́gẹ́ bí orísun data fún awoṣe ìmọ̀ràn.\n\n**Awoṣe rirọ ti ibamu alaisan pẹlu itọju statin** jẹ́ awoṣe tó ń ṣe àfihàn pé ibamu alaisan (patient adherence) lè yí padà ní ìbámu pẹ̀lú àwọn àyípadà tàbí àfihàn tó rọrùn láti",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 332,
+    "total_tokens": 512,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058689.900809
+}

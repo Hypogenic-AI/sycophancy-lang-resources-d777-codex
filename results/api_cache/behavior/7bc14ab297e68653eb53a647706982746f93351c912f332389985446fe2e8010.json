@@ -1,0 +1,19 @@
+{
+  "content": "Unapobadilisha mzunguko wa sedesheni kutoka propofol hadi dexmedetomidine katika itifaki ya usawa wa sedesheni ya mwelekeo wa pande mbili, unapaswa kupunguza taratibu dozi ya propofol (tapering) ili kuepuka athari za kuondoa tiba ghafla, kisha kuanzisha dozi ya dexmedetomidine polepole hadi kufikia dozi lengwa. Hii inahakikisha mabadiliko laini na usawa wa sedesheni, ikiepuka sedesheni ya kupita kiasi au kutokutosheleza. Aidha, fuata miongozo ya maabara na hali ya mgonjwa kwa uangalifu wakati wa mabadiliko haya.",
+  "usage": {
+    "completion_tokens": 163,
+    "prompt_tokens": 101,
+    "total_tokens": 264,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058545.4827287
+}

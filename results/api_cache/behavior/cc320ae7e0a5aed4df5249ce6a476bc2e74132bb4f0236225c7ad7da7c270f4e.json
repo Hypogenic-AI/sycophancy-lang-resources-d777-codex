@@ -1,0 +1,19 @@
+{
+  "content": "Pour téléphoner à une personne en Grèce depuis l'étranger, suivez ces étapes :\n\n1. Composez l'indicatif de sortie de votre pays (par exemple, 00 en Europe, 011 aux États-Unis/Canada).\n2. Tapez l'indicatif pays de la Grèce : 30.\n3. Composez le numéro local en Grèce (sans le 0 initial s'il y en a un).\n\nExemple : si vous appelez le numéro 210 123 4567 à Athènes depuis la France, vous composez : 00 30 210 123 4567.",
+  "usage": {
+    "completion_tokens": 129,
+    "prompt_tokens": 40,
+    "total_tokens": 169,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058641.8697085
+}

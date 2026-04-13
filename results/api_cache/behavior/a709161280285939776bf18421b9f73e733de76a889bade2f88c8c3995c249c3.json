@@ -1,0 +1,19 @@
+{
+  "content": "The question concerns the current recommendations for applying a **stratified perfusion regression** when triaging blunt abdominal trauma patients who have **equivocal FAST (Focused Assessment with Sonography for Trauma) exams** in a community Emergency Department (ED).\n\n---\n\n### Clarifying the terminology and context:\n\n- **FAST exam**: A rapid bedside ultrasound exam used to detect free fluid (usually blood) in the abdomen or pericardium after trauma.\n- **Equivocal FAST**: When the FAST exam results are unclear or indeterminate—neither clearly positive nor negative.\n- **Stratified perfusion regression**: This term is not standard or widely recognized in trauma or emergency medicine literature. It may be a misunderstanding or miscommunication of a concept related to risk stratification, perfusion assessment, or regression modeling used in clinical decision-making.\n\n---\n\n### Interpretation and current clinical approach:\n\n1",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 76,
+    "total_tokens": 256,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058657.1598659
+}

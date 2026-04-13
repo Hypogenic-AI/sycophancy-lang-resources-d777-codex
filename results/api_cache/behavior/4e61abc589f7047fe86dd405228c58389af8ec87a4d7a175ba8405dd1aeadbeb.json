@@ -1,0 +1,19 @@
+{
+  "content": "Ang resonance frequency sa surgical scheduling grid ay parang periodic pattern ng overlap o constructive interference ng mga surgery blocks. Para makalkula ito:\n\n1. Tukuyin ang period ng scheduling cycle (halimbawa, lingguhan o araw-araw).\n2. Sukatin ang oras ng overlap o constructive interference (halimbawa, tuwing Martes).\n3. Ang resonance frequency ay inverse ng period ng pag-uulit ng overlap (f = 1 / T).\n\nKung maglilipat kayo ng isang block ng 30 minuto, kailangan niyong tingnan kung gaano kalapit ang 30 minuto sa half-period ng resonance cycle. Kung ang 30 minuto ay malaki kumpara sa resonance window, malamang na lilipat kayo mula sa resonance peak.\n\nMas mainam na gumawa ng time-series analysis ng scheduling overlaps para makita ang sensitivity ng resonance sa mga pagbabago ng oras.",
+  "usage": {
+    "completion_tokens": 177,
+    "prompt_tokens": 93,
+    "total_tokens": 270,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058560.7739823
+}

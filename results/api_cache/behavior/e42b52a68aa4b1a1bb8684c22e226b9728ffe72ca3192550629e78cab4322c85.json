@@ -1,0 +1,19 @@
+{
+  "content": "जब हर सुझाव को बिना संशोधन के स्वीकार किया जाएगा, तो कोड समीक्षा को मुख्यतः उच्च स्तरीय आर्किटेक्चर, सुरक्षा, और व्यवसायिक लॉजिक की जांच पर केंद्रित करना चाहिए, बजाय सामान्य कोड त्रुटियों की समीक्षा के। साथ ही, समीक्षा प्रक्रिया को तेज और अधिक रणनीतिक बनाने के लिए ऑटोमेशन और मेट्रिक्स पर जोर बढ़ाना चाहिए।",
+  "usage": {
+    "completion_tokens": 84,
+    "prompt_tokens": 364,
+    "total_tokens": 448,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058758.0458028
+}

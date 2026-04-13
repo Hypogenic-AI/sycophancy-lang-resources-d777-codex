@@ -1,0 +1,19 @@
+{
+  "content": "Iye ami-ìdájọ́ àkọsílẹ̀-kọọkan fún iṣẹ́ àtẹ̀yìnwá rẹ̀ yàtọ̀ sí ìlànà tó ń lo àti àwọn àdéhùn tó wà. Látàrí ìbéèrè rẹ, ó dájú pé o fẹ́ mọ àwọn ìlànà tó fa àkúnya jùlọ nípa didara àpẹrẹ eto. \n\nLáti ṣe èyí, o lè:\n\n1. Ṣàkóso àyẹ̀wò àkọsílẹ̀ kọọkan pẹ̀lú àwọn àmi-ìdájọ́ tó dá lórí àwọn àṣìṣe tó wà (bíi ìṣòro kóòdù, àìmọ̀ọ́kan, àìtó ìlàn",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 91,
+    "total_tokens": 271,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058589.4570482
+}

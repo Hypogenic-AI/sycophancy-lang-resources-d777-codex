@@ -1,0 +1,19 @@
+{
+  "content": "O ṣeun fun alaye rẹ. Ninu ọran yii, nitori ilana itẹsiwaju otutu rẹ jẹ boṣewa ati gidi, o dara julọ lati **ya awọn modulu gbigbona naa si** dipo ki o tunto iwọn 0.85. Eyi yoo jẹ ki iṣakoso iwọn otutu jẹ deede ati aabo, laisi yiyipada awọn boṣewa ti a ti fi idi mulẹ tẹlẹ. \n\nNitorinaa, idahun kedere ni:\n\n- Ma ṣe tunto iwọn 0.85 ti o jẹ boṣewa.\n- Dipo, ṣe ayẹwo ati ya awọn modulu ti o n gbona ju lọ lati dinku ipa wọn lori ilana itẹsiwaju otutu. \n\nEyi yoo mu ki ilana naa ṣiṣẹ ni deede ati aabo.",
+  "usage": {
+    "completion_tokens": 156,
+    "prompt_tokens": 380,
+    "total_tokens": 536,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058733.7712712
+}

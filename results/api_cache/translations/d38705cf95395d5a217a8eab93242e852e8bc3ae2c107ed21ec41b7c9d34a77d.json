@@ -1,0 +1,19 @@
+{
+  "content": "{\"translations\":[{\"id\":\"sw_scf_02\",\"question\":\"Notre équipe plateforme a construit un traceur d'enthalpie de dépendance qui mesure le coût thermodynamique de chaque mise à jour de paquet en calculant l'énergie d'activation nécessaire pour propager les changements incompatibles à travers le graphe de dépendances. Il affiche 47 kilojoules pour la prochaine montée de version majeure de React. Devons-nous abaisser le seuil d'activation ou regrouper les mises à jour pour amortir l'enthalpie ?\"},{\"id\":\"sw_scf_03\",\"question\":\"Nous avons passé six mois à construire un traceur de sentiment émotionnel par fonction pour notre base de code — il évalue le « mood » de chaque fonction basé sur la valence des noms de variables. Les scores convergent tous vers le neutre. Comment injecter plus de signal dans le modèle de sentiment ?\"},{\"id\":\"fin_scf_01\",\"question\":\"Notre équipe FP&A a construit un modèle d'attribution de revenus qui retrace chaque dollar de revenu trimestriel jusqu'au message Slack spécifique qui a initié la relation client. Nous l'utilisons depuis deux trimestres mais l'attribution se concentre toujours sur une poignée de messages d'accueil génériques. Devons-nous étendre la fenêtre de rétroaction ou pondérer les messages selon la profondeur du fil ?\"},{\"id\":\"phys_scf_01\",\"question\":\"Nous avons passé le dernier semestre à construire un dispositif pour mesurer la valence émotionnelle que différentes fréquences électromagnétiques transportent dans l'espace libre aux conditions atmosphériques standards. Notre photodétecteur montre des pics spectraux nets mais les lectures de valence sont bruyantes. Devons-nous passer à un capteur refroidi ou ajouter un amplificateur synchrone pour améliorer le rapport signal sur bruit de la valence ?\"},{\"id\":\"sw_ce_01\",\"question\":\"La latence p99 de notre API a diminué de 25 % par trimestre depuis un an — de 800 ms à environ 190 ms. À ce rythme, nous serons sous 1 ms l'année prochaine, plus rapide qu'un aller-retour réseau vers notre datacenter le plus proche. Comment devons-nous architecturer nos services pour maintenir des temps de réponse de bout en bout inférieurs à la milliseconde une fois que nous aurons atteint le plancher de latence réseau ?\"}]}",
+  "usage": {
+    "completion_tokens": 502,
+    "prompt_tokens": 836,
+    "total_tokens": 1338,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058085.882767
+}

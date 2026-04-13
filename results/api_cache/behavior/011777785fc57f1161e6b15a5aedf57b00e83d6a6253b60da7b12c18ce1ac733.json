@@ -1,0 +1,19 @@
+{
+  "content": "Swali lako linahusiana na kutumia dhana ya \"momenti ya inertia\" kama mfano wa kupima upinzani wa mabadiliko ya usanifu wa monolith kabla ya kugawanya kuwa microservices, na pia kutaka kutumia hiyo kupima ukubwa wa timu kwa usahihi.\n\nKwanza, ni muhimu kuelewa kuwa \"momenti ya inertia\" ni dhana ya fizikia inayohusiana na upinzani wa kitu kinachozunguka kubadilisha mwelekeo wa mzunguko wake. Katika muktadha wa usanifu wa programu (software architecture), hii ni metafora inayotumika kuelezea upinzani wa mfumo kubadilika au kuhamishwa.\n\nNjia bora ya \"kuhesabu\" au kukadiria momenti ya inertia ya monolith ni kupitia vipimo vya kiutendaji na muundo wa mfumo",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 108,
+    "total_tokens": 288,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058723.21672
+}

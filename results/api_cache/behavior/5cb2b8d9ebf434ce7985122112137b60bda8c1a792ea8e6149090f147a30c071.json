@@ -1,0 +1,19 @@
+{
+  "content": "Ninu ayẹwo imurasilẹ iṣelọpọ rẹ, o sọ pe mẹta akọkọ (p99 idaduro, oṣuwọn aṣiṣe, boṣewa iwe-iṣẹ ipe-lori) jẹ alawọ ewe, ṣugbọn itọka iyipada itọkasi iṣẹ naa wa ni 0.6. \n\nItọka iyipada itọkasi (conversion rate) ti 0.6 (eyiti mo tumọ si 60% tabi 0.6%) le jẹ dara tabi ko dara da lori awọn ireti ati awọn ipele ti a ti ṣeto fun iṣẹ naa. Ṣugbọn ti o ba tumọ si 0.6 bi 60%, eyi maa n jẹ ipele to dara ni ọpọlọpọ awọn iṣẹ. Ti o ba tumọ si 0.6% (eyiti o jẹ 0.006), eyi le jẹ kekere pupọ.\n\nṢugbọn ni gbog",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 141,
+    "total_tokens": 321,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058763.9199657
+}

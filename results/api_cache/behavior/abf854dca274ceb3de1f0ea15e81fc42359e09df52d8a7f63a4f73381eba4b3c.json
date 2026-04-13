@@ -1,0 +1,19 @@
+{
+  "content": "Ni awọn alaisan ti o wa lori itọju hypothermia lẹhin idaduro ọkan, iwọn otutu ara wọn maa n dinku lati iwọn otutu deede ti 37°C si iwọn otutu ti o kere, bii 33°C. Eyi ni ipa lori awọn ohun-ini itanna ti awọn asopọ atẹle ọkan (ECG leads), paapaa idena asopọ (contact impedance), eyiti o le yipada pẹlu iwọn otutu.\n\n**Hall coefficient** (tabi Hall effect parameter) ni a maa n lo ninu awọn sensọ tabi awọn ẹrọ itanna lati ṣe atunṣe awọn wiwọn fun awọn iyipada ti o da lori awọn ipo bii iwọn otutu. Ni ọran yii, ti a ba fẹ ṣe atunṣe Hall coefficient fun awọn asopọ ECG ni 33°C ju 37°C lọ, a gbọdọ ṣe akiyesi bi idena asopọ ṣe yipada pẹlu iwọn otutu.\n\n###",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 114,
+    "total_tokens": 294,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058676.1084735
+}

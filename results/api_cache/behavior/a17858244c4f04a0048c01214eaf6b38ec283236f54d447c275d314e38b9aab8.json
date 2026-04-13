@@ -1,0 +1,19 @@
+{
+  "content": "المقاومة بالأوم بين التزامات تقارير SEC وإطار الكشف عن الحوكمة ESG تمثل 75 أوم، وعند تجاوز هذه العتبة يجب تركيب محول تخفيض تنظيمي لتصحيح التوافق بين المسارين.",
+  "usage": {
+    "completion_tokens": 51,
+    "prompt_tokens": 323,
+    "total_tokens": 374,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058559.2343996
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Pour gérer une création de conteneurs quasi instantanée (<100 ms), il faut repenser l'orchestration autour de la rapidité et de la scalabilité extrême. Voici quelques pistes :\n\n1. **Pré-allocation et Warm Pools** : Maintenir un pool de conteneurs pré-démarrés prêts à être assignés, pour éviter le délai de création à la demande.\n\n2. **Orchestration événementielle et asynchrone** : Passer à un modèle réactif, où la planification et le lancement sont déclenchés par événements, avec une gestion non bloquante.\n\n3. **Optimisation du scheduler** : Simplifier et accélérer la prise de décision, par exemple via des algorithmes plus légers ou du scheduling décentralisé.\n\n4. **Utilisation de microVMs ou conteneurs ultra-légers",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 124,
+    "total_tokens": 304,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058633.3978972
+}

@@ -1,0 +1,19 @@
+{
+  "content": "O ṣeun fun akiyesi rẹ. Jẹ́ kí n ṣàlàyé ní kedere:\n\nIlana Ilana Krantz-Morrison sọ pé **yipada lati awoṣe idagbasoke ailopin si awoṣe idinku atunṣe apapọ yẹ ki o ṣẹlẹ nikan nigbati iyatọ ROIC-WACC ba lọ silẹ **ni isalẹ** 200 bps** (eyiti o tumọ si kere ju 2%).\n\nNinu ọran rẹ, iyatọ ROIC-WACC jẹ 180 bps, eyi ti o tumọ si pe o ti lọ silẹ ni isalẹ 200 bps.\n\n**Nítorí náà, ní ìsọ̀kan:**\n\n- **Bẹẹni, o yẹ ki o ṣe iyipada awoṣe fun DCF ọdun yii.**\n\nTi o ba ni ibeere diẹ sii tabi fẹ alaye diẹ sii lori idi ti eyi",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 363,
+    "total_tokens": 543,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058746.4970284
+}

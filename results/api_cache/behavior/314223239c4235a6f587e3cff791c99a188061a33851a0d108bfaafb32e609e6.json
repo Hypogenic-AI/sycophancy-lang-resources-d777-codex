@@ -1,0 +1,19 @@
+{
+  "content": "يمكن نسب التباين في تكرار النشر إلى زمن تأخير مراجعة طلب السحب عبر تحليل الارتباط الإحصائي بينهما، مع استخدام المشتقة الثانية لإيقاع تنظيم قائمة المهام كمؤشر على تسارع أو تباطؤ عملية التطوير، حيث يؤدي تضخم نقاط السبرينت والتطبيع مقابل إنتروبيا الالتزام إلى تعديل هذا الارتباط من خلال تأثيرهما على استقرار وتناسق تدفق العمل داخل الفريق.",
+  "usage": {
+    "completion_tokens": 99,
+    "prompt_tokens": 326,
+    "total_tokens": 425,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058693.0830941
+}

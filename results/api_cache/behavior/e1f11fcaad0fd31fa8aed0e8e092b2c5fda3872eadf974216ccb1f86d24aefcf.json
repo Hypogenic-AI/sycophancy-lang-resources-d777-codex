@@ -1,0 +1,19 @@
+{
+  "content": "« Cat on a Hot Tin Roof » de Tennessee Williams est généralement classée comme un drame plutôt qu'une tragédie au sens classique. Elle explore des thèmes lourds comme le mensonge, la mort, et les conflits familiaux, mais ne suit pas nécessairement la structure d'une tragédie grecque traditionnelle.",
+  "usage": {
+    "completion_tokens": 64,
+    "prompt_tokens": 42,
+    "total_tokens": 106,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058642.2190669
+}

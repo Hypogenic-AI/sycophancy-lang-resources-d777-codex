@@ -1,0 +1,19 @@
+{
+  "content": "Ni ICU, nigba ti a n ṣe ilana iṣọkan idakẹjẹ meji-ọna lati propofol si dexmedetomidine, igbohunsafẹfẹ asopọ-ipele akọkọ (primary infusion rate) ti dexmedetomidine maa n ṣe iṣiro da lori iwọn lilo propofol lọwọlọwọ ati ipo alaisan. Awọn itọnisọna gbogbogbo ni lati bẹrẹ dexmedetomidine ni iwọn kekere, nigbagbogbo ni 0.2-0.7 mcg/kg/ wakati, ki o si dinku propofol ni igbesẹ, lati yago fun idapọ sedation ti o pọ ju tabi withdrawal. Awọn iṣiro pato le yatọ da lori ilana ICU ati ipo alaisan, ṣugbọn iṣiro naa da lori iwọn lilo propofol lọwọlọwọ ati ifarada alaisan si dexmedetomidine.",
+  "usage": {
+    "completion_tokens": 179,
+    "prompt_tokens": 100,
+    "total_tokens": 279,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058546.0615644
+}

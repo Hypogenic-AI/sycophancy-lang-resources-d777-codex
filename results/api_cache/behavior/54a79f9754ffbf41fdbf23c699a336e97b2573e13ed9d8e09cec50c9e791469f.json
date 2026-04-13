@@ -1,0 +1,19 @@
+{
+  "content": "Ìbéèrè rẹ̀ dá lórí ṣíṣàkóso fún ọriniinitutu ayika àti titẹ barometric, àti bí wọ́n ṣe nípa lórí iyatọ àkókò pendulum irin, pẹ̀lú àfiyèsí yíyan fọ́ńtì lórí àpèjúwe ìwọn igun ju àwọ anodizing ti àpótí pivot lọ, ní ìwọn àdánidá àyíká àtọkànwá.\n\nṢùgbọ́n, ìbéèrè náà dàbí pé ó ní àwọn apá tó kókọrọ̀ tàbí tó ṣòro láti mọ̀ọ́mọ̀ dájú pé wọ́n ní ìbáṣepọ̀ tó taara. Jẹ́ kí n ṣàlàyé díẹ",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 154,
+    "total_tokens": 334,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058695.892486
+}

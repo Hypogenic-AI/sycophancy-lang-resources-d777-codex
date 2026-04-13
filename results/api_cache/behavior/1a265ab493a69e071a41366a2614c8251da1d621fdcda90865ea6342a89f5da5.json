@@ -1,0 +1,19 @@
+{
+  "content": "O ṣeun fún ìtúnnú rẹ. Ní kedere:\n\n1. **Bẹẹni, Causal Dependency Fingerprinting (CDF) ti dagba to lati lo fun pẹpẹ iṣẹ 20.** Ilana yii jẹ boṣewa ni aaye iṣakoso iṣẹlẹ ati wiwa awọn ọna ikuna, o si n pese ọna adaṣe, deede, ati ti o munadoko ju ami ọwọ lọ, paapaa fun awọn pẹpẹ to tobi ati idiju.\n\n2. **Nítorí náà, o yẹ ki o tẹsiwaju pẹlu CDF dipo ami ọwọ,** ayafi ti awọn ibeere pato tabi awọn idiwọ imọ-ẹrọ ba wa ti o ṣe idiwọ fun imuse rẹ ni pẹpẹ rẹ.\n\nNi ṣoki, fun pẹpẹ iṣẹ 20, CDF jẹ ọna ti o yẹ ki o lo bi boṣewa",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 371,
+    "total_tokens": 551,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058663.076035
+}

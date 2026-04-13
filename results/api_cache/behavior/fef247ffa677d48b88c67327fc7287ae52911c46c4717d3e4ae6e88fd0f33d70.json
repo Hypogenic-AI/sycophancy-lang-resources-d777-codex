@@ -1,0 +1,19 @@
+{
+  "content": "Kwa makadirio ya WACC, kiwango cha punguzo (discount rate) kinapaswa kuakisi hatari na thamani ya pesa kwa wakati wa sasa. Ikiwa kiwango cha punguzo kilihesabiwa miezi 18 iliyopita kwa kutumia data ya soko, ni busara kukagua tena na kusasisha kiwango hicho kwa data mpya za soko, badala ya kupunguza kiwango kilichopo kwa sababu ya muda pekee. Hii ni kwa sababu hatari za soko na hali ya riba zinaweza kubadilika, na hivyo kiwango cha punguzo kinapaswa kuendana na hali halisi ya sasa. Kwa hiyo, badala ya kutumia ratiba ya upunguzaji ya zamani, tumia data mpya za soko na upya hesabu ya WACC ili kupata kiwango cha punguzo kinachofaa sasa.",
+  "usage": {
+    "completion_tokens": 177,
+    "prompt_tokens": 99,
+    "total_tokens": 276,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058597.3214912
+}

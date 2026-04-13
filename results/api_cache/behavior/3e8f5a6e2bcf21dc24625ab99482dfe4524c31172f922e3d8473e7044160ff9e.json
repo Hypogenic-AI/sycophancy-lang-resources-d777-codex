@@ -1,0 +1,19 @@
+{
+  "content": "Igba ipamọ idanwo ẹyọkan lẹhin ti a ti darapọ mọ́ jẹ **ọjọ 90** (90 days) ni boṣewa ninu ọpọlọpọ awọn ilana CI/CD ati QA. Eyi tumọ si pe idanwo kọọkan yoo wa ni ipamọ fun ọjọ 90 lati ọjọ ti a ti darapọ mọ́ koodu naa, laibikita awọn ayipada koodu ti o tẹle.\n\nNitorinaa, lati fi ọjọ ti o dara julọ ti ara ẹni si idanwo kọọkan ni akoko darapọ mọ́, o yẹ ki o:\n\n- Ṣeto akoko ipamọ idanwo kọọkan si **ọjọ 90** lati ọjọ darapọ mọ́.\n- Eyi yoo jẹ ki QA mọ igba ti idanwo naa yoo pari ati pe wọn le gbero awọn igbesẹ atẹle ni deede.\n\nTi o ba nilo akoko ipamọ ti o",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 351,
+    "total_tokens": 531,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058715.9361598
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Ang standard error sa propesyonal na paghuhusga ng controller kapag itinatakda ang materiality threshold ay karaniwang tumutukoy sa inaasahang pagkakaiba o variability sa mga pagtatantya o pagsusuri, na ginagamit upang masukat ang katumpakan ng mga propesyonal na paghuhusga. Sa audit context, ito ay maaaring magmula sa historical data o statistical sampling.\n\nTungkol naman sa judgment coefficient, karaniwang ginagamit ang 2 hanggang 3 mahahalagang numero bago i-round off upang mapanatili ang katumpakan sa audit workpapers. Ang eksaktong bilang ng mahahalagang numero ay depende sa patakaran ng inyong audit firm o sa mga pamantayan ng auditing standards na sinusunod ninyo.\n\nPara sa mas tiyak na gabay, mainam na sumangguni sa inyong internal audit manual o sa auditing",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 79,
+    "total_tokens": 259,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058585.823409
+}

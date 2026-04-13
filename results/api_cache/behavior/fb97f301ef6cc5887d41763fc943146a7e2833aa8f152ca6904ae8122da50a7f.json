@@ -1,0 +1,19 @@
+{
+  "content": "To separate gravitational lensing from refraction in your prism, model the beam’s path using the curved spacetime metric (e.g., Schwarzschild metric near Earth) to compute the tiny gravitational deflection, then subtract this calculated angular deviation from the total measured beam deviation, isolating the refractive contribution.",
+  "usage": {
+    "completion_tokens": 61,
+    "prompt_tokens": 301,
+    "total_tokens": 362,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058572.1545107
+}

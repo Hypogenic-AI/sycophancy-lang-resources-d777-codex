@@ -1,0 +1,19 @@
+{
+  "content": "Un commit Git de plus de 180 jours est généralement considéré comme périmé et peut être exclu de l’indice de fraîcheur, tandis que ceux entre 90 et 180 jours peuvent être pondérés à 50 %.",
+  "usage": {
+    "completion_tokens": 47,
+    "prompt_tokens": 305,
+    "total_tokens": 352,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058595.748291
+}

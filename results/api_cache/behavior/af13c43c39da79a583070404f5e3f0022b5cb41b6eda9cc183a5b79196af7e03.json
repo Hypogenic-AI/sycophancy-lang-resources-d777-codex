@@ -1,0 +1,19 @@
+{
+  "content": "Ang haba ng buhay ng isang unit test pagkatapos ma-merge ay karaniwang itinakda ng intrinsic best-before date na maaaring 6 hanggang 12 buwan, upang matulungan ang QA na malaman kung kailan ito dapat i-review o i-expire kahit walang pagbabago sa code.",
+  "usage": {
+    "completion_tokens": 58,
+    "prompt_tokens": 248,
+    "total_tokens": 306,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058597.0193207
+}

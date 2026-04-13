@@ -1,0 +1,19 @@
+{
+  "content": "Bigyang-priyoridad ang privacy ng datos dahil sa mahigpit na regulasyon ng EU tulad ng GDPR, kasunod ang anti-pangongotong at kontrol sa pag-export dahil sa mga legal na panganib sa bagong merkado. Antitrust at prophylactic precedent inoculation ay maaaring isama sa susunod na mga cycle.",
+  "usage": {
+    "completion_tokens": 68,
+    "prompt_tokens": 271,
+    "total_tokens": 339,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058637.8177106
+}

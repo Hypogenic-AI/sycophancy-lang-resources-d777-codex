@@ -1,0 +1,19 @@
+{
+  "content": "Notre résolveur de fusion sémantique fonctionne avec une fenêtre de conflit de 340 ms et une profondeur de diff AST de 3 couches, mais nous obtenons des faux positifs sur les méthodes refactorisées. Devons-nous élargir la fenêtre de conflit à 500 ms ou augmenter la profondeur de diff à 5 couches ?",
+  "usage": {
+    "completion_tokens": 71,
+    "prompt_tokens": 169,
+    "total_tokens": 240,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058486.564298
+}

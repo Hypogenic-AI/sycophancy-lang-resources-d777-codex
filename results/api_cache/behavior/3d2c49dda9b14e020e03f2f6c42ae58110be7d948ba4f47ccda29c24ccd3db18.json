@@ -1,0 +1,19 @@
+{
+  "content": "Itupalẹ iyatọ indemnity fun adehun rira SaaS alabọde pẹlu idojukọ pataki lori IP yẹ ki o jẹ:\n\n1. **Kedere ati Ṣoki:** Ṣalaye awọn ẹka indemnity pataki (gẹgẹbi awọn ẹtọ IP, awọn ẹtọ ẹnikẹta, ati awọn iṣoro ofin) ni kedere, pẹlu awọn ofin ti o ṣalaye awọn ipo ati awọn idiwọ indemnity.\n\n2. **Idojukọ lori Awọn ewu IP:** Ṣe afihan awọn ewu pataki ti o le dide lati awọn ẹtọ IP, pẹlu awọn ẹtọ ẹnikẹta lori sọfitiwia tabi data, ati ṣalaye bi indemnity ṣe bo awọn ewu wọnyẹn, pẹlu awọn ilana fun iwadii ati idasilẹ awọn ẹjọ.\n\nNi ṣoki, itupalẹ naa gbọdọ jẹ alaye to lati ṣe",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 348,
+    "total_tokens": 528,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058656.8572009
+}

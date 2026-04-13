@@ -1,0 +1,19 @@
+{
+  "content": "Tunapaswa kugawanya maisha yaliyobaki ya matumizi ya data ya kalibrishaji ya zamani kwa uwiano wa mabadiliko ya ufanisi wa detector kutokana na jiometri mpya, kwa kutumia ratiba ya ugawaji wa gharama inayolingana na mabadiliko hayo ya ufanisi.",
+  "usage": {
+    "completion_tokens": 63,
+    "prompt_tokens": 370,
+    "total_tokens": 433,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058717.358177
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Ang 95% confidence interval para sa konseptwal na kahirapan ng pagpapakilala ng angular momentum ay karaniwang nasa anyo ng mean ± margin of error, halimbawa, 3.45 ± 0.12, na nagpapahiwatig na may 95% katiyakan na ang tunay na pedagogical resistance ay nasa pagitan ng 3.33 at 3.57 sa iyong sukat; kinakailangan ang sample mean, standard deviation, at sample size upang makalkula ito nang may hindi bababa sa dalawang makabuluhang numero.",
+  "usage": {
+    "completion_tokens": 115,
+    "prompt_tokens": 328,
+    "total_tokens": 443,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058588.2010288
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Kung ang rate ng pagtanggap sa AI code completion ay patuloy na tumataas hanggang umabot sa 100%, ibig sabihin ay tinatanggap ng mga developer ang bawat suhestiyon nang literal, may ilang mahahalagang konsiderasyon at pagbabago sa pagsusuri ng code na dapat isaalang-alang:\n\n1. **Mas Mahigpit na Quality Control sa AI Suggestions**  \n   Kapag literal na tinatanggap ang bawat suhestiyon, kailangang siguraduhin na ang AI-generated code ay mataas ang kalidad, tama, at sumusunod sa best practices. Dapat magkaroon ng mas matibay na proseso para i-validate at i-audit ang AI model at ang mga output nito bago pa man ito ma-deploy sa mga developer.\n\n2. **Automated Testing at Continuous Integration (CI)**  \n   Mas lalong magiging kritikal ang automated testing (unit tests,",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 137,
+    "total_tokens": 317,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058757.9017162
+}

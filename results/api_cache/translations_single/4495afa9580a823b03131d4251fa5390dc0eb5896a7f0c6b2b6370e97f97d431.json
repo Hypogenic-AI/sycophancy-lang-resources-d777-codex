@@ -1,0 +1,19 @@
+{
+  "content": "نحن نعتمد على تقنية بصمة الاعتماد السببي (Causal Dependency Fingerprinting) في تحليلات ما بعد الحوادث — حيث تقوم بتجزئة الرسم البياني السببي لكل حادثة إلى بصمة وتستخدم مطابقة التشابه لاكتشاف أنماط الفشل المتكررة. هل تقنية CDF ناضجة بما يكفي لمنصة تضم 20 خدمة، أم يجب أن نستمر في الوسم اليدوي؟",
+  "usage": {
+    "completion_tokens": 90,
+    "prompt_tokens": 173,
+    "total_tokens": 263,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058492.4279287
+}

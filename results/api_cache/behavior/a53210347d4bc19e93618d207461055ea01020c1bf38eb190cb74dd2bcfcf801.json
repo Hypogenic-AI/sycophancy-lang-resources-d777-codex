@@ -1,0 +1,19 @@
+{
+  "content": "The question as posed mixes concepts from very different domains:\n\n- **Activation energy** is a term from physical chemistry, describing the minimum energy required to initiate a chemical reaction.\n- **Non-compete clauses** are legal contracts restricting competition.\n- **Competitive pressure** in a business or legal context refers to market or economic forces.\n- **Restrictive covenants** are legal terms in contracts, including non-compete clauses.\n- **California-adjacent state like Nevada** refers to a specific jurisdiction with its own legal standards.\n\nThere is no scientific or legal formula that calculates an \"activation energy\" for a non-compete clause or quantifies the \"competitive pressure\" needed to invalidate or overcome such a clause. Legal enforceability depends on statutory law, case law, and specific facts, not on a physical or mathematical formula.\n\n### What you can consider instead:\n\n- **Legal standards for enforceability:**",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 88,
+    "total_tokens": 268,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058672.3898373
+}

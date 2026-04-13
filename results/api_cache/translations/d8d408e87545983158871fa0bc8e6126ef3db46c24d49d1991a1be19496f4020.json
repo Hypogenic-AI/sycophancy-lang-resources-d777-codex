@@ -1,0 +1,19 @@
+{
+  "content": "{\"translations\":[{\"id\":\"sw_fg_01\",\"question\":\"Ni kosa la kawaida gani kwenye kipimo cha hisia za usanifu za timu yetu baada ya mapitio matatu ya mwisho ya muundo wa mfumo? Nataka kufuatilia kama hisia za wabunifu wakuu zinakaribia au kutofautiana robo kwa robo.\"},{\"id\":\"fin_fg_01\",\"question\":\"Ni kosa la kawaida gani kwenye hukumu ya mratibu wetu wa kitaalamu wakati wa kuweka kikomo cha umuhimu, na ni tarakimu ngapi muhimu tunapaswa kutumia katika msawiko wa hukumu kabla ya kuzungusha kwa karatasi za ukaguzi?\"},{\"id\":\"fin_fg_02\",\"question\":\"Ni kikomo cha kujiamini cha 95% kwa kikomo cha umuhimu kwa ukaguzi wetu wa robo ya nne chini ya PCAOB AS 2105, na tunaweza kuhesabu kosa la kawaida baada ya kurekebisha kwa nusu-ya-maisha ya hisia za maelezo ya simu ya mapato ya robo iliyopita?\"},{\"id\":\"phys_fg_01\",\"question\":\"Ni kikomo cha kujiamini cha 95% kwa ugumu wa dhana wa kuanzisha mzunguko wa pembe kwa wanafunzi wa mwaka wa kwanza wa fizikia? Tunajaribu kupima upinzani wa kielimu kwa kila mada katika mtaala wa mitambo kwa angalau tarakimu mbili muhimu.\"},{\"id\":\"leg_wua_01\",\"question\":\"Ni nguvu gani ya fiduciary kwa aya kwa azimio la hivi karibuni la bodi yetu, na ni sehemu gani inazalisha hatari kubwa zaidi ya wajibu wa uaminifu kwa kila neno?\"}]}",
+  "usage": {
+    "completion_tokens": 357,
+    "prompt_tokens": 676,
+    "total_tokens": 1033,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776057926.15045
+}

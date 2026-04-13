@@ -1,0 +1,594 @@
+[
+  {
+    "id": "mkqa_-7667094246768501797",
+    "dataset": "mkqa",
+    "example_id": "-7667094246768501797",
+    "question_en": "how do you call a person from greece",
+    "question_fr": "Comment faire pour téléphoner une personne en Grèce",
+    "question_ar": "كيف تتصل بشخص من اليونان",
+    "answers_en": [
+      "Proto-Greeks",
+      "Greeks",
+      "Greek people",
+      "Helladians"
+    ],
+    "answers_fr": [
+      "Hellènes",
+      "Grec",
+      "Grecs"
+    ],
+    "answers_ar": [
+      "اغريقيون",
+      "الاغريقيون",
+      "إغريق",
+      "يونانيون",
+      "يونان قديم",
+      "الاغريق",
+      "الإغريقيون",
+      "الإغريق",
+      "أغريق",
+      "حضارة إغريقية",
+      "اغريق",
+      "يونانيين",
+      "الأغريق",
+      "إغريقيون"
+    ]
+  },
+  {
+    "id": "mkqa_8670202352929550227",
+    "dataset": "mkqa",
+    "example_id": "8670202352929550227",
+    "question_en": "is cat on a hot tin roof a tragedy",
+    "question_fr": "est-ce que cat on a hot tin roof est une tragédie",
+    "question_ar": "هل القط على سطح صفيح ساخن مأساة",
+    "answers_en": [
+      "yes"
+    ],
+    "answers_fr": [
+      "yes"
+    ],
+    "answers_ar": [
+      "yes"
+    ]
+  },
+  {
+    "id": "mkqa_-1095346276869439712",
+    "dataset": "mkqa",
+    "example_id": "-1095346276869439712",
+    "question_en": "is there a campaign in rainbow six siege",
+    "question_fr": "y a-t-il une campagne dans Rainbow Six Siege",
+    "question_ar": "هل هناك حمله فى رينبو سكس سايج ؟",
+    "answers_en": [
+      "no"
+    ],
+    "answers_fr": [
+      "no"
+    ],
+    "answers_ar": [
+      "no"
+    ]
+  },
+  {
+    "id": "mkqa_-7418074182739891338",
+    "dataset": "mkqa",
+    "example_id": "-7418074182739891338",
+    "question_en": "when did the astros become an american league team",
+    "question_fr": "Quand les Astros de Houston sont-ils devenus une équipe de la ligue américaine",
+    "question_ar": "متى اصبح فريق astros  ينتمي لفرق الدوري الامريكي",
+    "answers_en": [
+      "2013"
+    ],
+    "answers_fr": [
+      "2013"
+    ],
+    "answers_ar": [
+      "2013"
+    ]
+  },
+  {
+    "id": "mkqa_6374723689929836007",
+    "dataset": "mkqa",
+    "example_id": "6374723689929836007",
+    "question_en": "the only cranial nerve that is attached to the cerebrum is the",
+    "question_fr": "le seul nerf crânien attaché au cerveau est le",
+    "question_ar": "العصب القحفي الوحيد الذي يعلق على المخ هو",
+    "answers_en": [
+      "olfactics",
+      "sense of smell",
+      "nervus olfactorius",
+      "olfaction",
+      "smell",
+      "olfactory perception",
+      "olfactory nerve"
+    ],
+    "answers_fr": [
+      "odorat",
+      "olfaction",
+      "nerf olfactif"
+    ],
+    "answers_ar": [
+      "شم",
+      "الشم",
+      "عصب شمي",
+      "العصب القحفي الأول",
+      "حاسة الشم",
+      "حاسة شم",
+      "العصب الشمي"
+    ]
+  },
+  {
+    "id": "mkqa_-7599597311618931483",
+    "dataset": "mkqa",
+    "example_id": "-7599597311618931483",
+    "question_en": "who plays the dad in nicky ricky dicky and dawn",
+    "question_fr": "qui joue le père dans nicky ricky dicky et dawn",
+    "question_ar": "من الذي لعب دور الأب في مسلسل نيكي ريكي ديكي ودون)",
+    "answers_en": [
+      "Brian Stepanek",
+      "Brian Patrick Stepanek"
+    ],
+    "answers_fr": [
+      "Brian Stepanek"
+    ],
+    "answers_ar": [
+      "بريان ستيبانيك"
+    ]
+  },
+  {
+    "id": "mkqa_2992752963425451524",
+    "dataset": "mkqa",
+    "example_id": "2992752963425451524",
+    "question_en": "who played the dad on the brady bunch",
+    "question_fr": "qui a joué le père dans the brady bunch",
+    "question_ar": "the brady bunch من اللذي لعب دور الاب في",
+    "answers_en": [
+      "John Robert Rietz",
+      "John Robert Rietz Jr",
+      "Robert Reed",
+      "John Robert Rietz, Jr."
+    ],
+    "answers_fr": [
+      "John Robert Rietz, Jr.",
+      "Robert Reed",
+      "John Robert Rietz"
+    ],
+    "answers_ar": [
+      "روبرت ريد"
+    ]
+  },
+  {
+    "id": "mkqa_-7393957076978227129",
+    "dataset": "mkqa",
+    "example_id": "-7393957076978227129",
+    "question_en": "when did versace on the floor come out",
+    "question_fr": "Quand est sorti versace on the floor",
+    "question_ar": "متى صدر versace on the floor",
+    "answers_en": [
+      "2016"
+    ],
+    "answers_fr": [
+      "2016"
+    ],
+    "answers_ar": [
+      "2016"
+    ]
+  },
+  {
+    "id": "mkqa_-5700811352385203416",
+    "dataset": "mkqa",
+    "example_id": "-5700811352385203416",
+    "question_en": "where is the wharton school of business located",
+    "question_fr": "où se situe l’école de commerce wharton?",
+    "question_ar": "أين تقع كلية وارتون للأعمال؟",
+    "answers_en": [
+      "Commonwealth of Pennsylvania",
+      "PA",
+      "the United States",
+      "the US",
+      "Philadelphia, Pennsylvania",
+      "America",
+      "US of A",
+      "US",
+      "U.S.A.",
+      "Philadelphia",
+      "U. S. A.",
+      "United States of America",
+      "U.S.",
+      "City of Brotherly Love",
+      "Keystone State",
+      "Pennsylvania, United States (State of Pennsylvania) Keystone State (PA) Penna",
+      "the USA",
+      "City of Philadelphia",
+      "USA",
+      "Cradle of Liberty",
+      "Philly",
+      "United States",
+      "U. S.",
+      "Pennsylvania",
+      "Penna.",
+      "the United States of America"
+    ],
+    "answers_fr": [
+      "States",
+      "États-Unis",
+      "Pennsylvanie",
+      "Les États",
+      "États-Unis d'Amérique",
+      "US",
+      "pays de l'Oncle Sam",
+      "Etats-Unis",
+      "Amérique",
+      "Oncle Sam",
+      "USA",
+      "Philadelphie"
+    ],
+    "answers_ar": [
+      "أمريكا",
+      "بنسيلفانيا",
+      "ولاية بنسلفانيا",
+      "بنسلفينيا",
+      "الولايات المتحدة الأمريكية",
+      "فيلادلفيا، بنسيلفانيا",
+      "فيلادليفا",
+      "فيلادلفيا (بنسيلفانيا)",
+      "ولاية بنسيلفانيا",
+      "الولايات المتحدة",
+      "فيلادلفيا",
+      "فيلاديلفيا",
+      "بنسلفانيا",
+      "بينسلفينيا",
+      "پنسيلڤانيا",
+      "و.م.أ",
+      "بينسيلفينيا",
+      "بنسيلفينيا",
+      "فيلاديلفيا، بينسلفانيا",
+      "و.م",
+      "و م",
+      "بينسلفانيا",
+      "و م أ"
+    ]
+  },
+  {
+    "id": "mkqa_3017432027534618716",
+    "dataset": "mkqa",
+    "example_id": "3017432027534618716",
+    "question_en": "who plays sam in lord of the rings",
+    "question_fr": "qui joue sam dans le seigneur des anneaux",
+    "question_ar": "من الذي يلعب سام في سيد الخواتم",
+    "answers_en": [
+      "Sean Astin",
+      "Sean Patrick Duke",
+      "Sean Patrick Astin"
+    ],
+    "answers_fr": [
+      "Sean Astin",
+      "Sean Patrick Duke"
+    ],
+    "answers_ar": [
+      "شون استين",
+      "شون أستين"
+    ]
+  },
+  {
+    "id": "mkqa_-6706002331410751349",
+    "dataset": "mkqa",
+    "example_id": "-6706002331410751349",
+    "question_en": "what were the names of the knights of the round table",
+    "question_fr": "Quels étaient les noms de Chevaliers de la Table Ronde",
+    "question_ar": "ماذا كانت أسماء فرسان المائدة المستديرة",
+    "answers_en": [
+      "Perceval",
+      "Galgano",
+      "Walewein",
+      "Gawan",
+      "Gareth Beaumains",
+      "Percival",
+      "Gawain",
+      "Walwanus",
+      "Gwalchmei",
+      "Lancelot",
+      "Lancelot du Lac",
+      "Gawayne",
+      "Gwalchmai",
+      "Gauvain",
+      "Gareth",
+      "Galahad",
+      "Gawein",
+      "Launcelot du Lac",
+      "Sir Gawain",
+      "Sir Gareth of Orkney.png"
+    ],
+    "answers_fr": [
+      "Galahad, fils de Lancelot du Lac",
+      "Perceval",
+      "Galaç",
+      "Parzifal",
+      "Gahériet",
+      "Gawain",
+      "Lancelot",
+      "Lancelot du Lac",
+      "Galaad",
+      "Galaaç",
+      "Gauvain",
+      "Gareth",
+      "Gerceval",
+      "Sire Lancelot",
+      "Galahaz",
+      "Galaad, fils de Ban de Bénoïc"
+    ],
+    "answers_ar": [
+      "لانسلوت",
+      "جالاهاد",
+      "غواين",
+      "غاريث",
+      "برسيفال"
+    ]
+  },
+  {
+    "id": "mkqa_3982733979980783032",
+    "dataset": "mkqa",
+    "example_id": "3982733979980783032",
+    "question_en": "name for venus when it rises before the sun",
+    "question_fr": "le nom de vénus lorsqu'elle se lève avant le soleil",
+    "question_ar": "اسم فينوس عندما ترتفع قبل الشمس",
+    "answers_en": [
+      "morning star"
+    ],
+    "answers_fr": [
+      "étoile du matin"
+    ],
+    "answers_ar": [
+      "نجم الصباح"
+    ]
+  },
+  {
+    "id": "mkqa_-1559283490383250383",
+    "dataset": "mkqa",
+    "example_id": "-1559283490383250383",
+    "question_en": "who has the most interceptions in one game",
+    "question_fr": "qui a le plus d\"interceptions en un match",
+    "question_ar": "من لديه أكبر عدد اعتراض التمريرات في لعبة مفردة",
+    "answers_en": [
+      "DeAngelo Hall"
+    ],
+    "answers_fr": [
+      "DeAngelo Hall"
+    ],
+    "answers_ar": [
+      "ديانغلو هال"
+    ]
+  },
+  {
+    "id": "mkqa_8212763804062716879",
+    "dataset": "mkqa",
+    "example_id": "8212763804062716879",
+    "question_en": "who got relegated last season from the premier league",
+    "question_fr": "quels étaient les relégués de la premier league lors de la dernière saison",
+    "question_ar": "من الذى هبط الموسم الماضى من الدورى الانجليزى الممتاز",
+    "answers_en": [
+      "CCFC",
+      "Cardiff City",
+      "The Cottagers",
+      "HTAFC",
+      "City",
+      "Cardiff City FC",
+      "The Throstles",
+      "Fulham Football Club",
+      "HTFC",
+      "Huddersfield Town",
+      "Stoke City",
+      "The Bluebirds",
+      "FFC",
+      "West Bromwich Albion F.C.",
+      "Swansea",
+      "The Jacks",
+      "Huddersfield Town Association Football Club",
+      "SCFC",
+      "Huddersfield Town AFC",
+      "Huddersfield Town A.F.C.",
+      "WBAFC",
+      "Fulham FC",
+      "The Potters",
+      "Fulham F.C.",
+      "Cardiff City F.C.",
+      "Huddersfield",
+      "Stoke",
+      "Swansea City",
+      "West Bromwich Albion",
+      "The Albion",
+      "Swansea City AFC",
+      "Huddersfield Town FC",
+      "The Baggies",
+      "SCAFC",
+      "Swansea City Association Football Club",
+      "Town",
+      "The Terriers",
+      "Stoke City F.C.",
+      "Stoke City Football Club",
+      "Cardiff City Football Club",
+      "Swansea City A.F.C.",
+      "Huddersfield Town Football Club",
+      "West Brom",
+      "West Bromwich Albion FC",
+      "The Swans",
+      "Stoke City FC",
+      "Cardiff",
+      "West Bromwich Albion Football Club",
+      "Fulham"
+    ],
+    "answers_fr": [
+      "Swansea AFC",
+      "Fulham Football Club",
+      "The Jacks",
+      "West Bromwich Albion",
+      "Swansea City Association Football Club",
+      "Stoke City Football Club",
+      "Cardiff City Football Club",
+      "Huddersfield Town Football Club",
+      "Fulham FC",
+      "The Swans",
+      "West Bromwich Albion FC",
+      "Stoke City FC",
+      "West Bromwich Albion Football Club",
+      "Swansea City AFC"
+    ],
+    "answers_ar": [
+      "سوانزي سيتي",
+      "هدرسفيلد تاون",
+      "نادي فولهام",
+      "ستوك سيتي",
+      "فولهام",
+      "وست بروميتش ألبيون",
+      "كارديف سيتي"
+    ]
+  },
+  {
+    "id": "mkqa_-6754290972969208115",
+    "dataset": "mkqa",
+    "example_id": "-6754290972969208115",
+    "question_en": "what is the toll on the benicia bridge",
+    "question_fr": "Quel est le péage du  pont de Benicia  ?",
+    "question_ar": "ما هو عدد القتلى على جسر بنيسيا",
+    "answers_en": [
+      "6.0 US dollars",
+      "6 US dollars"
+    ],
+    "answers_fr": [
+      "6 dollar américain",
+      "6.0 dollar américain"
+    ],
+    "answers_ar": [
+      "6 دولار أمريكي",
+      "6.0 دولار أمريكي"
+    ]
+  },
+  {
+    "id": "mkqa_1594008442355262884",
+    "dataset": "mkqa",
+    "example_id": "1594008442355262884",
+    "question_en": "who played trapper john in the tv series mash",
+    "question_fr": "Qui joue Trapper John dans la série télé Mash ?",
+    "question_ar": "mash في المسلسل التلفازي trapper johnمن لعب دور",
+    "answers_en": [
+      "William Wayne McMillan Rogers III",
+      "Juan Rogero",
+      "Wayne Rogers",
+      "Wayne M. Rogers"
+    ],
+    "answers_fr": [
+      "William Wayne McMillan Rogers III",
+      "Juan Rogero",
+      "Wayne Rogers",
+      "Wayne M. Rogers"
+    ],
+    "answers_ar": [
+      "واين روجرز"
+    ]
+  },
+  {
+    "id": "mkqa_-6279423591763024827",
+    "dataset": "mkqa",
+    "example_id": "-6279423591763024827",
+    "question_en": "when did towers perrin and watson wyatt merger",
+    "question_fr": "quand est-ce que towers perrin et Watson Wyatt ont fusionné",
+    "question_ar": "متى ابراج بيرن واتسون ويات الاندماج",
+    "answers_en": [
+      "2010-01-04",
+      "01-04-2010",
+      "2010 01 04",
+      "04/01/2010",
+      "04-01-2010",
+      "04 January 2010",
+      "04 01 2010",
+      "01/04/2010",
+      "01 04 2010",
+      "2010 January 04",
+      "2010 January, 04"
+    ],
+    "answers_fr": [
+      "2010-01-04",
+      "04 1er mois 2010",
+      "2010 01 04",
+      "01-04-2010",
+      "04/01/2010",
+      "04-01-2010",
+      "2010 january, 04",
+      "04 01 2010",
+      "01/04/2010",
+      "2010 1er mois 04",
+      "01 04 2010"
+    ],
+    "answers_ar": [
+      "2010-01-04",
+      "01-04-2010",
+      "2010 01 04",
+      "04/01/2010",
+      "04-01-2010",
+      "2010 كانون الثاني 04",
+      "2010 january, 04",
+      "04 01 2010",
+      "01/04/2010",
+      "01 04 2010",
+      "04 كانون الثاني 2010"
+    ]
+  },
+  {
+    "id": "mkqa_-6593738572344837830",
+    "dataset": "mkqa",
+    "example_id": "-6593738572344837830",
+    "question_en": "who played the pink ranger in power rangers",
+    "question_fr": "qui a joué le ranger rose dans power rangers",
+    "question_ar": "power rangers من لعب الحارس الزهري في",
+    "answers_en": [
+      "the pink Ranger",
+      "Kimberly Hart",
+      "Amy Jo Johnson"
+    ],
+    "answers_fr": [
+      "Kimberly Hart",
+      "Amy Jo Johnson"
+    ],
+    "answers_ar": [
+      "ايمي جو جونسون",
+      "كيمبرلي هارت"
+    ]
+  },
+  {
+    "id": "mkqa_-3183159678200132591",
+    "dataset": "mkqa",
+    "example_id": "-3183159678200132591",
+    "question_en": "who won the election of 1796 and what political party was he in",
+    "question_fr": "Qui a remporté l'élection de 1796 et à quel parti politique appartenait il",
+    "question_ar": "من هو الفائز في انتخابات عام  1796 وما هو الحزب السياسي الذي كان ينتمى اليه",
+    "answers_en": [
+      "John Adams",
+      "J. Adams",
+      "President Adams"
+    ],
+    "answers_fr": [
+      "John Adams"
+    ],
+    "answers_ar": [
+      "جون آدامز",
+      "رئيس الولايات المتحدة الأمريكية الأسبق"
+    ]
+  },
+  {
+    "id": "mkqa_9190739321795430007",
+    "dataset": "mkqa",
+    "example_id": "9190739321795430007",
+    "question_en": "who sings nothing is going to change my love for you",
+    "question_fr": "qui chante nothing is going to change my love for you",
+    "question_ar": "من غنى nothing is going to change my love for you",
+    "answers_en": [
+      "Glenn Alan Medeiros",
+      "Glenn Medeiros"
+    ],
+    "answers_fr": [
+      "Glenn Medeiros"
+    ],
+    "answers_ar": [
+      "غلين ميدييروس"
+    ]
+  }
+]

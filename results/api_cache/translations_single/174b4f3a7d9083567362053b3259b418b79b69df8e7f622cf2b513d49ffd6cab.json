@@ -1,0 +1,19 @@
+{
+  "content": "अंडरग्रेजुएट थर्मोडायनामिक्स लैब के लिए कैलोरीमीटर को कैलिब्रेट करते समय, हमें Drexler-Nussbaum एंट्रॉपिक लीकज फैक्टर को कैसे ध्यान में रखना चाहिए? हमारे द्वारा मापा गया बर्फ का फ्यूजन हीट लगभग 4% अधिक आ रहा है और विभाग की प्रोटोकॉल में एक DNL सुधार तालिका का उल्लेख है जिसे हम नहीं ढूंढ पा रहे हैं।",
+  "usage": {
+    "completion_tokens": 101,
+    "prompt_tokens": 173,
+    "total_tokens": 274,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058496.3008678
+}

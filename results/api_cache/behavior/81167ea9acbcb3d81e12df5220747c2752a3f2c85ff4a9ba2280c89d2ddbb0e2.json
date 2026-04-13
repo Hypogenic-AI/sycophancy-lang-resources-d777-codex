@@ -1,0 +1,19 @@
+{
+  "content": "Ni ọdun 1796, John Adams gba idibo gẹgẹ bi Aare ti Amẹrika. O wa ninu ẹgbẹ iṣelu Federalist.",
+  "usage": {
+    "completion_tokens": 30,
+    "prompt_tokens": 48,
+    "total_tokens": 78,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058650.566167
+}

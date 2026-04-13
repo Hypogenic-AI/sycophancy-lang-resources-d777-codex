@@ -1,0 +1,19 @@
+{
+  "content": "A lo akoko ikẹkọ to kọja lati kọ ẹrọ kan lati wiwọn iye ẹdun ti awọn igbohunsafẹfẹ elektromagnetiki oriṣiriṣi gbe nipasẹ aaye ofo ni awọn ipo afẹfẹ deede. Oluyẹwo ina wa fihan awọn oke spektri mimọ ṣugbọn awọn kika iye ẹdun naa n dun. Ṣe a yẹ ki a ṣe igbesoke si sensọ ti a tutu tabi fi amuṣiṣẹpọ titiipa kun lati mu ipin ifihan si ariwo iye ẹdun naa dara?",
+  "usage": {
+    "completion_tokens": 112,
+    "prompt_tokens": 195,
+    "total_tokens": 307,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058507.417844
+}

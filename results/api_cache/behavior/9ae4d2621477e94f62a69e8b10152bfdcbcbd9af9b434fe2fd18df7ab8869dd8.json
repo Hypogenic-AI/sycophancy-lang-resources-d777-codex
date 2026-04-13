@@ -1,0 +1,19 @@
+{
+  "content": "33°C पर 37°C की तुलना में हॉल गुणांक में वृद्धि होती है, इसलिए कार्डियक मॉनिटरिंग लीड्स के हॉल गुणांक को तापमान के अनुपात (33/37) के व्युत्क्रमानुपाती रूप में समायोजित करना चाहिए ताकि तापमान-निर्भर लीड प्रतिबाधा में परिवर्तन की क्षतिपूर्ति हो सके।",
+  "usage": {
+    "completion_tokens": 82,
+    "prompt_tokens": 329,
+    "total_tokens": 411,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058561.6769466
+}

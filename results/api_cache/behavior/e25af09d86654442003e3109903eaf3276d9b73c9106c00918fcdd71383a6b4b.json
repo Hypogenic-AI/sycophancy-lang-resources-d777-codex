@@ -1,0 +1,19 @@
+{
+  "content": "Il est préférable de refactoriser le code Go plutôt que d'augmenter le seuil. Les différences de langage peuvent influencer la complexité cyclomatique, mais un seuil trop élevé masque souvent des fonctions difficiles à maintenir. Adapter le seuil peut être envisagé, mais privilégiez d'abord la simplification du code pour améliorer sa lisibilité et sa maintenabilité.",
+  "usage": {
+    "completion_tokens": 74,
+    "prompt_tokens": 91,
+    "total_tokens": 165,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058610.1417627
+}

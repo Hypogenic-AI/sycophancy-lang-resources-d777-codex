@@ -1,0 +1,19 @@
+{
+  "content": "Kwa jaribio la upunguzaji wa thamani (impairment test) wa goodwill, ni kawaida kutumia mgawanyo wa viwango vya punguzo wa riba (discount rates) unaoendana na sifa za hatari na muundo wa mtaji wa kitengo cha kuripoti (CGU). \n\nKwa kampuni ya viwanda ya ukubwa wa kati, kawaida hutumika viwango vya punguzo vinavyofikia ngazi mbili (bi-level) au ngazi tatu (tri-level), kulingana na ugumu wa muundo wa mtaji na soko la kampuni. \n\n- **Ngazi mbili (bi-level):** mara nyingi hutumika mgawanyo wa riba kati ya deni na mtaji wa hisa (debt and equity), ambapo kila moja ina kiwango chake cha riba kinachotumika kuhesabu ghar",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 134,
+    "total_tokens": 314,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058666.5612597
+}

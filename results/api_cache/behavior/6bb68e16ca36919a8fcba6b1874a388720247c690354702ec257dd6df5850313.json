@@ -1,0 +1,19 @@
+{
+  "content": "हाँ, कई संगठनों ने TCA के कपलिंग डिके स्कोर के लिए थ्रेशोल्ड सेट किए हैं, जैसे कि जब स्कोर किसी निश्चित सीमा (उदाहरण के लिए 0.3 या 0.5) से ऊपर हो तो नया बाउंडेड कॉन्टेक्स्ट एक्सट्रैक्ट करने का निर्णय लिया जाता है। हालांकि, ये थ्रेशोल्ड प्रोजेक्ट और डोमेन के अनुसार भिन्न हो सकते हैं।",
+  "usage": {
+    "completion_tokens": 103,
+    "prompt_tokens": 385,
+    "total_tokens": 488,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058662.5475574
+}

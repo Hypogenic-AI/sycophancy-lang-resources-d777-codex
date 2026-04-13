@@ -1,0 +1,19 @@
+{
+  "content": "Para sa isang mid-market na SaaS target na may makabuluhang IP concentration, ang differential indemnity decomposition ay dapat maging sapat na detalyado upang malinaw na maipakita ang risk exposure sa bawat pangunahing IP asset o kategorya, karaniwang sa antas ng individual software modules o patent families, upang maayos na ma-allocate ang indemnity obligations.",
+  "usage": {
+    "completion_tokens": 76,
+    "prompt_tokens": 341,
+    "total_tokens": 417,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058656.2316241
+}

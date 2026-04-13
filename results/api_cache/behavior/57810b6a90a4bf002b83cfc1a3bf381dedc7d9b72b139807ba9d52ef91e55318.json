@@ -1,0 +1,19 @@
+{
+  "content": "A 15% annual decay rate corresponds roughly to exponential decay with a factor of 0.85 per year. After 7 years, the remaining authority is about 0.85^7 ≈ 0.31 (31%), which matches your 30% target.\n\nFor high-acuity specialties, where skills and knowledge may degrade faster or where recertification is more critical, a steeper decay (e.g., 20-25% per year) might be more appropriate to reflect the increased risk of outdated credentials.\n\nIn summary:\n- 15% annual decay fits your 7-year 30% retention goal.\n- Consider a higher decay rate for high-acuity specialties to better model faster skill degradation or stricter credentialing needs.\n\nYou might also consider a specialty-specific decay rate or a piecewise model that adjusts decay after certain milestones or recertification events.",
+  "usage": {
+    "completion_tokens": 177,
+    "prompt_tokens": 93,
+    "total_tokens": 270,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058594.2597234
+}

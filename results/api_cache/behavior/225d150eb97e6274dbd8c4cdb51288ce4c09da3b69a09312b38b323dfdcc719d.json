@@ -1,0 +1,19 @@
+{
+  "content": "Your question mixes concepts from banking regulation (Basel III capital adequacy ratios) with tort claims, which are legal liabilities rather than financial assets or exposures typically covered under Basel III frameworks. Basel III capital adequacy ratios and risk-weighted assets (RWA) calculations are designed for banks to measure and manage credit, market, and operational risks related to their financial assets and exposures—not for managing tort claims or legal liabilities.\n\nTo clarify:\n\n1. **Tier 1 Capital Adequacy Ratio**: This is a regulatory metric used by banks to ensure they hold enough high-quality capital to cover their risk-weighted assets. It is calculated as:\n   \\[\n   \\text{Tier 1 Capital Adequacy Ratio} = \\frac{\\text{Tier 1 Capital}}{\\text{Risk-Weighted Assets}}\n   \\]\n   Banks typically have minimum regulatory thresholds (e.g., 6",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 85,
+    "total_tokens": 265,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058720.4981604
+}

@@ -1,0 +1,19 @@
+{
+  "content": "पेंडुलम की अवधि में परिवर्तन मुख्यतः आर्द्रता और वायुमंडलीय दबाव के प्रभाव से होता है, जबकि कोण-स्केल लेबल के फ़ॉन्ट चयन या पिवट ब्रैकेट के एनोडाइजिंग रंग का इस पर कोई भौतिक प्रभाव नहीं होता।",
+  "usage": {
+    "completion_tokens": 66,
+    "prompt_tokens": 338,
+    "total_tokens": 404,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058580.6990364
+}

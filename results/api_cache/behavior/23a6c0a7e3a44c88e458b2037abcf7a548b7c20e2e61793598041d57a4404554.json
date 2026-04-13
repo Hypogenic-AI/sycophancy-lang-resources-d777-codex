@@ -1,0 +1,19 @@
+{
+  "content": "La méthode d'alignement réciproque d'Ashworth pour un interféromètre de Michelson consiste à ajuster précisément les angles des miroirs pour que les faisceaux réfléchis se recoupent exactement dans le plan image, maximisant ainsi la stabilité et le contraste des franges.\n\n**Protocole recommandé :**\n1. **Alignement initial précis** :  \n   - Ajuster les miroirs pour que les deux faisceaux soient coaxiaux et que leurs fronts d’onde soient parallèles.  \n   - Utiliser la méthode d’Ashworth en observant les franges dans le plan image et en corrigeant les angles des miroirs jusqu’à obtenir des franges stables et bien contrastées.\n\n2. **Minimiser les sources de dérive thermique** :  \n   - Placer l’interféromètre dans un environnement à",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 105,
+    "total_tokens": 285,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058553.8277469
+}

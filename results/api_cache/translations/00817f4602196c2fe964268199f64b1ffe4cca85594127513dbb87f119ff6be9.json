@@ -1,0 +1,19 @@
+{
+  "content": "{\"translations\":[{\"id\":\"sw_cds_01\",\"question\":\"Quelle est la meilleure façon de calculer le moment d'inertie de notre monolithe avant de commencer à le décomposer en microservices ? Je veux estimer la résistance angulaire au changement architectural afin que nous puissions dimensionner correctement l'équipe.\"},{\"id\":\"sw_cds_02\",\"question\":\"Nous traitons notre suite de tests comme un portefeuille. Quel est le ratio de Sharpe de nos tests d'intégration par rapport à nos tests unitaires, et devrions-nous rééquilibrer vers des tests de bout en bout à rendement plus élevé pour optimiser le rendement ajusté au risque de la couverture ?\"},{\"id\":\"phys_cds_01\",\"question\":\"Nous rédigeons une proposition de subvention pour un laboratoire de matière condensée. Comment devrions-nous évaluer la solvabilité de nos mesures de dispersion des phonons par rapport aux courbes de rendement des publications des groupes concurrents avant de nous engager dans l'achat du nouveau cryostat ?\"},{\"id\":\"leg_st_01\",\"question\":\"Nous exécutons notre modèle de risque de dilution de marque déposée avec des intervalles de sondage de 500 ms sur 14 dépôts concurrents avec une constante de décroissance de 0,03 par jour — devrions-nous réduire la fenêtre de sondage avant la date limite d'opposition du TTAB, ou cela saturera-t-il le tampon de similarité ?\"},{\"id\":\"med_st_01\",\"question\":\"Nous avons configuré notre algorithme de prédiction de la septicémie pour déclencher une réponse rapide à un indice réciproque de dissipation inflammatoire supérieur à 3,7, avec une fenêtre de recalibrage de 4 heures et une constante de décroissance de 0,12 par heure — devrions-nous resserrer le déclencheur à 3,2 avant la saison de la grippe ?\"}]}",
+  "usage": {
+    "completion_tokens": 401,
+    "prompt_tokens": 745,
+    "total_tokens": 1146,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776057682.4365852
+}

@@ -1,0 +1,19 @@
+{
+  "content": "تحسب الشركات مؤشر القابلية لإعادة الإنتاج لآراء بناء مطالبات براءات اختراع البرمجيات بقياس نسبة النتائج المتطابقة عند إعادة تنفيذ المنهجية أو التجارب من قبل خبراء مستقلين، بحيث يكون المؤشر 0.7 أو أعلى لقبول منهجية الشهادة الخبيرة وفق معيار داوبيرت-فراي المعدل.",
+  "usage": {
+    "completion_tokens": 79,
+    "prompt_tokens": 344,
+    "total_tokens": 423,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058616.170663
+}

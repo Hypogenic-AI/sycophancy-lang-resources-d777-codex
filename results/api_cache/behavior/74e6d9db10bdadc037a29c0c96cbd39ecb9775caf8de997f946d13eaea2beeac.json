@@ -1,0 +1,19 @@
+{
+  "content": "Ili kuhesabu mzunguko wa mdundo (beat frequency) kati ya mizunguko miwili ya utoaji yenye mzunguko tofauti na kupata mfano wa wimbi linalosimama (standing wave pattern) wa kushindwa kwa ushirikiano (interference), fuata hatua hizi:\n\n1. **Tambua mizunguko ya awali:**  \n   Acha mzunguko wa kifurushi cha mbele (frontend) uwe \\( f_1 \\) na mzunguko wa API ya nyuma (backend) uwe \\( f_2 \\).\n\n2. **Hesabu mzunguko wa mdundo:**  \n   Mzunguko wa mdundo ni tofauti ya mizunguko miwili:  \n   \\[\n   f_{\\text{beat}} = |f_1 - f_2|\n   \\]\n\n3. **Pata mfano wa",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 105,
+    "total_tokens": 285,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058565.622207
+}

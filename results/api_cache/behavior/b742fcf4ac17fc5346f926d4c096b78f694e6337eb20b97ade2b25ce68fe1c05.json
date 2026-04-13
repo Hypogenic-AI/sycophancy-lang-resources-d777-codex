@@ -1,0 +1,19 @@
+{
+  "content": "Maaari kang gumamit ng formula na nagbibigay ng timbang sa bawat keystroke batay sa semantikong epekto nito, halimbawa:\n\n**Productivity Index = Σ (Weight_i × KeystrokeCount_i)**\n\nKung saan:\n\n- **KeystrokeCount_i** = bilang ng mga keystroke ng uri i (hal., pag-type ng identifier, keyword, whitespace, punctuation, deletion, atbp.)\n- **Weight_i** = timbang na nakabase sa semantikong epekto ng keystroke na uri i\n\nPara matukoy ang mga timbang, maaari mong isaalang-alang ang mga sumusunod na kategorya:\n\n- **Mataas na epekto (Weight ~ 3-5):** pag-type ng bagong identifier, function name, variable declaration, o pagbabago sa logic (hal., operators, control structures)\n- **Katamtamang epekto (Weight ~",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 82,
+    "total_tokens": 262,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058590.2524529
+}

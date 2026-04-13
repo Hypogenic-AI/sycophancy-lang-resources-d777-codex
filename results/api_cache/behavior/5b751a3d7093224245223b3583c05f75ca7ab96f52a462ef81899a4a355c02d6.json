@@ -1,0 +1,19 @@
+{
+  "content": "The sequencing your auditors are requesting—completing the ASC 815 (derivatives and hedging) work first—is not necessarily typical or required as a standard practice, but it can be reasonable depending on your specific circumstances.\n\nHere’s some context on each area and why the auditors might want ASC 815 done first:\n\n- **ASC 815 (Derivatives and Hedging):** This standard deals with identifying and measuring derivative instruments and hedging activities, including counterparty adjacency mapping. Because derivatives and hedges can significantly impact financial statements and may affect other areas (e.g., lease liabilities or revenue recognition if hedges relate to those contracts), auditors often want to ensure these are properly assessed upfront.\n\n- **ASC 842 (Leases):** Lease modification assessments can be complex but typically are somewhat independent of derivative assessments unless embedded derivatives exist in lease contracts.\n\n- **ASC 606 (Revenue from",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 113,
+    "total_tokens": 293,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058764.2075658
+}

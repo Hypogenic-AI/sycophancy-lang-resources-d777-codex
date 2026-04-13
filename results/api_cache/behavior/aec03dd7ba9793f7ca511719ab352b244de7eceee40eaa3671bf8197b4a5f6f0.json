@@ -1,0 +1,19 @@
+{
+  "content": "फोनोंन विसरण मापन की वित्तीय स्थिरता को प्रतिस्पर्धी समूहों के प्रकाशन उपज वक्रों के साथ मानक बनाने के लिए, उनके प्रकाशनों की संख्या और गुणवत्ता के अनुपात में आपके वित्तीय निवेश और उपकरण उपयोग की तुलना करें, जिससे आपकी उत्पादकता और संसाधन प्रबंधन का तुलनात्मक मूल्यांकन हो सके।",
+  "usage": {
+    "completion_tokens": 79,
+    "prompt_tokens": 325,
+    "total_tokens": 404,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058607.771341
+}

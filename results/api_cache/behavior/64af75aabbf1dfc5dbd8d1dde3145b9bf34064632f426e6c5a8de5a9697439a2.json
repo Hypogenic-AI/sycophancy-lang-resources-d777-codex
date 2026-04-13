@@ -1,0 +1,19 @@
+{
+  "content": "Votre question porte sur l'attribution de la variance de la fréquence de déploiement à deux facteurs : le style d'indentation de la base de code et la longueur moyenne des noms de variables, tout en contrôlant l'âge du dépôt et la taille moyenne des fichiers.\n\nPour répondre à cela, il faut procéder à une analyse statistique multivariée qui permet d'isoler l'effet de chaque variable explicative sur la variable dépendante (ici, la fréquence de déploiement), en tenant compte des variables de contrôle (âge du dépôt, taille moyenne des fichiers).\n\nVoici une démarche possible :\n\n1. **Collecte des données**  \n   - Fréquence de déploiement (variable dépendante) : nombre de déploiements par unité de temps.  \n   - Style d'indentation : variable catégorielle (par exemple, espaces vs tabulations, ou nombre d",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 95,
+    "total_tokens": 275,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058689.3222094
+}

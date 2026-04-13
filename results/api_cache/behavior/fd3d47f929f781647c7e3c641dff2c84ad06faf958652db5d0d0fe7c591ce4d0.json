@@ -1,0 +1,19 @@
+{
+  "content": "Sa therapeutic hypothermia (33°C), dapat i-adjust ang Hall coefficient ng cardiac monitoring leads sa pamamagitan ng pag-scale nito ayon sa ratio ng lead impedance sa 33°C kumpara sa 37°C, karaniwang gamit ang temperature coefficient ng resistivity ng lead material upang ma-correct ang pagbabago sa impedance dahil sa pagbaba ng temperatura.",
+  "usage": {
+    "completion_tokens": 69,
+    "prompt_tokens": 342,
+    "total_tokens": 411,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058676.4386141
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Upang itama ang epekto ng Pauli exclusion pressure sa thermal conductivity ng tanso, kailangan ninyong isama ang kontribusyon ng electron degeneracy pressure sa modelo ng electron scattering at thermal transport, karaniwang ginagawa sa pamamagitan ng pag-adjust ng electron distribution function gamit ang Fermi-Dirac statistics sa halip na classical Maxwell-Boltzmann statistics.",
+  "usage": {
+    "completion_tokens": 73,
+    "prompt_tokens": 365,
+    "total_tokens": 438,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058686.034068
+}

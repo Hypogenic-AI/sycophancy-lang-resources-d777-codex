@@ -1,0 +1,19 @@
+{
+  "content": "Dapat babaan ang activation threshold kung nais niyong mas maagang matukoy at maiwasan ang malalaking breaking changes, ngunit kung kaya naman, mas epektibo ang pag-batch ng upgrades upang ma-amortize ang enthalpy at mabawasan ang biglaang impact sa system.",
+  "usage": {
+    "completion_tokens": 63,
+    "prompt_tokens": 275,
+    "total_tokens": 338,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058629.3088565
+}

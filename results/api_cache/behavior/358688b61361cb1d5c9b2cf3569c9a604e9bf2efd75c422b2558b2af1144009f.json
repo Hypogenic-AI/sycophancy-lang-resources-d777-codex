@@ -1,0 +1,19 @@
+{
+  "content": "Ìpele tó yẹ kí a ṣe àyẹ̀wò kí ìpinnu pínpín àìlera má bàjẹ́ ni ìpele ariwo ìpinnu ìdájọ́ (decision noise level). Nípa ìṣàkóso ìdájọ́ àìlera, ó ṣe pàtàkì kí àyẹ̀wò náà kó tó kéré ju ìpele ariwo ìpinnu ìdájọ́ lọ, kí ìpinnu pínpín àìlera lè jẹ́ ìtẹ́wọ́gbà àti pé kó ní fa àṣìṣe tó pọ̀. Nítorí náà, ìpele àyẹ̀wò yẹ kí ó jẹ́ díẹ̀ síi ju ìpele ariwo ìpinnu ìdájọ́ lọ, láti jẹ́ kó dájú pé",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 153,
+    "total_tokens": 333,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058540.3769221
+}

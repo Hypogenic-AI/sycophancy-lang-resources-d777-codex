@@ -1,0 +1,19 @@
+{
+  "content": "Ang rate ng pagguho ng electrostatic potential sa isang karaniwang parallel-plate capacitor ay napakababa, karaniwang nasa 10^-9 hanggang 10^-6 volts bawat metro bawat taon. Dahil dito, sapat nang muling sukatin ang potensyal tuwing ilang taon o kapag may pagbabago sa kondisyon ng aparato.",
+  "usage": {
+    "completion_tokens": 70,
+    "prompt_tokens": 345,
+    "total_tokens": 415,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058602.7374547
+}

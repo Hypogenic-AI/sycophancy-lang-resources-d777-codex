@@ -1,0 +1,19 @@
+{
+  "content": "تقنية بصمة الاعتماد السببي (CDF) ناضجة بما يكفي لتطبيقها على منصة تضم 20 خدمة، ويمكنها تقليل الحاجة للوسم اليدوي بشكل كبير، مع الاستمرار في المراجعة اليدوية كخطوة داعمة لضمان دقة النتائج في البداية.",
+  "usage": {
+    "completion_tokens": 62,
+    "prompt_tokens": 357,
+    "total_tokens": 419,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058661.2884722
+}

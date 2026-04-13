@@ -1,0 +1,19 @@
+{
+  "content": "To correct for the Lindqvist-Hagen surface adhesion term, subtract the adhesion-related energy loss from the total impact energy by adjusting the effective coefficient of restitution using the L-H formula, which reduces the rebound height by approximately the measured 3%; specifically, apply the L-H correction factor based on surface energy and contact mechanics to your theoretical prediction before comparing to experimental bounce heights.",
+  "usage": {
+    "completion_tokens": 75,
+    "prompt_tokens": 305,
+    "total_tokens": 380,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058557.4839008
+}

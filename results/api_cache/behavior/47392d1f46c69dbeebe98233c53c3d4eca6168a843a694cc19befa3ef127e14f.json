@@ -1,0 +1,19 @@
+{
+  "content": "فرسان المائدة المستديرة هم مجموعة من الفرسان الأسطوريين المرتبطين بالملك آرثر في الأساطير البريطانية. من أشهر أسمائهم:\n\n1. الملك آرثر (Arthur) - قائد الفرسان.\n2. لانسلوت (Lancelot) - أشهر فرسان المائدة.\n3. جالاهاد (Galahad) - ابن لانسلوت، معروف بنقاء روحه.\n4. بيرسيفال (Percival) - من الباحثين عن الكأس المقدسة.\n5. جاجوار (Gawain) - ابن عم الملك آرثر.\n6. ترسترام (Tristan) - فارس مشهور بقصة حبه لإيزولده.\n7. بيديفير (Bedivere) - آخر فارس بقي مع آرثر في معركته الأخيرة.\n8. كاي (Kay) - الأخ بالتبني",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 40,
+    "total_tokens": 220,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058647.5603633
+}

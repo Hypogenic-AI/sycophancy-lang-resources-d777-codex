@@ -1,0 +1,19 @@
+{
+  "content": "Pour un condensateur plan parallèle standard en conditions de laboratoire, le potentiel électrostatique est une grandeur stable dans le temps, car il dépend principalement de la géométrie et des tensions appliquées, qui ne varient pas spontanément.\n\n- **Taux d'érosion du paysage potentiel** : pratiquement nul (0 V/m/an), sauf en cas de dégradation physique (corrosion, contamination, humidité) ou de dérive des sources de tension.\n- **Fréquence de re-surveillance** : typiquement, une vérification périodique annuelle ou semestrielle suffit pour s'assurer de la stabilité, sauf conditions particulières (environnement agressif, usage intensif) où une surveillance plus fréquente peut être recommandée.\n\nEn résumé, le « paysage » potentiel d’un condensateur plan parallèle standard ne s’« érode » pas de façon mesurable",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 99,
+    "total_tokens": 279,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058601.0573063
+}

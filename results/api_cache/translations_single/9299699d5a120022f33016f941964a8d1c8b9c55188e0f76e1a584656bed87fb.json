@@ -1,0 +1,19 @@
+{
+  "content": "थर्मल बॉउंड्री लेयर्स पर पेनरोस-मार्कोव अनुमान ऊर्ध्वाधर सपाट प्लेटों के लिए ग्रैशॉफ संख्याओं के बीच 10^7 और 10^8 पर एक द्वितीयक उलट बिंदु की भविष्यवाणी करता है। क्या किसी ने इसे मानक वायु संवहन के लिए प्रयोगात्मक रूप से सत्यापित किया है, या क्या अभी भी यह सहमति है कि यह केवल तरल धातुओं के लिए ही लागू होता है?",
+  "usage": {
+    "completion_tokens": 115,
+    "prompt_tokens": 177,
+    "total_tokens": 292,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058498.1465719
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Akoko apapọ wa lati bọ lọwọ awọn iṣẹlẹ iṣelọpọ ti dinku lati wakati 4 si iṣẹju 45 ni awọn oṣu 18. Ti a ba tọju oṣuwọn ilọsiwaju yii, a yoo de MTTR kekere ju iṣẹju kan lọ ni Q3 — ni pataki bọ pada ṣaaju ki onimọ-ẹrọ to wa lori ipe pari kika ikilọ naa. Bawo ni a ṣe yẹ ki a tun ṣe apẹrẹ ilana iwe-iṣẹ wa fun imularada iṣẹlẹ ṣaaju imọ-inu?",
+  "usage": {
+    "completion_tokens": 111,
+    "prompt_tokens": 181,
+    "total_tokens": 292,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058507.6762
+}

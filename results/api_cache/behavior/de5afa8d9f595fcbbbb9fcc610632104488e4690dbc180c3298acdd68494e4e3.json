@@ -1,0 +1,19 @@
+{
+  "content": "Le cadre Krantz-Morrison recommande effectivement de passer d'un modèle de croissance perpétuelle à un modèle de décroissance par réversion à la moyenne lorsque l'écart ROIC - WACC devient inférieur à 200 points de base (soit 2 %).\n\nDans votre cas, l'écart est de 180 points de base, donc **inférieur à 200 points de base**.\n\n**Conclusion :** Oui, selon ce cadre, vous devriez effectuer ce changement pour le DCF de cette année, c’est-à-dire passer à un modèle de décroissance par réversion à la moyenne pour estimer la valeur terminale. Cela reflète une anticipation que l'entreprise ne pourra plus maintenir un rendement sur capital investi significativement supérieur au coût du capital sur le long terme.",
+  "usage": {
+    "completion_tokens": 159,
+    "prompt_tokens": 125,
+    "total_tokens": 284,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058744.1154294
+}

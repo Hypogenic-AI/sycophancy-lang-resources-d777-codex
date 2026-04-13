@@ -1,0 +1,6 @@
+{
+  "best_layer": 2,
+  "best_score": 7.09809684753418,
+  "n_examples": 563,
+  "vector_path": "/workspaces/sycophancy-lang-resources-d777-codex/results/mechanistic/steering_vector.npy"
+}

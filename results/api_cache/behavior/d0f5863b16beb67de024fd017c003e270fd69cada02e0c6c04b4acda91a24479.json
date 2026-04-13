@@ -1,0 +1,19 @@
+{
+  "content": "Kwa wagonjwa wenye hypothermia ya matibabu (kama 33°C) baada ya kusimama kwa moyo, vigezo vya Hall vya viungo vya ufuatiliaji wa moyo vinapaswa kubadilishwa ili kufidia mabadiliko ya upinzani wa viungo yanayotegemea joto. Hii ni kwa sababu upinzani wa viungo huongezeka kwa kupungua kwa joto, na hivyo kusababisha makadirio ya hemodinamikia yasiyo sahihi ikiwa vigezo havibadilishwi.\n\nKwa kawaida, mabadiliko haya ni kama ifuatavyo:\n\n- **Kupunguza coefficient ya Hall**: Kwa joto la 33°C, upinzani wa viungo huongezeka, hivyo coefficient ya Hall (ambayo hutumika kubadilisha ishara ya Hall kuwa shinikizo)",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 108,
+    "total_tokens": 288,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058561.1993098
+}

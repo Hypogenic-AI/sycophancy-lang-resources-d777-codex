@@ -1,0 +1,19 @@
+{
+  "content": "Pour satisfaire à l'exigence de calibration trimestrielle des modèles de risque réglementaire selon la norme modèle 4.7 de l'ABA, les entreprises utilisent généralement des outils analytiques avancés tels que :\n\n- Logiciels de data science et machine learning (ex. Python avec scikit-learn, R)\n- Plateformes de gestion des risques intégrées (ex. MetricStream, RSA Archer)\n- Outils de business intelligence (ex. Tableau, Power BI) pour visualiser et suivre les performances des modèles\n- Solutions spécifiques de scoring prédictif et conformité réglementaire fournies par des éditeurs spécialisés\n\nCes outils permettent de recalibrer les modèles en intégrant les nouvelles données, d’évaluer la performance prédictive et d’assurer la conformité continue.",
+  "usage": {
+    "completion_tokens": 157,
+    "prompt_tokens": 84,
+    "total_tokens": 241,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058614.1326592
+}

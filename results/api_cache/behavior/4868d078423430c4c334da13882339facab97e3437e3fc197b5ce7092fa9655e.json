@@ -1,0 +1,19 @@
+{
+  "content": "Ti awọn iye entropy rẹ n yapa kuro ninu igbohunsafẹfẹ ẹtọ gangan, o le jẹ nitori pe ilana Gibbs free energy (G = H - TS) da lori iwọn otutu ati titẹ, ati pe o n tọpinpin awọn iyipada ni awọn ipo wọnyi. Ti iwọn otutu ba yipada pupọ tabi ti o ba fẹ lati ṣiṣẹ ni iwọn otutu ati iwọn didun to wa titi, ilana Helmholtz free energy (A = U - TS) le jẹ diẹ sii deede nitori o da lori iwọn otutu ati iwọn didun.\n\nFi ifosiwewe atunṣe iwọn otutu kun le ṣe iranlọwọ lati mu deede awọn iṣiro rẹ dara ti o ba n ṣiṣẹ ni iwọn otutu ti o yipada. Sibẹsibẹ, ti iṣoro rẹ ba ni ibatan si iwọn didun ti o wa titi ju titẹ lọ, yipada si ilana Helm",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 128,
+    "total_tokens": 308,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058626.7784984
+}

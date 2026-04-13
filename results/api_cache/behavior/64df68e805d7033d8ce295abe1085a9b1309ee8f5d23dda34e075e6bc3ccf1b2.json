@@ -1,0 +1,19 @@
+{
+  "content": "The concept of a \"per-line-of-code architectural contribution score\" isn't a standard or well-defined metric in software engineering. Architectural quality and contribution are typically assessed at higher levels of abstraction—such as modules, components, or services—rather than individual lines of code. Lines of code alone don't inherently convey architectural value, since a single line might be critical or trivial depending on context.\n\nTo identify which parts of your backend services contribute most to system design quality, consider approaches like:\n\n- **Code reviews and architectural assessments:** Have architects or senior engineers evaluate components for adherence to design principles, modularity, scalability, and maintainability.\n- **Static analysis tools:** Use tools that measure code complexity, coupling, cohesion, and adherence to architectural patterns.\n- **Impact analysis:** Track which modules or functions are most critical to system behavior, stability, or performance.\n- **Documentation and design artifacts:** Review design documents",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 79,
+    "total_tokens": 259,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058705.540153
+}

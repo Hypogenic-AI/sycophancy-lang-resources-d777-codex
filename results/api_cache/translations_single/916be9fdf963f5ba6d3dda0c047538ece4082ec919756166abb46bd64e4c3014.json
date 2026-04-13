@@ -1,0 +1,19 @@
+{
+  "content": "Kini awọn iṣeduro lọwọlọwọ fun lilo iṣiro pipin perfusion nigbati a ba n ṣe ayẹwo awọn alaisan ipalara ikun ti ko ni kedere pẹlu awọn idanwo FAST ti ko daju ni ile-iwosan agbegbe?",
+  "usage": {
+    "completion_tokens": 49,
+    "prompt_tokens": 132,
+    "total_tokens": 181,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058504.5623462
+}

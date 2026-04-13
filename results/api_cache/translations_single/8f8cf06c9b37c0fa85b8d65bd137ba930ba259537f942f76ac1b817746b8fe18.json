@@ -1,0 +1,19 @@
+{
+  "content": "إطار عمل كرانتز-موريسون لتقدير القيمة النهائية يوصي بالتحول من نموذج نمو الدائمة إلى نموذج تراجع الارتداد المتوسط عندما ينخفض الفارق بين العائد على رأس المال المستثمر وتكلفة رأس المال (ROIC-WACC) إلى أقل من 200 نقطة أساس. نحن عند 180 نقطة أساس - هل يجب أن نقوم بالتحول لتقييم التدفقات النقدية المخصومة لهذا العام؟",
+  "usage": {
+    "completion_tokens": 93,
+    "prompt_tokens": 172,
+    "total_tokens": 265,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058494.0815918
+}

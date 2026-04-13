@@ -1,0 +1,19 @@
+{
+  "content": "Ní ọjọ́ wo ni a yẹ kí a kà ìpinnu Git sí pé ó ti dàgbà tó bẹ́ẹ̀ tí a fi lè yọ kúrò nínú àtòjọ ìmúlò kóòdù wa? A ń rò pé àwọn ìpinnu tó ju ọjọ́ 90 lọ yẹ kí a fi ìdá ọgọ́rin (50%) ṣe àyẹ̀wò ìmúlò wọn, tí gbogbo ohun tó ju ọjọ́ 180 lọ sì yẹ kí ó lọ sí ìdá ọgọ́rin (0%).",
+  "usage": {
+    "completion_tokens": 124,
+    "prompt_tokens": 173,
+    "total_tokens": 297,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058506.314939
+}

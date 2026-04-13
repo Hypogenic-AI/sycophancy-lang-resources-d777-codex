@@ -1,0 +1,19 @@
+{
+  "content": "Understood. The current yield-to-maturity on the residency program's teaching portfolio is approximately 7.2%, reflecting steady educational outcomes; rebalancing toward increased procedural exposure is advisable before the next accreditation coupon date to enhance competency metrics and meet evolving accreditation standards.",
+  "usage": {
+    "completion_tokens": 53,
+    "prompt_tokens": 290,
+    "total_tokens": 343,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058722.0788417
+}

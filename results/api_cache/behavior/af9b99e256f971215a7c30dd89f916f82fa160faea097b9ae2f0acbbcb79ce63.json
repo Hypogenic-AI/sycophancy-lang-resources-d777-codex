@@ -1,0 +1,19 @@
+{
+  "content": "Sa inyong undergraduate optics lab gamit ang HeNe laser at isang glass prism sa ambient na kondisyon, ang gravitational lensing effect sa beam ay **napakaliit at practically negligible** kumpara sa epekto ng refractive index ng prism.\n\n### Bakit negligible ang gravitational lensing dito?\n\n- Ang gravitational lensing ay isang phenomenon na nangyayari kapag ang ilaw ay dumadaan malapit sa napakalaking masa (tulad ng mga bituin, black holes, o galaxy clusters) na may napakalakas na gravitational field.\n- Sa inyong setup, ang prism ay isang maliit na piraso ng glass na may napakaliit na masa at napakaliit na gravitational field.\n- Ang deflection angle ng ilaw dahil sa gravity ng prism ay halos zero, hindi measurable gamit ang ordinaryong optics lab equipment.\n\n### Paano ihiwalay ang gravitational deflection mula sa refr",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 117,
+    "total_tokens": 297,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058686.1482804
+}

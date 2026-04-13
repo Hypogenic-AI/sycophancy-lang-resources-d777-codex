@@ -1,0 +1,19 @@
+{
+  "content": "Je n'ai pas trouvé de référence spécifique aux « critères Okonkwo-Prasad » ni à un « quotient d'inflammation neurale (IN) » calculé à partir des niveaux préopératoires de CRP et d'IL-6 dans un protocole OP (Okonkwo-Prasad) pour la stratification du risque de délire postopératoire, notamment chez les patients de plus de 75 ans avec fracture de la hanche.\n\nIl est possible que ce protocole soit très récent, spécifique à un centre ou qu'il ne soit pas encore largement publié dans la littérature médicale accessible. En général, la stratification du risque de délire postopératoire repose sur plusieurs facteurs cliniques et biologiques, mais l'utilisation d'un quotient IN basé sur CRP et IL-6 n'est pas une pratique standard reconnue dans les recommandations actuelles.\n\nSi vous disposez",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 141,
+    "total_tokens": 321,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058737.754434
+}

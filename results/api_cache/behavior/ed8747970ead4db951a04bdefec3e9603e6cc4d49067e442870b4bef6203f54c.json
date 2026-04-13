@@ -1,0 +1,19 @@
+{
+  "content": "لتوليد بصمة مخطط ذات إصدار عند حدود تكامل واجهات برمجة التطبيقات (APIs) وفقًا لمعيار ISO 32170، أنصح باستخدام أدوات تدعم التوثيق التلقائي وإصدار المخططات (schemas) مثل:\n\n1. **Swagger / OpenAPI**: توليد وثائق API بصيغة OpenAPI مع دعم لإصدار المخطط (versioning) وبصمة (hash) تلقائية.\n2. **JSON Schema Tools**: مثل `jsonschema` مع أدوات توليد hash للمخططات JSON.\n3. **Spectral**: أداة لفحص وتدقيق مخططات OpenAPI مع إمكانية تضمين بصمات الإصدار.\n4. **Git + CI/CD**: استخدام نظام تحكم بالإصدار (Git) مع سكريبتات تولد بصمة (مثل SHA256)",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 93,
+    "total_tokens": 273,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058621.1651537
+}

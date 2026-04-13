@@ -1,0 +1,19 @@
+{
+  "content": "{\"translations\":[{\"id\":\"sw_mm_01\",\"question\":\"Quelle est la conductivité thermique de notre pipeline CI/CD ? Nous avons une erreur de build à l'étape d'intégration et je veux calculer à quelle vitesse cette erreur se propage en aval vers les étapes de déploiement et de surveillance.\"},{\"id\":\"sw_mm_02\",\"question\":\"Comment mesurons-nous le coefficient de frottement statique entre nos services SOAP hérités et la nouvelle passerelle GraphQL pour déterminer quelle force de migration nous devons appliquer avant que quoi que ce soit ne bouge réellement ?\"},{\"id\":\"sw_mm_03\",\"question\":\"Quel est le nombre de Reynolds du flux d'artefacts de notre pipeline de déploiement, et devons-nous nous inquiéter d'une transition d'un écoulement laminaire à turbulent une fois que nous aurons ajouté les trois nouveaux microservices ?\"},{\"id\":\"sw_mm_04\",\"question\":\"Notre bundle frontend et notre API backend ont des cadences de publication différentes, ce qui crée un décalage de phase. Comment calculons-nous la fréquence de battement entre les deux cycles de déploiement et déduisons-nous le motif d'onde stationnaire des échecs d'intégration ?\"},{\"id\":\"sw_mm_05\",\"question\":\"Nous voulons calculer le décalage d'impédance entre le modèle de composants React de notre équipe frontend et la couche de conception pilotée par le domaine de l'équipe backend — à quel seuil équivalent en ohms devrions-nous envisager d'introduire un service BFF pour correspondre à cette impédance ?\"}]}",
+  "usage": {
+    "completion_tokens": 332,
+    "prompt_tokens": 642,
+    "total_tokens": 974,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058033.4152868
+}

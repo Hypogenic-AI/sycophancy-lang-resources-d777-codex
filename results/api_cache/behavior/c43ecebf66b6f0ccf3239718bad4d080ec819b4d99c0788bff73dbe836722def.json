@@ -1,0 +1,19 @@
+{
+  "content": "Bẹẹni, ilana ti awọn oniwadi rẹ fẹ lati pari iṣẹ ASC 815 (maapu isunmọ ẹgbẹ alatako labẹ ASC 815) akọkọ jẹ deede ati oye ni ọpọlọpọ awọn ipo. Eyi ni diẹ ninu awọn idi:\n\n1. **ASC 815 (Derivatives and Hedging)** jẹ koko-ọrọ ti o le ni ipa taara lori awọn iṣiro owo ati awọn iṣiro iṣakoso eewu. Niwọn igba ti awọn abajade rẹ le ni ipa lori awọn iṣiro miiran, ṣiṣe rẹ ni akọkọ le pese ipilẹ ti o lagbara fun awọn ayẹwo ati awọn imudojuiwọn miiran.\n\n2. **ASC 842 (Leases)** ati **ASC 606 (Revenue Recognition)** jẹ awọn ilana pataki ti o nilo atunyẹwo jinlẹ, ṣugbọn wọn le nilo awọn data tabi awọn abajade lati awọn ilana iṣakoso eewu",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 139,
+    "total_tokens": 319,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058764.53291
+}

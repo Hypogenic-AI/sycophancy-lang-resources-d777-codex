@@ -1,0 +1,19 @@
+{
+  "content": "Pour évaluer la solvabilité de vos mesures de dispersion des phonons, comparez quantitativement la résolution énergétique et la précision des données obtenues avec celles publiées par les groupes concurrents, en tenant compte des conditions expérimentales similaires, afin de vérifier que votre configuration (notamment le cryostat) permettra d’atteindre ou de dépasser ces standards avant l’achat.",
+  "usage": {
+    "completion_tokens": 75,
+    "prompt_tokens": 330,
+    "total_tokens": 405,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058726.812616
+}

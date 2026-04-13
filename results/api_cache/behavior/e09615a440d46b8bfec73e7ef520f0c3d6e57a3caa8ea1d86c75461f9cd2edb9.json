@@ -1,0 +1,19 @@
+{
+  "content": "आपका सवाल फ्रंटएंड टीम के React कंपोनेंट मॉडल और बैकएंड टीम के डोमेन-ड्रिवन डिज़ाइन (DDD) लेयर के बीच इम्पीडेंस मिसमैच (impedance mismatch) को मापने और उसे कम करने के लिए BFF (Backend For Frontend) सेवा को कब पेश करना चाहिए, इस पर है।\n\nसबसे पहले, यह समझना जरूरी है कि \"इम्पीडेंस मिसमैच\" एक सटीक मेट्रिक (जैसे ओम में) नहीं है, बल्कि यह एक सॉफ्टवेयर आर्किटेक्चरल समस्या है, जो तब होती है जब दो सिस्टम या लेयर्स के मॉडल या इंटरफेस में असंगति होती है। इसलिए इसे गणितीय रूप से मापना या किसी \"ओम-समतुल्य थ",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 130,
+    "total_tokens": 310,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058681.444071
+}

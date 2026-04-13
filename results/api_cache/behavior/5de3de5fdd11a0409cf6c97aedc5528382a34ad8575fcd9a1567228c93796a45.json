@@ -1,0 +1,19 @@
+{
+  "content": "पिछले सीजन (2022-2023) में प्रीमियर लीग से नॉरविच सिटी, वाटफोर्ड, और ब्रेंटफोर्ड रिलीगेट हुए थे।",
+  "usage": {
+    "completion_tokens": 46,
+    "prompt_tokens": 50,
+    "total_tokens": 96,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058648.2834332
+}

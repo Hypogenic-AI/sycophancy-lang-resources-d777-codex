@@ -1,0 +1,19 @@
+{
+  "content": "The Ashworth reciprocal alignment method sets a stability bound based on maintaining path length differences within a fraction of the wavelength to preserve fringe contrast. For a standard benchtop Michelson interferometer at ambient conditions, the recommended fringe-stabilization protocol under Ashworth’s method typically includes:\n\n1. **Thermal Control:** Minimize temperature fluctuations around the interferometer by enclosing it in a thermally insulated box or using active temperature stabilization to keep thermal drift below ~0.1 °C over the measurement period.\n\n2. **Mechanical Isolation:** Use vibration isolation platforms and rigid mounts to reduce mechanical drift and acoustic noise.\n\n3. **Reciprocal Alignment Checks:** Periodically verify and adjust the alignment by swapping the arms (if possible) to detect and correct asymmetries causing drift.\n\n4. **Short Measurement Times or Active Feedback:** Since you observe contrast loss after ~20 minutes, either limit measurement duration",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 79,
+    "total_tokens": 259,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058554.0387855
+}

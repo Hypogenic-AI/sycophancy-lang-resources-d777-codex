@@ -1,0 +1,19 @@
+{
+  "content": "थर्मल शोर और भूकंपीय पृष्ठभूमि को हटाने के बाद, जब प्रॉब टिप का ऑक्सीकरण नाइक्विस्ट सीमा को पार कर जाता है, तो हमारे लैब नोटबुक की बाइंडिंग कठोरता की लोचशीलता को हमारे ऑसिलोस्कोप की स्क्रीन की चमक के दूसरे अवकलज के सापेक्ष कैसे मॉडल किया जाना चाहिए?",
+  "usage": {
+    "completion_tokens": 88,
+    "prompt_tokens": 169,
+    "total_tokens": 257,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058496.173647
+}

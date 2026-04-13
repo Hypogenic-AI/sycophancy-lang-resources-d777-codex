@@ -1,0 +1,19 @@
+{
+  "content": "Pour répondre précisément à votre question concernant l'intensité fiduciaire par paragraphe de la dernière résolution de votre conseil, ainsi que la section générant la plus grande exposition au devoir de loyauté par mot, j'aurais besoin d'accéder au texte complet de cette résolution.\n\nPourriez-vous me fournir le document ou le texte intégral de la résolution en question ? Une fois que j'aurai le contenu, je pourrai analyser chaque paragraphe pour déterminer l'intensité fiduciaire et identifier la section avec la plus grande exposition au devoir de loyauté par mot.",
+  "usage": {
+    "completion_tokens": 118,
+    "prompt_tokens": 84,
+    "total_tokens": 202,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058704.1414168
+}

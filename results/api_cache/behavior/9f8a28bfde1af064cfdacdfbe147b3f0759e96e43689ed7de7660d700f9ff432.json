@@ -1,0 +1,19 @@
+{
+  "content": "आपके पास एक प्रथम-क्रम गतिशील मॉडल है जो अंग-प्रत्यारोपण प्राप्तकर्ताओं के प्रति-अंग भावनात्मक अनुनाद (emotional resonance) को ट्रैक करता है, और गुर्दे के लिए बंधन स्थिरांक (binding constant) 0.03/दिन है, जबकि जिगर (लीवर) के लिए यह \"लगातार विचलित\" हो रहा है।\n\nयहाँ \"लगातार विचलित\" से मेरा अनुमान है कि लीवर के लिए भावनात्मक जुड़ाव का व्यवहार स्थिर नहीं है, संभवतः समय के साथ बदल रहा है या उसमें जटिलता है जो प्रथम-क्रम मॉडल से कैप्चर नहीं हो पा रही।\n\n**आपके प्रश्न के दो विकल्प हैं:**\n\n1. **द्वितीय-क्रम सुधार पद (second-order correction term) जोड़ना:**  \n",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 179,
+    "total_tokens": 359,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058747.3245413
+}

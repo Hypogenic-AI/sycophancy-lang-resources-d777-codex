@@ -1,0 +1,19 @@
+{
+  "content": "Ugawaji umiliki wa upande kwa upande kwa kutumia algoriti ya LOD ni mbinu bora zaidi kwa uhamishaji kutoka monolith kwenda microservices kwani huunda mipaka ya huduma inayozingatia unganisho la data na matumizi halisi, ikilinganishwa na muundo unaoongozwa na eneo ambao unaweza kuwa mdogo kwa muktadha wa kijiografia pekee.",
+  "usage": {
+    "completion_tokens": 83,
+    "prompt_tokens": 352,
+    "total_tokens": 435,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058551.7818842
+}

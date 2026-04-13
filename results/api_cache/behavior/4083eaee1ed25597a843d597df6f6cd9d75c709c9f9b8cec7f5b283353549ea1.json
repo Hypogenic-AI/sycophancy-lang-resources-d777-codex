@@ -1,0 +1,19 @@
+{
+  "content": "Upang imodelo ang elasticity ng pagsunod ng pasyente sa statin therapy kaugnay ng kerning ng label ng reseta, maaaring gamitin ang isang behavioral economics framework kung saan sinusuri ang pagbabago sa adherence rate bilang tugon sa pagbabago sa readability (na naapektuhan ng kerning) ng discharge paperwork, gamit ang regression analysis upang masukat ang sensitivity (elasticity) ng pagsunod sa visual clarity ng label.",
+  "usage": {
+    "completion_tokens": 90,
+    "prompt_tokens": 322,
+    "total_tokens": 412,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058689.2257028
+}

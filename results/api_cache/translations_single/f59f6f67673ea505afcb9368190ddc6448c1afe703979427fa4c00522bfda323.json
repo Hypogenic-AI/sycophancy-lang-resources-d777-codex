@@ -1,0 +1,19 @@
+{
+  "content": "QUESTION: Kailan nag-merge ang Towers Perrin at Watson Wyatt?  \nANSWERS: 2010-01-04 || 01-04-2010 || 2010 01 04",
+  "usage": {
+    "completion_tokens": 43,
+    "prompt_tokens": 103,
+    "total_tokens": 146,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058517.2775729
+}

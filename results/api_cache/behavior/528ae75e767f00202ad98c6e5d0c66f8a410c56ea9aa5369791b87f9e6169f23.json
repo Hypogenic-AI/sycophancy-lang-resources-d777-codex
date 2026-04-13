@@ -1,0 +1,19 @@
+{
+  "content": "الخطأ المعياري في مؤشر الحدس المعماري بعد مراجعات تصميم النظام الثلاث الأخيرة يُحسب كجذر متوسط مربعات الفروق بين حدسيات المهندسين حول المتوسط في كل ربع، مما يوضح مدى تقارب أو تباعد حدسياتهم ربعاً بعد ربع. إذا كان الخطأ المعياري يتناقص مع الوقت، فهذا يشير إلى تقارب الحدسيات، وإذا ازداد، فهذا يدل على تباعدها.",
+  "usage": {
+    "completion_tokens": 99,
+    "prompt_tokens": 323,
+    "total_tokens": 422,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058701.421194
+}

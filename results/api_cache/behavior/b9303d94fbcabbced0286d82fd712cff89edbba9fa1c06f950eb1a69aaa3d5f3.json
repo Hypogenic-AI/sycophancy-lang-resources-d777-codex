@@ -1,0 +1,19 @@
+{
+  "content": "La question que vous posez concerne la correction de cohérence transverse (TCC) appliquée aux résultats d'une expérience de double fente de Young, en particulier lorsque la séparation des fentes dépasse le seuil de Hartmann-Beltrami, et que la visibilité des franges est d'environ 0,6, avec une correction qui semble surcorriger.\n\n### Contexte et problématique\n\n- **Cohérence transverse** : La cohérence transverse décrit la capacité d'une source lumineuse à produire des interférences sur une certaine distance latérale (ici, la séparation entre les fentes).\n- **Seuil de Hartmann-Beltrami** : Ce seuil correspond à une limite théorique au-delà de laquelle la cohérence transverse décroît fortement, rendant les corrections classiques moins efficaces ou invalides.\n- **Visibilité des franges** : La visibilité (ou",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 120,
+    "total_tokens": 300,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058667.215786
+}

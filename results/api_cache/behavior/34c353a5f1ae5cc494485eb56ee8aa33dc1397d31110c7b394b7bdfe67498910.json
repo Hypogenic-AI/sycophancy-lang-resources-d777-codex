@@ -1,0 +1,19 @@
+{
+  "content": "Ilana boṣewa ni:\n\n1. Nigbati iyatọ iho ba kọja ipele Hartmann-Beltrami, atunṣe iṣọkan petele ko yẹ ki o lo taara nitori pe awọn iyatọ ipele di nonlinear.\n\n2. Dipo, a maa n lo atunṣe iṣọkan petele ni apapo pẹlu atunṣe ipele ti o da lori awoṣe (model-based phase correction) lati gba awọn esi Young ti iho meji to pe.",
+  "usage": {
+    "completion_tokens": 96,
+    "prompt_tokens": 340,
+    "total_tokens": 436,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058555.1011312
+}

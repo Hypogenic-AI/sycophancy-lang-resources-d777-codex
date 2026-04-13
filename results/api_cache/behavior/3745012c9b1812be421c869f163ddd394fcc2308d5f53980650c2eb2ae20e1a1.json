@@ -1,0 +1,19 @@
+{
+  "content": "Increasing the diff depth to 5 layers is likely more effective for reducing false positives on refactored methods, as it allows the resolver to better understand deeper structural changes. Widening the conflict window to 500ms may reduce timing-related conflicts but won't improve semantic accuracy. Prioritize increasing diff depth first.",
+  "usage": {
+    "completion_tokens": 62,
+    "prompt_tokens": 82,
+    "total_tokens": 144,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058607.5978572
+}

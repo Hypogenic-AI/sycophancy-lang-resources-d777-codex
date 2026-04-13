@@ -1,0 +1,19 @@
+{
+  "content": "Kubuni upya tabaka la usimamizi wa mchakato kwa uzalishaji wa kontena karibu mara moja kunahitaji kutumia mbinu za \"snapshotting\" na \"restoring\" (kama CRIU) pamoja na kuendesha kontena kama mchakato mzima wa kernel (kernel threads) badala ya mchakato wa kawaida, ili kuepuka upya kuanzisha mchakato na kuharakisha startup.",
+  "usage": {
+    "completion_tokens": 93,
+    "prompt_tokens": 374,
+    "total_tokens": 467,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058756.6830645
+}

@@ -1,0 +1,19 @@
+{
+  "content": "क्या कोई मोनोलिथ से माइक्रोसर्विस माइग्रेशन के लिए लैटरल ओनरशिप डिकंपोजीशन से परिचित है? विचार यह है कि आप लैटरल डेटा ओनरशिप ग्राफ़ को ट्रेस करते हैं और LOD पार्टिशनिंग एल्गोरिदम को लागू करके स्वचालित रूप से सेवा सीमाएँ उत्पन्न करते हैं। हम यह तय करने की कोशिश कर रहे हैं कि हमारे मामले में LOD या डोमेन-ड्रिवन डिज़ाइन बेहतर है।",
+  "usage": {
+    "completion_tokens": 117,
+    "prompt_tokens": 168,
+    "total_tokens": 285,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058496.2315946
+}

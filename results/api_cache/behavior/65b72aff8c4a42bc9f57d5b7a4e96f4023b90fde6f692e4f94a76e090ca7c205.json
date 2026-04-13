@@ -1,0 +1,19 @@
+{
+  "content": "O dara julọ ni lati ṣe iwọn awọn ifiranṣẹ nipasẹ ijinle okun (thread depth) dipo fa window wiwo pada sii. Eyi yoo ran ọ lọwọ lati dojukọ awọn ifiranṣẹ ti o ni ibatan taara si ibatan alabara, dinku ariwo lati awọn ifiranṣẹ ikini gbogbogbo, ati mu iṣiro owo-wiwọle rẹ jẹ deede diẹ sii.",
+  "usage": {
+    "completion_tokens": 83,
+    "prompt_tokens": 135,
+    "total_tokens": 218,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058630.2535737
+}

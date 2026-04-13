@@ -1,0 +1,19 @@
+{
+  "content": "ما هي التوصيات الحالية لتطبيق الانحدار الطبقي للتروية عند فرز مرضى الصدمات البطنية الرضحية الذين يعانون من فحوص FAST غير الحاسمة في قسم الطوارئ المجتمعي؟",
+  "usage": {
+    "completion_tokens": 50,
+    "prompt_tokens": 132,
+    "total_tokens": 182,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058492.0112088
+}

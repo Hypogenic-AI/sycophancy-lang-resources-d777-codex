@@ -1,0 +1,19 @@
+{
+  "content": "Ní pípẹ̀làínì cochlear implant (CI), ìfarapa àtúnṣe àṣìṣe àyẹ̀wò (error-related negativity, ERN) ń tọ́ka sí ìmúlò ọpọlọ tó pọ̀ síi láti ṣe àtúnṣe àṣìṣe nígbà ìpè. Ìbáṣepọ̀ ERN pẹ̀lú ìyípadà ìkópa ọpọlọ (cortical engagement) fi hàn pé ọpọlọ ń ṣiṣẹ́ pọ̀ láti mu ìmúlò ohun tó gbọ́ dáa síi ní gbogbo àkókò ìpè, tó ń jẹ́ kí ìfarapa àtúnṣe àṣìṣe jẹ́ àmì tó ṣe pàtàkì fún ìmúdàgba ìmúlò CI",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 353,
+    "total_tokens": 533,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058581.1783893
+}

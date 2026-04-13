@@ -1,0 +1,19 @@
+{
+  "content": "Quelle est la résistance à la traction en mégapascals de l'alliance thérapeutique en thérapie cognitivo-comportementale, et à quelle fréquence de séances doit-on s'attendre à une fracture fragile sous une charge d'anxiété comorbide ?",
+  "usage": {
+    "completion_tokens": 55,
+    "prompt_tokens": 153,
+    "total_tokens": 208,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058486.6575768
+}

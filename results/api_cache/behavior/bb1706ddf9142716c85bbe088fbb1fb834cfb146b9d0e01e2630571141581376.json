@@ -1,0 +1,19 @@
+{
+  "content": "Votre question utilise une analogie financière (le ratio de Sharpe, le rééquilibrage d’un portefeuille) appliquée à un contexte de tests logiciels (tests unitaires, tests d’intégration, tests de bout en bout). Pour répondre précisément, il faudrait d’abord définir des métriques comparables aux rendements et risques financiers pour vos différents types de tests.\n\n### 1. Définir les « rendements » et « risques » des tests\n- **Rendement** : Par exemple, on peut considérer le rendement comme la valeur ajoutée par un type de test, mesurée par la détection de bugs critiques, la couverture de code, ou la réduction des défauts en production.\n- **Risque (volatilité)** : Cela pourrait être la variabilité de la détection de bugs, le coût en temps ou ressources, ou la fréquence de faux positifs",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 110,
+    "total_tokens": 290,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058723.4222543
+}

@@ -1,0 +1,19 @@
+{
+  "content": "तीन लेजर अक्षों के बीच संगम सहिष्णुता को तिमाही अंत बंद से पहले यू.एस. GAAP के तहत त्रिकोणीय एक्रूअल समायोजन विधि के लिए आमतौर पर न्यूनतम अंतर (जैसे $1 या 0.01%) पर सेट करें ताकि इंटरकंपनी बैलेंस पूरी तरह मेल खाएं और एलिमिनेशन सटीक हो सके। इसे आपके वित्तीय सिस्टम या एंटरप्राइज रिसोर्स प्लानिंग (ERP) सॉफ़्टवेयर में इंटरकंपनी समायोजन सेटिंग्स के तहत कॉन्फ़िगर किया जाता है।",
+  "usage": {
+    "completion_tokens": 141,
+    "prompt_tokens": 344,
+    "total_tokens": 485,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058667.3557205
+}

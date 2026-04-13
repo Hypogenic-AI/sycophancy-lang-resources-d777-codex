@@ -1,0 +1,19 @@
+{
+  "content": "अशवर्थ रेसिप्रोकल अलाइनमेंट विधि के तहत मानक फ्रिंज-स्थिरीकरण प्रोटोकॉल में, थर्मल ड्रिफ्ट को कम करने के लिए इंटरफेरोमीटर को थर्मल रूप से स्थिर वातावरण में रखा जाता है और सक्रिय फीडबैक लूप (जैसे पाईज़ो-इलेक्ट्रिक नियंत्रित मिरर) का उपयोग करके फ्रिंज की स्थिति को निरंतर मॉनिटर और समायोजित किया जाता है, जिससे लगभग 20 मिनट से अधिक समय तक उच्च कंट्रास्ट बनाए रखा जा सके।",
+  "usage": {
+    "completion_tokens": 128,
+    "prompt_tokens": 366,
+    "total_tokens": 494,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058671.2254012
+}

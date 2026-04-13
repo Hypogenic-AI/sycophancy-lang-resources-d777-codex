@@ -1,0 +1,19 @@
+{
+  "content": "O ṣeun fún ìtúnṣe rẹ. Jẹ́ kí n dáhùn ìbéèrè rẹ ní kedere ní ìsọ̀kan méjì:\n\n1. **Ìṣàkóso ìfọwọ́sowọpọ̀ sí ìdákẹ́jẹ PR review:**\n   - Ìṣàkóso ìfọwọ́sowọpọ̀ nínú PR review jẹ́ ìmúlò àwọn ìbáṣepọ̀ pẹ̀lú àwọn ọmọ ẹgbẹ́ láti ṣe àyẹ̀wò kóòdù nípa fífi àfihàn, ìjíròrò, àti ìtúnṣe pọ̀. Èyí ń dènà commit entropy (ìfarapa àtúnṣe tó pọ̀ jù) nípa pípa àwọn àtúnṣe kóòdù sílẹ̀ ní",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 385,
+    "total_tokens": 565,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058693.9324317
+}

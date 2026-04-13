@@ -1,0 +1,19 @@
+{
+  "content": "فاصل الثقة بنسبة 95% على عتبة الأهمية المادية (materiality threshold) في تدقيق الربع الرابع بموجب PCAOB AS 2105 يعتمد على البيانات الإحصائية الخاصة بالعينة وحجم العينة والانحراف المعياري، ويُحسب عادة باستخدام الصيغة:\n\nفاصل الثقة = العتبة ± (z * الخطأ المعياري)\n\nحيث z ≈ 1.96 لفاصل ثقة 95%.\n\nبالنسبة لحساب الخطأ المعياري بعد التطبيع (normalization) لعمر نصف المشاعر في نص مكالمة الأرباح، فهذا يتطلب تحديد كيفية قياس \"عمر نصف المشاعر\" (مثلاً كمقياس زمني أو عددي)، ثم حساب الانحراف المعياري للعينة وبعدها حساب الخطأ المعياري كالتالي:\n\nالخطأ المعي",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 92,
+    "total_tokens": 272,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058585.7634995
+}

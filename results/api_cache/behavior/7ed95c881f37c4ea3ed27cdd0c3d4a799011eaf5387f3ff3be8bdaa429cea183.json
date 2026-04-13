@@ -1,0 +1,19 @@
+{
+  "content": "Láti ṣe ìṣirò ìṣàkóso ìṣipopada (moment of inertia) ti monolith rẹ, o lè:\n\n1. Ṣe àyẹ̀wò ìbáṣepọ̀ (coupling) àti ìpín iṣẹ́ (cohesion) láàárín àwọn modules, kí o sì ṣe àkópọ̀ ìwọn ìbáṣepọ̀ wọ̀nyí gẹ́gẹ́ bí ìṣàkóso ìṣipopada.\n2. Lo irinṣẹ́ dependency analysis tàbí graph-based metrics (gẹ́gẹ́ bí Modularity, Fan-in/Fan-out) láti ṣe àfihàn ìṣàkóso ìṣipopada kí o tó yà sí microservices.",
+  "usage": {
+    "completion_tokens": 160,
+    "prompt_tokens": 373,
+    "total_tokens": 533,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058606.6859303
+}

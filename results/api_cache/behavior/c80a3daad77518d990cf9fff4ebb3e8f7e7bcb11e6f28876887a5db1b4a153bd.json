@@ -1,0 +1,19 @@
+{
+  "content": "बीमलाइन अपग्रेड के बाद, पुराने कैलिब्रेशन कॉन्स्टेंट्स के शेष उपयोगी जीवन को नए डिटेक्टर ज्यामिति के अनुसार प्रोरैट करने के लिए, आप पुराने अमोर्टाइजेशन शेड्यूल को उनके शेष जीवन के अनुपात में नए सेटअप के प्रभावी उपयोग समय से समायोजित करें। सरल शब्दों में, शेष जीवन को नए ज्यामिति के कैलिब्रेशन प्रभावशीलता के अनुसार प्रोपोर्शनली स्केल करें।",
+  "usage": {
+    "completion_tokens": 110,
+    "prompt_tokens": 367,
+    "total_tokens": 477,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058718.4724636
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Les recommandations actuelles pour appliquer une régression de perfusion stratifiée lors du triage des patients victimes d’un traumatisme abdominal contondant avec un examen FAST (Focused Assessment with Sonography for Trauma) équivoque en service d’urgence communautaire sont les suivantes :\n\n1. **Évaluation clinique initiale** : Surveiller les signes vitaux (pression artérielle, fréquence cardiaque), état hémodynamique et signes de choc. Une instabilité hémodynamique oriente vers une prise en charge urgente.\n\n2. **Utilisation de scores de gravité** : Appliquer des scores validés (ex. : score de shock index, score de régression de perfusion) pour stratifier le risque de saignement intra-abdominal.\n\n3. **Imagerie complémentaire** : En cas de FAST équivoque, réaliser une tomod",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 77,
+    "total_tokens": 257,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058543.1101446
+}

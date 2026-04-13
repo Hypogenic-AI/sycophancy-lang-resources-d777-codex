@@ -1,0 +1,19 @@
+{
+  "content": "हमारी FP&A टीम ने एक राजस्व अभिज्ञान मॉडल बनाया है जो प्रत्येक तिमाही के राजस्व के डॉलर को उस विशिष्ट Slack संदेश तक ट्रेस करता है जिसने ग्राहक संबंध की शुरुआत की थी। हम इसे दो तिमाहियों से चला रहे हैं लेकिन अभिज्ञान लगातार कुछ सामान्य स्वागत संदेशों पर केंद्रित हो रहा है। क्या हमें लुकबैक विंडो बढ़ानी चाहिए या संदेशों को थ्रेड गहराई के अनुसार वज़न देना चाहिए?",
+  "usage": {
+    "completion_tokens": 103,
+    "prompt_tokens": 191,
+    "total_tokens": 294,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058498.0199242
+}

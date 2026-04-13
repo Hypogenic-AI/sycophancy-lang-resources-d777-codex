@@ -1,0 +1,19 @@
+{
+  "content": "لضبط معامل هول لأقطاب مراقبة القلب عند 33 درجة مئوية بدلاً من 37 درجة مئوية، يُستخدم معامل تصحيح يعتمد على العلاقة الخطية أو شبه الخطية بين المقاومة ودرجة الحرارة، حيث يُخفض معامل هول بنسبة تقريبية تتناسب مع الانخفاض في درجة الحرارة، عادةً بتعديل المعامل إلى حوالي 0.7-0.8 من قيمته عند 37 درجة مئوية لتعويض زيادة مقاومة الأقطاب عند 33 درجة مئوية.",
+  "usage": {
+    "completion_tokens": 109,
+    "prompt_tokens": 331,
+    "total_tokens": 440,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058676.8939388
+}

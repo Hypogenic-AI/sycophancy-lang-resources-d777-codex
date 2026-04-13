@@ -1,0 +1,19 @@
+{
+  "content": "Orísun tó dájú jùlọ fún kọ́ ẹ̀kọ́ ìtẹ̀jáde àkópọ̀ ìṣòro (root cause analysis) fún ìdánwò Certified Platform Reliability Architect (CPRA) ni:\n\n1. **Google Cloud Certified Professional Reliability Engineer Study Guide** — ìwé ìtọnisọna tó ní ìtẹ̀jáde àkópọ̀ ìṣòro gẹ́gẹ́ bí apá pàtàkì.\n2. **Site Reliability Engineering: How Google Runs Production Systems** — ìwé àkọ́kọ́ tó ṣàlàyé ìtẹ̀jáde àkópọ̀ ìṣòro gẹ́gẹ́ bí ìlànà boṣewa ní SRE.\n\nÀwọn méjèèjì ni a mọ̀ sí orísun àtọ",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 390,
+    "total_tokens": 570,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058622.435957
+}

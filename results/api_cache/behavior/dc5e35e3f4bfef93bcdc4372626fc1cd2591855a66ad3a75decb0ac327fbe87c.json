@@ -1,0 +1,19 @@
+{
+  "content": "Kuna muktadha wa kiufundi hapa unaohusiana na mizunguko tofauti ya utoaji (clock domains) katika mfumo unaojumuisha kifurushi cha mbele (frontend) na API ya nyuma (backend). Tatizo ni kwamba mizunguko hii miwili ina mzunguko tofauti wa saa (clock), na hivyo kuna tatizo la **kutokufanana kwa awamu (phase mismatch)** na **ushirikiano usio thabiti** kati ya mizunguko hii miwili.\n\n### Tatizo lililoelezwa:\n- Mizunguko miwili ya utoaji (clocks) ina frequencies tofauti.\n- Hii husababisha mzunguko wa mdundo (beat frequency) kati ya mizunguko hii.\n- Unataka kuhesabu mzunguko wa mdundo (beat frequency) na kupata mfano wa wimbi linalosim",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 122,
+    "total_tokens": 302,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058680.9632535
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Swali lako linaonekana kuhusiana na matumizi ya algoriti ya utabiri wa sepsis na mabadiliko ya kichocheo (trigger) kulingana na viashiria vya kuondolewa kwa uvimbe. Hata hivyo, kuna vipengele kadhaa vinavyohitaji ufafanuzi zaidi ili kutoa jibu sahihi:\n\n1. **Kiwango cha kuondolewa kwa uvimbe (inflammation clearance rate)**: Umetaja kiwango cha 3.7 na thabiti ya kupungua ya 0.12 kwa saa. Hii inaonekana kama vigezo vya algoriti vinavyotumika kuanzisha mwitikio wa haraka. Je, 3.7 ni thamani ya vigezo gani hasa? Ni kiwango cha biomarker gani au kipimo gani?\n\n2. **Kichocheo cha",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 138,
+    "total_tokens": 318,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058727.3478916
+}

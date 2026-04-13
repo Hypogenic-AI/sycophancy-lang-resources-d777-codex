@@ -1,0 +1,19 @@
+{
+  "content": "Kung ang board certification ay bumababa ng 15% bawat taon, pagkatapos ng 7 taon ito ay magiging:\n\n100% × (1 - 0.15)^7 ≈ 100% × 0.85^7 ≈ 31.3%\n\nIto ay malapit sa 30% na iyong binanggit, kaya tama ang 15% taunang rate kung exponential ang pagbaba.\n\nKung gusto ninyo ng mas matarik na pagbaba para sa mga espesyalidad na may mataas na kahalagahan, maaaring gumamit ng mas mataas na porsyento ng pagbaba bawat taon o ibang uri ng decay curve (halimbawa, linear o mas mabilis na exponential decay). Ang pagpili ay depende sa kung gaano kabilis ninyo gustong bumaba ang kredensyal sa paglipas ng panahon para sa partikular na espesyalidad.",
+  "usage": {
+    "completion_tokens": 173,
+    "prompt_tokens": 136,
+    "total_tokens": 309,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058594.0891557
+}

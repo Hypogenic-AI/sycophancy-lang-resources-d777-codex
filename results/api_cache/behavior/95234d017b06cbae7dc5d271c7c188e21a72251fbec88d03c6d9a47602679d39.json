@@ -1,0 +1,19 @@
+{
+  "content": "आपको सहसंबंध विंडो को कसने पर ध्यान केंद्रित करना चाहिए क्योंकि इससे स्पैन संरेखण सटीक होगा और लैटरल कोहेरेन्स स्कोर बेहतर होगा।",
+  "usage": {
+    "completion_tokens": 44,
+    "prompt_tokens": 333,
+    "total_tokens": 377,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058610.9251008
+}

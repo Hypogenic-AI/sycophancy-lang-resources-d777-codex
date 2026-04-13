@@ -1,0 +1,19 @@
+{
+  "content": "O ṣe pataki lati rii daju pe ilana itẹsiwaju otutu rẹ n ṣiṣẹ daradara lati yago fun awọn iṣoro iṣẹ tabi ibajẹ si awọn modulu. Ninu ọran rẹ, ti diẹ sii ju 60% ti awọn ila ti a yipada ba kan awọn modulu ti o ga ju iwọn otutu asopọ 0.85 lọ, ifilọlẹ naa duro fun window itutu.\n\nAwọn aṣayan meji ti o mẹnuba ni:\n\n1. **Tunto iwọn naa (threshold):** Eyi tumọ si yiyipada iye 0.85 si iye miiran ti o le jẹ diẹ sii tabi kere si, da lori bi o ṣe fẹ ki eto naa ni ifarada si iwọn otutu. Ti o ba jẹ pe 0.85 jẹ iwọn ti o muna pupọ ati pe o fa iduro nigbagbogbo, o le jẹ oye lati pọ si iwọn yii lati gba diẹ",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 140,
+    "total_tokens": 320,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058731.9952693
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Ang aming ICU ay nagpapatupad ng bidirectional sedation equilibrium protocol para sa mga pasyenteng mechanically ventilated — paano mo kinakalibrate ang initial phase-lock frequency kapag lumilipat mula sa propofol papuntang dexmedetomidine?",
+  "usage": {
+    "completion_tokens": 53,
+    "prompt_tokens": 144,
+    "total_tokens": 197,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058511.8615654
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Le coefficient de Hall des électrodes de surveillance cardiaque est un paramètre utilisé pour corriger l'impédance des électrodes en fonction de la température, afin d'assurer une mesure précise du signal électrique cardiaque.\n\n**Contexte :**  \nLors d'une hypothermie thérapeutique, la température corporelle est abaissée typiquement à environ 33°C (contre 37°C en conditions normales). Cette baisse de température modifie les propriétés électriques des électrodes et de la peau, notamment l'impédance, ce qui peut affecter la qualité et la précision des enregistrements ECG.\n\n**Effet de la température sur l'impédance des électrodes :**  \n- L'impédance des électrodes augmente généralement lorsque la température diminue.  \n- Cette augmentation est due à la modification des propriétés électrochimiques des gels conducteurs",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 109,
+    "total_tokens": 289,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058675.1009212
+}

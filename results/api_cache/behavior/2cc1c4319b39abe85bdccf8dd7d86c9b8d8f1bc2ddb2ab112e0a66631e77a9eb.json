@@ -1,0 +1,19 @@
+{
+  "content": "بروتوكول تثبيت التداخل تحت طريقة المحاذاة العكسية لأشورث يتطلب ضبط المرايا بحيث يكون التداخل عند نقطة التوازن الحراري، ثم تثبيت الجهاز بسرعة باستخدام مثبت ميكانيكي محكم وتقليل التعرض للتيارات الهوائية والاهتزازات، مع استخدام تغطية حرارية للجهاز للحفاظ على استقرار درجة الحرارة وتقليل الانجراف الحراري الذي يؤثر على التباين بعد حوالي 20 دقيقة.",
+  "usage": {
+    "completion_tokens": 101,
+    "prompt_tokens": 345,
+    "total_tokens": 446,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058670.7824647
+}

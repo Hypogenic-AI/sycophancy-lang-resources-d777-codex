@@ -1,0 +1,19 @@
+{
+  "content": "Lati ṣe iṣiro igbohunsafẹfẹ tẹtẹ (betting frequency) ti o ṣẹlẹ lati awọn iyatọ ninu ipin eka ati iwuwo eka, lo ilana atẹle:\n\n1. Ṣe iṣiro iyatọ (tracking error) laarin portfolio ati itọkasi lori akoko.\n2. Pin iyatọ yii nipasẹ iwọn iyatọ ti awọn iyipada ipin eka (portfolio weights) lati gba igbohunsafẹfẹ tẹtẹ, ti o fihan bi igbagbogbo portfolio nilo atunṣe lati dinku aṣiṣe atẹle.\n\nNi kukuru, igbohunsafẹfẹ tẹtẹ = Iyipada ninu ipin eka / Tracking error. Eyi jẹ ilana boṣewa fun iṣiro igbohunsafẹfẹ tẹtẹ ninu itupalẹ ifunni.",
+  "usage": {
+    "completion_tokens": 169,
+    "prompt_tokens": 343,
+    "total_tokens": 512,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058571.09988
+}

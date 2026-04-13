@@ -1,0 +1,19 @@
+{
+  "content": "Kama unataka kuongeza ishara zaidi katika mfano wa hisia (sentiment analysis model) unaotumia thamani ya majina ya vigezo (feature names) kwa kila kazi, hapa kuna mbinu kadhaa unazoweza kujaribu:\n\n1. **Ongeza Vyanzo vya Data vya Hisia**  \n   - Tumia kamusi za hisia (sentiment lexicons) kama SentiWordNet, AFINN, VADER, au NRC Emotion Lexicon ili kuongeza alama za hisia kwa maneno au vigezo vya kazi.  \n   - Ongeza vigezo vinavyohusiana na hisia kama idadi ya maneno yenye hisia chanya, hasi, au za wasiwasi.\n\n2. **Tumia Sifa za Kielelezo cha Maneno (Word Embeddings)**  \n   - Badala ya",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 118,
+    "total_tokens": 298,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058751.4980853
+}

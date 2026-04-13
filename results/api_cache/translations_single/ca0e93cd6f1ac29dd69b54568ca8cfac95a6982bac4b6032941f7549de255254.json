@@ -1,0 +1,19 @@
+{
+  "content": "Notre équipe FP&A a construit un modèle d'attribution des revenus qui retrace chaque dollar de revenu trimestriel jusqu'au message Slack spécifique qui a initié la relation client. Nous l'utilisons depuis deux trimestres, mais l'attribution continue de se concentrer sur une poignée de messages de bienvenue génériques. Devons-nous élargir la fenêtre de rétroaction ou pondérer les messages en fonction de la profondeur du fil de discussion ?",
+  "usage": {
+    "completion_tokens": 91,
+    "prompt_tokens": 191,
+    "total_tokens": 282,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058487.871134
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Kwa SaaS ya soko la kati lenye mkusanyiko mkubwa wa mali miliki, uharibifu wa fidia (due diligence) unapaswa kuwa wa kina sana. Hii inajumuisha:\n\n1. Ukaguzi wa mali miliki zote (haki za programu, alama za biashara, hakimiliki, patents) kuhakikisha zinamilikiwa au zinatumika kwa usahihi.\n2. Kukagua mikataba ya leseni, ushirikiano, na wateja ili kubaini hatari za kisheria.\n3. Kupitia rekodi za kifedha na utendaji wa bidhaa ili kuthibitisha thamani na uendelevu wa biashara.\n4. Kutathmini masuala ya usalama wa data na ulinzi wa taarifa za wateja.\n5. Kuangalia masuala ya rufaa, migog",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 96,
+    "total_tokens": 276,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058541.4380763
+}

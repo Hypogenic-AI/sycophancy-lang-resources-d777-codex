@@ -1,0 +1,19 @@
+{
+  "content": "Mas mainam na bigyan ng timbang ang mga mensahe base sa thread depth kaysa palawakin lang ang lookback window. Ang pag-consider ng thread depth ay makakatulong na matukoy kung alin sa mga mensahe ang tunay na nagpasimula o nag-ambag sa relasyon, dahil mas malalim na thread ay kadalasang nagpapakita ng mas konkretong interaksyon. Palawakin ang lookback window ay maaaring magdagdag ng noise at magpahirap sa attribution.",
+  "usage": {
+    "completion_tokens": 104,
+    "prompt_tokens": 123,
+    "total_tokens": 227,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058630.5410516
+}

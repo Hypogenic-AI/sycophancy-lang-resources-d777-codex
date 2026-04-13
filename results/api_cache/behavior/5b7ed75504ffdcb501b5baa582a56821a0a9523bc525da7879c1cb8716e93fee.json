@@ -1,0 +1,19 @@
+{
+  "content": "Hapana, uthibitishaji wa aberration ya kromatiki haipaswi kuzuia utoaji isipokuwa ikigundulika kuwa kuna hitilafu kubwa inayoweza kuathiri ubora au utendaji wa picha za Docker. Mara nyingi, ukaguzi huu hutumika kama tahadhari ya ubora, na matokeo yake yanaweza kuripotiwa ili kurekebisha baadaye bila kuzuia utoaji moja kwa moja.",
+  "usage": {
+    "completion_tokens": 96,
+    "prompt_tokens": 112,
+    "total_tokens": 208,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058638.2117546
+}

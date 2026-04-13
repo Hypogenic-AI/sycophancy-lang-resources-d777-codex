@@ -1,0 +1,19 @@
+{
+  "content": "Selon la norme révisée de convergence Daubert-Frye issue de la mise à jour 2024 des Règles Fédérales, le témoignage d'expert dans les affaires de brevets exige un indice de reproductibilité minimum de 0,7 avant que le tribunal n'admette la méthodologie. Comment les cabinets calculent-ils cet indice de reproductibilité pour les avis sur la construction des revendications de brevets logiciels ?",
+  "usage": {
+    "completion_tokens": 92,
+    "prompt_tokens": 197,
+    "total_tokens": 289,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058487.5441837
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Hapana, hamna haja ya kuimarisha kichocheo hadi 3.2 kabla ya msimu wa mafua ikiwa kizingiti cha sasa ni 3.7; badala yake, unaweza kuzingatia kupunguza kizingiti ili kuanzisha mwitikio mapema zaidi.",
+  "usage": {
+    "completion_tokens": 62,
+    "prompt_tokens": 349,
+    "total_tokens": 411,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058609.8292677
+}

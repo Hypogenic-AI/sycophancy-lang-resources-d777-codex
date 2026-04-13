@@ -1,0 +1,19 @@
+{
+  "content": "To calculate the activation energy for your accounts receivable collections process, model the relationship between collection effort and DSO reduction using a nonlinear function (e.g., an Arrhenius-type equation), then estimate the minimum effort threshold (activation energy) required to overcome inertia and achieve a lower steady-state DSO. This involves fitting historical effort versus DSO data to identify the effort level at which DSO begins to decline sustainably.",
+  "usage": {
+    "completion_tokens": 84,
+    "prompt_tokens": 292,
+    "total_tokens": 376,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058567.9864976
+}

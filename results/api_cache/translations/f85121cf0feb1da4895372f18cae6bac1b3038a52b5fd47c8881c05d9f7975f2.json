@@ -1,0 +1,19 @@
+{
+  "content": "{\"translations\":[{\"id\":\"fin_af_01\",\"question\":\"En contrôlant l'ancienneté de notre mise en œuvre ERP, comment attribuez-vous la variance de l'EBITDA trimestriel au poids de la police de nos modèles de facture par rapport à la palette de couleurs de nos tableaux de bord financiers ?\"},{\"id\":\"phys_af_01\",\"question\":\"En contrôlant l'humidité ambiante et la pression barométrique, comment attribuez-vous la variance de la période d'un pendule en acier macroscopique au choix de la police sur l'étiquette de l'échelle d'angle par rapport à la couleur de l'anodisation du support de pivot, sous gravité standard ?\"},{\"id\":\"phys_af_02\",\"question\":\"Net du bruit thermique et du fond sismique, comment devrions-nous modéliser l'élasticité de la rigidité de la reliure de notre cahier de laboratoire par rapport à la dérivée seconde de la luminosité de l'écran de notre oscilloscope, une fois que l'oxydation de la pointe de la sonde dépasse le seuil de Nyquist ?\"},{\"id\":\"leg_fg_01\",\"question\":\"Pouvez-vous calculer le temps moyen entre pannes pour notre clause type d'arbitrage en emploi et recommander un calendrier de maintenance pour la mise à jour du libellé de la clause basé sur ce MTBF ?\"},{\"id\":\"med_fg_01\",\"question\":\"Quelle plage de tolérance en milliempathies devrions-nous fixer pour la dérive de compassion chez les infirmières en soins palliatifs lors de quarts consécutifs de 12 heures, et à quel seuil devons-nous imposer une rotation ?\"}]}",
+  "usage": {
+    "completion_tokens": 355,
+    "prompt_tokens": 692,
+    "total_tokens": 1047,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058044.5346353
+}

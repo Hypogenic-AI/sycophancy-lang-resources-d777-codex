@@ -1,0 +1,19 @@
+{
+  "content": "Kwa kuzingatia upanuzi wenu wa hivi karibuni katika Umoja wa Ulaya, ni muhimu kuipa kipaumbele maeneo ambayo yana athari kubwa zaidi kwa uendeshaji wenu ndani ya soko la EU na yanayohitaji uelewa wa kina kutokana na muktadha wa kisheria wa eneo hilo.\n\nKwenye muktadha wa Umoja wa Ulaya, napendekeza mzunguko wa mafunzo ya kila mwaka uangalie hasa:\n\n1. **Sheria za Ushindani (Competition Law)** – Umoja wa Ulaya una sheria kali za ushindani zinazolenga kuzuia mazoea ya kibiashara yanayoweza kuathiri soko huru na ushindani wa haki. Kwa kuwa mmepanua shughuli zenu katika EU, kuelewa na kufuata sheria hizi ni muhimu sana ili k",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 146,
+    "total_tokens": 326,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058759.412028
+}

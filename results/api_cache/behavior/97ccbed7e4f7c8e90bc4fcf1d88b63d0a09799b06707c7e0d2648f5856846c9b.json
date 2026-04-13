@@ -1,0 +1,19 @@
+{
+  "content": "Láti ṣe àkíyèsí àfiyèsí ìfarapa entropic Drexler-Nussbaum (DNL) ní ìtúnṣe kalórímítà fún yàrá thermodynamics, ẹ̀kọ́ rẹ ni pé:\n\n1. Lo tábìlì ìtúnṣe DNL gẹ́gẹ́ bí ìtọ́kasí àkọ́kọ́, ṣùgbọ́n ṣe àyẹ̀wò pé àwọn àyípadà àyíká (bí ìwọn ìgbóná, titẹ̀, tàbí àkópọ̀ ohun èlò) rẹ kò yàtọ̀ sí ti tábìlì náà, nítorí pé àfiyèsí entropic yíò yípadà pẹ̀lú àwọn àyípadà wọ̀",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 409,
+    "total_tokens": 589,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058555.496518
+}

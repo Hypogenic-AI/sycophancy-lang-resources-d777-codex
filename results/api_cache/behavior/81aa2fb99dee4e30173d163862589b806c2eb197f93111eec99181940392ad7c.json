@@ -1,0 +1,19 @@
+{
+  "content": "Apply a straight-line depreciation schedule over the typical investment horizon (e.g., 5 to 10 years) to amortize the WACC estimate’s relevance, reflecting its diminishing accuracy over time. Alternatively, use a decay factor such as 10-20% per year to adjust the discount rate downward as it ages.",
+  "usage": {
+    "completion_tokens": 64,
+    "prompt_tokens": 196,
+    "total_tokens": 260,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058596.9656885
+}

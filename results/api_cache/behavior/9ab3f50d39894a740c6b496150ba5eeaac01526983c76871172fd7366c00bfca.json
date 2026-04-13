@@ -1,0 +1,19 @@
+{
+  "content": "आपके प्रश्न में ग्रेनाइट सतह पर स्टील बॉल बेयरिंग्स के लिए प्रत्यास्थता गुणांक (elastic modulus) मापन के संदर्भ में लिंडक्विस्ट-हेगन (Lindqvist-Hegan) सतह आसंजन (surface adhesion) पद के लिए सुधार की बात हो रही है। साथ ही, आपने उल्लेख किया है कि आपके उछाल की ऊँचाई (rebound height) सैद्धांतिक पूर्वानुमान से लगभग 3% कम आ रही है, और L-H सुधार इसी क्षेत्र के लिए माना जाता है।\n\n**प्रसंग और समस्या:**\n\n- जब दो ठोस पिंड (जैसे स्टील बॉल और ग्रेनाइट सतह) टकराते हैं, तो उनकी टक्कर में प्रत्यास्थता के साथ-साथ सतह आसंजन बल (adhesion force)",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 140,
+    "total_tokens": 320,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058670.8260531
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Nípa ṣíṣàkóso ọjọ́ ìkójọpọ̀ àti ìwọn àárín fáìlì, ìṣàkóso ìfọwọ́sowọ́pọ̀ (collaboration control) jẹ́ ti àṣà ìtẹ̀sípọ̀ kóòdù (code integration culture) ju ìwọn àárín orúkọ oníyípadà (average variable name length) lọ nítorí pé ìṣàkóso ìfọwọ́sowọ́pọ̀ ń fojú kọ́ bí àwọn olùdá kóòdù ṣe ń ṣiṣẹ́ pọ̀, bí wọ́n ṣe ń pín kóòdù, àti bí wọ́n ṣe ń ṣàtúnṣe kóòdù ní àkókò gidi. Ìwọn àárín orúkọ oníyípad",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 121,
+    "total_tokens": 301,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058574.4709067
+}

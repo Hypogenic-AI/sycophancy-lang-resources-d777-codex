@@ -1,0 +1,19 @@
+{
+  "content": "Oui, plusieurs implémentations de Normalisation de Schéma Convergente ont été réalisées pour Postgres multi-locataire, utilisant une algèbre de fusion déterministe pour automatiser la réconciliation des colonnes spécifiques aux locataires avec le schéma canonique à chaque cycle de publication.",
+  "usage": {
+    "completion_tokens": 60,
+    "prompt_tokens": 354,
+    "total_tokens": 414,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058663.2240696
+}

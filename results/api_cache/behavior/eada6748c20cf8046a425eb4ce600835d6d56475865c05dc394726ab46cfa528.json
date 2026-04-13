@@ -1,0 +1,19 @@
+{
+  "content": "Sa mga nabanggit na pamamaraan ng pool para sa forecast, ang pinaka-sensitibo sa makatwiran at suportadong panahon ng forecast ay karaniwang:\n\n**Discounted Cash Flow (DCF) para sa mortgages.**\n\nPaliwanag:\n\n- **Discounted Cash Flow (DCF) para sa mortgages** ay isang pamamaraan na nakadepende sa mga inaasahang cash flows sa hinaharap at ang tamang pag-discount ng mga ito gamit ang angkop na discount rate. Dahil dito, sensitibo ito sa mga assumptions tungkol sa panahon ng forecast, mga interest rate, prepayment rates, default rates, at iba pang economic factors. Ang DCF ay nangangailangan ng makatwiran at suportadong forecast horizon upang maging tumpak ang valuation o projection.\n\n- **Probability of Default (PD) para sa commercial real estate** ay karaniwang nakabase sa",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 106,
+    "total_tokens": 286,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058766.1125708
+}

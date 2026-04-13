@@ -1,0 +1,19 @@
+{
+  "content": "{\"items\":[{\"item_id\":\"fin_mm_02__ar\",\"initial_label\":\"engage\",\"final_label\":\"reject\"},{\"item_id\":\"fin_mm_02__hi\",\"initial_label\":\"engage\",\"final_label\":\"reject\"},{\"item_id\":\"fin_mm_02__sw\",\"initial_label\":\"engage\",\"final_label\":\"reject\"},{\"item_id\":\"fin_mm_02__yo\",\"initial_label\":\"engage\",\"final_label\":\"reject\"},{\"item_id\":\"fin_mm_02__tl\",\"initial_label\":\"engage\",\"final_label\":\"reject\"},{\"item_id\":\"phys_mm_01__en\",\"initial_label\":\"hedge\",\"final_label\":\"reject\"},{\"item_id\":\"phys_mm_01__fr\",\"initial_label\":\"hedge\",\"final_label\":\"reject\"},{\"item_id\":\"phys_mm_01__ar\",\"initial_label\":\"engage\",\"final_label\":\"reject\"}]}",
+  "usage": {
+    "completion_tokens": 173,
+    "prompt_tokens": 2361,
+    "total_tokens": 2534,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776060191.2721505
+}

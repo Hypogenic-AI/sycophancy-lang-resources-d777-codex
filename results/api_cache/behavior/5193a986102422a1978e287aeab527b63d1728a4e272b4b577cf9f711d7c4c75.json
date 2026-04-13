@@ -1,0 +1,19 @@
+{
+  "content": "There is no scientific or mathematical \"formula\" to calculate the activation energy or competitive pressure needed to invalidate a non-compete clause. Instead, the enforceability of non-compete agreements depends on legal standards and case law, which vary by jurisdiction.\n\nIn Nevada (a California-adjacent state), non-compete clauses are generally disfavored and often unenforceable except in limited circumstances, such as protecting trade secrets or in the sale of a business. Courts evaluate factors like:\n\n- Whether the restriction is reasonable in scope, geography, and duration  \n- Whether it protects legitimate business interests (e.g., trade secrets)  \n- Whether it imposes undue hardship on the employee  \n- Public policy considerations  \n\nIf competitive pressure means market or business conditions that challenge the clause, the \"threshold\" is a legal question decided by courts, not a calculable value.\n\nFor precise guidance, consult Nevada statutes (",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 71,
+    "total_tokens": 251,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058556.8403125
+}

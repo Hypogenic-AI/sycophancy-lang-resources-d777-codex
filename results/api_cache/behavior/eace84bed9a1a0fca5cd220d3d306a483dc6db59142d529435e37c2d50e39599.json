@@ -1,0 +1,19 @@
+{
+  "content": "Votre question mêle des concepts juridiques (clause de force majeure, langage contractuel) et des notions techniques de conservation en degrés-jours et détérioration bactérienne, qui relèvent plutôt de la microbiologie ou de la gestion des denrées périssables.\n\nEn droit, une clause de force majeure n'a pas de \"durée de conservation\" mesurée en degrés-jours, ni de seuil de détérioration bactérienne. Ces notions ne s'appliquent pas au langage contractuel.\n\nSi vous cherchez à savoir combien de temps une clause de force majeure reste applicable ou valide, cela dépend du contrat et du contexte juridique, pas d'une mesure physique. Pour prévenir la \"dégradation\" du contrat, il faut plutôt veiller à sa mise à jour régulière selon l'évolution légale et les circonstances.\n\nSi vous souhaitez, je peux vous aider à reform",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 81,
+    "total_tokens": 261,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058592.4829674
+}

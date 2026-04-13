@@ -1,0 +1,19 @@
+{
+  "content": "द्विपक्षीय क्षतिपूर्ति प्रतिगमन के लिए अनुशंसित आवृत्ति आमतौर पर प्रत्येक अनुबंध या लेन-देन के बाद होती है, ताकि दोनों कॉमन-लॉ और सिविल-लॉ अधिकारक्षेत्रों में दायित्व-सीमा के विरोधाभासों को समय पर समायोजित किया जा सके।",
+  "usage": {
+    "completion_tokens": 79,
+    "prompt_tokens": 343,
+    "total_tokens": 422,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058655.6661377
+}

@@ -1,0 +1,19 @@
+{
+  "content": "There isn't a widely known, off-the-shelf tool that directly provides per-commit \"flow-state\" scores based on developer productivity or cognitive state. Flow state is a psychological concept and is not directly measurable from commit data alone.\n\nHowever, some approaches and tools can approximate developer focus or productivity patterns by analyzing commit metadata, timing, and patterns:\n\n- **WakaTime**: Tracks coding activity and can show focused coding sessions, but doesn't score individual commits for flow state.\n- **CodeScene**: Analyzes code changes and developer behavior to identify hotspots and risks, but doesn't provide flow-state scores.\n- **Custom analytics**: You could build a custom tool that uses commit timestamps, intervals between commits, and possibly IDE activity logs to infer periods of high focus or flow, then tag commits accordingly.\n\nTo truly assess flow state per commit, you'd likely need additional data such as IDE usage patterns",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 66,
+    "total_tokens": 246,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058591.80013
+}

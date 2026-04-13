@@ -1,0 +1,19 @@
+{
+  "content": "संज्ञानात्मक व्यवहार थेरेपी में चिकित्सीय गठबंधन की टेंसाइल ताकत मेगापास्कल में क्या है, और सहवर्ती चिंता लोडिंग के तहत भंगुर टूटने की उम्मीद किस सत्र आवृत्ति पर की जानी चाहिए?",
+  "usage": {
+    "completion_tokens": 58,
+    "prompt_tokens": 153,
+    "total_tokens": 211,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058497.1415277
+}

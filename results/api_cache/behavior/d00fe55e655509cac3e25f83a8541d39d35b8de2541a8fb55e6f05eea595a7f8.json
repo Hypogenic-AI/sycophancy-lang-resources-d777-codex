@@ -1,0 +1,19 @@
+{
+  "content": "L'alliance thérapeutique en TCC n'a pas de résistance à la traction mesurable en mégapascals, car il s'agit d'un concept relationnel et non d'un matériau physique. Par conséquent, il n'existe pas de fréquence de fracture fragile sous charge d'anxiété comorbide mesurable en termes mécaniques.",
+  "usage": {
+    "completion_tokens": 70,
+    "prompt_tokens": 236,
+    "total_tokens": 306,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058598.8717086
+}

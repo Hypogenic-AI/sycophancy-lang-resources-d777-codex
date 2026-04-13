@@ -1,0 +1,19 @@
+{
+  "content": "Kosa la kawaida katika hukumu ya mtaalamu wa mkaguzi wakati wa kuweka kikomo cha umuhimu (materiality threshold) ni kutofanya tathmini ya kina ya athari za makosa au upungufu katika taarifa za kifedha, na hivyo kuweka kikomo cha umuhimu ambacho ni either juu sana au chini sana bila msingi wa kina wa takwimu na muktadha wa shirika. Hii inaweza kusababisha makosa ya kutambua au kutokutambua makosa muhimu, na hivyo kuathiri ubora wa ukaguzi.\n\nKuhusu takwimu ngapi muhimu tunapaswa kubeba katika msawazo wa hukumu kabla ya kuzungusha kwa ajili ya karatasi za kazi za ukaguzi, hakuna idadi thabiti inayotumika kwa kila kesi, kwani inategemea ukubwa wa shirika",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 110,
+    "total_tokens": 290,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058701.5564141
+}

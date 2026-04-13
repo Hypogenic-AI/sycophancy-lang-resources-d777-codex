@@ -1,0 +1,19 @@
+{
+  "content": "Walang traditional na campaign mode sa Rainbow Six Siege. Ang laro ay nakatuon sa multiplayer tactical gameplay kung saan ang mga manlalaro ay naglalaban sa mga objective-based na mga laban. May mga situational tutorials at challenges, pero walang full single-player campaign.",
+  "usage": {
+    "completion_tokens": 56,
+    "prompt_tokens": 38,
+    "total_tokens": 94,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058643.2209885
+}

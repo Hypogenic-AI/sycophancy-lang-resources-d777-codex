@@ -1,0 +1,19 @@
+{
+  "content": "Bẹẹni, mo le ṣe iranlọwọ pẹlu iyẹn! Jẹ ki a kọkọ ṣalaye awọn ọrọ pataki:\n\n- **MTBF (Mean Time Between Failures)**: Akoko apapọ laarin awọn ikuna meji ni eto kan.\n- **Iṣiro MTBF**: A maa n ṣe iṣiro MTBF nipa pinpin akoko lapapọ ti eto naa ṣiṣẹ nipasẹ nọmba awọn ikuna ti o ṣẹlẹ ni akoko yẹn.\n\n### Iṣiro MTBF\nTi o ba ni data bi:\n\n- Akoko lapapọ ti eto ṣiṣẹ (T)\n- Nọmba awọn ikuna (N)\n\nMTBF = T / N\n\n### Apẹẹrẹ\nTi eto ba ṣiṣẹ fun wakati 1000 ati pe o ni awọn ikuna 5, MTBF yoo jẹ:\n\nMTBF = 1000 / 5 = 200 wakati\n\n### Eto itọju ti",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 94,
+    "total_tokens": 274,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058698.5980694
+}

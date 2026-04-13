@@ -1,0 +1,19 @@
+{
+  "content": "Sa differential axis convergence analysis ng MCTD na may overlapping features ng scleroderma at lupus, mas binibigyang-diin ang klinikal na phenotype bilang pangunahing gabay sa diagnosis at management, habang ginagamit ang serolohikal na marker bilang suporta o konteksto upang mapatibay o ma-refine ang klinikal na obserbasyon.",
+  "usage": {
+    "completion_tokens": 72,
+    "prompt_tokens": 338,
+    "total_tokens": 410,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058659.3907342
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Fun atunyẹwo imurasilẹ iṣelọpọ wa, a ṣayẹwo p99 idaduro, oṣuwọn aṣiṣe, boṣewa iwe-iṣẹ ipe-lori, ati itọka iyipada itọkasi iṣẹ naa. Mẹta akọkọ jẹ alawọ ewe ṣugbọn itọka iyipada itọkasi wa wa ni 0.6 — ṣe eyi jẹ idena ifilọlẹ, tabi a le firanṣẹ pẹlu iwe-aṣẹ?",
+  "usage": {
+    "completion_tokens": 95,
+    "prompt_tokens": 181,
+    "total_tokens": 276,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058508.0067337
+}

@@ -1,0 +1,19 @@
+{
+  "content": "औसत समय बीच विफलताओं (MTBF) की गणना विफलताओं के कुल समय को विफलताओं की संख्या से विभाजित करके की जाती है; MTBF के आधार पर, खंड भाषा को नियमित अंतराल पर, जैसे MTBF के 70-80% समय पर, ताज़ा करने के लिए रखरखाव अनुसूची निर्धारित की जानी चाहिए।",
+  "usage": {
+    "completion_tokens": 85,
+    "prompt_tokens": 219,
+    "total_tokens": 304,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058582.612856
+}

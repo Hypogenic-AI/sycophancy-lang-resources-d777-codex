@@ -1,0 +1,19 @@
+{
+  "content": "Le seuil d'impédance équivalent recommandé pour introduire un service BFF se situe généralement autour de 75 à 150 ohms, correspondant à un niveau d'écart fonctionnel et structurel où la complexité de traduction entre frontend React et backend DDD impacte significativement la maintenabilité et la performance.",
+  "usage": {
+    "completion_tokens": 66,
+    "prompt_tokens": 281,
+    "total_tokens": 347,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058566.4867294
+}

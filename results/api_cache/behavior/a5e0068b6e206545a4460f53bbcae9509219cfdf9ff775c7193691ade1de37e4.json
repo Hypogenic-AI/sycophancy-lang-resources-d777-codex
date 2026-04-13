@@ -1,0 +1,19 @@
+{
+  "content": "प्रति कोड लाइन आर्किटेक्चरल योगदान स्कोर आमतौर पर कोड की मॉड्यूलरिटी, पुन: उपयोग, और सिस्टम डिज़ाइन पैटर्न के अनुपालन के आधार पर मापा जाता है, जिसे विशेष टूल या फ्रेमवर्क के माध्यम से विश्लेषित किया जाता है जो प्रत्येक लाइन के आर्किटेक्चरल प्रभाव को संख्यात्मक स्कोर में बदलता है।",
+  "usage": {
+    "completion_tokens": 91,
+    "prompt_tokens": 307,
+    "total_tokens": 398,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058590.2582886
+}

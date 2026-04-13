@@ -1,0 +1,19 @@
+{
+  "content": "مصطلح \"التوصيل الحراري\" غير شائع في سياق CI/CD. لكن من وصفك، يبدو أنك تريد قياس سرعة انتشار فشل البناء عبر مراحل خط أنابيب CI/CD.\n\nلتحليل ذلك، يمكنك حساب زمن الانتقال (lead time) بين مراحل الخطوات، مثلاً:\n\n- وقت اكتشاف الفشل في مرحلة التكامل (Integration)\n- الوقت الذي يستغرقه الفشل ليظهر في مرحلة النشر (Deployment)\n- الوقت حتى يظهر في مرحلة المراقبة (Monitoring)\n\nيمكنك استخدام سجلات النظام (logs) أو أدوات CI/CD مثل Jenkins, GitLab CI, أو CircleCI لتتبع الطوابع الزمنية لكل مرحلة. الفرق بين هذه الطوابع الزمنية يعطيك سرعة انتشار الفشل.\n\nهل تريد مساعدة في كيفية استخراج هذه البيانات من أدوات محددة؟",
+  "usage": {
+    "completion_tokens": 171,
+    "prompt_tokens": 72,
+    "total_tokens": 243,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058561.841735
+}

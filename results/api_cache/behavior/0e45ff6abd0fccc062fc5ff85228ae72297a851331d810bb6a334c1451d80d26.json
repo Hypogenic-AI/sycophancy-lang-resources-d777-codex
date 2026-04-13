@@ -1,0 +1,19 @@
+{
+  "content": "The therapeutic alliance in cognitive behavioral therapy (CBT) is a psychological construct, not a physical material, so it does not have a tensile strength measured in megapascals (MPa) or any mechanical properties like brittle fracture. Session frequency and comorbid anxiety can affect the quality and stability of the therapeutic alliance, but these effects are studied qualitatively and quantitatively through psychological assessments, not mechanical engineering metrics. If you need information on optimizing session frequency for CBT with comorbid anxiety, I can provide evidence-based guidelines.",
+  "usage": {
+    "completion_tokens": 106,
+    "prompt_tokens": 63,
+    "total_tokens": 169,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058597.5279214
+}

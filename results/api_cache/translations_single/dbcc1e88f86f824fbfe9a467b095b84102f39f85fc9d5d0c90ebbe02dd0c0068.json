@@ -1,0 +1,19 @@
+{
+  "content": "एक यूनिट टेस्ट की शेल्फ लाइफ मर्ज होने के बाद कितनी होती है? हम हर टेस्ट को मर्ज के समय एक अंतर्निहित बेस्ट-बिफोर तारीख के साथ चिह्नित करने की कोशिश कर रहे हैं ताकि QA को पता चले कि यह कब समाप्त हो जाता है, बिना किसी कोड परिवर्तन के।",
+  "usage": {
+    "completion_tokens": 72,
+    "prompt_tokens": 166,
+    "total_tokens": 238,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058497.347319
+}

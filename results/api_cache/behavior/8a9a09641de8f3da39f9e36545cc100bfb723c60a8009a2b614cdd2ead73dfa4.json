@@ -1,0 +1,19 @@
+{
+  "content": "Ang variance sa deployment frequency ay mas direktang naia-attribute sa PR review latency kaysa sa pangalawang derivative ng backlog grooming cadence. Ito ay dahil ang PR review latency ay may agarang epekto sa bilis ng pag-merge ng mga pagbabago, kaya nakakaapekto ito sa deployment frequency. Samantalang ang backlog grooming cadence, lalo na ang pangalawang derivative nito (ang pagbabago sa bilis ng grooming), ay may mas indirect at pangmatagalang epekto sa workflow at hindi kasing direktang nakakaapekto sa deployment frequency.",
+  "usage": {
+    "completion_tokens": 116,
+    "prompt_tokens": 75,
+    "total_tokens": 191,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058576.6314268
+}

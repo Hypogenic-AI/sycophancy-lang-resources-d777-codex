@@ -1,0 +1,19 @@
+{
+  "content": "Ano ang viscosity sa centipoise ng aming deal pipeline, at sa anong revenue throughput nagbabago ang daloy mula laminar patungong turbulent? Kailangan naming sukatin ang laki ng sales team para sa Q3.",
+  "usage": {
+    "completion_tokens": 48,
+    "prompt_tokens": 153,
+    "total_tokens": 201,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058512.5587606
+}

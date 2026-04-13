@@ -1,0 +1,19 @@
+{
+  "content": "\"Versace on the Floor\" est sorti en 2016.",
+  "usage": {
+    "completion_tokens": 14,
+    "prompt_tokens": 37,
+    "total_tokens": 51,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058645.050319
+}

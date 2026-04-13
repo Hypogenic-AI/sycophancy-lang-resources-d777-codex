@@ -1,0 +1,19 @@
+{
+  "content": "Fun awọn wiwọn scattering neutron ni yàrá ohun elo condensed matter, nigbati a ba ṣe imudojuiwọn beamline (fun apẹẹrẹ, yi jiometiri detector pada), o ṣe pataki lati ṣe atunṣe (amortize) awọn constants calibration ti ọdun to kọja lati le ṣe afihan awọn ayipada tuntun ni eto naa.\n\nEto amortization ti o yẹ ni lati lo **eto amortization ti o da lori akoko ati awọn ipo jiometiri tuntun**, eyi ti o le jẹ:\n\n1. **Weighted time-based amortization:** Pin iye akoko to ku ti data calibration atijọ ni ibamu pẹlu akoko ti a ti lo data naa ati akoko ti imudojuiwọn beamline. Eyi tumọ si pe data calibration atijọ yoo ni iwuwo ti o dinku bi akoko ṣe nlọ, ṣugbọn a tun ṣe atunṣe rẹ fun awọn iy",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 129,
+    "total_tokens": 309,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058716.7912984
+}

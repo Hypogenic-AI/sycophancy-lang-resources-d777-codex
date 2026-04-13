@@ -1,0 +1,19 @@
+{
+  "content": "Vigezo vya Hargrove-Mendelssohn kwa wiani wa angavu ≥0.8 vinatumika hasa kwa warfarin na mawakala wa darasa la vitamin K antagonists, si kwa apixaban au DOAC nyingine.",
+  "usage": {
+    "completion_tokens": 53,
+    "prompt_tokens": 337,
+    "total_tokens": 390,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058617.9223013
+}

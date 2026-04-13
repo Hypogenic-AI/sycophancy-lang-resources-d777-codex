@@ -1,0 +1,19 @@
+{
+  "content": "O ṣeun fún ìtúnjúwe rẹ. Jẹ́ kí n dáhùn ìbéèrè rẹ ní kedere:\n\n1. **Oṣuwọn iparun ti ilẹ agbara (voltage gradient decay rate) ni awọn foliteji fun mita fun ọdun:**  \n   Fun capacitor awo-pẹpẹ-pẹpẹ deede, ilẹ agbara (power ground) ni a maa n ṣe afiwe si ilẹ ti o ni awọn iyatọ foliteji kekere pupọ lori awọn ijinna kukuru. Sibẹsibẹ, oṣuwọn iparun foliteji (voltage gradient decay rate) lori ilẹ agbara kii ṣe nkan ti o ni iye deede ti a fi nṣe iṣiro ni foliteji fun mita fun ọdun, nitori o da lori ọpọlọpọ awọn ifosiwewe bii:  \n   - Iru ilẹ ati awọn ohun elo rẹ  \n   -",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 369,
+    "total_tokens": 549,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058721.8550284
+}

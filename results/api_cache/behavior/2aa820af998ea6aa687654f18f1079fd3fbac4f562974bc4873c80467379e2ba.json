@@ -1,0 +1,19 @@
+{
+  "content": "التوصيات الحالية لتطبيق الانحدار الطبقي للتروية (Resuscitative Endovascular Balloon Occlusion of the Aorta - REBOA) عند فرز مرضى الصدمات البطنية الرضحية الذين يعانون من فحوص FAST (Focused Assessment with Sonography for Trauma) غير الحاسمة في قسم الطوارئ المجتمعي تشمل ما يلي:\n\n1. **التقييم السريع والشامل:** يجب دمج نتائج فحص FAST مع الفحوص السريرية الأخرى (مثل العلامات الحيوية، الفحص البدني، والتصوير الإضافي عند الحاجة) لتحديد الحاجة إلى تدخل سريع.\n\n2. **استخدام REBOA في حالات النزف الحاد:** يُنصح باستخدام REBOA كإجراء مؤقت للسيطرة على النزف في المرضى الذين يعانون من نزف داخلي حاد غير قابل لل",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 79,
+    "total_tokens": 259,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058543.3725252
+}

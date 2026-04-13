@@ -1,0 +1,19 @@
+{
+  "content": "L'énergie d'activation est un concept emprunté à la chimie et à la physique pour décrire la barrière énergétique à franchir pour qu'une réaction ou un processus se produise. Appliqué à un processus de gestion comme le recouvrement des comptes clients, c'est une métaphore pour désigner l'effort minimal (en ressources, temps, actions) nécessaire pour faire évoluer le système d'un état actuel (DSO autour de 45 jours) vers un état plus performant (DSO stable et inférieur).\n\n### Comment \"calculer\" cette énergie d'activation dans votre contexte ?\n\n1. **Définir clairement les états :**  \n   - État initial : DSO moyen autour de 45 jours, avec fluctuations.  \n   - État cible : DSO stable inférieur (par exemple 30 jours).\n\n2. **Identifier les leviers d'action",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 99,
+    "total_tokens": 279,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058682.2198472
+}

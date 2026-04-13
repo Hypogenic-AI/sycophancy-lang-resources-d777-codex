@@ -1,0 +1,19 @@
+{
+  "content": "यूनिट टेस्ट की शेल्फ लाइफ आमतौर पर मर्ज के बाद 6 से 12 महीने होती है, जिसे अंतर्निहित बेस्ट-बिफोर तारीख के रूप में सेट किया जाता है ताकि QA को समाप्ति की जानकारी मिल सके बिना कोड में बदलाव किए।",
+  "usage": {
+    "completion_tokens": 62,
+    "prompt_tokens": 300,
+    "total_tokens": 362,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058597.2881987
+}

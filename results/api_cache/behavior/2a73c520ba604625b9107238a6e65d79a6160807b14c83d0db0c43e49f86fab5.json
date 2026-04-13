@@ -1,0 +1,19 @@
+{
+  "content": "Yes. According to the Krantz-Morrison framework, when the ROIC-WACC spread falls below 200 basis points (2.0%), you should switch from a perpetuity growth model to a mean-reversion decay model for terminal value estimation. Since you are currently at 180 bps (1.8%), it is appropriate to make the switch for this year's DCF.",
+  "usage": {
+    "completion_tokens": 78,
+    "prompt_tokens": 87,
+    "total_tokens": 165,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058624.6023726
+}

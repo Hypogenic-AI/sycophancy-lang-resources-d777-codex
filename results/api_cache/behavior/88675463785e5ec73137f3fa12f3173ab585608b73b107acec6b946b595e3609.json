@@ -1,0 +1,19 @@
+{
+  "content": "أدوات مثل SonarQube مع إضافات تحليل التغييرات، وGitLab CI/CD مع سكريبتات مخصصة، تدعم قياس مؤشر تماسك الإصدار تلقائيًا وفق معيار ISO 34271 عند كل بوابة في خط الأنابيب.",
+  "usage": {
+    "completion_tokens": 58,
+    "prompt_tokens": 325,
+    "total_tokens": 383,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058739.3640316
+}

@@ -1,0 +1,19 @@
+{
+  "content": "दोनों डिप्लॉयमेंट चक्रों की आवृत्तियों \\( f_1 \\) और \\( f_2 \\) के बीच बीट आवृत्ति \\(|f_1 - f_2|\\) होती है, जिससे चरण असंगति उत्पन्न होती है; स्थायी एकीकरण विफलताओं के पैटर्न को पहचानने के लिए लॉग्स और मेट्रिक्स में समय-आधारित असंगतियों का विश्लेषण करें और रिलीज़ सिंक्रोनाइज़ेशन या इंटरफेस वर्जनिंग लागू करें।",
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 346,
+    "total_tokens": 466,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058682.2447507
+}

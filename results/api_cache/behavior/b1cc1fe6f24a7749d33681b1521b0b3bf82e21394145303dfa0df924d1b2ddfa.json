@@ -1,0 +1,19 @@
+{
+  "content": "Katika muktadha wa uchambuzi wa mfululizo wa makosa kwa uwiano (sequential error analysis) kwa kesi ya madai ya bidhaa yenye wadai wengi (class action), ni muhimu kuamua ngazi ngapi za kina cha mfululizo huu zinapaswa kuendeshwa kabla usahihi wa mgawanyo wa mwisho unashuka chini ya kiwango cha kelele za makubaliano (agreement noise level).\n\nKwa kawaida, hatua za kina (depth levels) katika uchambuzi wa mfululizo wa makosa huendeshwa hadi pale ambapo ongezeko la kina hakileti mabadiliko makubwa au usahihi wa mgawanyo hauongezeki kwa kiasi kinachostahili. Hii ni kwa sababu uchambuzi wa kina zaidi huongeza gharama na wakati, lakini faida ya usahihi hupungua",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 124,
+    "total_tokens": 304,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058654.4901457
+}

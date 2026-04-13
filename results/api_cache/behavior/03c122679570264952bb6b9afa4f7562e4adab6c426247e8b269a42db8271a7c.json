@@ -1,0 +1,19 @@
+{
+  "content": "Ang tanong mo ay tila naglalaman ng halo ng dalawang magkaibang konsepto: ang \"activation energy\" na isang term mula sa chemistry, at ang \"non-compete clause\" na isang legal na usapin. Kaya, mahalagang linawin muna ito.\n\n1. **Activation Energy** — Sa agham, ito ay ang minimum na enerhiya na kailangan para magsimula ang isang kemikal na reaksyon. Wala itong direktang aplikasyon sa batas o legal na mga kontrata.\n\n2. **Non-Compete Clause** — Ito ay isang legal na kasunduan na naglilimita sa isang tao na makipagkompetensya sa isang dating employer o negosyo sa loob ng isang takdang panahon at lugar.\n\n3. **Competitive Pressure at Restrictive Covenant** — Ang \"competitive pressure\" ay isang ekonomiko o merkado na konsepto, habang ang \"restrict",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 98,
+    "total_tokens": 278,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058672.2147486
+}

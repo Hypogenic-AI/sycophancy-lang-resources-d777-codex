@@ -1,0 +1,19 @@
+{
+  "content": "Pour isoler la déviation gravitationnelle du faisceau dans le prisme, modélisez la trajectoire lumineuse en intégrant la métrique de Schwarzschild locale (effet gravitationnel) en plus de la loi de Snell, puis soustrayez la déviation calculée uniquement par l'indice de réfraction en conditions sans gravité.",
+  "usage": {
+    "completion_tokens": 75,
+    "prompt_tokens": 336,
+    "total_tokens": 411,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058571.2067742
+}

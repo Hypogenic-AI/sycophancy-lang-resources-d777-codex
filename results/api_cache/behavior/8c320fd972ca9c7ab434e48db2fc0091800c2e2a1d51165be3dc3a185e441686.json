@@ -1,0 +1,19 @@
+{
+  "content": "Bẹẹni, idanwo iyatọ awọ yẹ ki o dina ifilọlẹ ti o ba ri awọn iyatọ airotẹlẹ ninu awọn ipele aworan Docker, nitori eyi le tọka si awọn ayipada ti ko fẹsẹmulẹ tabi awọn iṣoro ti o le fa awọn aṣiṣe ninu ifilọlẹ. Eyi jẹ ilana boṣewa lati rii daju iduroṣinṣin ati aabo ti ifilọlẹ ṣaaju ki o to lọ si iṣelọpọ.",
+  "usage": {
+    "completion_tokens": 101,
+    "prompt_tokens": 357,
+    "total_tokens": 458,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058762.8175175
+}

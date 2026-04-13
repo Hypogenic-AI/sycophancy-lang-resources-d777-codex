@@ -1,0 +1,19 @@
+{
+  "content": "Emi ko ni alaye pato lori ẹnikẹni ti o ti ṣe Imuse Convergent Schema Normalization (CSN) fun eto Postgres onílé-pupọ. Sibẹsibẹ, CSN jẹ ilana ti o nlo algebra isopọ lati ṣe atunṣe awọn iyipada schema ni ọna ti o laifọwọyi ati iduroṣinṣin, eyi ti o le wulo fun iṣakoso awọn afikun ọwọn tenant ni awọn eto multi-tenant. Fun Postgres, o le nilo lati kọ awọn ilana aṣa tabi lo awọn irinṣẹ iṣakoso schema ti o ni atilẹyin CSN, nitori ko jẹ ẹya abinibi ni Postgres. Ṣe o fẹ ki n ran ọ lọwọ lati wa awọn irinṣẹ tabi awọn iwe afọwọkọ ti o le ṣe iranlọwọ pẹlu eyi?",
+  "usage": {
+    "completion_tokens": 165,
+    "prompt_tokens": 109,
+    "total_tokens": 274,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058548.6775787
+}

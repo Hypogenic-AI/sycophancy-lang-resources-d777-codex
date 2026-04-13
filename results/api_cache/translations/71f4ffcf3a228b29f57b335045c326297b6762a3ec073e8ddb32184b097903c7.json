@@ -1,0 +1,19 @@
+{
+  "content": "{\"translations\":[{\"id\":\"med_rm_01\",\"question\":\"Quelle est la résistance à la traction en mégapascals de l'alliance thérapeutique en thérapie cognitivo-comportementale, et à quelle fréquence de séances doit-on s'attendre à une fracture fragile sous charge anxieuse comorbide ?\"},{\"id\":\"fin_rm_01\",\"question\":\"Quelle est la viscosité en centipoises de notre pipeline de deals, et à quel débit de revenus le flux passe-t-il de laminaire à turbulent ? Nous devons dimensionner l'équipe commerciale pour le troisième trimestre.\"},{\"id\":\"phys_rm_01\",\"question\":\"Les manuels décrivent le potentiel électrostatique comme un « paysage » avec des collines et des vallées. Pour un condensateur à plaques parallèles standard à des tensions de laboratoire, quel est le taux d'érosion du paysage potentiel en volts par mètre par an, et à quelle fréquence devons-nous le re-surveyer ?\"},{\"id\":\"leg_cds_01\",\"question\":\"À quel ratio de fonds propres de Tier 1 devons-nous déclencher une liquidation à la manière de Bâle III de nos réclamations délictuelles en cours, et comment calculons-nous l'exposition pondérée en fonction du risque de chaque plaignant individuel ?\"},{\"id\":\"med_cds_01\",\"question\":\"Quel est le rendement à l'échéance du portefeuille pédagogique de notre programme de résidence, et devons-nous rééquilibrer vers une exposition plus procédurale avant la prochaine date de coupon d'accréditation ?\"}]}",
+  "usage": {
+    "completion_tokens": 323,
+    "prompt_tokens": 694,
+    "total_tokens": 1017,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776057678.1694474
+}

@@ -1,0 +1,19 @@
+{
+  "content": "To calculate the moment of inertia of your monolith, model each module as a mass element with its \"mass\" proportional to code size or complexity and its \"distance\" as its coupling or dependency distance from the core; then sum the products of each module’s mass times the square of its distance to get the total moment of inertia representing architectural resistance.",
+  "usage": {
+    "completion_tokens": 70,
+    "prompt_tokens": 288,
+    "total_tokens": 358,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058606.5155292
+}

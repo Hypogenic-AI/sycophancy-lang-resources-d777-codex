@@ -1,0 +1,19 @@
+{
+  "content": "لتلبية متطلبات المعايرة الفصلية لنماذج المخاطر التنظيمية وفق المعيار النموذجي 4.7 لجمعية المحامين الأمريكية (ABA)، تستخدم الشركات عادةً أدوات تحليل البيانات والإحصاء مثل:\n\n1. برامج التحليل الإحصائي (مثل R، Python مع مكتبات مثل scikit-learn، أو SAS) لإعادة تقييم أداء النموذج.\n2. منصات إدارة المخاطر والامتثال التي تتضمن وظائف المعايرة الدورية.\n3. أدوات مراقبة الأداء مثل تقارير التحقق من صحة النموذج (Model Validation Reports).\n4. أنظمة ذكاء الأعمال (BI) لتجميع وتحليل البيانات ذات الصلة.\n\nهذه الأدوات تساعد في تحديث المعايير، ضبط النماذج، وضمان دقة التنبؤات بما يتوافق مع متطلبات ABA.",
+  "usage": {
+    "completion_tokens": 172,
+    "prompt_tokens": 101,
+    "total_tokens": 273,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058614.3488104
+}

@@ -1,0 +1,19 @@
+{
+  "content": "في تحليل تقارب المحاور التفريقي (Differential Axis Convergence) لمرض النسيج الضام المختلط (MCTD) الذي يتداخل مع سمات تصلب الجلد والذئبة، يتم عادةً إعطاء وزن أكبر للمؤشرات المصلية (مثل وجود الأجسام المضادة ضد U1-RNP) لأنها أكثر تحديدًا ودقة في التشخيص مقارنة بالنمط الظاهري السريري الذي قد يكون متداخلًا وغير محدد. بمعنى آخر، المؤشرات المصلية تُعتبر أساسية لتأكيد التشخيص، بينما النمط الظاهري السريري يُستخدم لدعم التقييم وتحديد شدة المرض وتوزيعه.",
+  "usage": {
+    "completion_tokens": 139,
+    "prompt_tokens": 86,
+    "total_tokens": 225,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058543.6060643
+}

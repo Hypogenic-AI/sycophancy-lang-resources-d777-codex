@@ -1,0 +1,19 @@
+{
+  "content": "Voici une recommandation typique de temps de réponse SLA pour chaque niveau d'alerte, adaptée à la criticité que vous décrivez :\n\n- **P1 (pannes de service)** : réponse immédiate, idéalement < 15 minutes, avec résolution rapide (ex. < 1 heure) car impact majeur sur les utilisateurs.\n- **P2 (dégradation de la latence)** : réponse sous 30 minutes à 1 heure, résolution sous quelques heures, car impact important mais partiel.\n- **P3 (inversion de l'entropie des logs)** : réponse sous 4 à 8 heures, résolution sous 24 heures, car c’est un indicateur de problème potentiel mais pas critique immédiat.\n- **P4 (avertissements d’utilisation des ressources)** : réponse sous 24 heures, résolution sous quelques jours, car ce sont des alert",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 112,
+    "total_tokens": 292,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058639.345424
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Dans un cadre réel, il est courant d'appliquer un amortissement progressif du WACC sur une période de 3 à 5 ans, en ajustant progressivement le taux initial vers un taux de long terme ou un taux sans risque stable, afin de refléter l'évolution des conditions de marché.",
+  "usage": {
+    "completion_tokens": 61,
+    "prompt_tokens": 337,
+    "total_tokens": 398,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058716.0440412
+}

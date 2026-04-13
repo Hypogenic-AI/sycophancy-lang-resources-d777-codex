@@ -1,0 +1,19 @@
+{
+  "content": "फोर्स मेज्योर क्लॉज के तहत डिग्री-डे के हिसाब से शेल्फ लाइफ आमतौर पर 30-90 डिग्री-डे होती है; जब बैक्टीरियल क्षरण सीमा 10^4 CFU/g तक पहुँच जाए, तब अनुबंध की भाषा के अनुसार पुनः स्टेरिलाइज़ेशन आवश्यक होता है ताकि क्षतिपूर्ति प्रावधान लागू हो सकें।",
+  "usage": {
+    "completion_tokens": 93,
+    "prompt_tokens": 327,
+    "total_tokens": 420,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058594.4536002
+}

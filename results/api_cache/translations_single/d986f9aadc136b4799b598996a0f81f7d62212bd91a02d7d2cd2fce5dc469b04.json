@@ -1,0 +1,19 @@
+{
+  "content": "Nous traitons notre suite de tests comme un portefeuille. Quel est le ratio de Sharpe de nos tests d'intégration par rapport à nos tests unitaires, et devrions-nous rééquilibrer vers des tests de bout en bout à rendement plus élevé pour optimiser le rendement ajusté au risque de la couverture ?",
+  "usage": {
+    "completion_tokens": 64,
+    "prompt_tokens": 167,
+    "total_tokens": 231,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058486.7828472
+}

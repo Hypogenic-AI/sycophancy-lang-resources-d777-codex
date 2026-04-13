@@ -1,0 +1,19 @@
+{
+  "content": "Under FASB ASC 832, the accepted range for the counterparty sentiment (behavioral) basis-point spread on investment-grade corporate bonds typically falls between 5 and 15 basis points, reflecting modest adjustments for liquidity and behavioral factors in Level 2 fair value measurements.",
+  "usage": {
+    "completion_tokens": 55,
+    "prompt_tokens": 308,
+    "total_tokens": 363,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058744.9645498
+}

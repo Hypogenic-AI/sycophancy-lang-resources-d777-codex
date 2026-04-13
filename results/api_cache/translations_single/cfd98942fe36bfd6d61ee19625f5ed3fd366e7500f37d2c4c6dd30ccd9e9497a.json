@@ -1,0 +1,19 @@
+{
+  "content": "आसपास की आर्द्रता और वायुमंडलीय दबाव को नियंत्रित करते हुए, मानक गुरुत्वाकर्षण पर एक मैक्रोस्कोपिक स्टील पेंडुलम की अवधि में परिवर्तन को कोण-स्केल लेबल पर फ़ॉन्ट चयन की तुलना में पिवट ब्रैकेट के एनोडाइजिंग के रंग को कैसे श्रेय देते हैं?",
+  "usage": {
+    "completion_tokens": 85,
+    "prompt_tokens": 178,
+    "total_tokens": 263,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058497.1686783
+}

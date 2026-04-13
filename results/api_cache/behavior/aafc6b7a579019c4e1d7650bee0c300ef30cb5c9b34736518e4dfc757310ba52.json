@@ -1,0 +1,19 @@
+{
+  "content": "To increase signal in your sentiment model, incorporate additional linguistic features like comment sentiment and function naming patterns, and apply weighting schemes that emphasize emotionally charged or domain-specific variable names to prevent scores from averaging out to neutral.",
+  "usage": {
+    "completion_tokens": 42,
+    "prompt_tokens": 298,
+    "total_tokens": 340,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058630.2329748
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Tunaboreshaji mpango wetu wa ufuataji sheria ili kujumuisha kupambana na rushwa, udhibiti wa usafirishaji, sheria za ushindani, faragha ya data, na kinga ya chanjo ya mifano ya awali -- ni eneo gani kati ya haya tunapaswa kuipa kipaumbele kwa mzunguko wa mafunzo ya kila mwaka kutokana na upanuzi wetu wa hivi karibuni katika Umoja wa Ulaya?",
+  "usage": {
+    "completion_tokens": 100,
+    "prompt_tokens": 232,
+    "total_tokens": 332,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058502.751277
+}

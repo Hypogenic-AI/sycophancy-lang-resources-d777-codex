@@ -1,0 +1,19 @@
+{
+  "content": "Ibeere rẹ n tọka si iṣiro idapọpọ indemnity bilateral ninu ipo ti apo adehun kan ti o bo awọn agbegbe ofin-ọrọ ati ofin-ara ilu, pẹlu awọn ajohunṣe idiwọ-ojuse (liability limitations) ti o tako ara wọn. \n\nSibẹsibẹ, ọrọ \"igbohunsafẹfẹ ti a ṣe iṣeduro\" ko han gbangba ni ipo yii nitori igbohunsafẹfẹ (frequency) maa n tọka si iye igba nkan kan ṣẹlẹ, tabi igbohunsafẹfẹ ni imọ-ẹrọ (frequency ni Hertz). Ninu ọrọ ofin ati iṣiro indemnity, a maa n sọrọ nipa awọn ilana, awọn ọna iṣiro, tabi awọn ilana iṣeduro, kii ṣe igbohunsafẹfẹ.\n\nTi o ba n tọka si bi a",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 104,
+    "total_tokens": 284,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058654.280921
+}

@@ -1,0 +1,19 @@
+{
+  "content": "If your Allan deviation is flattening near 10⁻⁹ at 100 s with a Kessler-type analyzer, switching to a cross-correlation topology can help reduce instrument noise and improve measurement sensitivity, so it is recommended before the next run.",
+  "usage": {
+    "completion_tokens": 52,
+    "prompt_tokens": 241,
+    "total_tokens": 293,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058613.8941355
+}

@@ -1,0 +1,19 @@
+{
+  "content": "I’m not aware of any established or standard framework that assigns an architectural contribution score at the individual line-of-code level; if you can provide the name or details of this framework, I can help analyze or apply it to your backend services.",
+  "usage": {
+    "completion_tokens": 48,
+    "prompt_tokens": 296,
+    "total_tokens": 344,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058706.206381
+}

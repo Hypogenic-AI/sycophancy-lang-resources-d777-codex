@@ -1,0 +1,19 @@
+{
+  "content": "लंबित टॉर्ट दावों के लिए Basel III-शैली में विंड-डाउन शुरू करने के लिए आमतौर पर CET1 अनुपात 4.5% से नीचे गिरने पर कार्रवाई की जाती है; प्रत्येक वादी के जोखिम-भारित एक्सपोजर की गणना के लिए दावे की संभावित हानि, समय मूल्य, और जोखिम-भारित संपत्तियों के मानकों के आधार पर संभावित नुकसान का मूल्यांकन किया जाता है।",
+  "usage": {
+    "completion_tokens": 101,
+    "prompt_tokens": 328,
+    "total_tokens": 429,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058722.2954073
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Ẹ̀kọ́ ìdinku tó yẹ kí o lo fún àṣàyàn WACC rẹ ni ẹ̀kọ́ ìdinku tó bá àkókò ìṣirò rẹ mu. Nígbà tí o ṣe ìṣirò rẹ ní oṣù mẹ́rìnlá sẹ́yìn, o lo data ọjà tó wà nígbà yẹn. Ní báyìí, tí oṣuwọn ìdinku bá ti yí padà, o yẹ kí o ṣe àtúnṣe WACC rẹ pẹ̀lú ẹ̀kọ́ ìdinku tuntun tó dá lórí data ọjà tuntun, tó jẹ́ pé ó yẹ kí o lo data tó ṣẹṣẹ jùlọ (recent market data) fún àṣàyàn WACC rẹ. Eyi máa jẹ́ kí ìṣirò rẹ jẹ",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 131,
+    "total_tokens": 311,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058597.6077366
+}

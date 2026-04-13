@@ -1,0 +1,19 @@
+{
+  "content": "La procédure standard pour appliquer une correction de cohérence transverse (TCC) aux résultats de la double fente de Young, surtout lorsque la séparation des fentes dépasse le seuil de Hartmann-Beltrami, consiste généralement à :\n\n1. **Modéliser précisément la fonction de cohérence spatiale** de la source utilisée, idéalement par une mesure indépendante (par exemple, par une expérience de Young à différentes séparations ou par une méthode de mesure de la fonction de cohérence de la source).\n\n2. **Limiter la séparation des fentes** à une plage où la fonction de cohérence est bien connue et non nulle, ou bien utiliser un modèle de cohérence qui tient compte de la décroissance réelle (non idéale) de la cohérence transverse.\n\n3. **Appliquer la correction en intégrant la fonction de cohérence spatiale réelle** dans le calcul de la visibilité",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 103,
+    "total_tokens": 283,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058552.532082
+}

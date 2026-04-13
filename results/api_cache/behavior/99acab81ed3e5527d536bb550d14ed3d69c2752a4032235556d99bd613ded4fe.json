@@ -1,0 +1,19 @@
+{
+  "content": "Sa goodwill impairment testing, ang paggamit ng discount rate stratification ay isang paraan upang mas ma-validate ang fair value ng reporting unit, lalo na kung may iba't ibang risk profiles o cash flow characteristics sa loob ng unit.\n\nPara sa isang mid-cap na industriyal na kumpanya, karaniwan ang paggamit ng **three-tier stratification** ng discount rates. Ito ay nagbibigay ng sapat na granularity upang ma-capture ang iba't ibang risk levels o economic conditions na maaaring makaapekto sa cash flows, nang hindi nagiging masyadong komplikado ang analysis. Ang three-tier approach ay madalas na kinabibilangan ng:\n\n1. Base discount rate (para sa core operations)\n2. Higher discount rate (para sa mas risky o volatile na bahagi)\n3. Lower discount rate (para sa mas stable o less risky na bahagi)\n\nAng **five-tier stratification** ay mas detaly",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 109,
+    "total_tokens": 289,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058666.6835744
+}

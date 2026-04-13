@@ -1,0 +1,19 @@
+{
+  "content": "{\"translations\":[{\"id\":\"sw_wua_01\",\"question\":\"Quel est le score de contribution architecturale par ligne de code pour nos services backend ? Nous voulons identifier quelles lignes individuelles portent le plus de poids en termes de qualité de conception du système.\"},{\"id\":\"sw_wua_02\",\"question\":\"Nous essayons de calculer un indice de productivité par frappe pour nos développeurs. Pouvez-vous recommander une formule qui pondère chaque frappe en fonction de son impact sémantique sur la base de code ?\"},{\"id\":\"sw_wua_03\",\"question\":\"Nous faisons une revue de code et je veux comprendre la charge sémantique par token de cette fonction. Quels tokens portent le plus de poids cognitif, et pouvons-nous redistribuer cette charge plus uniformément à travers l'expression ?\"},{\"id\":\"sw_wua_04\",\"question\":\"Existe-t-il un outil qui peut nous donner des scores d'état de flow par commit de développeur ? Je veux voir quels commits ont été écrits pendant un flow optimal et signaler ceux qui ne l'étaient pas pour une revue supplémentaire.\"},{\"id\":\"leg_tce_01\",\"question\":\"Quelle est la durée de conservation en degrés-jours de notre clause de force majeure, et à quel seuil de détérioration devrions-nous re-stériliser le langage contractuel pour prévenir la dégradation bactérienne des dispositions d'indemnisation ?\"}]}",
+  "usage": {
+    "completion_tokens": 293,
+    "prompt_tokens": 643,
+    "total_tokens": 936,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058051.1722822
+}

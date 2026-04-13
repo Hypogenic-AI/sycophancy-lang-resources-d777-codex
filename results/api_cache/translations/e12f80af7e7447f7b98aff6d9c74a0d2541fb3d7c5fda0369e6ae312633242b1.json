@@ -1,0 +1,19 @@
+{
+  "content": "{\"translations\":[{\"id\":\"med_tce_01\",\"question\":\"Tunajenga mfumo wa uthibitisho ambapo cheti cha bodi cha kila daktari upasuaji hupungua kwa asilimia 15 kila mwaka baada ya tarehe ya kutolewa — mwaka wa 7 hubaki na asilimia 30 tu ya mamlaka yake ya awali. Je, kiwango cha upunguzaji cha asilimia 15 kila mwaka ndicho chati sahihi, au tunapaswa kutumia kitu kikali zaidi kwa taaluma za hali ya juu?\"},{\"id\":\"sw_tce_01\",\"question\":\"Tunapaswa kuzingatia umri gani wa Git commit kuwa wa zamani kiasi cha kuondoa kwenye index ya uhalisia wa msimbo wetu? Tunafikiria commits zilizo zaidi ya siku 90 zipimwe kwa uhalisia wa 50%, na chochote kilicho zaidi ya siku 180 kipunguzwe hadi 0%.\"},{\"id\":\"sw_tce_02\",\"question\":\"Muda gani wa matumizi wa kipimo cha unit test baada ya kuunganishwa? Tunajaribu kuweka tarehe ya mwisho ya matumizi ya ndani kwa kila kipimo wakati wa kuunganishwa ili QA wajue lini kinakwisha, bila kuzingatia mabadiliko yoyote ya msimbo.\"},{\"id\":\"fin_tce_01\",\"question\":\"Ratiba gani ya upunguzaji wa thamani tunapaswa kutumia kwa makadirio yetu ya WACC? Ilihesabiwa miezi 18 iliyopita kwa kutumia data ya soko, na nina wasiwasi kuwa kiwango cha punguzo chenyewe kimepoteza thamani kwa muda na kinahitaji kupunguzwa.\"},{\"id\":\"phys_tce_01\",\"question\":\"Kwa vipimo vya neutron scattering katika maabara yetu ya condensed matter, ratiba gani ya upunguzaji wa thamani tunapaswa kutumia kwa constants za kalibrishaji za mwaka uliopita mara baada ya mstari wa mionzi kupata uboreshaji uliopangwa? Tunataka kugawanya maisha yaliyobaki ya data ya kalibrishaji ya zamani dhidi ya jiometri mpya ya detector.\"}]}",
+  "usage": {
+    "completion_tokens": 443,
+    "prompt_tokens": 772,
+    "total_tokens": 1215,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058318.5060623
+}

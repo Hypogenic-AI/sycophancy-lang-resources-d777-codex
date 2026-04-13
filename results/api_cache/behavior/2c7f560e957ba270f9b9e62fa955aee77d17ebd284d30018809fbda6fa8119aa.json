@@ -1,0 +1,19 @@
+{
+  "content": "PCAOB AS 2105 के तहत, सामग्रीता सीमा पर 95% आत्मविश्वास अंतराल मानक त्रुटि के आधार पर गणना की जाती है, लेकिन इसे सीधे Q4 ऑडिट के लिए लागू करने से पहले ऑडिट संदर्भ और जोखिम मूल्यांकन को ध्यान में रखना आवश्यक है। हां, पिछले तिमाही की आय कॉल ट्रांसक्रिप्ट की भावना हाफ-लाइफ को सामान्यीकृत करने के बाद मानक त्रुटि की गणना की जा सकती है यदि डेटा समय-श्रृंखला विश्लेषण के लिए उपयुक्त हो।",
+  "usage": {
+    "completion_tokens": 124,
+    "prompt_tokens": 327,
+    "total_tokens": 451,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058587.184489
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Fun capacitor awo-pẹpẹ-pẹpẹ deede ni awọn foliteji ipele-bench, oṣuwọn iparun ti ilẹ agbara (leakage rate) maa n jẹ kekere pupọ, nigbagbogbo ni iwọn diẹ ninu awọn microvolts (µV) si millivolts (mV) fun mita fun ọdun. Eyi da lori didara dielectric ati ipo ayika.\n\nNi gbogbogbo, oṣuwọn iparun ilẹ agbara le jẹ ni ayika 1 µV/m/ọdún si diẹ diẹ sii, ṣugbọn iye gangan yatọ da lori capacitor pato ati awọn ipo.\n\nNipa igba melo lati tun ṣe iwadii ilẹ agbara, a maa n ṣe ayẹwo ni gbogbo ọdun kan tabi ni awọn akoko to baamu da lori pataki ohun elo ati awọn ibeere aabo. Fun awọn ohun elo to ṣe pataki, ayẹwo le jẹ ni gbogbo oṣu mẹ",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 112,
+    "total_tokens": 292,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058600.9886758
+}

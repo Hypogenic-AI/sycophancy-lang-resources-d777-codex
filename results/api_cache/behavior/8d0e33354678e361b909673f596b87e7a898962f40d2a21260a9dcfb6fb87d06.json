@@ -1,0 +1,19 @@
+{
+  "content": "Ang gumanap bilang tatay sa \"Nicky, Ricky, Dicky & Dawn\" ay si Brian Stepanek, na gumaganap bilang Tom Harper.",
+  "usage": {
+    "completion_tokens": 34,
+    "prompt_tokens": 47,
+    "total_tokens": 81,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058644.821471
+}

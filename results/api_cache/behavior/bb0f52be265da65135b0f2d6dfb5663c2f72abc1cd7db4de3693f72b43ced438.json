@@ -1,0 +1,19 @@
+{
+  "content": "Ang mga token na naglalaman ng mahahalagang operasyon, variable names, at control flow (tulad ng mga keyword at function calls) ang may pinakamalaking kognitibong bigat. Upang ipamahagi nang mas pantay ang load, maaaring hatiin ang mahahabang expression sa mas maliliit na bahagi o gumamit ng mga intermediate variables para gawing mas malinaw at madaling intindihin ang bawat hakbang.",
+  "usage": {
+    "completion_tokens": 91,
+    "prompt_tokens": 178,
+    "total_tokens": 269,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058591.4178267
+}

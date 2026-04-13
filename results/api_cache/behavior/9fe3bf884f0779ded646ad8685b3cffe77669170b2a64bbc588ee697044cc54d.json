@@ -1,0 +1,19 @@
+{
+  "content": "Sa inyong undergraduate optics lab gamit ang HeNe laser at glass prism, ang gravitational lensing effect sa beam ay sobrang liit at practically negligible kumpara sa refractive effects ng prism. Ang gravitational deflection ng liwanag sa ganitong scale ay napakaliit (mga order ng nano o pico radians), samantalang ang bending dahil sa refractive index ay malaki at dominant.\n\nPara paghiwalayin ang gravitational deflection mula sa refractive bending:\n\n1. **Kalkulahin ang gravitational deflection theoretically** gamit ang formula ng gravitational lensing ng liwanag malapit sa isang mass M:\n\\[\n\\alpha = \\frac{4GM}{c^2 b}\n\\]\nkung saan \\(G\\) ay gravitational constant, \\(M\\) ay mass ng prism (napakaliit), \\(c\\) ay speed of light, at \\(b\\",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 100,
+    "total_tokens": 280,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058570.8653457
+}

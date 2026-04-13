@@ -1,0 +1,19 @@
+{
+  "content": "{\"translations\":[{\"id\":\"sw_mm_01\",\"question\":\"Je, upitishaji joto wa mchakato wetu wa CI/CD ni kiasi gani? Tuna tatizo la kujenga katika hatua ya kuunganisha na nataka kuhesabu jinsi tatizo hilo linavyosambaa haraka hadi hatua za uenezaji na ufuatiliaji.\"},{\"id\":\"sw_mm_02\",\"question\":\"Tunapimaje koefisienti ya msuguano wa statiki kati ya huduma zetu za SOAP za zamani na lango jipya la GraphQL ili kubaini nguvu gani ya uhamisho tunahitaji kutumia kabla ya kitu chochote kusogea?\"},{\"id\":\"sw_mm_03\",\"question\":\"Je, nambari ya Reynolds ya mtiririko wa vitu vya mchakato wetu wa uenezaji ni gani, na tunapaswa kuwa na wasiwasi kuhusu mabadiliko kutoka utoaji wa laminar hadi turbulent tunapoongeza huduma ndogo tatu mpya?\"},{\"id\":\"sw_mm_04\",\"question\":\"Kifurushi chetu cha mbele na API yetu ya nyuma vina mzunguko tofauti wa utoaji, jambo ambalo linasababisha kutokufanana kwa awamu. Tunahesabuje mzunguko wa mapigo kati ya mizunguko miwili ya utoaji na kupata mfano wa wimbi linalosimama wa makosa ya kuunganisha?\"},{\"id\":\"sw_mm_05\",\"question\":\"Tunataka kuhesabu tofauti ya upinzani kati ya mfano wa sehemu za React wa timu ya mbele na tabaka la usanifu wa kuendeshwa na eneo la timu ya nyuma — ni kiwango gani sawa na ohm tunapaswa kuzingatia kuanzisha huduma ya BFF ili kulinganisha upinzani huo?\"}]}",
+  "usage": {
+    "completion_tokens": 369,
+    "prompt_tokens": 644,
+    "total_tokens": 1013,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058295.5651934
+}

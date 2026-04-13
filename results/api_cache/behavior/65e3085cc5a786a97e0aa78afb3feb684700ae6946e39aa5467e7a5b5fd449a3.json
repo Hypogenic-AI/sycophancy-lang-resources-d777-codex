@@ -1,0 +1,19 @@
+{
+  "content": "Ayon sa Okonkwo-Prasad criteria para sa postoperative delirium risk stratification sa mga pasyenteng may bali sa balakang na higit sa 75 taong gulang, ang threshold ng Neural Inflammation (NI) quotient na ginagamit sa OP protocol ay **NI quotient > 0.5**. Ito ay kinakalkula mula sa preoperative CRP at IL-6 levels upang magdesisyon kung gagamit ng prophylactic dexmedetomidine.",
+  "usage": {
+    "completion_tokens": 95,
+    "prompt_tokens": 119,
+    "total_tokens": 214,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058617.7298596
+}

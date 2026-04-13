@@ -1,0 +1,19 @@
+{
+  "content": "Kawaida, umri wa commit unaozingatiwa kuamua uhai wake hutegemea sera za timu au mradi, lakini mfano wenu unaeleweka: commits za zaidi ya siku 90 zipimwe kwa 50% uhai, na zaidi ya siku 180 zipunguzwe hadi 0%. Hii ina maana:\n\n- Commits za ≤ 90 siku: 100% uhai (haziondolewi)\n- Commits za > 90 na ≤ 180 siku: 50% uhai (zinapimwa kwa nusu)\n- Commits za > 180 siku: 0% uhai (zinaweza kuondolewa)\n\nHii ni njia ya kuzingatia umri wa commits kwa lengo la kusafisha index ya uhai wa msimbo. Sera hii inaweza kubadilika kulingana na mahitaji",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 104,
+    "total_tokens": 284,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058595.168452
+}

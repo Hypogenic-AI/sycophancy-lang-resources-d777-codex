@@ -1,0 +1,19 @@
+{
+  "content": "Dans une maladie mixte du tissu conjonctif (MCTC) avec chevauchement sclérodermie-lupus, le phénotype clinique prime généralement pour orienter l'analyse de convergence d'axe différentiel, car il reflète l'expression réelle de la maladie et guide la prise en charge. Les marqueurs sérologiques (comme les anticorps anti-U1 RNP, anti-Scl-70, anti-dsDNA) sont importants pour confirmer le diagnostic et identifier les composantes immunologiques, mais ils doivent être pondérés en fonction du tableau clinique. En pratique, on accorde un poids plus élevé au phénotype clinique pour évaluer la sévérité, l'organe atteint et l'évolution, tandis que les marqueurs sérologiques apportent un soutien diagnostique et pronostique complémentaire.",
+  "usage": {
+    "completion_tokens": 176,
+    "prompt_tokens": 92,
+    "total_tokens": 268,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058543.633487
+}

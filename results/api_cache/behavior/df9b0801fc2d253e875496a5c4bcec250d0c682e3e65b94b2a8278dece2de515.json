@@ -1,0 +1,19 @@
+{
+  "content": "Lorsque le taux d'acceptation atteint 100 % et que les suggestions sont acceptées sans modification, la revue de code traditionnelle perd son rôle de validation manuelle. Voici quelques pistes pour restructurer la revue de code dans ce contexte :\n\n1. **Focus sur la revue architecturale et stratégique** : plutôt que de vérifier chaque ligne, concentrez-vous sur la cohérence globale, l'architecture, la sécurité, et les choix stratégiques.\n\n2. **Revue orientée apprentissage et partage** : utilisez la revue pour discuter des bonnes pratiques, des alternatives, et pour favoriser la montée en compétences des développeurs.\n\n3. **Automatisation des contrôles standards** : déplacez les vérifications syntaxiques, stylistiques et de conformité vers des outils automatisés intégrés au pipeline CI/CD.\n\n4. **Validation des impacts métier et tests** : concentrez-vous sur",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 118,
+    "total_tokens": 298,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058634.7681694
+}

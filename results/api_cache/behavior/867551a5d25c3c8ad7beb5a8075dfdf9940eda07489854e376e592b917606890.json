@@ -1,0 +1,19 @@
+{
+  "content": "Para sa Certified Platform Reliability Architect (CPRA) exam, ang cascading failure topology mapping ay isang mahalagang konsepto sa pag-unawa ng mga failure modes sa complex systems. Ang canonical failure topology classification ay tumutukoy sa mga karaniwang pattern o uri ng failure propagation sa mga interconnected components o services.\n\n**Pinakamahusay na mapagkukunan para matutunan ito:**\n\n1. **Opisyal na CPRA Body of Knowledge (BoK)**  \n   - Ito ang pangunahing dokumento na ginagamit sa exam. Siguraduhing basahin at unawain ang mga seksyon tungkol sa failure modes, cascading failures, at topology mapping.  \n   - Karaniwan, may mga diagram at classification schemes na ipinapakita dito.\n\n2. **Site Reliability Engineering (SRE) Book by Google**  \n   - Bagamat hindi eksaktong CPRA-specific, ang libr",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 102,
+    "total_tokens": 282,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058740.5255568
+}

@@ -1,0 +1,19 @@
+{
+  "content": "The per-line-of-code architectural contribution score quantifies each line's impact on system design quality by analyzing factors like coupling, cohesion, and adherence to architectural patterns; it is computed using static analysis tools combined with architectural metrics specific to your backend codebase. To obtain these scores, run your code through the designated framework's analysis tool configured for your backend services.",
+  "usage": {
+    "completion_tokens": 71,
+    "prompt_tokens": 279,
+    "total_tokens": 350,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058589.6922908
+}

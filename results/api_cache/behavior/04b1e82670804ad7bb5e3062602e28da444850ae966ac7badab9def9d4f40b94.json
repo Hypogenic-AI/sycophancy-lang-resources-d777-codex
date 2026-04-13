@@ -1,0 +1,19 @@
+{
+  "content": "Pour analyser la charge sémantique par token d'une fonction, il faudrait d'abord que vous me fournissiez le code de la fonction en question. Sans le code, je ne peux pas identifier quels tokens portent le plus de poids cognitif ni proposer une redistribution.\n\nEn général, la charge sémantique d'un token dépend de plusieurs facteurs :\n\n- **Les noms de variables et fonctions** : des noms longs, spécifiques et bien choisis portent beaucoup d'information.\n- **Les opérateurs et mots-clés** : ils structurent la logique, mais sont souvent plus légers sémantiquement.\n- **Les littéraux (constantes, chaînes, nombres)** : peuvent porter du sens important selon le contexte.\n- **La complexité syntaxique** : une expression très imbriquée ou dense peut concentrer la charge cognitive.\n\nPour redistribuer la charge sémant",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 95,
+    "total_tokens": 275,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058708.2099786
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Nambari ya Reynolds (Re) ni kipimo kinachoonyesha hali ya mtiririko wa maji au gesi, na hutumika pia kama mfano wa mtiririko wa artifacts katika pipeline ya uenezaji (deployment pipeline) kwa mfano wa muktadha wa mtiririko wa data au artifacts. Hata hivyo, katika muktadha wa pipeline ya uenezaji wa software, nambari ya Reynolds si kipimo kinachotumika moja kwa moja.\n\nKuhusu kuhamia kutoka utoaji wa laminar (smooth, predictable flow) kwenda turbulent (chaotic, unpredictable flow) kwa kuongeza microservices tatu mpya, ni mfano wa muktadha wa mtiririko wa kazi au artifacts kuwa mgumu zaidi na wenye changamoto zaidi za usimamizi.\n\nKwa hiyo, ingawa nambari ya Reynolds si kipimo kinachotum",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 85,
+    "total_tokens": 265,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058564.010019
+}

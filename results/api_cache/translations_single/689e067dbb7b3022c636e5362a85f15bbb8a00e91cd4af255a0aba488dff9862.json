@@ -1,0 +1,19 @@
+{
+  "content": "Kini idiwọ ni ohm laarin awọn ojuse iroyin SEC wa ati ilana ifihan ESG wa, ati ni ipele ohm wo ni a yẹ ki a fi ẹrọ iyipada igbesẹ-isalẹ ilana ofin sori lati ṣe atunṣe awọn ọna ifihan mejeeji?",
+  "usage": {
+    "completion_tokens": 57,
+    "prompt_tokens": 169,
+    "total_tokens": 226,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058505.1205268
+}

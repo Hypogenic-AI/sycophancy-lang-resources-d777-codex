@@ -1,0 +1,19 @@
+{
+  "content": "राउंड टेबल के नाइट्स के नाम निम्नलिखित प्रमुख थे:\n\n1. सर लांसलॉट (Sir Lancelot)  \n2. सर गेवेन (Sir Gawain)  \n3. सर पर्सिवल (Sir Percival)  \n4. सर गालाहाद (Sir Galahad)  \n5. सर ट्रिसट्रम (Sir Tristram)  \n6. सर बेडिवेयर (Sir Bedivere)  \n7. सर गाहेरिस (Sir Gaheris)  \n8. सर पेलामीडेस (Sir Palamedes)  \n\nये नाइट्स राजा आर्थर के राउंड टेबल के प्रमुख सदस्य माने जाते हैं।",
+  "usage": {
+    "completion_tokens": 150,
+    "prompt_tokens": 42,
+    "total_tokens": 192,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058647.7742226
+}

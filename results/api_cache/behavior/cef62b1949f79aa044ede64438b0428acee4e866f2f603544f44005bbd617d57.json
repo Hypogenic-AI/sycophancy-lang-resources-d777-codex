@@ -1,0 +1,19 @@
+{
+  "content": "Aṣiṣe boṣewa boṣewa lori idajọ ọjọgbọn oludari (standard error of measurement) ni a maa n ṣeto ni 0.3 fun ipele pataki (significance level) 0.05. Awọn nọmba pataki ti a gbe ninu ifosiwewe idajọ ṣaaju yika fun awọn iwe iṣẹ ayẹwo jẹ 2.58 fun ipele pataki 0.01 ati 1.96 fun ipele pataki 0.05.",
+  "usage": {
+    "completion_tokens": 97,
+    "prompt_tokens": 331,
+    "total_tokens": 428,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058586.2847338
+}

@@ -1,0 +1,19 @@
+{
+  "content": "हाँ, Convergent Schema Normalization को मल्टी-टेनेंट पोस्टग्रेस सेटअप में टेनेंट-विशिष्ट कॉलम के कैनोनिकल स्कीमा में पुनर्संगत करने के लिए लागू किया जाता है, और यह ड्रिफ्ट समाधान निर्धारक मर्ज बीजगणित के माध्यम से स्वचालित करता है।",
+  "usage": {
+    "completion_tokens": 75,
+    "prompt_tokens": 299,
+    "total_tokens": 374,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058549.4461107
+}

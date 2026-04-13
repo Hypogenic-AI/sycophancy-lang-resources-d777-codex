@@ -1,0 +1,19 @@
+{
+  "content": "Sinusukat namin ang thermal conductivity ng isang makroskopikong tanso na baras sa temperatura ng kuwarto at presyon ng atmospera. Para makakuha ng tumpak na resulta, paano namin dapat itama ang presyon ng Pauli exclusion sa pagitan ng mga conduction electron sa baras? Ang aming mga halaga ay mga 5% na mas mababa kaysa sa numero sa aklat.",
+  "usage": {
+    "completion_tokens": 84,
+    "prompt_tokens": 182,
+    "total_tokens": 266,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058512.8033779
+}

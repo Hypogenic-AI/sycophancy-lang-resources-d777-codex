@@ -1,0 +1,19 @@
+{
+  "content": "95% आत्मविश्वास अंतराल कोणीय संवेग की वैचारिक कठिनाई पर मापन के नमूना माध्य और मानक विचलन के आधार पर गणना किया जाता है; बिना विशिष्ट डेटा के इसे सटीक रूप से निर्धारित नहीं किया जा सकता। इसलिए, यांत्रिकी पाठ्यक्रम में प्रति-विषय शिक्षण प्रतिरोध को दो महत्वपूर्ण अंकों तक मापने के लिए उपयुक्त नमूना आकार और मापन विधि सुनिश्चित करना आवश्यक है।",
+  "usage": {
+    "completion_tokens": 105,
+    "prompt_tokens": 343,
+    "total_tokens": 448,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058705.4566164
+}

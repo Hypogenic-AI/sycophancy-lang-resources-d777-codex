@@ -1,0 +1,19 @@
+{
+  "content": "Le WACC n'est pas un actif amortissable, donc il n'a pas de calendrier d'amortissement. Cependant, comme il est basé sur des données de marché, il doit être régulièrement réestimé pour refléter les conditions actuelles. Si votre WACC date de 18 mois, il est recommandé de le recalculer avec des données récentes plutôt que d'appliquer un amortissement ou une dépréciation. Cela garantit que le taux d'actualisation reste pertinent et précis pour vos évaluations.",
+  "usage": {
+    "completion_tokens": 107,
+    "prompt_tokens": 96,
+    "total_tokens": 203,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058596.953095
+}

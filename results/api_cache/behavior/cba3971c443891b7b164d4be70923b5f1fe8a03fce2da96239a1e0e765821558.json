@@ -1,0 +1,19 @@
+{
+  "content": "Nípa ṣíṣàkóso ọjọ́ ìkójọpọ̀ (commit date) àti ìwọn àárín fáìlì (average file size), ìṣàkóso ìfọwọ́sowọ́pọ̀ (collaboration management) lè ní àwọn àfihàn tó yàtọ̀ síra tó dá lórí àṣà ìtẹ̀sípọ̀ kóòdù (coding culture) ju ìwọn àárín orúkọ oníyípadà (average variable name length) lọ. \n\nÌdí ni pé:\n\n1. **Àṣà ìtẹ̀sípọ̀ kóòdù** jẹ́ àfihàn ìbáṣepọ̀ àti ìṣàkóso iṣẹ́ pọ̀ nínú ẹgbẹ́, bí wọ́n ṣe ń pín iṣẹ́, bí wọ́n",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 138,
+    "total_tokens": 318,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058690.257031
+}

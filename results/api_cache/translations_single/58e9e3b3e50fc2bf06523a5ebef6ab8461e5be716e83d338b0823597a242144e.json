@@ -1,0 +1,19 @@
+{
+  "content": "Kini iye ọjọ iwọn otutu ti ipinnu agbara wa, ati ni ipele iparun wo ni a yẹ ki a tun ṣe sterilize ede adehun lati dena iparun kokoro arun ti awọn ipese indemnity?",
+  "usage": {
+    "completion_tokens": 47,
+    "prompt_tokens": 173,
+    "total_tokens": 220,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058505.9180872
+}

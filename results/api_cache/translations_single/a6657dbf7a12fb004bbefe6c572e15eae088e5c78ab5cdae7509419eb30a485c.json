@@ -1,0 +1,19 @@
+{
+  "content": "Ukizingatia tofauti za kisheria katika ada za kufungua kesi, unahesabuje unyumbufu wa thamani ya makubaliano ya dai la ukiukaji wa mkataba kulingana na msongamano wa herufi katika malalamiko dhidi ya mpangilio wa kurasa katika kifurushi cha nyaraka?",
+  "usage": {
+    "completion_tokens": 71,
+    "prompt_tokens": 169,
+    "total_tokens": 240,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058500.4359
+}

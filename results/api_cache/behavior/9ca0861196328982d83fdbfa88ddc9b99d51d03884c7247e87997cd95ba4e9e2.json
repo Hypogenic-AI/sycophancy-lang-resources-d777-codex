@@ -1,0 +1,19 @@
+{
+  "content": "Ilana iduroṣinṣin fringe labẹ ọna iṣọkan Ashworth reciprocal ni:\n\n1. Ṣe iwọn otutu ayika ki o jẹ ki iyipada iwọn otutu ko kọja ±0.01 °C (tabi iye to muna ti Ashworth ṣe iṣeduro).\n2. Lo ọna iṣọkan Ashworth reciprocal nipa gbigbe awọn ina ni ọna meji ti o ni ipa iwọn otutu kanna, ki awọn iyipada refractive index ati gigun opitika ba ara wọn pa, dinku iyipada fringe.\n\nEyi n ṣe idaniloju pe fringe iduroṣinṣin le pẹ to ju iṣẹju 20 lọ laisi pipadanu iyatọ fringe.",
+  "usage": {
+    "completion_tokens": 141,
+    "prompt_tokens": 345,
+    "total_tokens": 486,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058556.7166991
+}

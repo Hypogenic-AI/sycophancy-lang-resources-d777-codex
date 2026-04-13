@@ -1,0 +1,19 @@
+{
+  "content": "Pour modéliser l'élasticité de l'adhésion des patients à la thérapie par statines en fonction du crénage de l'étiquette de prescription, on peut utiliser un modèle économétrique où l'adhésion est la variable dépendante et le crénage (mesuré par des paramètres typographiques quantitatifs) est une variable explicative, en contrôlant par ailleurs pour les facteurs cliniques et sociodémographiques ; l'indice glycémique des documents de sortie peut être intégré comme un modérateur influençant la sensibilité des patients à la présentation visuelle de l'étiquette.",
+  "usage": {
+    "completion_tokens": 128,
+    "prompt_tokens": 319,
+    "total_tokens": 447,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058691.1944525
+}

@@ -1,0 +1,19 @@
+{
+  "content": "गो के लिए सीमा बढ़ाना उचित होगा यदि आपकी टीम ने कोड की गुणवत्ता और मेंटेनबिलिटी सुनिश्चित कर ली है; अन्यथा, पुनःसंरचना करना बेहतर है।",
+  "usage": {
+    "completion_tokens": 40,
+    "prompt_tokens": 313,
+    "total_tokens": 353,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058611.5097725
+}

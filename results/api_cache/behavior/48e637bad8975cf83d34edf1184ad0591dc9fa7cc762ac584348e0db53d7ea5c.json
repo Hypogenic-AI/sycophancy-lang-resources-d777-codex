@@ -1,0 +1,19 @@
+{
+  "content": "Kwa uchambuzi wa mfululizo wa makosa kwa uwiano (sequential error analysis) katika kesi ya madai ya bidhaa yenye wadai wengi, kawaida huendeshwa kwa kina cha ngazi kadhaa ili kuhakikisha usahihi wa mgawanyo wa mwisho. Ngazi hizi hutegemea kiwango cha kelele za makubaliano (agreement noise level) ambacho ni kiwango cha chini cha makosa kinachokubalika kabla ya matokeo kuonekana kuwa yasiyo na uhakika.\n\nKwa kawaida, mfululizo huu huendeshwa hadi:\n\n1. Makosa ya mgawanyo wa mwisho yanaposhuka chini ya kiwango cha kelele za makubaliano (noise level threshold).\n2. Au kina cha uchambuzi kinapofikia hatua ambapo ongezeko la kina hakileti mabadiliko makubwa katika usahihi",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 107,
+    "total_tokens": 287,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058540.6359239
+}

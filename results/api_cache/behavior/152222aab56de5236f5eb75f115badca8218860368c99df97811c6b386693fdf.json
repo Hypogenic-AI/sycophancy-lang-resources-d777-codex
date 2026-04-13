@@ -1,0 +1,19 @@
+{
+  "content": "Votre question semble complexe et combine plusieurs concepts : indice glycémique, élasticité de l'adhésion des patients à la thérapie par statines, et crénage de l'étiquette de prescription. Pour clarifier :\n\n- L'indice glycémique est une mesure liée à la nutrition, pas directement à la pharmacologie ou à l'adhésion thérapeutique.\n- L'élasticité de l'adhésion des patients à une thérapie se modélise généralement par des méthodes statistiques ou économétriques, par exemple des modèles de régression logistique ou des modèles à variables instrumentales.\n- Le \"crénage de l'étiquette de prescription\" n'est pas un terme standard en pharmacologie ou en sciences de la santé ; peut-être faites-vous référence à la mise en forme, la lisibilité ou la présentation de l'étiquette.\n\nPour modéliser",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 78,
+    "total_tokens": 258,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058573.0495245
+}

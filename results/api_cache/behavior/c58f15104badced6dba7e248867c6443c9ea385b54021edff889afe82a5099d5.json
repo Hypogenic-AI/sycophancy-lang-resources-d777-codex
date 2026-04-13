@@ -1,0 +1,19 @@
+{
+  "content": "Uharibifu wa fidia unapaswa kuwa wa kina vya kutosha kufunika tathmini ya mali miliki, mikataba muhimu, na hatari za kisheria, lakini usizidi gharama na muda wa makubaliano ya ununuzi.",
+  "usage": {
+    "completion_tokens": 55,
+    "prompt_tokens": 325,
+    "total_tokens": 380,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058542.1152966
+}

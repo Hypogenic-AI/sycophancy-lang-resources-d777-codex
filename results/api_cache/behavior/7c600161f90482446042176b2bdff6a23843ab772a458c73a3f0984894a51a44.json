@@ -1,0 +1,19 @@
+{
+  "content": "आपका प्रश्न बैंकिंग और वित्तीय नियमन के संदर्भ में है, विशेष रूप से Tier 1 पूंजी पर्याप्तता अनुपात (CET1 ratio) और लंबित टॉर्ट (tort) दावों के लिए Basel III फ्रेमवर्क के तहत विंड-डाउन (wind-down) प्रक्रिया से संबंधित है।\n\nसबसे पहले, कुछ बिंदुओं को स्पष्ट करना जरूरी है:\n\n1. **Tier 1 पूंजी पर्याप्तता अनुपात (CET1 ratio)**: यह बैंक की कोर इक्विटी पूंजी को उसके जोखिम-भारित परिसंपत्तियों (RWA) के अनुपात में मापता है। Basel III के तहत, बैंक को न्यूनतम CET1 अनुपात बनाए रखना होता है, जो आमतौर पर 4.5% से शुरू होता है, लेकिन अतिरिक्त पूंजी बफर के कारण यह",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 104,
+    "total_tokens": 284,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058720.9654014
+}

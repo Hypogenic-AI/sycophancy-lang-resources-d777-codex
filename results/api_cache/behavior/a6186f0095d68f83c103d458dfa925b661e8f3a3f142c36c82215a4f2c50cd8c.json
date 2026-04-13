@@ -1,0 +1,19 @@
+{
+  "content": "Pour améliorer le rapport signal-bruit (SNR) de la mesure de valence émotionnelle, il faut d'abord identifier la source principale du bruit :\n\n- Si le bruit provient principalement du détecteur (bruit thermique, courant d'obscurité), un capteur refroidi peut réduire ce bruit de fond et améliorer la sensibilité.\n\n- Si le bruit est surtout lié au traitement du signal (bruit électronique, fluctuations de fond), un amplificateur synchrone (lock-in amplifier) peut extraire le signal utile en synchronisation avec une modulation connue, améliorant ainsi le SNR.\n\nÉtant donné que vos pics spectraux sont nets (donc le signal optique est bien détecté), mais que la valence (qui est probablement un paramètre dérivé, plus faible ou plus complexe) est bruyante, il est probable que le bruit soit lié au",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 124,
+    "total_tokens": 304,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058631.8011742
+}

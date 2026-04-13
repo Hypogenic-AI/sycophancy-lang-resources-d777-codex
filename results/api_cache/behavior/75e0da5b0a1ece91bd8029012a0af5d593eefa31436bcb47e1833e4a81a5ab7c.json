@@ -1,0 +1,19 @@
+{
+  "content": "Ang 95% confidence interval para sa materiality threshold ay maaaring kalkulahin gamit ang historical audit misstatement data bilang basehan, ngunit ito ay depende sa iyong risk assessment at audit context sa ilalim ng PCAOB AS 2105. Para naman sa standard error pagkatapos i-normalize para sa sentiment half-life ng earnings call transcript, maaari itong kalkulahin kung may quantitative sentiment scores at time-decay weighting, ngunit ito ay hiwalay sa materiality threshold at audit evidence evaluation.",
+  "usage": {
+    "completion_tokens": 98,
+    "prompt_tokens": 338,
+    "total_tokens": 436,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058704.1519659
+}

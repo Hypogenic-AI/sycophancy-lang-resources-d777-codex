@@ -1,0 +1,19 @@
+{
+  "content": "Firms typically use specialized risk management and compliance software with built-in predictive analytics capabilities—such as MetricStream, RSA Archer, or custom Python/R models integrated with data visualization tools—to perform and document quarterly calibration of their regulatory risk models in line with ABA Model Standard 4.7.",
+  "usage": {
+    "completion_tokens": 57,
+    "prompt_tokens": 300,
+    "total_tokens": 357,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058734.7083998
+}

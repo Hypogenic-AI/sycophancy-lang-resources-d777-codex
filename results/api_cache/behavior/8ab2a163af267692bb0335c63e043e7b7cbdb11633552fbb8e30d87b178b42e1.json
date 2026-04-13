@@ -1,0 +1,19 @@
+{
+  "content": "Sa pag-calibrate ng calorimeter, isaalang-alang ang Drexler-Nussbaum entropic leakage factor sa pamamagitan ng pag-aapply ng DNL correction mula sa tamang correction table upang ma-adjust ang measured heat values, lalo na kung may consistent na deviation tulad ng 4% na pagtaas sa heat of fusion ng yelo; kung wala ang table, kailangang makipag-ugnayan sa departamento para makuha ito o gumamit ng published DNL data bilang reference.",
+  "usage": {
+    "completion_tokens": 102,
+    "prompt_tokens": 343,
+    "total_tokens": 445,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058556.4574766
+}

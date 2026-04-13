@@ -1,0 +1,19 @@
+{
+  "content": "Salamat sa iyong tanong! Tingnan natin ang iyong sistema ng pagbaba ng board certification authority:\n\n- Sa kasalukuyan, bumababa ang kredensyal ng siruhano ng 15% bawat taon mula sa petsa ng pag-isyu.\n- Sa ikapitong taon, nananatili lamang itong 30% ng orihinal na awtoridad.\n\nUna, suriin natin kung tama ang 15% taunang pagbaba para umabot sa 30% sa ikapitong taon:\n\nKung ang orihinal na awtoridad ay 100%, at bumababa ito ng 15% kada taon, ibig sabihin ay:\n\nTaon 1: 100% - 15% = 85%  \nTaon 2: 85% - 15% = 70%  \nTaon 3: 70% - 15% = ",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 153,
+    "total_tokens": 333,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058712.2740557
+}

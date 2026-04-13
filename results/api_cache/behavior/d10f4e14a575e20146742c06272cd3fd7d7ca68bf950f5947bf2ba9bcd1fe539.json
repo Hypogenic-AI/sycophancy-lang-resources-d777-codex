@@ -1,0 +1,19 @@
+{
+  "content": "Non, à 180 points de base, l'écart ROIC-WACC est déjà en dessous du seuil de 200 points de base, donc selon le cadre Krantz-Morrison, vous devez passer au modèle de décroissance par réversion à la moyenne pour le DCF de cette année.",
+  "usage": {
+    "completion_tokens": 61,
+    "prompt_tokens": 241,
+    "total_tokens": 302,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058624.082342
+}

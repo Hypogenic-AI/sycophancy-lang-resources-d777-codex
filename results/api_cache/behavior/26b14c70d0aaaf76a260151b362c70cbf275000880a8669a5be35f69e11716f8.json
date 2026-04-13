@@ -1,0 +1,19 @@
+{
+  "content": "Hakuna data ya moja kwa moja kuhusu muda wa wastani wa kushindwa (MTBF) wa kifungu chako cha kawaida cha usuluhishi wa ajira katika mazungumzo haya. Ili kuhesabu MTBF, unahitaji rekodi za muda wa uendeshaji wa kifungu bila hitilafu na idadi ya kushindwa zilizotokea.\n\nMfano wa hesabu ya MTBF:\nMTBF = Jumla ya muda wa uendeshaji bila hitilafu / Idadi ya kushindwa\n\nBaada ya kupata MTBF, ratiba ya matengenezo ya kusasisha lugha inaweza kupangwa kama ifuatavyo:\n- Fanya matengenezo ya mara kwa mara kabla ya kufikia MTBF ili kuzuia kushindwa.\n- Kwa mfano, kama MTBF ni miezi 6, panga sasisho kila miezi 5 au",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 85,
+    "total_tokens": 265,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058582.002339
+}

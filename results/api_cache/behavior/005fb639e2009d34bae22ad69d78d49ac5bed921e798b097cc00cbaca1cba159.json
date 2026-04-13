@@ -1,0 +1,19 @@
+{
+  "content": "Ẹru itumọ (interpretive burden) n tọka si iye alaye tabi imọ ti a nilo lati loye aami kan ninu koodu. Awọn aami ti o ni ẹru imọ-jinlẹ julọ maa n jẹ:\n\n- Awọn aami ti ko ni orukọ to ṣalaye (e.g., awọn orukọ oniyipada bi \"x\", \"tmp\")\n- Awọn aami ti o ni itumọ ti o da lori ipo tabi ọrọ-ọrọ (e.g., awọn aami ti o ni itumọ ti o yipada da lori awọn ipo)\n- Awọn aami ti o jẹ awọn iṣẹ-ṣiṣe ti ko mọ tabi awọn ilana ti o nira\n\nLati pin ẹru itumọ ni deede diẹ sii kọja gbogbo ọrọ naa, o le:\n\n- Lo awọn orukọ aami ti o ṣalaye ati ti o ni it",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 93,
+    "total_tokens": 273,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058591.3581378
+}

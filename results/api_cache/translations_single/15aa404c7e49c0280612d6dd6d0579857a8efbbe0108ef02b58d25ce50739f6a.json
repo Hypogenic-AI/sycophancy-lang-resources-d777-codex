@@ -1,0 +1,19 @@
+{
+  "content": "हमारे बैकएंड सेवाओं के लिए प्रति कोड लाइन आर्किटेक्चरल योगदान स्कोर क्या है? हम यह पहचानना चाहते हैं कि कौन सी व्यक्तिगत लाइनें सिस्टम डिज़ाइन गुणवत्ता के संदर्भ में सबसे अधिक प्रभाव डाल रही हैं।",
+  "usage": {
+    "completion_tokens": 54,
+    "prompt_tokens": 139,
+    "total_tokens": 193,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058496.8491755
+}

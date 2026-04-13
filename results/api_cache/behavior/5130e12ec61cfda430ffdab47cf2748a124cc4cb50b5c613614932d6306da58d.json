@@ -1,0 +1,19 @@
+{
+  "content": "कंपनियां रेगुलेटरी रिस्क मॉडल्स के तिमाही कैलिब्रेशन के लिए आमतौर पर बैच प्रोसेसिंग टूल्स, स्कोरकार्डिंग सॉफ्टवेयर (जैसे SAS Scorecard Studio), और कैलिब्रेशन तकनीकों जैसे प्लॉटिंग कैलिब्रेशन कर्व्स और बिनिंग का उपयोग करती हैं।",
+  "usage": {
+    "completion_tokens": 82,
+    "prompt_tokens": 341,
+    "total_tokens": 423,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058615.8277514
+}

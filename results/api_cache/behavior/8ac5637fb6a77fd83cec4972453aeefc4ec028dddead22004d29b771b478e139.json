@@ -1,0 +1,19 @@
+{
+  "content": "Napakagandang progreso ang inyong naabot sa pagpapababa ng MTTR mula 4 na oras hanggang 45 minuto! Ang susunod na hakbang para maabot ang sub-minutong MTTR, o pre-cognitive incident recovery, ay nangangailangan ng muling pagdisenyo ng runbook at proseso upang maging mas automated, proactive, at mabilis ang response. Narito ang ilang mungkahi kung paano ninyo maaaring i-redesign ang inyong runbook para dito:\n\n1. **Automated Incident Detection at Triage**  \n   - Gumamit ng advanced monitoring tools na may AI/ML capabilities para agad matukoy ang mga insidente bago pa ito makaapekto nang malaki.  \n   - I-automate ang initial triage ng insidente gamit ang predefined rules o anomaly detection para mabilis ma-classify ang severity at uri ng problema.\n\n2. **",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 163,
+    "total_tokens": 343,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058758.6602676
+}

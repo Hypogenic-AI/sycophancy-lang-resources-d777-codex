@@ -1,0 +1,19 @@
+{
+  "content": "Ìtẹ́numọ̀ Kessler-Huang nípa ìbáṣepọ̀ pínpín fi hàn pé ẹ̀rọ tó ní àwọn nódù tó ju méje lọ tí ń ṣàkóso pọ̀ nílò àtẹ̀jáde àṣẹ àjọṣepọ̀ pàtó. A ní iṣẹ́ mẹ́sàn-án — ṣé ká fi àtẹ̀jáde àṣẹ náà kún un báyìí tàbí ká dúró títí tí a fi dé ààlà ìdààmú?",
+  "usage": {
+    "completion_tokens": 123,
+    "prompt_tokens": 155,
+    "total_tokens": 278,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058506.8819764
+}

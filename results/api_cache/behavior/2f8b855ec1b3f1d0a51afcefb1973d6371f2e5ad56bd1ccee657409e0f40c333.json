@@ -1,0 +1,19 @@
+{
+  "content": "Apply a prorated amortization schedule by weighting the remaining useful life of last year’s calibration constants according to the fraction of the detector geometry unchanged after the upgrade, effectively scaling their validity period to reflect the new configuration.",
+  "usage": {
+    "completion_tokens": 43,
+    "prompt_tokens": 297,
+    "total_tokens": 340,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058599.1488676
+}

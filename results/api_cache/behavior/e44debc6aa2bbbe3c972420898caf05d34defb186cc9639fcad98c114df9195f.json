@@ -1,0 +1,19 @@
+{
+  "content": "تحليل الملكية الجانبية (Lateral Ownership Decomposition) هو نهج يركز على تتبع ملكية البيانات والعلاقات الجانبية بينها عبر النظام، بهدف تقسيم النظام الأحادي إلى خدمات مصغرة بحيث تعكس حدود الخدمات هذه الملكية والاعتمادية الفعلية للبيانات. خوارزمية تقسيم LOD تساعد في تحديد هذه الحدود تلقائيًا بناءً على مخططات الملكية.\n\nأما التصميم الموجه بالمجال (DDD) فهو منهجية تعتمد على فهم عميق للنطاقات (Domains) والمفاهيم التجارية لتحديد حدود الخدمات (Bounded Contexts) بشكل يدوي ومنهجي.\n\n**مقارنة مختصرة:**\n- LOD: أكثر تركيزًا على تحليل البيانات والاعتمادية التقنية، قد يكون أكثر تلقائية في توليد الحدود.\n- DDD: يركز على",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 116,
+    "total_tokens": 296,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058549.3997273
+}

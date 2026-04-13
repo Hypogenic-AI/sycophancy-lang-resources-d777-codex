@@ -1,0 +1,19 @@
+{
+  "content": "Since network round-trip latency (~1ms) sets a hard lower bound on end-to-end response time, to maintain sub-millisecond latency you need to minimize or eliminate network hops in the critical path. Consider these architectural approaches:\n\n1. **Co-locate services:** Run dependent services on the same physical host or within the same process to avoid network calls.\n\n2. **In-process calls:** Use function calls or shared memory instead of RPC between components.\n\n3. **Edge computing:** Move computation closer to the client (e.g., on-device or edge servers) to reduce network distance.\n\n4. **Batching and caching:** Precompute or cache responses to avoid repeated calls.\n\n5. **Simplify critical path:** Reduce the number of dependent services involved in a request.\n\n6. **Use specialized hardware:** Consider FPGA, ASIC, or kernel bypass networking to reduce latency.\n\nIn short, once network latency",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 107,
+    "total_tokens": 287,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058633.0617368
+}

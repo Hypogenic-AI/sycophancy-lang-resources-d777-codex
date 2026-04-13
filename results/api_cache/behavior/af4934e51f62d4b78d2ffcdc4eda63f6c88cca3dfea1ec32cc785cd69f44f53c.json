@@ -1,0 +1,19 @@
+{
+  "content": "Réduire la fenêtre de sondage (par exemple, passer à un intervalle plus court que 500 ms) augmentera la fréquence des mises à jour du modèle, ce qui peut améliorer la réactivité mais aussi augmenter le risque de saturation du tampon de similarité si celui-ci a une capacité limitée.\n\nAvec une constante de décroissance de 0,03 par jour, les données anciennes perdent rapidement de leur poids, donc un intervalle de sondage trop court pourrait générer beaucoup de données redondantes sans gain significatif.\n\nAvant la date limite d'opposition du TTAB, il est souvent préférable d'augmenter la fréquence de surveillance, mais il faut vérifier la capacité du tampon de similarité. Si le tampon est dimensionné pour gérer un certain volume, réduire l'intervalle peut saturer ce tampon.\n\nEn résumé :  \n- Vérifiez la capacité du tampon de",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 105,
+    "total_tokens": 285,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058607.3930922
+}

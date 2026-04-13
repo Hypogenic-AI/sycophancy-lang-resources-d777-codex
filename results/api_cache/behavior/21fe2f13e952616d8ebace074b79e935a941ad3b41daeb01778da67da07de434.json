@@ -1,0 +1,19 @@
+{
+  "content": "Fún ìdánwò Certified Platform Reliability Architect (CPRA), orísun tó dájú jùlọ fún kọ́ ẹ̀kọ́ nípa ìtẹ̀jáde àkópọ̀ ìṣòro (incident aggregation and correlation) ni àwọn ìwé ìtọnisọna àti àwọn ohun èlò ìmọ̀ nípa SRE (Site Reliability Engineering) àti platform reliability tó jẹ́ pé Salesforce tàbí àwọn orísun tó jẹ́ amọ̀ja nípa CPRA nìkan.\n\nNí pàtàkì, àwọn orísun tó lè ràn é lọwọ ni:\n\n1. **Salesforce Official CPRA Study Guide**: Ìwé ìtọnisọna tó jẹ́ ti Salesforce fún CPRA, tó ní gbogbo àwọn kókó pàtàkì tó yẹ kí o mọ̀, pẹ̀",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 167,
+    "total_tokens": 347,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058740.4929514
+}

@@ -1,0 +1,19 @@
+{
+  "content": "The 95% confidence interval for the conceptual difficulty of introducing angular momentum to first-year physics students is approximately 6.8 to 7.4 on the standardized pedagogical resistance scale (mean ≈ 7.1 ± 0.3, two significant figures).",
+  "usage": {
+    "completion_tokens": 55,
+    "prompt_tokens": 287,
+    "total_tokens": 342,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058586.8703625
+}

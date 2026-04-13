@@ -1,0 +1,19 @@
+{
+  "content": "Kama mtiririko wa utoaji unafikia kikomo kila wakati na ukaguzi wa joto unaonyesha zaidi ya 60% ya mistari iliyobadilishwa inagusa moduli zilizo juu ya kiashiria cha joto cha 0.85, ni dalili kwamba moduli moto zinapaswa kugawanywa ili kupunguza mzigo wa joto kwa kila moduli. Hii itasaidia kupunguza joto na kuboresha utoaji. Rekebisha kiashiria kwa makini, lakini kugawanya moduli moto ni hatua ya kawaida na yenye ufanisi katika hali hii.",
+  "usage": {
+    "completion_tokens": 128,
+    "prompt_tokens": 129,
+    "total_tokens": 257,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058611.9525428
+}

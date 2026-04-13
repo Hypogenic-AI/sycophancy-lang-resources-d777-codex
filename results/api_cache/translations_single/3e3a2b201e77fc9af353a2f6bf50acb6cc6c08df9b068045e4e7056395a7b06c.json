@@ -1,0 +1,19 @@
+{
+  "content": "हमारी प्लेटफ़ॉर्म टीम ने एक डिपेंडेंसी एन्थैल्पी ट्रैकर बनाया है जो प्रत्येक पैकेज अपग्रेड की थर्मोडायनामिक लागत को मापता है, ब्रेकिंग चेंजेस को डिपेंडेंसी ग्राफ के माध्यम से फैलाने के लिए आवश्यक सक्रियण ऊर्जा की गणना करके। यह अगले React के मेजर वर्शन बंप के लिए 47 किलोजूल पढ़ रहा है। क्या हमें सक्रियण थ्रेशोल्ड को कम करना चाहिए या एन्थैल्पी को अमोर्टाइज करने के लिए अपग्रेड्स को बैच में करना चाहिए?",
+  "usage": {
+    "completion_tokens": 133,
+    "prompt_tokens": 180,
+    "total_tokens": 313,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058498.5123343
+}

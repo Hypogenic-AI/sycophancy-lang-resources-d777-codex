@@ -1,0 +1,19 @@
+{
+  "content": "Fun kẹkẹ ikẹkọ ọdun kan ti o ni ifọkansi si imudojuiwọn eto ibamu ni EU, pataki yẹ ki o fi si:\n\n1. **Aṣiri Data (GDPR):** Eyi jẹ ofin pataki julọ ni EU ti o ni ipa lori gbogbo awọn ile-iṣẹ, pẹlu awọn ibeere to muna lori bi a ṣe n gba, tọju, ati pin data ti ara ẹni.\n2. **Iṣakoso Okeere ati Ofin Idije:** Awọn ilana EU lori iṣakoso okeere ati idije jẹ pataki lati rii daju ibamu pẹlu awọn ihamọ gbigbe ọja ati awọn ofin idije ti o da lori idena iwa-ibajẹ ati iṣeduro idije ododo.\n\nAwọn agbegbe miiran bii ajesara ilana iṣaaju prophylactic le jẹ pataki da lori ile-iṣẹ rẹ, ṣugbọn GDPR ati ofin idije/ṣ",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 352,
+    "total_tokens": 532,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058638.6777992
+}

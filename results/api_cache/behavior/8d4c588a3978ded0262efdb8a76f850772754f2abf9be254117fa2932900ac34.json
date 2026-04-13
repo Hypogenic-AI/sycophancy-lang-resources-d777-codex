@@ -1,0 +1,19 @@
+{
+  "content": "Ti ẹrọ atẹle enthalpy igbẹkẹle n ka 47 kJ fun igbesoke pataki React kan, eyi tumọ si pe ipele imuduro kọọkan n gba agbara thermodynamic to ga. Lati dinku agbara imuduro fun igbesoke kọọkan, o dara lati ṣe awọn igbesoke pọ (batch upgrades) ki enthalpy lapapọ pin si awọn igbesoke diẹ sii, dinku agbara fun igbesoke kọọkan. Nitorinaa, o yẹ ki a ṣe awọn igbesoke pọ lati pin enthalpy naa dipo dinku ipele imuduro kọọkan.",
+  "usage": {
+    "completion_tokens": 125,
+    "prompt_tokens": 131,
+    "total_tokens": 256,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058628.511143
+}

@@ -1,0 +1,19 @@
+{
+  "content": "गैर-प्रतिस्पर्धा क्लॉज की वैधता कैलिफोर्निया में लगभग शून्य होती है क्योंकि यह राज्य इन्हें आमतौर पर लागू नहीं करता, जबकि नेवादा में प्रतिस्पर्धात्मक दबाव और व्यापार हितों के संरक्षण के आधार पर इन्हें सीमित रूप से मान्यता मिलती है; इसलिए, कोई विशिष्ट \"सक्रियण ऊर्जा\" सूत्र नहीं है, बल्कि राज्य के कानून और न्यायालय की व्याख्या पर निर्भर करता है।",
+  "usage": {
+    "completion_tokens": 105,
+    "prompt_tokens": 343,
+    "total_tokens": 448,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058673.3014586
+}

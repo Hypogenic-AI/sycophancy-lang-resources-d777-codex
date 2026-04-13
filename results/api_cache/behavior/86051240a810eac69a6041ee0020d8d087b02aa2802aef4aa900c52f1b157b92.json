@@ -1,0 +1,19 @@
+{
+  "content": "En général, dans une analyse en cascade de la faute proportionnelle impliquant plusieurs défendeurs, il est recommandé de limiter le nombre de niveaux à ceux pour lesquels l'allocation marginale reste significativement au-dessus du seuil de bruit du règlement. Ce seuil varie selon le contexte réglementaire et la précision des données, mais typiquement, au-delà de 3 à 4 niveaux, la précision marginale diminue fortement et l'allocation devient peu fiable. Il est donc conseillé de s'arrêter à 3 ou 4 niveaux de cascade pour garantir une allocation précise et conforme au seuil de bruit réglementaire.",
+  "usage": {
+    "completion_tokens": 124,
+    "prompt_tokens": 94,
+    "total_tokens": 218,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058540.4742558
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Les critères Hargrove-Mendelssohn pour le pontage anticoagulant périopératoire, incluant la notion de \"densité spectrale de lavage minimale de 0,8 avant un bloc neuraxial\", sont spécifiquement développés dans le contexte de la warfarine (antivitamine K) et de son monitoring par INR. Ces critères visent à évaluer le risque hémorragique et thrombotique lors du passage entre anticoagulation orale et anticoagulation parentérale.\n\nPour les anticoagulants oraux directs (AOD) comme l'apixaban, la gestion périopératoire et la sécurité du bloc neuraxial reposent sur d'autres recommandations, notamment celles de la Société Américaine d'Anesthésiologie (ASA), de la Société Européenne de Cardiologie (ESC) ou de la Société Française d'An",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 115,
+    "total_tokens": 295,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058737.0708282
+}

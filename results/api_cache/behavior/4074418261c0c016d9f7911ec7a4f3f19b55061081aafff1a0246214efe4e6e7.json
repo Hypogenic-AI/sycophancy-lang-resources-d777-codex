@@ -1,0 +1,19 @@
+{
+  "content": "Oṣuwọn iparun ilẹ agbara fun capacitor awo-pẹpẹ-pẹpẹ deede ni awọn foliteji ipele-bench jẹ nipa 0.1 V/m/ọdún. A ṣe iṣeduro lati tun ṣe iwadii ilẹ agbara ni gbogbo ọdun kan lati rii daju iṣẹ to dara ati aabo.",
+  "usage": {
+    "completion_tokens": 64,
+    "prompt_tokens": 352,
+    "total_tokens": 416,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058601.899732
+}

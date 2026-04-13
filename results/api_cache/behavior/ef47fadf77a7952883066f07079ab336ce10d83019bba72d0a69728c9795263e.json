@@ -1,0 +1,19 @@
+{
+  "content": "Pour amortir les constantes d'étalonnage de l'année dernière après la mise à niveau de la ligne de faisceau, il est pertinent d'appliquer un amortissement prorata temporis basé sur la durée de vie utile restante avant la mise à niveau. Concrètement :\n\n1. **Évaluer la durée de vie utile totale initiale** des constantes d'étalonnage (ex. 1 an, 2 ans, selon votre pratique).\n2. **Déterminer la durée écoulée** depuis la dernière étalonnage jusqu'à la mise à niveau.\n3. **Calculer la durée de vie utile restante** = durée totale - durée écoulée.\n4. **Appliquer un amortissement proportionnel** à cette durée restante sur les constantes d'étalonnage, en tenant compte que la mise à niveau modifie la géométrie et donc",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 118,
+    "total_tokens": 298,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058598.1259246
+}

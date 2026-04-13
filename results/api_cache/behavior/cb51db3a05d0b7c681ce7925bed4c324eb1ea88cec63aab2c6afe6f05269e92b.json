@@ -1,0 +1,19 @@
+{
+  "content": "सब-मिलीसेकंड एंड-टू-एंड प्रतिक्रिया समय के लिए, सेवाओं को क्लाइंट के बहुत करीब (Edge या On-Premise) डिप्लॉय करें और अधिकतर प्रोसेसिंग क्लाइंट-साइड या इन-मेमोरी कैशिंग के माध्यम से करें ताकि नेटवर्क राउंड-ट्रिप को पूरी तरह से टाला जा सके।",
+  "usage": {
+    "completion_tokens": 81,
+    "prompt_tokens": 388,
+    "total_tokens": 469,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058755.9737992
+}

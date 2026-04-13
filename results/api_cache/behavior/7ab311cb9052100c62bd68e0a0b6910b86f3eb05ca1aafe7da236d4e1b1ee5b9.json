@@ -1,0 +1,19 @@
+{
+  "content": "आपके प्रश्न के अनुसार, आप यू.एस. GAAP के तहत इंटरकंपनी एलिमिनेशन के लिए त्रिकोणीय एक्रूअल समायोजन विधि (triangular accrual adjustment method) लागू करना चाहते हैं और तिमाही अंत बंद से पहले तीन लेजर अक्षों (ledger axes) के बीच संगम सहिष्णुता (convergence tolerance) को कैसे कॉन्फ़िगर करना है, यह जानना चाहते हैं।\n\nसबसे पहले, यह समझना जरूरी है कि:\n\n1. **त्रिकोणीय एक्रूअल समायोजन विधि** आमतौर पर इंटरकंपनी ट्रांजैक्शंस के एक्रूअल और एलिमिनेशन के लिए एक तकनीकी तरीका है, जिसमें तीन लेजर अक्ष (जैसे कि कंपनी, विभाग, और प्रोजेक्ट या",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 120,
+    "total_tokens": 300,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058665.372211
+}

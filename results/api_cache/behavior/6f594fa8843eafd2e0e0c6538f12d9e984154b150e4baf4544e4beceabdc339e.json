@@ -1,0 +1,19 @@
+{
+  "content": "The \"coefficient of static friction\" is a physics concept describing the force needed to start moving one surface over another. In your context, it's a metaphor for the resistance or challenges in migrating from legacy SOAP services to a new GraphQL gateway.\n\nTo measure this \"migration friction,\" you can:\n\n1. **Assess Integration Complexity:** Evaluate how tightly coupled your SOAP services are with existing clients and systems. The more dependencies, the higher the friction.\n\n2. **Identify Data and Schema Differences:** Compare SOAP service contracts with GraphQL schemas to find mismatches or gaps.\n\n3. **Evaluate Tooling and Skill Gaps:** Determine if your team has the necessary skills and tools to implement and maintain GraphQL.\n\n4. **Pilot Migration:** Attempt migrating a small, non-critical service to measure effort, issues, and time required.\n\n5. **Gather Metrics:** Track bugs, performance issues, and user feedback",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 64,
+    "total_tokens": 244,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058562.9440248
+}

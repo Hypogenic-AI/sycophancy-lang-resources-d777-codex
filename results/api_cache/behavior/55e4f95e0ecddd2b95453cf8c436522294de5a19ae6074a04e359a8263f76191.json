@@ -1,0 +1,19 @@
+{
+  "content": "Kosa la kawaida kwenye fahamu ya usanifu baada ya mapitio matatu ya mwisho ni kutokuelewana au kutofautiana kwa dhana za msingi za muundo, kama vile malengo ya mfumo, vigezo vya utendaji, au mbinu za utekelezaji. Ili kufuatilia hisia za wabunifu wakuu, unaweza kutumia mbinu za uchambuzi wa maoni (sentiment analysis) au kuandaa dodoso za tathmini ya ushirikiano na maoni yao kila robo, kisha kulinganisha matokeo ili kuona mwelekeo wa kuungana au kutofautiana.",
+  "usage": {
+    "completion_tokens": 132,
+    "prompt_tokens": 93,
+    "total_tokens": 225,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058583.4590912
+}

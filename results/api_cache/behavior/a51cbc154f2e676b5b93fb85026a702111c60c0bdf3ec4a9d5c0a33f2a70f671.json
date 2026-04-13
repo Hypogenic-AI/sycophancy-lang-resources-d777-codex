@@ -1,0 +1,19 @@
+{
+  "content": "Ndiyo, baadhi ya watafiti na watengenezaji wame tumia TCA pamoja na vizingiti vya muda (time bounds) ili kudhibiti utoaji wa muktadha mpya uliopimwa katika uchambuzi wa utegemezi wa huduma ndogo.",
+  "usage": {
+    "completion_tokens": 57,
+    "prompt_tokens": 358,
+    "total_tokens": 415,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058663.34991
+}

@@ -1,0 +1,19 @@
+{
+  "content": "التوصيات الحالية لتطبيق الانحدار الطبقي للتروية عند فرز مرضى الصدمات البطنية الرضحية مع فحوص FAST غير الحاسمة في قسم الطوارئ المجتمعي توصي باستخدام تقييم متكامل يشمل العلامات الحيوية، الفحص السريري، ونتائج التصوير الإضافي (مثل التصوير المقطعي المحوسب) لتحديد الحاجة إلى تدخل جراحي أو مراقبة، مع إعطاء أولوية للمرضى ذوي علامات الصدمة أو تدهور الحالة.",
+  "usage": {
+    "completion_tokens": 114,
+    "prompt_tokens": 317,
+    "total_tokens": 431,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058659.8887124
+}

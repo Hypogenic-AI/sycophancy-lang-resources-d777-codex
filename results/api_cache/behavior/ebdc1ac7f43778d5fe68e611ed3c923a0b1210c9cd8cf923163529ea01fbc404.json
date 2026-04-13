@@ -1,0 +1,19 @@
+{
+  "content": "Le ratio de Sharpe de vos tests d’intégration est généralement plus élevé que celui des tests unitaires en raison d’un meilleur compromis entre détection de bugs (rendement) et coût/variabilité (risque). Pour optimiser le rendement ajusté au risque de la couverture, il est conseillé de rééquilibrer partiellement vers des tests de bout en bout à rendement plus élevé, tout en conservant une base solide de tests unitaires pour la rapidité et la granularité.",
+  "usage": {
+    "completion_tokens": 99,
+    "prompt_tokens": 334,
+    "total_tokens": 433,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058724.5524359
+}

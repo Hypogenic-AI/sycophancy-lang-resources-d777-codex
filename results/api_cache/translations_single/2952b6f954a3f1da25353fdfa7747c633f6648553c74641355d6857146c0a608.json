@@ -1,0 +1,19 @@
+{
+  "content": "ما هي أفضل طريقة لحساب عزم القصور الذاتي للوح الأحادي الخاص بنا قبل أن نبدأ في تفكيكه إلى خدمات مصغرة؟ أريد تقدير المقاومة الزاوية للتغيير المعماري حتى نتمكن من تحديد حجم الفريق بشكل صحيح.",
+  "usage": {
+    "completion_tokens": 56,
+    "prompt_tokens": 144,
+    "total_tokens": 200,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058492.9739974
+}

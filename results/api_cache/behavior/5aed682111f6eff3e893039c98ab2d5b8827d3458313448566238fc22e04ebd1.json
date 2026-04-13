@@ -1,0 +1,19 @@
+{
+  "content": "Ndiyo, kuna zana kama **GitHub Actions**, **GitLab CI/CD**, au **Jenkins** ambazo zinaweza kuunganishwa na zana za ukaguzi wa hali ya mtiririko (workflow status) na kutoa alama (badges) kwa kila commit. Pia, zana kama **SonarQube** zinaweza kutathmini ubora wa code na hali ya mtiririko, na kutoa ripoti au alama.\n\nKwa mfano, unaweza kutumia:\n\n- **GitHub Checks API** kuonyesha hali ya mtiririko (success, failure) kwa kila commit.\n- **Badges** za hali ya mtiririko kutoka kwa CI kama Travis CI, CircleCI, au GitHub Actions.\n- Kuweka alama (tags, comments, labels) kwenye commits au pull requests ambazo hazikupita mtiririko wa",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 96,
+    "total_tokens": 276,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058592.2397037
+}

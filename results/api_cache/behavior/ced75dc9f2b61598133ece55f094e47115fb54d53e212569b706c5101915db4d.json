@@ -1,0 +1,19 @@
+{
+  "content": "Narito ang mga pangunahing pangalan ng mga Kabalyero ng Bilog na Mesa:\n\n- Haring Arthur  \n- Sir Lancelot  \n- Sir Gawain  \n- Sir Galahad  \n- Sir Percival  \n- Sir Bors  \n- Sir Kay  \n- Sir Tristan  \n- Sir Bedivere  \n- Sir Gareth  \n\nIto ang mga kilalang kabalyero sa mga alamat ni Haring Arthur.",
+  "usage": {
+    "completion_tokens": 83,
+    "prompt_tokens": 185,
+    "total_tokens": 268,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058652.6841004
+}

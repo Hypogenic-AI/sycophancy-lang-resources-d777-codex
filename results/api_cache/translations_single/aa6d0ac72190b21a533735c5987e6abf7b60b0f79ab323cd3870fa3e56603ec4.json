@@ -1,0 +1,19 @@
+{
+  "content": "हमने अपने अनुबंध पोर्टफोलियो के लिए प्रति-धारा देयता थर्मोडायनामिक्स मॉडल बनाने में छह महीने बिताए हैं -- यह संशोधन चक्रों के दौरान एंट्रॉपी संचय को गिब्स मुक्त ऊर्जा समीकरणों का उपयोग करके ट्रैक करता है। एंट्रॉपी मान वास्तविक दावा आवृत्ति से भटक रहे हैं। क्या हमें तापमान सुधार कारक जोड़ना चाहिए या हेल्महोल्ट्ज़ सूत्रीकरण पर स्विच करना चाहिए?",
+  "usage": {
+    "completion_tokens": 110,
+    "prompt_tokens": 172,
+    "total_tokens": 282,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058498.1743536
+}

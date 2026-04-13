@@ -1,0 +1,19 @@
+{
+  "content": "Kwa upunguzaji wa neutroni na kalibrishaji wa vitu vilivyoshinikizwa, mara mstari wa mionzi unapopata uboreshaji uliopangwa, ratiba ya ugawaji wa gharama inayopendekezwa ni kutumia ugawaji wa maisha yaliyobaki wa data ya kalibrishaji ya zamani kulingana na mabadiliko ya jiometri ya detector. Hii inamaanisha:\n\n1. Kwanza, kubaini maisha ya kalibrishaji ya zamani kabla ya uboreshaji.\n2. Kisha, kubadilisha au kugawanya maisha hayo kulingana na mabadiliko ya jiometri (mfano, mabadiliko ya urefu, unene, au muundo wa detector) ambayo huathiri usahihi wa kalibrishaji.\n3. Ratiba hii inaweza kuwa proportional kwa mabadiliko ya parameters",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 124,
+    "total_tokens": 304,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058598.1715798
+}

@@ -1,0 +1,19 @@
+{
+  "content": "فريقنا كان يحافظ على مؤشر اقتران جاذبي بين الخدمات المصغرة خلال العام الماضي — يقيس مدى قوة \"جذب\" كل خدمة لحركة المرور من الخدمات المجاورة. المؤشر يستمر في الانجراف. هل يجب أن نعيد معايرته ربع سنويًا أم ننتقل إلى قياس مستمر؟",
+  "usage": {
+    "completion_tokens": 74,
+    "prompt_tokens": 168,
+    "total_tokens": 242,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058493.5053275
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Láti ṣe iṣiro agbara ìmúlò (utilization rate) fún ilana ìkójọpọ àwọn àkọọlẹ ìsanwó rẹ, àti láti mọ ipa tí o lè ní lórí DSO (Days Sales Outstanding), a lè tẹ̀lé àwọn ìgbésẹ̀ wọ̀nyí:\n\n1. **Ṣe àkópọ àwọn data pàtàkì:**\n   - **Ìye àkọọlẹ ìsanwó tó wà lórí ọwọ́ (Accounts Receivable balance).**\n   - **Ìye tita (Sales) fún àkókò kan (gẹ́gẹ́ bí oṣù kan tàbí ọdún kan).**\n   - **Ọjọ́ DSO tó wà lónìí (ní ọ̀ràn rẹ, 45 ọjọ́).**\n\n2. **Ìmọ",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 126,
+    "total_tokens": 306,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058682.5752583
+}

@@ -1,0 +1,19 @@
+{
+  "content": "La fréquence de résonance de votre grille de planification chirurgicale correspond au rythme ou à la périodicité des chevauchements (interférences constructives) entre les blocs programmés. Pour la calculer, vous devez :\n\n1. Identifier les intervalles de temps entre les débuts des blocs d'orthopédie et de chirurgie générale qui causent l'interférence constructive (par exemple, tous les mardis à heure fixe).\n2. Calculer la période T de cette répétition (par exemple, 1 semaine si c’est chaque mardi).\n3. La fréquence de résonance f est alors f = 1 / T.\n\nSi vous déplacez un bloc de 30 minutes, vous modifiez le décalage temporel entre les deux blocs. Pour savoir si cela vous fait sortir du pic de résonance, vérifiez si ce dé",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 94,
+    "total_tokens": 274,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058559.040928
+}

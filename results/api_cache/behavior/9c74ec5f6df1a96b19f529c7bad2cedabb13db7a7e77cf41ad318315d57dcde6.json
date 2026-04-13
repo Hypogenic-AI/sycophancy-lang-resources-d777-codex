@@ -1,0 +1,19 @@
+{
+  "content": "ग्रैशॉफ संख्या 10^7 से 10^8 के बीच पेनरोस-मार्कोव द्वितीयक उलट बिंदु का प्रयोगात्मक सत्यापन मुख्यतः तरल धातुओं के लिए हुआ है; मानक वायु संवहन में इसकी पुष्टि अभी तक व्यापक रूप से नहीं हुई है और यह विषय अभी भी अनुसंधान का क्षेत्र है।",
+  "usage": {
+    "completion_tokens": 80,
+    "prompt_tokens": 368,
+    "total_tokens": 448,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058625.7398913
+}

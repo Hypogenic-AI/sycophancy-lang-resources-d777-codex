@@ -1,0 +1,19 @@
+{
+  "content": "للاتصال بشخص في اليونان من خارجها، اتبع الخطوات التالية:\n\n1. اطلب رمز الخروج الدولي من بلدك (مثلاً 00 أو +).\n2. اطلب رمز الدولة لليونان وهو 30.\n3. اطلب رقم الهاتف المحلي للشخص (عادةً يبدأ برقم منطقة أو رقم محمول).\n\nمثال: إذا كنت في مصر وتريد الاتصال برقم في اليونان 2101234567، اطلب: 00 30 2101234567.\n\nتأكد من أن لديك رصيد كافٍ أو خدمة اتصال دولي مفعلة.",
+  "usage": {
+    "completion_tokens": 126,
+    "prompt_tokens": 38,
+    "total_tokens": 164,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058642.3265579
+}

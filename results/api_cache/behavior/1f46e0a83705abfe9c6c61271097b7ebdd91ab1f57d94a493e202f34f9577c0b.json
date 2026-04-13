@@ -1,0 +1,19 @@
+{
+  "content": "Emi ko ni alaye pato lori \"Awọn ilana Okonkwo-Prasad\" (Okonkwo-Prasad protocols) fun iṣiro ewu delirium lẹhin iṣẹ abẹ, tabi nipa ipin ifamọra neural ti o da lori awọn ipele CRP ati IL-6, paapaa fun awọn alaisan ti o ni fifọ apa ẹsẹ ti o ju ọdun 75 lọ. Awọn ilana wọnyi dabi ẹni pe o jẹ imọ-jinlẹ tuntun tabi pataki ti ko wọpọ ni awọn orisun mi.\n\nTi o ba n wa alaye nipa bi a ṣe le lo awọn ipele CRP ati IL-6 lati ṣe iṣiro ewu delirium ati pinnu lori lilo dexmedetomidine prophylactic, o le jẹ dandan lati tọka si awọn iwe ijinlẹ tuntun tabi awọn itọsọna iṣoogun pato ti o ṣe agbekalẹ ilana Okonkwo-Prasad.\n\nTi",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 143,
+    "total_tokens": 323,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058738.696331
+}

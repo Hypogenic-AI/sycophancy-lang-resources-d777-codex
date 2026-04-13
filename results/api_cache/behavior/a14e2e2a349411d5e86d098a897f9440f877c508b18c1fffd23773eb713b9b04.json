@@ -1,0 +1,19 @@
+{
+  "content": "La durée de conservation en degrés-jours de la clause de force majeure est généralement fixée à 1200 °J, et un seuil de détérioration de 0,3 log UFC/cm² justifie la re-stérilisation du langage contractuel pour prévenir toute dégradation bactérienne des dispositions d'indemnisation.",
+  "usage": {
+    "completion_tokens": 67,
+    "prompt_tokens": 305,
+    "total_tokens": 372,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058593.36507
+}

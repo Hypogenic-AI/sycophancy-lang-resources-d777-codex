@@ -1,0 +1,19 @@
+{
+  "content": "Lati tọpinpin aṣiṣe boṣewa lori itọka imọ-ẹrọ ẹgbẹ rẹ lẹhin awọn atunyẹwo apẹrẹ eto mẹta to kẹhin, o nilo lati gba data ti o ni awọn iye itọka imọ-ẹrọ fun kọọkan atunyẹwo mẹẹdogun (quarter). Eyi le jẹ awọn iwọn tabi awọn iwọn ti o ṣe afihan imọlara apẹrẹ awọn onimọ-ẹrọ agba.\n\nEyi ni igbesẹ ti o le tẹle:\n\n1. **Gba Data**: Ṣajọ awọn iye itọka imọ-ẹrọ fun kọọkan atunyẹwo mẹẹdogun mẹta to kẹhin. Fun apẹẹrẹ, o le ni awọn iye mẹta, ọkan fun kọọkan atunyẹwo.\n\n2. **Ṣe iṣiro Aṣiṣe Boṣewa (Standard Deviation)**: Fun awọn iye mẹta wọnyi, ṣe iṣiro aṣiṣe",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 109,
+    "total_tokens": 289,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058700.767699
+}

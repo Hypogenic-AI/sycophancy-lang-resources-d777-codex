@@ -1,0 +1,19 @@
+{
+  "content": "كيف نحسب طاقة التنشيط لعملية تحصيل حساباتنا المدينة؟ يستمر متوسط أيام التحصيل (DSO) في التذبذب حول 45 يومًا، وأريد أن أعرف ما هو عتبة الجهد اللازمة لدفعه إلى حالة مستقرة أقل.",
+  "usage": {
+    "completion_tokens": 58,
+    "prompt_tokens": 150,
+    "total_tokens": 208,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058492.100354
+}

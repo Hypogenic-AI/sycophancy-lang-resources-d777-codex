@@ -1,0 +1,19 @@
+{
+  "content": "A n gbiyanju lati ṣe iṣiro itọka iṣelọpọ fun ọkọọkan bọtini ti awọn olupilẹṣẹ wa. Ṣe o le ṣe iṣeduro fọọmu kan ti o ṣe iwuwo ọkọọkan bọtini nipasẹ ipa semantiki rẹ lori ipilẹ koodu?",
+  "usage": {
+    "completion_tokens": 59,
+    "prompt_tokens": 139,
+    "total_tokens": 198,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058505.6177893
+}

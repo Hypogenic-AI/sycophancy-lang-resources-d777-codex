@@ -1,0 +1,19 @@
+{
+  "content": "لفهم كيفية رفع درجة التماسك الجانبي (cohesion) من 0.73 إلى 0.85 عبر تدفق الدفع، من المهم أولاً توضيح المفهومين:\n\n- **تذبذب الفترات (period variability):** يشير إلى مدى تغير أو تشتت أوقات تتبع الفترات (spans) بين الخدمات المصغرة المختلفة.\n- **نافذة الارتباط (correlation window):** هي الفترة الزمنية التي تُستخدم لقياس ارتباط الخدمات المصغرة ببعضها خلال معاملة مستخدم واحدة.\n\n### ماذا يعني كل خيار؟\n\n- **تقليل تذبذب الفترات:** يعني جعل أوقات تتبع الفترات أكثر انتظامًا وأقل تشتتًا، مما قد يعكس أن الخدمات المصغرة تعمل بتناسق زمني أفضل.\n- **تضييق نافذة الارتباط",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 133,
+    "total_tokens": 313,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058729.487936
+}

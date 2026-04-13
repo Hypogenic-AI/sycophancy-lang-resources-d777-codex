@@ -1,0 +1,19 @@
+{
+  "content": "Ang Causal Dependency Fingerprinting (CDF) ay promising para sa pag-automate ng failure mode detection, pero ang maturity nito ay depende sa kalidad ng causal graphs at sa complexity ng inyong platform. Sa isang 20-service platform, kung consistent at accurate ang pagbuo ng causal graphs, makakatulong ang CDF para mapabilis at mapahusay ang postmortem analysis. Ngunit kung hindi pa stable o standardized ang data, mas mainam munang gamitin ang manual tagging habang pinapabuti ang data collection at graph generation. Maaari ring i-consider ang hybrid approach: automated fingerprinting na may manual review para sa mas mataas na accuracy.",
+  "usage": {
+    "completion_tokens": 131,
+    "prompt_tokens": 108,
+    "total_tokens": 239,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058546.5314405
+}

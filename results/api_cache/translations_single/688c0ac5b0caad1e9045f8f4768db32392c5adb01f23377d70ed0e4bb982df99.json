@@ -1,0 +1,19 @@
+{
+  "content": "Tunataka kuhesabu tofauti ya upinzani wa impedance kati ya mfano wa sehemu ya React ya timu yetu ya frontend na tabaka la muundo unaoongozwa na eneo la timu ya backend — kwa kiwango gani cha ohm-sawa tunapaswa kuzingatia kuanzisha huduma ya BFF ili kulinganisha impedance?",
+  "usage": {
+    "completion_tokens": 69,
+    "prompt_tokens": 159,
+    "total_tokens": 228,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058501.0441792
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Walang standard na eksaktong saklaw ng tolerance sa milliempathies para sa compassion drift sa mga nars ng palliative care, dahil ito ay depende sa konteksto at mga indibidwal na setting. Subalit, sa mga pag-aaral, ang compassion fatigue o drift ay madalas na sinusubaybayan gamit ang validated psychological scales, at kapag may makabuluhang pagbaba sa empathy o pagtaas ng stress na nakakaapekto na sa kalidad ng pangangalaga, inirerekomenda ang rotation.\n\nKaraniwang praktis na mag-utos ng rotation o pahinga kapag may makitang malinaw na senyales ng compassion fatigue o burnout, tulad ng:\n\n- Malaking pagbaba sa empathy scores (hal., higit sa 20-30% mula baseline)\n- Mataas na antas ng emotional exhaustion o depersonalization sa mga survey\n-",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 81,
+    "total_tokens": 261,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058583.2505748
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Le déclenchement d’une liquidation liée aux réclamations en responsabilité délictuelle devrait intervenir lorsque le ratio Tier 1 tombe en dessous du seuil réglementaire minimal (généralement autour de 6%), en intégrant ces réclamations comme des passifs pondérés selon leur probabilité de perte et leur impact financier estimé ; l’exposition pondérée au risque de chaque plaignant se calcule en multipliant le montant potentiel de la réclamation par un facteur de probabilité de défaut ou de perte attendu, ajusté selon la gravité et la certitude juridique de la réclamation.",
+  "usage": {
+    "completion_tokens": 122,
+    "prompt_tokens": 333,
+    "total_tokens": 455,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058722.2839265
+}

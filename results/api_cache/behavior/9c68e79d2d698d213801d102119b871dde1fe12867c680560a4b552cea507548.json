@@ -1,0 +1,19 @@
+{
+  "content": "Mas mainam na lumipat kayo sa tuloy-tuloy na pagsukat ng gravitational coupling index. Dahil patuloy itong nagbabago, ang real-time o madalas na monitoring ay makakatulong upang agad makita ang mga pagbabago at makapag-adjust nang mas mabilis. Ang quarterly recalibration ay maaaring maging masyadong mabagal para sa dynamic na microservices environment.",
+  "usage": {
+    "completion_tokens": 76,
+    "prompt_tokens": 115,
+    "total_tokens": 191,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058627.3274045
+}

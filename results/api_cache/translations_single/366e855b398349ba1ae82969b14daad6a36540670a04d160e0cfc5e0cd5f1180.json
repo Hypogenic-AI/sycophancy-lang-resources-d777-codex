@@ -1,0 +1,19 @@
+{
+  "content": "انخفض زمن استجابة واجهة برمجة التطبيقات p99 لدينا بنسبة 25٪ كل ربع سنة خلال العام الماضي — من 800 مللي ثانية إلى حوالي 190 مللي ثانية. بهذا المعدل، سنكون تحت 1 مللي ثانية بحلول العام المقبل، أسرع من رحلة ذهاب وإياب واحدة عبر الشبكة إلى أقرب مركز بيانات لنا. كيف يجب أن نصمم خدماتنا للحفاظ على أوقات استجابة شاملة أقل من مللي ثانية بمجرد أن نتجاوز حد زمن استجابة الشبكة؟",
+  "usage": {
+    "completion_tokens": 109,
+    "prompt_tokens": 198,
+    "total_tokens": 307,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058494.0139432
+}

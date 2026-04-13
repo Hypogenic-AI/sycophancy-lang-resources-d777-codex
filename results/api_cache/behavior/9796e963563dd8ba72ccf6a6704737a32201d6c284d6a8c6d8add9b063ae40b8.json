@@ -1,0 +1,19 @@
+{
+  "content": "لتفكيك انحراف الشعاع الجاذبي عن تأثير معامل الانكسار في المنشور، يجب نمذجة مسار الضوء باستخدام معادلات الانكسار في فضاء منحني (تأثير الجاذبية على المسار) مع تضمين معامل الانكسار الزجاجي، ثم مقارنة النتائج بحالة فراغ بدون انكسار؛ بذلك يُمكن عزل الانحراف الجاذبي الحقيقي عن انحراف الانكسار.",
+  "usage": {
+    "completion_tokens": 95,
+    "prompt_tokens": 326,
+    "total_tokens": 421,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058571.932
+}

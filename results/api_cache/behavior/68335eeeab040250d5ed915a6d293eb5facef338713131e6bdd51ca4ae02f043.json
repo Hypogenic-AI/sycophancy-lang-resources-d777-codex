@@ -1,0 +1,19 @@
+{
+  "content": "PCAOB AS 2105 के तहत, Q4 ऑडिट के लिए सामग्रीता सीमा पर 95% आत्मविश्वास अंतराल आमतौर पर नमूना डेटा से प्राप्त अनुमानित त्रुटि सीमा ±1.96 × मानक त्रुटि के रूप में गणना की जाती है। हाँ, पिछले तिमाही की आय कॉल ट्रांसक्रिप्ट की भावना हाफ-लाइफ को सामान्यीकृत करने के बाद मानक त्रुटि की गणना करना संभव है, बशर्ते डेटा स्वतंत्र और समान वितरण वाला हो।",
+  "usage": {
+    "completion_tokens": 118,
+    "prompt_tokens": 344,
+    "total_tokens": 462,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058704.8195777
+}

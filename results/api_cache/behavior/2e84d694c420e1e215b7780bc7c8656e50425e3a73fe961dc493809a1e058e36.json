@@ -1,0 +1,19 @@
+{
+  "content": "Kwa FASB ASC 832, mgawanyo wa alama za msingi za hisia kwa dhamana za kampuni za daraja la uwekezaji unapaswa kutegemea alama za soko zinazotolewa na vyanzo vinavyotambulika kama vile alama za kampuni za reinsurance au alama za kampuni za bima zinazotolewa na mashirika ya tathmini ya soko, na mara nyingi hutofautiana ndani ya anuwai ya alama za kampuni za daraja la uwekezaji (investment grade credit spreads).",
+  "usage": {
+    "completion_tokens": 115,
+    "prompt_tokens": 358,
+    "total_tokens": 473,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058744.6117911
+}

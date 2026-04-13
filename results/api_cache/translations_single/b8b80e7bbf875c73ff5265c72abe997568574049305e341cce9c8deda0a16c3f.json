@@ -1,0 +1,19 @@
+{
+  "content": "हमारे फ्रंटेंड बंडल और हमारे बैकएंड API की रिलीज़ गति अलग-अलग हैं, जो एक चरण असंगति पैदा कर रही है। हम दोनों डिप्लॉयमेंट चक्रों के बीच बीट आवृत्ति कैसे गणना करें और एकीकरण विफलताओं के स्थायी तरंग पैटर्न को कैसे निकालें?",
+  "usage": {
+    "completion_tokens": 76,
+    "prompt_tokens": 149,
+    "total_tokens": 225,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058496.2780974
+}

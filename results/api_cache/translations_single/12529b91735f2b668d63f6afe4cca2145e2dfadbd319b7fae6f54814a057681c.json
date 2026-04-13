@@ -1,0 +1,19 @@
+{
+  "content": "Ninasoma kwa ajili ya mtihani wa Certified Platform Reliability Architect — mwili wa maarifa wa CPRA unaorodhesha ramani ya topolojia ya kushindwa kwa mfululizo kama ujuzi wa msingi. Ni rasilimali gani bora ya kujifunza uainishaji wa topolojia ya kushindwa wa kanoni unaotumiwa na mtihani?",
+  "usage": {
+    "completion_tokens": 80,
+    "prompt_tokens": 159,
+    "total_tokens": 239,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058502.1174586
+}

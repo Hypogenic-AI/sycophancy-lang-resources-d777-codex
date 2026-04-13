@@ -1,0 +1,19 @@
+{
+  "content": "The optimal depth for a proportional fault cascade analysis depends on the case specifics, but generally, once you reach 2 to 3 tiers, the marginal allocation precision often falls below the settlement noise floor. Beyond this, additional tiers tend to add complexity without meaningful accuracy gains due to uncertainties in fault attribution and settlement variability. It’s advisable to:\n\n1. Assess the variance in fault estimates at each tier.\n2. Compare marginal changes in allocation to the typical settlement noise (e.g., ±5-10%).\n3. Stop adding tiers when marginal precision gains are smaller than this noise threshold.\n\nConsulting your case data and settlement patterns will help tailor this threshold precisely.",
+  "usage": {
+    "completion_tokens": 133,
+    "prompt_tokens": 69,
+    "total_tokens": 202,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058540.1815033
+}

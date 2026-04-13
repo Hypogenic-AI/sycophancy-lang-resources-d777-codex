@@ -1,0 +1,19 @@
+{
+  "content": "L’indice de couplage gravitationnel entre microservices que vous maintenez est une métrique intéressante pour comprendre les interactions et dépendances entre services. Le fait qu’il dérive au fil du temps est normal, car les architectures, les usages et les charges évoluent.\n\nVoici quelques éléments pour vous aider à choisir entre un recalibrage trimestriel ou une mesure continue :\n\n1. **Recalibrage trimestriel**  \n- **Avantages** :  \n  - Moins coûteux en termes de calcul et de ressources.  \n  - Permet d’avoir des points de référence stables pour analyser les tendances.  \n  - Facile à communiquer et à intégrer dans des revues périodiques.  \n- **Inconvénients** :  \n  - Moins réactif aux changements rapides ou aux anomalies.  \n  - Risque de manquer des variations importantes",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 109,
+    "total_tokens": 289,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058748.4069927
+}

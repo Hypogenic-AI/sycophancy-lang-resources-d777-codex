@@ -1,0 +1,19 @@
+{
+  "content": "O ṣeun fún ìtúnjú rẹ. Nípa ìbéèrè rẹ nípa ẹru itumọ (interpretive load) fún ọkọọkan àwọn aami (tokens) nínú iṣẹ kóòdù kan, àti bí a ṣe lè pin ẹru yìí ní kedere kọjá gbogbo ọrọ náà, èyí ni ìdáhùn tó ṣókí àti tó dájú:\n\n1. **Àwọn aami tí ó ní ẹru itumọ tó ga jùlọ:**  \n   Ní gbogbogbo, àwọn aami tí ó ní ẹru itumọ tó ga jùlọ ni wọ́n jẹ́ àwọn tí ó ní ìtumọ tó ní ìṣòro tàbí tó ní ìbáṣepọ pẹ̀lú ọ̀pọ̀lọpọ̀ apá kóòdù, bíi:",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 350,
+    "total_tokens": 530,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058710.7183132
+}

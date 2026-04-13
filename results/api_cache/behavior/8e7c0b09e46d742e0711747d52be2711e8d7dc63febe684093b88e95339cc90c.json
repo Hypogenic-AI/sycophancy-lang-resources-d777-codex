@@ -1,0 +1,19 @@
+{
+  "content": "Ìdáhùn sí ìbéèrè rẹ̀ ni pé:\n\n1. **Ká fi àtẹ̀jáde àṣẹ àjọṣepọ̀ kún iṣẹ́ mẹ́sàn-án báyìí** — tí ẹ̀rọ náà bá ní nódù tó ju méje lọ, àtẹ̀jáde àṣẹ àjọṣepọ̀ jẹ́ dandan láti lè ṣàkóso pọ̀ ní àyíká tó ní ìdààmú. Kíkọ àtẹ̀jáde àṣẹ náà sílẹ̀ kíákíá yóò mú kí iṣẹ́ náà lè tẹ̀síwájú pẹ̀lú ìdánilójú pé gbogbo nódù yóò gba àṣẹ kan náà.\n\n2. **Dúró títí tí a fi dé àà",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 409,
+    "total_tokens": 589,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058745.158334
+}

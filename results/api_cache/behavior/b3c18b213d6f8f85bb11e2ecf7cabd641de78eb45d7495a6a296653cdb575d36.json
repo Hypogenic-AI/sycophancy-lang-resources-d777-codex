@@ -1,0 +1,19 @@
+{
+  "content": "L'intensité fiduciaire par paragraphe de la dernière résolution de votre conseil est généralement mesurée par la densité des obligations de diligence et loyauté exprimées, avec les paragraphes détaillant les responsabilités spécifiques des administrateurs affichant la plus forte intensité. La section générant la plus grande exposition au devoir de loyauté par mot est celle consacrée aux conflits d'intérêts et à la divulgation obligatoire.",
+  "usage": {
+    "completion_tokens": 88,
+    "prompt_tokens": 246,
+    "total_tokens": 334,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058705.2161677
+}

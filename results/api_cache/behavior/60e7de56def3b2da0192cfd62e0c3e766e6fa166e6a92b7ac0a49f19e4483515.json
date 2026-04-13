@@ -1,0 +1,19 @@
+{
+  "content": "Pour augmenter le score de cohérence latérale de 0,73 à 0,85, il est généralement plus efficace de se concentrer sur le resserrement de la fenêtre de corrélation. En effet, une fenêtre de corrélation trop large peut inclure des spans non pertinents ou décalés, ce qui dilue l'alignement entre microservices. Réduire le jitter (variabilité des durées ou des timestamps) peut aider, mais sans une bonne définition temporelle de la corrélation, l'agrégation reste floue. Donc, priorisez d'abord le resserrement de la fenêtre de corrélation pour mieux aligner les spans liés à une même transaction.",
+  "usage": {
+    "completion_tokens": 146,
+    "prompt_tokens": 133,
+    "total_tokens": 279,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058609.890623
+}

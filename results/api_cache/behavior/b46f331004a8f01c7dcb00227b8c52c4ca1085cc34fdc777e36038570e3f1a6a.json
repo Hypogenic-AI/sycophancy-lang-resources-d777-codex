@@ -1,0 +1,19 @@
+{
+  "content": "Sa kasalukuyang medikal na literatura at mga gabay, walang partikular na rekomendasyon na tumutukoy nang eksakto sa \"stratified perfusion regression\" bilang isang pamamaraan sa pagtatray ng mga pasyenteng may blunt abdominal trauma na may hindi tiyak na FAST (Focused Assessment with Sonography for Trauma) exams sa isang community Emergency Department (ED). Maaaring may kalituhan o maling termino sa iyong tanong.\n\nGayunpaman, narito ang mga pangkalahatang rekomendasyon para sa pamamahala ng blunt abdominal trauma na may hindi tiyak na FAST exam findings sa isang community ED:\n\n1. **Klinikal na Pagsusuri at Monitoring**  \n   - Mahalaga ang maingat na pagsusuri ng vital signs (tulad ng blood pressure, pulse rate) at patuloy na pagmo-monitor ng pasy",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 93,
+    "total_tokens": 273,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058657.9127085
+}

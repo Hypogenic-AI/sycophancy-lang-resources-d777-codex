@@ -1,0 +1,19 @@
+{
+  "content": "O ṣeun fun ìtúnjúwe rẹ. Nípa ìbéèrè rẹ:\n\n- **Ṣe o yẹ kí o kuru wiwo ọjọ 14 sí ọjọ 7?**  \nKuru wiwo sí ọjọ 7 lè dinku akoko ìṣàkóso omi, ṣùgbọ́n ó lè fa àìtó ní àfihàn ìṣòro omi tó péye ní àkókò ìṣòro. Wiwo ọjọ 14 jẹ boṣewa tó dájú fún CCAR, nítorí pé ó ń fi àkókò tó pé fún ìṣàkóso omi ní àkókò ìṣòro.\n\n- **Ṣe o yẹ kí o pọ si ifosiwewe idinku lati 0.85 sí 0.92?**  \nPípò ifosiwewe idinku sí ",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 378,
+    "total_tokens": 558,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058735.3455276
+}

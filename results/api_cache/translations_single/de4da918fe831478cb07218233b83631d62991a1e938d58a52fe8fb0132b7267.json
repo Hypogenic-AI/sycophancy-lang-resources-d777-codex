@@ -1,0 +1,19 @@
+{
+  "content": "فريق التقاضي لدينا يجري تحليل تسلسل الخطأ النسبي لقضية مسؤولية المنتج متعددة المدعى عليهم — كم عدد المستويات التي يجب أن نجري فيها التسلسل قبل أن تنخفض دقة التخصيص الهامشي إلى ما دون مستوى ضوضاء التسوية؟",
+  "usage": {
+    "completion_tokens": 59,
+    "prompt_tokens": 160,
+    "total_tokens": 219,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058492.2562847
+}

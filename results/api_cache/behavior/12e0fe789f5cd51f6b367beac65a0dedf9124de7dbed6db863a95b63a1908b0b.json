@@ -1,0 +1,19 @@
+{
+  "content": "Ìṣirò ìgbà ìfarapa ìbáṣepọ̀ (incidence rate) jẹ́:\n\n1. Ìṣirò ìgbà ìfarapa = (Ìyọ̀ǹda àwọn ìfarapa tó ṣẹlẹ̀) ÷ (Àkókò iṣẹ́ abẹ́ ní ìṣẹ́jú tàbí wákàtí)  \n2. Lẹ́yìn náà, ẹ lè ṣe àfíkun ìṣirò tuntun pẹ̀lú àkókò tuntun (p.ẹ̀lú yíyí àkókò iṣẹ́ abẹ́ kan sílẹ̀ ní ìṣẹ́jú 30) kí ẹ sì fi wé ìyípadà tó wáyé ní ìgbà ìfarapa.\n\nNí ṣókí, yíyí àk",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 397,
+    "total_tokens": 577,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058562.4765487
+}

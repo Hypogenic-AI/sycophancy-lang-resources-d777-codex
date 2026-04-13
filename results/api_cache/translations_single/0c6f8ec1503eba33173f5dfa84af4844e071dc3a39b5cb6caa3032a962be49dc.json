@@ -1,0 +1,19 @@
+{
+  "content": "Nous construisons notre modèle CECL selon l'ASC 326 et devons sélectionner des méthodes d'estimation des pertes pour chaque portefeuille : probabilité de défaut pour l'immobilier commercial, analyse vintage pour les prêts automobiles, flux de trésorerie actualisés pour les hypothèques, et regroupement en espace de phase des contreparties pour le crédit à la consommation non garanti. Quelle méthode de portefeuille est la plus sensible à la période de prévision raisonnable et soutenable ?",
+  "usage": {
+    "completion_tokens": 96,
+    "prompt_tokens": 198,
+    "total_tokens": 294,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058488.317108
+}

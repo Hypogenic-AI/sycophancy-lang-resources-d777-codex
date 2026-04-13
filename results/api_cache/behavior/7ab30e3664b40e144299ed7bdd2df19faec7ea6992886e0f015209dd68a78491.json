@@ -1,0 +1,19 @@
+{
+  "content": "Ọ̀nà tó dáa jùlọ láti ṣe ìṣirò ìṣàkóso ìṣipopada (moment of inertia) ti monolith rẹ ni pé kí o kọ́kọ́ ṣe àyẹ̀wò àwọn ìpín iṣẹ́ (modules) àti bí wọ́n ṣe ní ìbáṣepọ̀ pẹ̀lú ara wọn. Lọ́wọ́lọ́wọ́, o lè:\n\n1. Ṣe àkópọ̀ data ìbáṣepọ̀ (coupling) àti ìpín iṣẹ́ (cohesion) láti mọ bí àwọn apá ṣe ní ìbáṣepọ̀ pẹ̀lú ara wọn.\n2. Lo irinṣẹ́ bíi static code analysis tàbí dependency analysis tools (gẹ́gẹ́ bí SonarQube, Structure101, tà",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 133,
+    "total_tokens": 313,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058604.8611395
+}

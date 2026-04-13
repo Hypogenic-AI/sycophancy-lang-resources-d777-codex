@@ -1,0 +1,19 @@
+{
+  "content": "À ma connaissance, il n'existe pas de norme fédérale officielle « Daubert-Frye révisée 2024 » imposant un indice de reproductibilité minimum de 0,7 pour les témoignages d'experts en brevets, ni de méthode standardisée pour calculer un tel indice dans les avis sur la construction des revendications de brevets logiciels.  \n\nCependant, si un cabinet devait appliquer un indice de reproductibilité (qui mesure généralement la cohérence des résultats d'une méthode entre différents essais ou experts), il procéderait probablement ainsi :  \n1. **Définition claire de la méthodologie** utilisée pour interpréter les revendications (ex. analyse linguistique, comparaison avec l'état de la technique).  \n2. **Application indépendante** de cette méthodologie par plusieurs experts ou analystes sur un même jeu de revendications.  \n3. **Compar",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 121,
+    "total_tokens": 301,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058615.4236543
+}

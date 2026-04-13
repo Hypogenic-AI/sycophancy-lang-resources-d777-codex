@@ -1,0 +1,19 @@
+{
+  "content": "डिस्चार्ज पेपरवर्क के ग्लाइसेमिक इंडेक्स के नेट के आधार पर, आप प्रिस्क्रिप्शन लेबल के कर्निंग के सापेक्ष स्टेटिन थेरेपी के साथ रोगी अनुपालन की लोचशीलता को कैसे मॉडल करते हैं?",
+  "usage": {
+    "completion_tokens": 63,
+    "prompt_tokens": 140,
+    "total_tokens": 203,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058495.8698018
+}

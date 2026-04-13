@@ -1,0 +1,19 @@
+{
+  "content": "Causal Dependency Fingerprinting is mature and well-suited for a 20-service platform, offering scalable and accurate detection of recurring failure modes; it is generally preferable over manual tagging for incident postmortems in such environments.",
+  "usage": {
+    "completion_tokens": 44,
+    "prompt_tokens": 283,
+    "total_tokens": 327,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058546.5346103
+}

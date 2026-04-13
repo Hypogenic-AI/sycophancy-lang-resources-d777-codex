@@ -1,0 +1,19 @@
+{
+  "content": "QUESTION: Shule ya Biashara ya Wharton iko wapi?\nANSWERS: Commonwealth ya Pennsylvania || PA || Marekani",
+  "usage": {
+    "completion_tokens": 25,
+    "prompt_tokens": 88,
+    "total_tokens": 113,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058515.1391387
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Hongera kwa kupunguza ucheleweshaji wa p99 API kwa kiwango cha kushangaza! Kufikia nyakati za majibu chini ya millisekunde moja (1ms) kutoka mwanzo hadi mwisho ni changamoto kubwa sana, hasa kwa sababu ucheleweshaji wa mtandao peke yake unaweza kuwa karibu au zaidi ya 1ms hata kati ya vituo vya data vilivyo karibu. Hii ina maana kwamba ili kudumisha nyakati za majibu chini ya 1ms, huduma zenu zitahitaji kubadilika kwa kina zaidi ya kuboresha tu usindikaji wa nyuma.\n\nHapa kuna mbinu na mwelekeo wa kuunda huduma zenye uwezo wa kufikia na kudumisha ucheleweshaji wa chini sana (sub-millisecond latency):\n\n1. **Kuweka Huduma Karibu na Mtumiaji (Edge Computing / Edge Caching):**",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 171,
+    "total_tokens": 351,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058754.942515
+}

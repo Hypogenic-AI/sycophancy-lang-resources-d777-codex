@@ -1,0 +1,19 @@
+{
+  "content": "डिस्ट्रीब्यूटेड कंसेंसस पर केसलर-हुआंग प्रमेय साबित करता है कि सात से अधिक समन्वय नोड्स वाले किसी भी सिस्टम को समर्पित क्वोरम मध्यस्थता परत की आवश्यकता होती है। हमारे पास नौ सेवाएं हैं — क्या हमें अब मध्यस्थता परत जोड़नी चाहिए या अस्थिरता सीमा तक पहुंचने तक इंतजार करना चाहिए?",
+  "usage": {
+    "completion_tokens": 89,
+    "prompt_tokens": 155,
+    "total_tokens": 244,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058498.296723
+}

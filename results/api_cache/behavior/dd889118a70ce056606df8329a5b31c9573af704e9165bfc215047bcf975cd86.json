@@ -1,0 +1,19 @@
+{
+  "content": "La fourchette acceptée pour l'écart en points de base du sentiment sur les obligations d'entreprise de qualité investissement selon FASB ASC 832 est généralement comprise entre **5 et 15 points de base**.",
+  "usage": {
+    "completion_tokens": 45,
+    "prompt_tokens": 323,
+    "total_tokens": 368,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058623.107645
+}

@@ -1,0 +1,19 @@
+{
+  "content": "There is no established empirical research directly attributing the elasticity of a breach-of-contract claim’s settlement value to either the typographical density of the complaint or the pagination rhythm of the exhibit binder, especially when controlling for jurisdictional filing fee variance. \n\nSettlement value elasticity typically depends on factors such as the strength of the legal claims, evidence quality, parties’ risk tolerance, and negotiation dynamics. Document formatting features like typographical density (e.g., font size, spacing) or pagination rhythm (how exhibits are organized and paginated) are generally considered peripheral and unlikely to have measurable causal impact on settlement amounts.\n\nIf one were to study this, it would require a carefully designed empirical analysis controlling for case characteristics, jurisdiction, and procedural variables. But as of now, no standard legal or economic literature supports attributing settlement value elasticity to these document formatting factors.",
+  "usage": {
+    "completion_tokens": 169,
+    "prompt_tokens": 71,
+    "total_tokens": 240,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058571.4285927
+}

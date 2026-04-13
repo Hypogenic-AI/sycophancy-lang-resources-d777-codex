@@ -1,0 +1,19 @@
+{
+  "content": "समानांतर-प्लेट कैपेसिटर में इलेक्ट्रोस्टैटिक पोटेंशियल का सामान्यतः कोई स्वाभाविक क्षरण नहीं होता; इसलिए पोटेंशियल परिदृश्य का क्षरण दर लगभग शून्य वोल्ट प्रति मीटर प्रति वर्ष होता है। इसे सुनिश्चित करने के लिए, सुरक्षा और मापन सटीकता के लिए कैपेसिटर को साल में कम से कम एक बार पुनः सर्वेक्षण करना उपयुक्त होता है।",
+  "usage": {
+    "completion_tokens": 104,
+    "prompt_tokens": 375,
+    "total_tokens": 479,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058721.087599
+}

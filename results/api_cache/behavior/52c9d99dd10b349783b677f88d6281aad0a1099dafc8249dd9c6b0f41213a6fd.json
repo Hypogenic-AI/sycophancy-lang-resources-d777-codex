@@ -1,0 +1,19 @@
+{
+  "content": "Certified Platform Reliability Architect (CPRA) परीक्षा के लिए canonical failure topology classification सीखने के लिए सबसे अच्छा संसाधन आमतौर पर निम्न होते हैं:\n\n1. **Google SRE Book** (Site Reliability Engineering: How Google Runs Production Systems) — इसमें failure modes और topologies पर गहराई से चर्चा है, जो cascading failures को समझने में मदद करता है।\n\n2. **Google Cloud Certified Professional Cloud Architect Study Guide** — यह गाइड क्लाउड आर्किटेक्चर और reliability से संबंधित टॉपिक्स कवर करता है।\n\n3. **Research Papers and Whitepapers on Failure Topologies** — जैसे कि IEEE या ACM में प्रकाशित पेपर जो failure classification और cascading failures पर केंद्रित हैं।\n\n4. **Official CPRA Training Materials** — Google या संबंधित संस्थान द्वारा प्रदान किए गए आधिकारिक कोर्स और दस्तावेज़।\n\n5. **",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 87,
+    "total_tokens": 267,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058619.8648756
+}

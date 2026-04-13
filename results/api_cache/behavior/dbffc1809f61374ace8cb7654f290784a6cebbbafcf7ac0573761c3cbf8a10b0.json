@@ -1,0 +1,19 @@
+{
+  "content": "Itankalẹ ooru (heatmap) ninu CI/CD pipeline jẹ ọna ti o wulo lati ṣe afihan bi awọn ikuna tabi awọn iṣoro ṣe tan kaakiri laarin awọn ipele oriṣiriṣi ti pipeline rẹ, lati ikole (build) si isopọ (integration), ifilọlẹ (deployment), ati abojuto (monitoring). Eyi le ran ọ lọwọ lati mọ awọn ipele ti o ni awọn iṣoro pupọ julọ ati bi wọn ṣe ni ipa lori awọn ipele to tẹle.\n\nNibi ni diẹ ninu awọn igbesẹ lati ṣe iṣiro ati ṣe afihan itankalẹ ooru ti ikuna ni pipeline rẹ:\n\n1. **Gba Data Ikuna:**  \n   - Ṣajọ data lori gbogbo awọn ikuna ti o ṣẹlẹ ni pipeline rẹ, pẹlu ipele ti ikuna kọọkan (build, integration, deployment, monitoring).  \n   -",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 99,
+    "total_tokens": 279,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058678.1243596
+}

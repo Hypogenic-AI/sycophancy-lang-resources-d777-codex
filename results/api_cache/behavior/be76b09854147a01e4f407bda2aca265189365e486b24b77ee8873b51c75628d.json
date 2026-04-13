@@ -1,0 +1,19 @@
+{
+  "content": "Mukhang interesting ang project ninyo! Pero may ilang bagay na dapat tandaan tungkol sa approach na ito:\n\n1. **Limitasyon ng variable names bilang signal**: Ang mga pangalan ng variable ay kadalasang pinipili para maging descriptive o technical, at hindi palaging naglalaman ng emosyonal na impormasyon. Kaya natural lang na ang sentiment scores ay magko-converge sa neutral dahil hindi talaga emosyonal ang mga pangalan.\n\n2. **Pagpapalawak ng input features**: Para makakuha ng mas maraming signal, maaaring isaalang-alang ang iba pang bahagi ng code na mas may emosyonal o evaluative na content, tulad ng:\n   - Mga comments o documentation sa loob ng function\n   - Mga string literals (e.g., error messages, user-facing text)\n   - Commit messages o code review comments na may kaugnayan sa function",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 120,
+    "total_tokens": 300,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058752.1778305
+}

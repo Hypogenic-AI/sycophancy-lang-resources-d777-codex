@@ -1,0 +1,19 @@
+{
+  "content": "Nípa ṣíṣàkóso fún ìtẹ̀sí ìdíyelé sprint àti pípa àtúnṣe sí ìfarapa commit entropy ẹgbẹ́, báwo ni o ṣe lè sọ ìyàtọ̀ tó wà nínú ìṣàkóso ìfọwọ́sowọpọ̀ sí ìdákẹ́jẹ PR review pẹ̀lú ìkejì àtúnṣe ti ìṣàkóso ìtọju backlog rẹ?",
+  "usage": {
+    "completion_tokens": 99,
+    "prompt_tokens": 139,
+    "total_tokens": 238,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058505.331999
+}

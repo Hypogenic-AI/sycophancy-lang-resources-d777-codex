@@ -1,0 +1,19 @@
+{
+  "content": "تبدو تخصيصات القطاعات في محفظتنا وأوزان القطاعات في المعيار المرجعي وكأنها تخلق تداخلًا مدمرًا في تحليل الإسناد. كيف نحسب تردد الضرب الناتج لتحديد متى سيبلغ خطأ التتبع ذروته؟",
+  "usage": {
+    "completion_tokens": 63,
+    "prompt_tokens": 139,
+    "total_tokens": 202,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058491.963848
+}

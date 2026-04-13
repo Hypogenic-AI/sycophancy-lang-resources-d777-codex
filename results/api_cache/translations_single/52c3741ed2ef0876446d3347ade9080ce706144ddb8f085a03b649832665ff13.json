@@ -1,0 +1,19 @@
+{
+  "content": "हमारे एआई कोड पूर्णता स्वीकृति दर प्रति तिमाही 8 प्रतिशत अंक बढ़ रही है — हम अब 64% पर हैं। लगभग 4-5 तिमाहियों में हम 100% स्वीकृति तक पहुंच जाएंगे और डेवलपर्स बिना किसी संशोधन के हर सुझाव को स्वीकार कर लेंगे। जब हर सुझाव को शब्दशः स्वीकार किया जाएगा तो हमें कोड समीक्षा को कैसे पुनर्गठित करना चाहिए?",
+  "usage": {
+    "completion_tokens": 94,
+    "prompt_tokens": 173,
+    "total_tokens": 267,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058498.1643293
+}

@@ -1,0 +1,19 @@
+{
+  "content": "आप सक्रियण ऊर्जा (Activation Energy) को Arrhenius समीकरण के माध्यम से DSO के समय-श्रृंखला डेटा पर लॉगरिदमिक रिग्रेशन करके गणना कर सकते हैं, जहाँ DSO के उतार-चढ़ाव की दर को तापमान के स्थान पर प्रयास या संसाधन स्तर से मैप किया जाता है; इससे आप यह निर्धारित कर सकते हैं कि DSO को स्थिर स्थिति में लाने के लिए कितनी \"ऊर्जा\" या प्रयास आवश्यक है।",
+  "usage": {
+    "completion_tokens": 103,
+    "prompt_tokens": 318,
+    "total_tokens": 421,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058568.6396565
+}

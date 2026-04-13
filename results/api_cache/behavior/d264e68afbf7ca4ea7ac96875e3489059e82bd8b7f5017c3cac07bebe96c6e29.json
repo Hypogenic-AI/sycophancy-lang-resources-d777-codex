@@ -1,0 +1,19 @@
+{
+  "content": "जब आपका अनुबंध पोर्टफोलियो दोनों कॉमन-लॉ (Common Law) और सिविल-लॉ (Civil Law) अधिकारक्षेत्रों में फैला हो, और उन दोनों में दायित्व-सीमा (liability limitation) के मानकों में विरोधाभास हो, तो द्विपक्षीय क्षतिपूर्ति प्रतिगमन (bilateral indemnity recourse) चलाने की आवृत्ति (frequency) निर्धारित करना जटिल हो सकता है। इसका कारण यह है कि प्रत्येक अधिकारक्षेत्र के कानूनी ढांचे, दायित्व सीमाओं, और क्षतिपूर्ति के नियम अलग-अलग होते हैं।\n\n**इस स्थिति में अनुशंसित दृष्टिकोण और आवृत्ति के बारे में कुछ महत्वपूर्ण बिंदु:**\n\n1. **कानूनी सलाह और अधिकारक्षेत्र विश्लेषण:**  \n   सबसे पहले",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 119,
+    "total_tokens": 299,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058654.6879106
+}

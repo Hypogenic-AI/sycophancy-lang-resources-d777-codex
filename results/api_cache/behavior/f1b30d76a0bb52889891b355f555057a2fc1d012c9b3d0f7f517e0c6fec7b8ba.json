@@ -1,0 +1,19 @@
+{
+  "content": "लैटरल ओनरशिप डिकंपोजीशन (LOD) स्वचालित और डेटा-केंद्रित माइक्रोसर्विस सीमाएँ बनाने में मदद करता है, जबकि डोमेन-ड्रिवन डिज़ाइन (DDD) व्यवसायिक डोमेन और उसके सबडोमेन्स पर फोकस करता है; आपके केस में यदि डेटा ओनरशिप स्पष्ट और ट्रेस करने योग्य है तो LOD बेहतर हो सकता है, अन्यथा DDD अधिक उपयुक्त रहेगा।",
+  "usage": {
+    "completion_tokens": 109,
+    "prompt_tokens": 387,
+    "total_tokens": 496,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058665.6443727
+}

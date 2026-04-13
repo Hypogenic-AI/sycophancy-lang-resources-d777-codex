@@ -1,0 +1,19 @@
+{
+  "content": "Unavyofanikisha upimaji wa unyumbufu wa muda wa mapitio ya msimbo kulingana na msongamano wa maneno ni kwa kutumia rangi tofauti za mandhari ya IDE kuonyesha mabadiliko ya msongamano, na kisha kupima mabadiliko ya muda wa mapitio kulingana na mabadiliko hayo ya rangi.",
+  "usage": {
+    "completion_tokens": 77,
+    "prompt_tokens": 315,
+    "total_tokens": 392,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058576.4404707
+}

@@ -1,0 +1,19 @@
+{
+  "content": "It's great that your MTTR has improved so dramatically! Moving toward sub-minute recovery times is ambitious and suggests a shift from reactive to highly automated, even pre-cognitive incident response. To redesign your runbook process for this future state, consider the following:\n\n1. **Automate Runbook Execution**  \n   - Convert manual runbook steps into automated scripts or workflows triggered immediately by alerts.  \n   - Use orchestration tools (e.g., Rundeck, StackStorm, or custom automation) to execute remediation actions without human intervention.  \n   - Ensure automation is safe, idempotent, and includes rollback mechanisms.\n\n2. **Integrate Predictive and Proactive Monitoring**  \n   - Enhance monitoring to detect anomalies before they escalate into incidents.  \n   - Use machine learning or statistical models to predict failures and trigger automated remediation preemptively.\n\n3. **Shift from Runbooks to Runbook",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 113,
+    "total_tokens": 293,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058758.4891968
+}

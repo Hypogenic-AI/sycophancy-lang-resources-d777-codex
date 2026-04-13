@@ -1,0 +1,19 @@
+{
+  "content": "Láti ṣe àyẹ̀wò ìdánilójú ìṣètò owó àwọn ìwọn ìtànkálẹ̀ phonon rẹ lòdì sí àwọn ìtẹ̀jáde àwọn ẹgbẹ́ tó ń bá yín ṣàtakò, o lè:\n\n1. Ṣàkóso ìwádìí àtẹ̀jáde ìtẹ̀jáde phonon tó wà lórí àwọn ohun èlò tó jọra tàbí àwọn ìṣètò tó ti wà nílẹ̀.\n2. Fi àwọn àbájáde ìtẹ̀jáde phonon rẹ wé pẹ̀lú àwọn àbájáde tó ti jẹ́wọ́ nípa ìṣètò owó tàbí ìdánilójú ìṣètò owó.\n3. Ṣ",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 135,
+    "total_tokens": 315,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058606.6046255
+}

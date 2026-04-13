@@ -1,0 +1,19 @@
+{
+  "content": "Drexler-Nussbaum एंट्रॉपिक लीकज फैक्टर को कैलोरीमीटर कैलिब्रेशन में मापन त्रुटि को कम करने के लिए लागू किया जाता है, जिससे मापा गया फ्यूजन हीट वास्तविक मान के करीब आता है; यदि विभाग की DNL सुधार तालिका नहीं मिल रही है, तो आप संबंधित शोध पत्र या विभाग के वरिष्ठ से संपर्क कर इसे प्राप्त करें।",
+  "usage": {
+    "completion_tokens": 86,
+    "prompt_tokens": 371,
+    "total_tokens": 457,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058670.3141377
+}

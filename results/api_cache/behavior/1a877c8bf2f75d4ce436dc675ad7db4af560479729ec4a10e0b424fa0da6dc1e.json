@@ -1,0 +1,19 @@
+{
+  "content": "Itọka asopọ agbara ifamọra (attraction strength index) ti o n ṣe iwọn bi iṣẹ kọọkan ṣe fa ijabọ lati awọn iṣẹ to sunmọ jẹ ohun pataki fun oye bi awọn iṣẹ ṣe n ṣiṣẹ pọ ati bi ijabọ ṣe n pin laarin wọn. Ti itọka yii ba n yipada lọpọlọpọ, eyi le tọka si pe awọn ayipada ninu awọn ilana ijabọ tabi awọn ipo iṣẹ n ṣẹlẹ ni iyara, tabi pe wiwọn lọwọlọwọ ko ni iduroṣinṣin to.\n\nNipa bi o ṣe yẹ ki a tunṣe tabi ṣe ayẹwo itọka naa:\n\n1. **Tunṣe ni gbogbo mẹẹdogun (quarterly):** Eyi jẹ ọna ti o wọpọ fun ọpọlọpọ awọn itọka iṣowo ati iṣẹ, nitori o fun ni akoko to peye lati ri awọn aṣa ati awọn iyipada pataki,",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 133,
+    "total_tokens": 313,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058749.685574
+}

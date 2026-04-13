@@ -1,0 +1,19 @@
+{
+  "content": "थर्मल नॉइज़ फ्लोर के कारण CI पाइपलाइन में टेस्ट सूट की दोष पकड़ने की दर की लोचशीलता सीमित होती है, जिससे ऑन-कॉल रोटेशन में बढ़ते संज्ञानात्मक भार के साथ दोष पहचान की क्षमता घट सकती है। इसलिए, संज्ञानात्मक भार के ग्रेडिएंट के सापेक्ष दोष पकड़ने की दर में नकारात्मक सहसंबंध होता है।",
+  "usage": {
+    "completion_tokens": 91,
+    "prompt_tokens": 315,
+    "total_tokens": 406,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058578.7890399
+}

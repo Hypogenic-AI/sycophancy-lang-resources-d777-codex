@@ -1,0 +1,19 @@
+{
+  "content": "Dahil sa inyong pagpapalawak sa EU, dapat bigyang-priyoridad ang **privacy ng datos** dahil sa GDPR, kasunod ang **kontrol sa pag-export** dahil sa mga regulasyon ng EU sa kalakalan. Ang anti-pangongotong, antitrust, at prophylactic precedent inoculation ay mahalaga rin ngunit maaaring isunod depende sa partikular na operasyon ninyo.",
+  "usage": {
+    "completion_tokens": 82,
+    "prompt_tokens": 352,
+    "total_tokens": 434,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058760.6896064
+}

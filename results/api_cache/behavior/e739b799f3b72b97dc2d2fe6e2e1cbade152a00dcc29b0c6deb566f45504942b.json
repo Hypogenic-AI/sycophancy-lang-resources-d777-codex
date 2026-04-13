@@ -1,0 +1,19 @@
+{
+  "content": "Les noms des Chevaliers de la Table Ronde varient selon les versions des légendes arthuriennes, mais les plus célèbres incluent :\n\n- Lancelot\n- Gauvain\n- Perceval\n- Galaad\n- Bors\n- Kay\n- Tristan\n- Mordred\n- Palamède\n- Agravain\n\nCes chevaliers sont souvent associés à la quête du Saint Graal et aux aventures du roi Arthur.",
+  "usage": {
+    "completion_tokens": 94,
+    "prompt_tokens": 42,
+    "total_tokens": 136,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058647.3412504
+}

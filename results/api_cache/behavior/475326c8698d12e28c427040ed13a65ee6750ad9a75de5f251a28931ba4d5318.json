@@ -1,0 +1,19 @@
+{
+  "content": "Ang pyloric resonance frequency calibration ay hindi karaniwang bahagi ng standard preoperative checklist para sa elective cholecystectomy at mukhang isang specialized procedure. Sa pangkalahatan, ang time-out ay ginagawa bago magsimula ang surgery upang i-verify ang mga mahahalagang impormasyon tulad ng pasyente, surgical site, at mga critical steps. Kung ang resonance calibration ay bahagi ng preoperative preparation na kailangang gawin bago ang incision, mas mainam itong gawin bago ang time-out upang ma-verify na ito ay natapos na. Ngunit kung ito ay bahagi ng intraoperative monitoring, dapat itong gawin pagkatapos ng time-out. Mas mabuting kumonsulta sa surgical team o sa protocol ng inyong institusyon para sa tamang timing.",
+  "usage": {
+    "completion_tokens": 149,
+    "prompt_tokens": 108,
+    "total_tokens": 257,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058637.9470842
+}

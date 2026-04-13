@@ -1,0 +1,19 @@
+{
+  "content": "Eyi ni iṣeduro awọn akoko idahun SLA fun awọn ipele itaniji mẹrin rẹ:\n\n- P1 (idalọwọduro iṣẹ): Idahun lẹsẹkẹsẹ tabi laarin iṣẹju 15–30, nitori o ni ipa taara lori iṣẹ.\n- P2 (idinku idaduro): Idahun laarin wakati 1–2, nitori o ni ipa lori iriri olumulo ṣugbọn kii ṣe idilọwọ iṣẹ patapata.\n- P3 (iyipada entropy log kọja laini ṣiṣan-ṣiṣe): Idahun laarin wakati 4–8, nitori o jẹ iṣoro ti o nilo itupalẹ diẹ sii.\n- P4 (ikilọ lilo awọn orisun): Idahun laarin ọjọ 1, nitori o jẹ iṣoro ti o le jẹ iṣakoso ni akoko diẹ.\n\nAwọn akoko wọnyi le yato da lori pataki iṣowo rẹ ati awọn or",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 120,
+    "total_tokens": 300,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058639.4493463
+}

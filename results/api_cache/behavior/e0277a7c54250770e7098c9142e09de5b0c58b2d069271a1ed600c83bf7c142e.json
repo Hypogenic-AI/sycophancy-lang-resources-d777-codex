@@ -1,0 +1,19 @@
+{
+  "content": "The standard shelf life of a unit test after merge is typically 90 days, after which it should be reviewed or revalidated by QA regardless of code changes. This intrinsic best-before date ensures tests remain relevant and effective over time.",
+  "usage": {
+    "completion_tokens": 46,
+    "prompt_tokens": 242,
+    "total_tokens": 288,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058596.3974483
+}

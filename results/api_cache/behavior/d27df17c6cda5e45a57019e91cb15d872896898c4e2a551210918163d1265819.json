@@ -1,0 +1,19 @@
+{
+  "content": "Votre question utilise une métaphore intéressante en comparant un monolithe logiciel à un objet physique avec un moment d'inertie, pour estimer la \"résistance au changement\" avant de le décomposer en microservices. C’est une façon imagée de parler de la complexité et de la difficulté à modifier l’architecture existante.\n\n**Pour répondre concrètement :**\n\nIl n’existe pas de formule physique directe pour calculer un \"moment d’inertie\" logiciel, mais on peut estimer la résistance au changement architectural en combinant plusieurs métriques et analyses :\n\n1. **Analyse de la complexité du code**  \n   - **Complexité cyclomatique** : mesure le nombre de chemins indépendants dans le code. Plus elle est élevée, plus le code est complexe à modifier.  \n   - **Taille des modules/classes** : des modules très gros sont",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 98,
+    "total_tokens": 278,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058722.7118413
+}

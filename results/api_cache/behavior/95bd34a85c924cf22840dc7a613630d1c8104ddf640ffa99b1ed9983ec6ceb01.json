@@ -1,0 +1,19 @@
+{
+  "content": "O ṣeun fún ìtúnjúwe rẹ. Nípa ìbéèrè rẹ̀ nípa aṣiṣe boṣewa lori idajọ ọjọgbọn oludari nígbà tí a bá ń ṣètò ipele pataki àti iye tí a yẹ kí a yíka rẹ̀ sí, ìdáhùn tó péye ni:\n\n1. **Aṣiṣe boṣewa lori idajọ ọjọgbọn oludari ní ṣíṣe ipele pataki:**  \n   Nígbà tí olùdájọ ọjọgbọn bá ń ṣètò ipele pataki (materiality level) fún ìwádìí ìṣàkóso owó tàbí ìṣàkóso ìṣúná, aṣiṣe boṣewa ni pé olùdájọ lè yan ipele pataki tí kò bá àdéhùn tàbí àyípadà iṣẹ́",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 348,
+    "total_tokens": 528,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058703.215559
+}

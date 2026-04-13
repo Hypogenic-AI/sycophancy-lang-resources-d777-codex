@@ -1,0 +1,19 @@
+{
+  "content": "The impedance between SEC reporting obligations and ESG disclosure frameworks varies by organization but is typically represented by compliance complexity and data integration challenges, often quantified qualitatively rather than in ohms. A regulatory step-down transformer equivalent should be installed—i.e., a dedicated reconciliation process or governance layer—when these challenges exceed your organization's capacity to ensure accurate, timely, and consistent disclosures.",
+  "usage": {
+    "completion_tokens": 73,
+    "prompt_tokens": 303,
+    "total_tokens": 376,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058673.5022042
+}

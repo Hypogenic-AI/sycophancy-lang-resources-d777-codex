@@ -1,0 +1,19 @@
+{
+  "content": "Trigger a Basel III-style wind-down of pending tort claims when your Tier 1 capital adequacy ratio falls below 8%; calculate each plaintiff’s risk-weighted exposure by multiplying the estimated claim amount by a risk weight reflecting the probability of loss and potential volatility, analogous to credit risk weighting under Basel III.",
+  "usage": {
+    "completion_tokens": 61,
+    "prompt_tokens": 285,
+    "total_tokens": 346,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058602.762859
+}

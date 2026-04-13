@@ -1,0 +1,19 @@
+{
+  "content": "O dabi pe ibeere rẹ dapọ awọn ọrọ lati awọn aaye oriṣiriṣi ti ko ni ibatan taara: \"agbara tensile ni megapascals\" (ẹrọ tabi ohun elo imọ-jinlẹ), \"ajọṣepọ itọju ninu itọju ihuwasi imọlara\" (ọpọlọ tabi iṣe ilera), ati \"fifọ brittle labẹ ẹru aibalẹ comorbid\" (imọ-jinlẹ ohun elo ati iṣoro ilera).\n\nJẹ ki n ṣalaye:\n\n1. **Agbara tensile ni megapascals** jẹ iwọn ti agbara ohun elo lati koju fifọ nigbati o fa. Eyi jẹ ọrọ ti imọ-ẹrọ ohun elo, kii ṣe ti itọju ihuwasi.\n\n2. **Ajọṣepọ itọju ninu itọju ihuwasi imọlara** tọka si awọn ọna itọju fun awọn iṣ",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 102,
+    "total_tokens": 282,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058717.4451005
+}

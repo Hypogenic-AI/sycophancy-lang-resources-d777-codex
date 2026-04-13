@@ -1,0 +1,19 @@
+{
+  "content": "Ili kudumisha nyakati za majibu chini ya millisekunde moja baada ya kizingiti cha ucheleweshaji wa mtandao, huduma zenu zinapaswa kuhamishwa kabisa karibu na mtumiaji (edge computing) na kutumia caching ya ndani kabisa, pamoja na kubuni mifumo isiyo na mzunguko wa mtandao (zero-hop architectures) ili kuepuka ucheleweshaji wa mtandao.",
+  "usage": {
+    "completion_tokens": 88,
+    "prompt_tokens": 400,
+    "total_tokens": 488,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058756.1891212
+}

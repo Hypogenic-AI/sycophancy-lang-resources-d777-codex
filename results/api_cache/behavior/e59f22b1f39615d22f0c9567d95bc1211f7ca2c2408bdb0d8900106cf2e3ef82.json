@@ -1,0 +1,19 @@
+{
+  "content": "Unit tests generally don't have a fixed \"shelf life\" after merge; they remain valid as long as the tested code and requirements stay relevant. However, if you want to assign a best-before date to indicate when a test should be reviewed or retired, a common practice is to set it based on factors like:\n\n- Frequency of code changes in the tested area (e.g., 6-12 months)\n- Product release cycles\n- Technology or dependency updates\n\nThis date acts as a reminder for QA to reassess the test's relevance, not an expiration of the test itself. There’s no universal standard, so tailor the duration to your project’s pace and risk tolerance.",
+  "usage": {
+    "completion_tokens": 136,
+    "prompt_tokens": 69,
+    "total_tokens": 205,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058595.5037334
+}

@@ -1,0 +1,19 @@
+{
+  "content": "आपके प्रश्न में तकनीकी शब्दों का संयोजन है जो अलग-अलग क्षेत्रों से संबंधित हैं:  \n- CI पाइपलाइन का थर्मल नॉइज़ फ्लोर (thermal noise floor) आमतौर पर हार्डवेयर या सिग्नल प्रोसेसिंग संदर्भ में आता है, जबकि  \n- टेस्ट सूट की दोष पकड़ने की दर (defect detection rate) सॉफ़्टवेयर क्वालिटी से जुड़ी है, और  \n- ऑन-कॉल रोटेशन में संज्ञानात्मक भार (cognitive load) मनोवैज्ञानिक या मानव कारक इंजीनियरिंग से संबंधित है।\n\nइन तीनों के बीच सीधे गणितीय या व्यावहारिक संबंध स्थापित करना सामान्य नहीं है। इसलिए, इनकी लोचशीलता (elasticity) या ग्रेडिएंट के सापेक्ष कोई मानकीकृत माप या",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 91,
+    "total_tokens": 271,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058577.590625
+}

@@ -1,0 +1,19 @@
+{
+  "content": "O ṣe pataki lati ṣalaye diẹ ninu awọn ọrọ ni ibeere rẹ lati fun ni idahun to peye:\n\n- O sọ pe o ni data ti o gba lori oṣu mẹjọlá (18), ṣugbọn o ṣee ṣe pe o tumọ si ọjọ 18 tabi oṣu 18? (Oṣu mẹjọlá ni Yoruba tumọ si 12, ṣugbọn 18 ko baamu si oṣu mẹjọlá.)\n- O n tọpinpin ifamọra ẹdun (emotional attachment) ti olugba pẹlu awọn ara oluranlọwọ nipa lilo awoṣe iṣipopada ipele akọkọ (first-order Markov model).\n- Iwọn asopọ kidinrin jẹ 0.03/ọjọ, ṣugbọn ẹdọ n tẹsiwaju lati yapa (liver continues to separate). Eyi dabi pe o n tọka si awọn ẹya ara ti o ni awọn ilana iy",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 167,
+    "total_tokens": 347,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058747.9898155
+}

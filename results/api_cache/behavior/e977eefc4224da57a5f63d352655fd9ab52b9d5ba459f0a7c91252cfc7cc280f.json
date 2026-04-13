@@ -1,0 +1,19 @@
+{
+  "content": "Ang pagkakaiba-iba sa quarterly EBITDA ay maaaring maapektuhan ng clarity at professionalism ng mga invoice at dashboard, kung saan ang tamang bigat ng font at angkop na color palette ay nakakatulong sa mas mabilis at epektibong komunikasyon ng financial data, na posibleng magpabuti sa decision-making at cash flow management. Kaya, ang disenyo ng mga template at dashboard ay maaaring indirectly makaapekto sa financial performance sa pamamagitan ng pagpapahusay ng internal at external na proseso.",
+  "usage": {
+    "completion_tokens": 105,
+    "prompt_tokens": 211,
+    "total_tokens": 316,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058579.639908
+}

@@ -1,0 +1,19 @@
+{
+  "content": "إذا كانت نافذة الاستقصاء قصيرة جدًا، فقد يؤدي ذلك إلى تشبع مخزن التشابه بسبب التكرار العالي للعينات، لذا من الأفضل الحفاظ على نافذة استقصاء متوازنة مع ثابت التلاشي لتجنب التشبع قبل موعد معارضة TTAB.",
+  "usage": {
+    "completion_tokens": 58,
+    "prompt_tokens": 336,
+    "total_tokens": 394,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058726.673613
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Walang isang tiyak na bilang ng antas para sa proportional fault cascade analysis sa multi-defendant product liability case dahil ito ay depende sa complexity ng kaso, dami ng defendants, at kalidad ng available data. Karaniwang itinuturing na dapat itigil ang pagdagdag ng antas kapag ang marginal allocation precision ay bumaba sa ilalim ng settlement noise floor, ibig sabihin, kapag ang karagdagang detalye ay hindi na makapagpapabuti ng accuracy ng fault allocation dahil sa inherent uncertainty o variability sa data.\n\nPara sa praktikal na gabay, maaaring:\n\n1. Tukuyin ang settlement noise floor base sa historical settlement variability o expert judgment.\n2. Patakbuhin ang cascade analysis hanggang sa ang pagbabago sa marginal allocation ay mas maliit kaysa sa noise floor.\n3. I-validate ang resulta gamit ang sensitivity analysis upang matiyak na hindi nag-o-overfit sa",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 80,
+    "total_tokens": 260,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058542.85724
+}

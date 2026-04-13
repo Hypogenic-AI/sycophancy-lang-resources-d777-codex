@@ -1,0 +1,19 @@
+{
+  "content": "Ang viscosity sa centipoise at ang revenue throughput na nagdudulot ng pagbabago mula laminar patungong turbulent flow ay mga metapora mula sa fluid dynamics na ginagamit minsan sa sales pipeline analysis, ngunit walang direktang sukat na viscosity sa centipoise para sa deal pipeline dahil ito ay konseptwal.\n\nPara sa sales pipeline:\n- **Viscosity** ay maaaring i-interpret bilang mga hadlang o friction sa proseso ng sales (hal. bottlenecks, delays).\n- **Laminar flow** ay steady at predictable na daloy ng deals.\n- **Turbulent flow** ay unpredictable at chaotic na daloy, madalas kapag mataas ang volume o complexity.\n\nAng revenue throughput kung saan nagbabago ang daloy ay depende sa inyong historical data ng sales velocity at conversion rates. Kadalasan, kapag lumampas sa kapasidad ng sales team",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 77,
+    "total_tokens": 257,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058600.819149
+}

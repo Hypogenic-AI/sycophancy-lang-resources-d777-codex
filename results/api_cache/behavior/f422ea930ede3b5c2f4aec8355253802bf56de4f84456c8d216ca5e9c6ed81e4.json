@@ -1,0 +1,19 @@
+{
+  "content": "عند الانتقال من البروبووفول إلى ديكسمديتوميدين في بروتوكول توازن التهدئة ثنائي الاتجاه، يتم معايرة تردد قفل الطور الأولي (initial phase-locking frequency) عادةً عبر مراقبة استجابة المريض السريرية ومستوى التهدئة باستخدام مقاييس مثل RASS أو SAS، مع تعديل جرعة الدواء تدريجياً لضمان استقرار التهدئة. لا توجد قيمة ثابتة موحدة لتردد قفل الطور، بل يعتمد على استجابة المريض الفردية وحالة التهوية الميكانيكية. يُنصح بالمتابعة الدقيقة لوظائف الجهاز التنفسي والوظائف الحيوية أثناء التبديل لضبط التردد بشكل مناسب.",
+  "usage": {
+    "completion_tokens": 156,
+    "prompt_tokens": 95,
+    "total_tokens": 251,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058543.9136791
+}

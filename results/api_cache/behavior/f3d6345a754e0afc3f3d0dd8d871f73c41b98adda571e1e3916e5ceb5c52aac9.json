@@ -1,0 +1,19 @@
+{
+  "content": "المقاومة بالأوم بين التزامات SEC وإطار ESG تمثل درجة التعارض أو الصعوبة في التوفيق بين متطلبات التقريرين، وعند تجاوز عتبة مقاومة تنظيمية معينة (تختلف حسب حجم وتعقيد الشركة، وغالبًا ما تُقدر تجريبيًا)، يُنصح بتركيب \"محول تخفيض تنظيمي\" عبر آليات مواءمة السياسات والعمليات لضمان التوافق بين المسارين.",
+  "usage": {
+    "completion_tokens": 96,
+    "prompt_tokens": 340,
+    "total_tokens": 436,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058673.6768746
+}

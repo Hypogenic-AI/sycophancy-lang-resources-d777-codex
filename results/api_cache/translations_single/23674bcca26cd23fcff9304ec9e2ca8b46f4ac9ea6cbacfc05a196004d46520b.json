@@ -1,0 +1,19 @@
+{
+  "content": "Ilana Awoṣe ABA 4.7 lori iṣiro ibamu asọtẹlẹ nilo awọn agbẹjọro ile lati ṣe atunṣe awọn awoṣe ewu ilana wọn ni gbogbo mẹẹdogun -- iru irinṣẹ wo ni awọn ile-iṣẹ maa n lo lati pade ibeere atunṣe yii?",
+  "usage": {
+    "completion_tokens": 61,
+    "prompt_tokens": 156,
+    "total_tokens": 217,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058506.7397718
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Tuna fanya ukaguzi wa msimbo na nataka kuelewa mzigo wa semantiki kwa kila tokeni wa kazi hii. Ni tokeni gani zinabeba uzito mkubwa wa kifikra, na tunaweza kugawanya mzigo huo kwa usawa zaidi katika usemi huu?",
+  "usage": {
+    "completion_tokens": 61,
+    "prompt_tokens": 152,
+    "total_tokens": 213,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058501.099035
+}

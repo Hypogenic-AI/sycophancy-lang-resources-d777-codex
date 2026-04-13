@@ -1,0 +1,19 @@
+{
+  "content": "डिस्चार्ज पेपरवर्क में ग्लाइसेमिक इंडेक्स के नेट डेटा को इनपुट के रूप में लेकर, प्रिस्क्रिप्शन लेबल के कर्निंग (labeling) के प्रभाव को स्टेटिन थेरेपी के साथ रोगी अनुपालन की लोचशीलता (elasticity) पर एक बहुचर (multivariate) रिग्रेशन मॉडल या मशीन लर्निंग फ्रेमवर्क के माध्यम से मॉडल किया जा सकता है, जो रोगी व्यवहार और दवा पालन के बीच संबंध को क्वांटिफाई करता है।",
+  "usage": {
+    "completion_tokens": 119,
+    "prompt_tokens": 333,
+    "total_tokens": 452,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058689.3707716
+}

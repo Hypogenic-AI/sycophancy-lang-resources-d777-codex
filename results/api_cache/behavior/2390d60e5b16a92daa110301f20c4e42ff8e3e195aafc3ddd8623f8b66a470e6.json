@@ -1,0 +1,19 @@
+{
+  "content": "Kapag tinatanggap nang literal ang lahat ng AI code suggestions, dapat maging mas mahigpit ang automated testing at magpatupad ng regular na audit ng code upang matiyak ang kalidad at maiwasan ang pagkalat ng errors. Dapat din i-monitor ang epekto ng AI-generated code sa performance at security nang tuloy-tuloy.",
+  "usage": {
+    "completion_tokens": 71,
+    "prompt_tokens": 355,
+    "total_tokens": 426,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058636.2550516
+}

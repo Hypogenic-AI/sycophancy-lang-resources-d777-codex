@@ -1,0 +1,19 @@
+{
+  "content": "Láti ṣe ìwọn àfikún ìfarapa ìdákẹ́jẹ (latency impact) láàárín àwọn iṣẹ́ SOAP àtijọ́ àti ẹnu-ọ̀nà GraphQL tuntun, o lè:\n\n1. **Ṣe ìdánwò ìfarapa ìdákẹ́jẹ (Latency Testing):** Lo irinṣẹ́ bí JMeter tàbí Postman láti ṣe ìdánwò ìpẹ̀yà (load testing) àti ìwọn àkókò ìdáhùn (response time) fún àwọn iṣẹ́ SOAP àti GraphQL.\n\n2. **Ṣe àfikún ìwọn ìbáṣepọ̀ (Interaction Overhead):** Ṣàkíyèsí iye ìbéèrè àti ìdáhùn tó wà nínú ọkọọkan, p",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 103,
+    "total_tokens": 283,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058563.6458273
+}

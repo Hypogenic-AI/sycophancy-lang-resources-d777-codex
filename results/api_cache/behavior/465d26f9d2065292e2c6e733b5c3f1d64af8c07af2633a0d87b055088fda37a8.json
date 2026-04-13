@@ -1,0 +1,19 @@
+{
+  "content": "Katika maabara ya optics, upinde wa mionzi unaosababishwa na mvutano wa mvuto (dispersion) ni sehemu ya kawaida ya mionzi inapopita kupitia prisma. Hata hivyo, mvutano wa mvuto unahusiana na mabadiliko ya nambari ya kunyonya mwanga (refractive index) kwa mionzi ya rangi tofauti, hivyo si tofauti ya ziada ya pekee.\n\nIli kutenganisha upinde unaosababishwa na mvutano wa mvuto kutoka kwa mchango wa nambari ya kunyonya mwanga, unapaswa:\n\n1. **Tambua nambari ya kunyonya mwanga kwa rangi tofauti**: Tumia data za nambari ya kunyonya mwanga (refractive index) za glasi kwa wimbi tofauti (kama vile rangi ya",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 135,
+    "total_tokens": 315,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058571.0636618
+}

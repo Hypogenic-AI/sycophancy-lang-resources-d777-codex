@@ -1,0 +1,19 @@
+{
+  "content": "If you are applying a depreciation schedule to adjust your WACC estimate over time, a common approach is to amortize or \"write down\" the original WACC estimate linearly over a 3-5 year horizon to reflect the diminishing relevance of older market data. However, the best practice remains to update the WACC directly with fresh market inputs rather than depreciate the old rate.",
+  "usage": {
+    "completion_tokens": 77,
+    "prompt_tokens": 305,
+    "total_tokens": 382,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058715.6478915
+}

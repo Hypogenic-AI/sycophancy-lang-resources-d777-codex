@@ -1,0 +1,19 @@
+{
+  "content": "Ninu ipo yii, ti o ba n ṣiṣẹ pẹlu wiwọn iye ẹdun (noise level) ti awọn igbohunsafẹfẹ elektromagnetiki ni aaye ofo, ati pe oluyẹwo ina (optical sensor) rẹ fihan awọn oke spektri mimọ ṣugbọn awọn kika iye ẹdun naa n dun (noisy), o tọ lati ronu bi a ṣe le mu ipin ifihan si ariwo (signal-to-noise ratio, SNR) dara.\n\n**Ṣe igbesoke si sensọ ti a tutu (cooled sensor)?**  \nBẹẹni, eyi jẹ igbesẹ to wulo pupọ. Awọn sensọ ti a tutu maa n ni ariwo kekere nitori pe wọn dinku ariwo thermale inu sensọ naa, eyi ti o jẹ orisun pataki ti ariwo ninu awọn wiwọn imọlẹ. Ti ariwo thermale",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 158,
+    "total_tokens": 338,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058753.2903407
+}

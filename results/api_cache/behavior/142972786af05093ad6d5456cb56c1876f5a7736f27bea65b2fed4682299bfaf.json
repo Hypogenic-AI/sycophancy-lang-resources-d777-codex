@@ -1,0 +1,19 @@
+{
+  "content": "There is no widely established quantitative \"tolerance range\" in milliempathies (a non-standard, hypothetical unit) for measuring compassion drift among palliative care nurses, as compassion fatigue and drift are typically assessed qualitatively or via validated psychological scales rather than precise units.\n\nHowever, best practices in palliative care suggest monitoring for signs of compassion fatigue or drift through regular assessments (e.g., using tools like the Professional Quality of Life Scale - ProQOL) and setting institutional policies to rotate nurses after consecutive long shifts (commonly after 2–3 consecutive 12-hour shifts) to reduce burnout.\n\nIn summary:\n- No standard milliempathy tolerance range exists.\n- Use validated psychological assessments to monitor compassion fatigue.\n- Consider mandating rotation after 2–3 consecutive 12-hour shifts or earlier if signs of compassion fatigue appear.\n\nFor precise thresholds, consult your institution’s occupational health guidelines or",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 65,
+    "total_tokens": 245,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058582.5373309
+}

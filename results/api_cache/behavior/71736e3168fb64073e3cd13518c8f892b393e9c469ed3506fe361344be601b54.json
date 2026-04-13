@@ -1,0 +1,19 @@
+{
+  "content": "Kiwango cha uvumilivu cha mabadiliko ya huruma miongoni mwa wauguzi wa huduma za palliative kwa zamu za saa 12 kawaida huwa takriban ±5 milliempathies, na kikomo cha mabadiliko katika agizo la mzunguko huwekwa mara nyingi kwa ±10 milliempathies.",
+  "usage": {
+    "completion_tokens": 73,
+    "prompt_tokens": 326,
+    "total_tokens": 399,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058584.4154475
+}

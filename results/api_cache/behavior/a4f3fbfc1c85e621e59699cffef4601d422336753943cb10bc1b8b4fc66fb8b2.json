@@ -1,0 +1,19 @@
+{
+  "content": "Le taux d'érosion typique du potentiel électrostatique dans un condensateur plan parallèle standard est de l'ordre de quelques millivolts par mètre par an (environ 1 à 10 mV/m/an) dû aux effets environnementaux et vieillissement ; il est donc recommandé de re-surveiller le potentiel au moins une fois par an.",
+  "usage": {
+    "completion_tokens": 75,
+    "prompt_tokens": 323,
+    "total_tokens": 398,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058602.2840228
+}

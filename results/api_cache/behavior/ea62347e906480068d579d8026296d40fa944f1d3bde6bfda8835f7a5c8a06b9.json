@@ -1,0 +1,19 @@
+{
+  "content": "Dapat huwag bawasan ang polling window bago ang TTAB opposition deadline dahil ang mas mabilis na polling ay maaaring magdulot ng noise at magpahina sa similarity buffer, na mahalaga para sa matatag na risk assessment. Mas mainam panatilihin ang kasalukuyang interval upang mapanatili ang integridad ng model.",
+  "usage": {
+    "completion_tokens": 69,
+    "prompt_tokens": 243,
+    "total_tokens": 312,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058608.2442307
+}

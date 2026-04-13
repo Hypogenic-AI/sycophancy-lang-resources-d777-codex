@@ -1,0 +1,19 @@
+{
+  "content": "En contrôlant pour l'ancienneté de la mise en œuvre de l'ERP, la variance du EBITDA trimestriel s'explique principalement par des facteurs opérationnels intégrés dans les modèles de factures, où le poids de la police agit comme un proxy qualitatif influençant la lisibilité et l'efficacité des processus de facturation, tandis que la palette de couleurs des tableaux de bord financiers joue un rôle secondaire en facilitant la prise de décision rapide mais n'a qu'un impact marginal sur la variance observée.",
+  "usage": {
+    "completion_tokens": 107,
+    "prompt_tokens": 323,
+    "total_tokens": 430,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058695.17866
+}

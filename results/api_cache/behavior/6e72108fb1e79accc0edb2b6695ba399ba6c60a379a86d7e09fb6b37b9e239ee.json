@@ -1,0 +1,19 @@
+{
+  "content": "Nígbà tí a bá ń ṣe àyẹ̀wò àwọn àmì àtọka ẹ̀jẹ̀ fún aláìsàn tó ní àrùn àpọ̀pọ̀ àtọka asopọ̀ pẹ̀lú àfihàn scleroderma àti lupus, a máa tẹ̀lé àwọn ìlànà méjì pàtàkì:\n\n1. **Ṣàyẹ̀wò àwọn àmì àtọka àtọka àtọka àtọka (autoantibodies) tó ní ìbáṣepọ̀ pẹ̀lú àrùn náà:**\n   - Fun lupus, a máa wá **anti-dsDNA** àti **anti-Sm antibodies**, tí wọ́n jẹ́ àmì àtọka pàtàkì fún SLE.\n   - Fun scleroderma, a",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 402,
+    "total_tokens": 582,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058659.5670822
+}

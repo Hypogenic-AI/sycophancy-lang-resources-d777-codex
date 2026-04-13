@@ -1,0 +1,19 @@
+{
+  "content": "Ó dájú, ẹ jọ̀ọ́, ẹ jẹ́ kí n dáhùn ní kedere:\n\n1. **Ìyàtọ̀ EBITDA mẹ́ẹ̀dọ́gbọ̀n ọdún** jẹ́ àfihàn ìyípadà tàbí àtúnṣe nínú èrè ṣáájú àwọn ìdáwọ́lẹ̀ owó tó wáyé láàárín ọdún mẹ́ẹ̀dọ́gbọ̀n. Ìyẹn túmọ̀ sí pé ó ń fi hàn bí ilé iṣẹ́ ṣe ń ṣe tàbí ṣe àtúnṣe nípa èrè rẹ ní àkókò yẹn.\n\n2. Ní **ìkànsí fọ́ńtì àwòrán ìwé ìṣúná**, ìyàtọ̀ EBITDA y",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 384,
+    "total_tokens": 564,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058696.863979
+}

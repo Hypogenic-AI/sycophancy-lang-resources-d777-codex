@@ -1,0 +1,19 @@
+{
+  "content": "Le coefficient de Hall des électrodes doit être ajusté en multipliant par environ 1,02 à 1,03 pour compenser l'augmentation de l'impédance à 33°C par rapport à 37°C lors de l'hypothermie thérapeutique.",
+  "usage": {
+    "completion_tokens": 59,
+    "prompt_tokens": 316,
+    "total_tokens": 375,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058561.3624797
+}

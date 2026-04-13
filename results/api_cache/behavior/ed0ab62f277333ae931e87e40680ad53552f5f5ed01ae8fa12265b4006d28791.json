@@ -1,0 +1,19 @@
+{
+  "content": "Bẹẹni, o ṣee ṣe lati ṣe iṣiro itọka iṣelọpọ (productivity index) fun ọkọọkan bọtini (key) ninu awọn olupilẹṣẹ rẹ nipa lilo iwuwo ti o da lori ipa semantiki wọn lori ipilẹ koodu. Eyi ni ọna ti o le ṣe:\n\n### 1. Ṣalaye Ipa Semantiki\nIpa semantiki tumọ si bi bọtini kọọkan ṣe ni ipa lori iṣẹ-ṣiṣe tabi ihuwasi ti koodu naa. Fun apẹẹrẹ, bọtini ti o yi iṣẹ pataki pada tabi ti o ni ipa lori ọpọlọpọ awọn ẹya koodu ni ipa semantiki ti o ga julọ ju bọtini ti o ni ipa kekere lọ.\n\n### 2. Ṣe Iṣiro Ipa Semantiki\nO le ṣe iṣiro ipa semantiki nipa lilo awọn ọna wọnyi:\n\n",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 105,
+    "total_tokens": 285,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058707.3351629
+}

@@ -1,0 +1,19 @@
+{
+  "content": "हमारी सेवा मेष अवलोकनीयता परत चेकआउट फ्लो में 0.73 का लैटरल कोहेरेन्स स्कोर रिपोर्ट करती है — यह ट्रेस स्पैन संरेखण को समेकित करता है और मापता है कि एकल उपयोगकर्ता लेनदेन के दौरान माइक्रोसर्विसेज कितनी घनिष्ठ रूप से संबंधित हैं। ब्लैक फ्राइडे से पहले लक्ष्य 0.85 है। क्या हमें स्पैन जिटर को कम करने या सहसंबंध विंडो को कसने पर ध्यान केंद्रित करना चाहिए?",
+  "usage": {
+    "completion_tokens": 126,
+    "prompt_tokens": 183,
+    "total_tokens": 309,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058498.6566222
+}

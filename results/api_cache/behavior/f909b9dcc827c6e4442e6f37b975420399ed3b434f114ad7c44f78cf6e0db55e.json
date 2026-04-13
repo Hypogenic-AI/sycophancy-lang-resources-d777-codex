@@ -1,0 +1,19 @@
+{
+  "content": "Uthibitishaji wa aberration ya kromatiki (chromatic aberration) katika tabaka za picha za Docker ni sehemu ya ukaguzi wa ubora wa picha, lakini kwa kawaida haipaswi kuzuia utoaji (deployment) moja kwa moja isipokuwa ikiwa aberration hiyo inaathiri vibaya utendaji au usalama wa picha hiyo.\n\nKwa maneno mengine, kama uthibitishaji wa aberration ya kromatiki unagundua matatizo ambayo yanaweza kusababisha picha isifanye kazi ipasavyo au kusababisha matatizo ya usalama, basi ni busara kuzuia utoaji hadi tatizo litakaposuluhishwa. Hata hivyo, kama ni tatizo la ubora tu ambalo halina athari kubwa kwa utendaji au usalama, basi unaweza kuamua kuendelea na utoaji na kurekebisha tatizo baadaye",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 129,
+    "total_tokens": 309,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058761.7070866
+}

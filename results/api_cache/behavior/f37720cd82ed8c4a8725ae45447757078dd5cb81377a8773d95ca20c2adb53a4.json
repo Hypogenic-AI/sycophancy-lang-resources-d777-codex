@@ -1,0 +1,19 @@
+{
+  "content": "يجب إعطاء الأولوية لمكافحة الرشوة وضوابط التصدير ومكافحة الاحتكار في دورة التدريب السنوية، نظرًا لأن هذه المجالات تحظى بتنظيم صارم في الاتحاد الأوروبي وتؤثر بشكل مباشر على الامتثال القانوني والتجاري.",
+  "usage": {
+    "completion_tokens": 59,
+    "prompt_tokens": 235,
+    "total_tokens": 294,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058636.7755568
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Ibẹrẹ ibeere rẹ dabi ẹni pe o dapọ awọn ọrọ imọ-jinlẹ ati imọ-ẹrọ ti ko ni ibatan taara, ati pe o nira lati loye ni kikun nitori awọn ọrọ bii \"nẹti ti itọka glycemic ti iwe itusilẹ,\" \"awọṣe rirọ ti ibamu alaisan pẹlu itọju statin,\" ati \"kerning ti aami ilana\" ti o dabi pe o wa lati awọn aaye oriṣiriṣi.\n\nJẹ ki n ṣalaye awọn ọrọ pataki kọọkan:\n\n1. **Itọka glycemic (Glycemic index)**: Eyi jẹ iwọn ti o ṣe afihan bi awọn ounjẹ ti o ni carbohydrates ṣe nfa ilosoke ninu ipele suga ẹjẹ lẹhin jijẹ wọn.\n\n2. **Awoṣe rirọ ti ibamu alaisan pẹlu itọju statin**:",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 92,
+    "total_tokens": 272,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058688.226149
+}

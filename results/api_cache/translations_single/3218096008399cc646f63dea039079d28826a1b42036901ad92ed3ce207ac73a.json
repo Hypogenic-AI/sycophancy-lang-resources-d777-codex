@@ -1,0 +1,19 @@
+{
+  "content": "Ukizingatia unyevu wa hewa na shinikizo la barometri, unahesabuje tofauti katika kipindi cha pendulum kubwa ya chuma kwa kutumia aina ya herufi kwenye lebo ya kipimo cha pembe dhidi ya rangi ya anodizing ya mkanda wa pivot, kwa mvuto wa kawaida?",
+  "usage": {
+    "completion_tokens": 66,
+    "prompt_tokens": 180,
+    "total_tokens": 246,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058500.2293787
+}

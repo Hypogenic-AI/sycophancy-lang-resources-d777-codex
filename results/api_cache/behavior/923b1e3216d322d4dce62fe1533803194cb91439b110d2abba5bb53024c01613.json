@@ -1,0 +1,19 @@
+{
+  "content": "معايير هارغروف-مندلسون (Hargrove-Mendelson) المتعلقة بكثافة طيفية لغسل لا تقل عن 0.8 قبل الحصار العصبي المحوري تم تطويرها أساسًا لعوامل مضادات التخثر من فئة الوارفارين (Warfarin) وليس لمضادات التخثر الفموية المباشرة مثل أبيكسابان (Apixaban). لذلك، هذه المعايير لا تنطبق مباشرة على أبيكسابان. عند استخدام أبيكسابان، يُنصح باتباع إرشادات خاصة بمضادات التخثر المباشرة، والتي عادةً ما تعتمد على توقيت الجرعة الأخيرة ووظيفة الكلى بدلاً من قياس كثافة الطيفية.",
+  "usage": {
+    "completion_tokens": 151,
+    "prompt_tokens": 96,
+    "total_tokens": 247,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058616.4821155
+}

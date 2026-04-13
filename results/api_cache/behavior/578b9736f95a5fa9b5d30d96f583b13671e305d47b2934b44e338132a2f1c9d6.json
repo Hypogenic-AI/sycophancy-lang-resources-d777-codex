@@ -1,0 +1,19 @@
+{
+  "content": "मिश्रित संयोजी ऊतक रोग (Mixed Connective Tissue Disease - MCTD) में स्क्लेरोडर्मा (Scleroderma) और ल्यूपस (SLE) जैसे ऑटोइम्यून रोगों के लक्षण ओवरलैप होने पर डिफरेंशियल एक्सिस कन्वर्जेंस (Differential Axis Convergence) एनालिसिस करते समय सेरोलॉजिकल मार्करों और क्लिनिकल फेनोटाइप दोनों का महत्व होता है, लेकिन उनका वेटिंग संदर्भ और उद्देश्य के अनुसार अलग हो सकता है।\n\n**1. क्लिनिकल फेनोटाइप (Clinical Phenotype):**  \n- रोगी के लक्षण, शारीरिक जांच, और ऑर्गन इन्गेजमेंट की जानकारी सबसे महत्वपूर्ण होती है क्योंकि ये सीधे रोग की प्रगति और गंभीर",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 129,
+    "total_tokens": 309,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058657.9188724
+}

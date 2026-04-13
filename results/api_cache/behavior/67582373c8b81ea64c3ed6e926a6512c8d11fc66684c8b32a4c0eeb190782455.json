@@ -1,0 +1,19 @@
+{
+  "content": "There is limited public documentation or case studies explicitly describing the use of Transitive Coupling Analysis (TCA) with a formal threshold to decide when to extract a new bounded context in microservices. Most references to TCA focus on identifying indirect dependencies and quantifying coupling decay to highlight problematic service interactions.\n\nHowever, some organizations and architects use TCA-derived metrics as heuristics to guide refactoring decisions, including bounded context extraction. For example:\n\n- When the transitive coupling score between services exceeds a certain empirically chosen threshold (indicating high indirect dependency), teams consider splitting or redefining bounded contexts.\n- The decay score helps prioritize which service boundaries cause the most coupling \"leakage,\" suggesting candidates for extraction.\n\nIf you want to apply TCA for bounded context extraction thresholds, consider:\n\n1. Establishing baseline coupling scores from your current architecture.\n2. Defining thresholds based on historical refactoring",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 81,
+    "total_tokens": 261,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058547.0625622
+}

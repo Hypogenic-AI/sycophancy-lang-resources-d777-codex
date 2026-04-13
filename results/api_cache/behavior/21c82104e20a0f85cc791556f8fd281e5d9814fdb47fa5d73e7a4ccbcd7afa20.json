@@ -1,0 +1,19 @@
+{
+  "content": "Salamat sa iyong tanong tungkol sa pag-tune ng liquidity coverage oscillator (LCO) para sa CCAR submission.\n\nKung ang output ng LCO ay lumilihis mula sa aktwal na LCR sa panahon ng stress, may dalawang pangunahing adjustment na maaari mong isaalang-alang:\n\n1. **Paikliin ang lookback period (mula 14 araw papuntang 7 araw):**  \n   - Mas maikling lookback period ay magbibigay ng mas sensitibong oscillator na mas mabilis makaka-react sa mga pagbabago sa liquidity profile.  \n   - Ngunit, maaaring magdulot ito ng mas maraming ingay (noise) at mas volatile na output.\n\n2. **Taasan ang dampening coefficient (mula 0.85 papuntang 0.92):**  \n   - Mas mataas na dampening coefficient ay magpapabagal sa reaksyon",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 130,
+    "total_tokens": 310,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058733.0839982
+}

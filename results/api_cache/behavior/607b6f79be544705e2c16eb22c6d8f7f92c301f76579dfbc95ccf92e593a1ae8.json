@@ -1,0 +1,19 @@
+{
+  "content": "Aṣiṣe boṣewa lori itọka imọ-ẹrọ ẹgbẹ rẹ lẹhin awọn atunyẹwo apẹrẹ eto mẹta to kẹhin ni a maa n ṣe iṣiro nipa gbigba awọn iye itọka imọ-ẹrọ kọọkan lati ọdọ awọn onimọ-ẹrọ agba ni gbogbo atunyẹwo, lẹhinna:\n\n1. **Ṣe iṣiro aṣiṣe boṣewa fun kọọkan atunyẹwo mẹẹdogun**: Eyi fihan bi awọn imọlara apẹrẹ ṣe n yapa tabi n sunmọ ara wọn laarin ẹgbẹ ni akoko kọọkan.\n\n2. **Fi awọn aṣiṣe boṣewa mẹta wọnyi we ara wọn**: Ti aṣiṣe boṣewa ba dinku ni kọọkan atunyẹwo, o tumọ si pe awọn imọlara apẹrẹ n sunmọ ara wọn; ti o ba pọ si, wọn n yapa.\n\nNitorinaa, ilana",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 349,
+    "total_tokens": 529,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058702.4253747
+}

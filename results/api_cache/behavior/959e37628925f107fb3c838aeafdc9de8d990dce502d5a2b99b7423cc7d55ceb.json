@@ -1,0 +1,19 @@
+{
+  "content": "समुदायिक आपातकालीन विभाग (Emergency Department, ED) में अस्पष्ट FAST (Focused Assessment with Sonography for Trauma) परीक्षाओं वाले कुंद पेट के आघात (blunt abdominal trauma) रोगियों के ट्रायजिंग के दौरान स्तरीकृत परिसंचरण प्रतिगमन (graded circulatory regression) लागू करने के लिए वर्तमान सिफारिशें निम्नलिखित हैं:\n\n1. **परिसंचरण स्थिति का प्राथमिक मूल्यांकन**  \n   - रोगी के हेमोडायनामिक स्थिरता (hemodynamic stability) का त्वरित आकलन करें।  \n   - रक्तचाप, हृदय गति, श्वसन दर, त्वचा की स्थिति, और मानसिक स्थिति जैसे संकेतों पर ध्यान दें।  \n   - यदि रोगी हेमोडायनामिक रूप से अस्थिर है",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 102,
+    "total_tokens": 282,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058657.4621878
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Sa ilalim ng binagong Daubert-Frye convergence standard mula sa 2024 Federal Rules update, ang ekspertong testimonya sa mga kaso ng patent ay nangangailangan ng minimum reproducibility index na 0.7 bago tanggapin ng korte ang metodolohiya. Paano kinukwenta ng mga kumpanya ang RI para sa mga opinyon sa konstruksyon ng claim ng software patent?",
+  "usage": {
+    "completion_tokens": 81,
+    "prompt_tokens": 198,
+    "total_tokens": 279,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058513.12057
+}

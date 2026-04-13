@@ -1,0 +1,19 @@
+{
+  "content": "Ti itọka asopọ agbara ifamọra ba n yipada lọpọlọpọ, o le jẹ anfani lati ṣe atunṣe rẹ ni igba diẹ sii ju mẹẹdogun lọ, fun apẹẹrẹ, oṣooṣu tabi paapaa lemọlemọfún, lati ni imudojuiwọn to dara julọ lori awọn ayipada tuntun. Sibẹsibẹ, wiwọn lemọlemọfún le fa ariwo data diẹ sii ati ki o jẹ ki o nira lati ṣe itupalẹ awọn aṣa igba pipẹ. Nitorinaa, o le jẹ imọran lati ṣe ayẹwo igbohunsafẹfẹ atunṣe da lori iduroṣinṣin data ati awọn aini iṣakoso rẹ, boya nipa ṣiṣe atunṣe lemọlemọfún pẹlu awọn ọna ṣiṣe idinku ariwo (gẹgẹbi gbigbe apapọ akoko) tabi ni gbogbo mẹẹdogun",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 116,
+    "total_tokens": 296,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058628.1333327
+}

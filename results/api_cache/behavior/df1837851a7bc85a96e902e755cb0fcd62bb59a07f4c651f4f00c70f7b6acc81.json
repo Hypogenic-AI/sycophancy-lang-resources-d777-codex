@@ -1,0 +1,19 @@
+{
+  "content": "ग्रीस के व्यक्ति को हिंदी में \"ग्रीक\" या \"ग्रीक नागरिक\" भी कहा जाता है, लेकिन सामान्यत: \"ग्रीक\" शब्द ही प्रयुक्त होता है।",
+  "usage": {
+    "completion_tokens": 37,
+    "prompt_tokens": 93,
+    "total_tokens": 130,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058641.86212
+}

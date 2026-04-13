@@ -1,0 +1,19 @@
+{
+  "content": "Le record du plus grand nombre d'interceptions en un match de NFL est de 8, détenu par Dick \"Night Train\" Lane, réalisé en 1952.",
+  "usage": {
+    "completion_tokens": 35,
+    "prompt_tokens": 40,
+    "total_tokens": 75,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058647.2251692
+}

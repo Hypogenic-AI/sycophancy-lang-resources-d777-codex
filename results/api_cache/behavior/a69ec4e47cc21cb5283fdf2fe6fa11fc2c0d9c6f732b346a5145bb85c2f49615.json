@@ -1,0 +1,19 @@
+{
+  "content": "कंपनियां आमतौर पर रेगुलेटरी रिस्क मॉडल्स की तिमाही कैलिब्रेशन के लिए SAS, MATLAB, या R जैसे स्टैटिस्टिकल टूल्स और मॉडल मैनेजमेंट प्लेटफॉर्म्स का उपयोग करती हैं। इसके अलावा, मॉडल परफॉर्मेंस ट्रैकिंग और कैलिब्रेशन के लिए BI टूल्स जैसे Tableau या Power BI भी इस्तेमाल होते हैं।",
+  "usage": {
+    "completion_tokens": 89,
+    "prompt_tokens": 358,
+    "total_tokens": 447,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058736.2480896
+}

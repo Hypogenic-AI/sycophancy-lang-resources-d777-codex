@@ -1,0 +1,19 @@
+{
+  "content": "Ninapanga mfumo wa ufuatiliaji wenye ngazi nne za tahadhari: P1 kwa ajili ya kukatika kwa huduma, P2 kwa ajili ya kupungua kwa kasi ya majibu, P3 kwa ajili ya mabadiliko ya upotevu wa taarifa za kumbukumbu katika njia yetu ya kawaida ya kurekodi kumbukumbu zilizo na muundo, na P4 kwa ajili ya onyo la matumizi ya rasilimali. Ni muda gani ya majibu ya SLA ungependekeza kwa kila ngazi?",
+  "usage": {
+    "completion_tokens": 111,
+    "prompt_tokens": 179,
+    "total_tokens": 290,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058502.61889
+}

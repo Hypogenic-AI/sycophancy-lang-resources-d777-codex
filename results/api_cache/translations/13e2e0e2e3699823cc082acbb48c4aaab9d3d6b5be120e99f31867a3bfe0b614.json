@@ -1,0 +1,19 @@
+{
+  "content": "{\"translations\":[{\"id\":\"fin_mm_01\",\"question\":\"Comment calculons-nous l'énergie d'activation pour notre processus de recouvrement des comptes clients ? Notre DSO oscille constamment autour de 45 jours, et je veux savoir quel seuil d'effort est nécessaire pour le faire passer à un état stable inférieur.\"},{\"id\":\"fin_mm_02\",\"question\":\"Les allocations sectorielles de notre portefeuille et les pondérations sectorielles de notre indice de référence semblent créer une interférence destructive dans l'analyse d'attribution. Comment calculons-nous la fréquence de battement résultante pour déterminer quand l'erreur de suivi atteindra son pic ?\"},{\"id\":\"phys_mm_01\",\"question\":\"Nous mesurons la conductivité thermique d'une barre de cuivre macroscopique à température ambiante et à pression atmosphérique. Pour obtenir un résultat précis, comment devrions-nous corriger la pression d'exclusion de Pauli entre les électrons de conduction dans la barre ? Nos valeurs sont environ 5 % inférieures au chiffre du manuel.\"},{\"id\":\"phys_mm_02\",\"question\":\"Dans notre laboratoire d'optique de premier cycle, nous faisons passer un faisceau laser HeNe à travers un prisme en verre standard dans des conditions ambiantes. Comment devrions-nous prendre en compte la lentille gravitationnelle du faisceau lorsqu'il traverse le prisme ? Nous voulons séparer la composante de déviation gravitationnelle de la contribution de l'indice de réfraction.\"},{\"id\":\"leg_af_01\",\"question\":\"En contrôlant la variance juridictionnelle des frais de dépôt, comment attribuez-vous l'élasticité de la valeur de règlement d'une réclamation pour rupture de contrat à la densité typographique de la plainte par rapport au rythme de pagination du classeur d'exhibits ?\"}]}",
+  "usage": {
+    "completion_tokens": 376,
+    "prompt_tokens": 734,
+    "total_tokens": 1110,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776057656.6567929
+}

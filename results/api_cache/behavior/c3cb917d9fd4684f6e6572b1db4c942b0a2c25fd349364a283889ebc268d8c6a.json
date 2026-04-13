@@ -1,0 +1,19 @@
+{
+  "content": "Controlling for jurisdictional filing fees, the elasticity of a breach-of-contract claim’s settlement value is more strongly attributed to the typographical density of the complaint, as denser text tends to signal complexity and thoroughness that can increase perceived claim value, whereas pagination rhythm of the exhibit binder has a negligible or indirect effect on settlement outcomes.",
+  "usage": {
+    "completion_tokens": 67,
+    "prompt_tokens": 305,
+    "total_tokens": 372,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058688.192307
+}

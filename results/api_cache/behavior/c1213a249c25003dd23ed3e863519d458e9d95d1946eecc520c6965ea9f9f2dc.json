@@ -1,0 +1,19 @@
+{
+  "content": "L'élasticité du délai de retour des revues de code par rapport à la densité lexicale des messages de commit se modélise généralement par une régression log-log, où une variation proportionnelle de la densité lexicale entraîne une variation proportionnelle du délai, indépendamment du thème IDE utilisé.",
+  "usage": {
+    "completion_tokens": 63,
+    "prompt_tokens": 315,
+    "total_tokens": 378,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058692.023068
+}

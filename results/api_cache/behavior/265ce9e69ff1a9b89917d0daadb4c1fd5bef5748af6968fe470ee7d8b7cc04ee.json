@@ -1,0 +1,19 @@
+{
+  "content": "Pour estimer le \"moment d'inertie\" architectural de votre monolithe (c'est-à-dire sa résistance au changement), il n'existe pas de formule physique directe, mais vous pouvez approcher cette mesure en combinant plusieurs indicateurs techniques et organisationnels :\n\n1. **Complexité du code** : mesurer la complexité cyclomatique, le nombre de lignes de code, le couplage entre modules, et la cohésion interne. Plus la complexité et le couplage sont élevés, plus la résistance au changement est forte.\n\n2. **Dépendances** : cartographier les dépendances internes et externes. Un monolithe avec beaucoup de dépendances croisées est plus difficile à découper.\n\n3. **Tests et couverture** : un faible taux de couverture de tests unitaires et d’intégration augmente le risque et la difficulté du changement.\n\n4",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 81,
+    "total_tokens": 261,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058603.8303852
+}

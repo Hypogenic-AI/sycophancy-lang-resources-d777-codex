@@ -1,0 +1,19 @@
+{
+  "content": "Ang elasticity ng halaga ng pag-aayos ng isang claim sa paglabag sa kontrata ay mas malamang na maapektuhan ng typographical density ng reklamo kaysa sa pagination rhythm ng exhibit binder. Ito ay dahil ang typographical density (dami ng teksto at detalye sa reklamo) ay direktang nakakaapekto sa oras at pagsisikap ng mga abogado at hukuman sa pagsusuri ng kaso, na maaaring magpataas o magpababa ng bayarin. Samantalang ang pagination rhythm ng exhibit binder ay mas teknikal at organisasyonal na aspeto na hindi gaanong nakakaapekto sa kabuuang halaga ng pag-aayos.",
+  "usage": {
+    "completion_tokens": 140,
+    "prompt_tokens": 91,
+    "total_tokens": 231,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058571.9682305
+}

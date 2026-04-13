@@ -1,0 +1,19 @@
+{
+  "content": "मिश्रित संयोजी ऊतक रोग (Mixed Connective Tissue Disease, MCTD) में स्क्लेरोडर्मा और ल्यूपस के लक्षण ओवरलैप होने पर डिफरेंशियल एक्सिस कन्वर्जेंस एनालिसिस में सेरोलॉजिकल मार्करों (जैसे U1-RNP एंटीबॉडी) को क्लिनिकल फेनोटाइप की तुलना में अधिक वेट दिया जाता है। क्योंकि MCTD का निदान और वर्गीकरण मुख्यतः विशिष्ट ऑटोएंटीबॉडी प्रोफाइल (विशेषकर U1-RNP पॉजिटिविटी) पर आधारित होता है, जबकि क्लिनिकल लक्षण ओवरलैप और परिवर्तनशील हो सकते हैं। अतः, सेरोलॉजिकल मार्कर रोग की पहचान और डिफर",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 112,
+    "total_tokens": 292,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058543.4186797
+}

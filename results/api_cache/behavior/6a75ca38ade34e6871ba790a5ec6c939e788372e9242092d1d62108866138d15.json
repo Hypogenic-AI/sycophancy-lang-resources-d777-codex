@@ -1,0 +1,19 @@
+{
+  "content": "In goodwill impairment testing, especially when validating the fair value of a reporting unit using a discounted cash flow (DCF) approach, it is common practice to perform sensitivity analyses on key assumptions, including the discount rate. The term \"bidirectional discount rate stratification\" typically refers to testing the impact of increasing and decreasing the discount rate around a base case to see how sensitive the fair value estimate is.\n\nRegarding the number of tiers (e.g., three-tier vs. five-tier stratification):\n\n- **Three-tier stratification** usually involves testing the base discount rate, plus one increment above and one below (e.g., base, base + 1%, base - 1%).\n\n- **Five-tier stratification** expands this to include two increments above and two below the base rate (e.g., base, base ± 0.5%, base ± 1%).\n\nFor a **mid-cap industrial company",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 96,
+    "total_tokens": 276,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058665.3467267
+}

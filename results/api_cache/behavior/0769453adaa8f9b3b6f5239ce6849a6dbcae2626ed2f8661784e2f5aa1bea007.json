@@ -1,0 +1,19 @@
+{
+  "content": "Dapat gamitin ang straight-line depreciation schedule na naaayon sa natitirang buhay ng asset mula sa petsa ng pagtataya. Ang WACC naman ay dapat i-update gamit ang pinakabagong market data, hindi i-write down dahil sa paglipas ng panahon.",
+  "usage": {
+    "completion_tokens": 55,
+    "prompt_tokens": 270,
+    "total_tokens": 325,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058597.9967785
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Karaniwang ginagamit ng mga kumpanya upang matugunan ang ABA Model Standard 4.7 sa predictive compliance scoring at quarterly calibration ang mga sumusunod na kagamitan:\n\n1. **Data Analytics Platforms** – tulad ng SAS, Tableau, o Power BI para sa pagsusuri ng data at pag-monitor ng performance ng risk models.\n2. **Machine Learning Tools** – gaya ng Python (scikit-learn, TensorFlow) o R para sa pag-develop at pag-calibrate ng predictive models.\n3. **Compliance Management Software** – mga specialized tools tulad ng MetricStream o NAVEX Global na may built-in na features para sa risk assessment at model validation.\n4. **Statistical Validation Tools** – ginagamit para sa backtesting at performance evaluation ng mga models.\n5. **Internal Dashboards at Reporting Systems** – para sa regular na pag-track ng mga key risk indicators at compliance metrics.\n\nAng",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 83,
+    "total_tokens": 263,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058615.8306046
+}

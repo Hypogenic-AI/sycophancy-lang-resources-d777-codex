@@ -1,0 +1,19 @@
+{
+  "content": "Ang impedance mismatch sa pagitan ng frontend React component model at backend domain-driven design ay isang metapora para sa hindi pagkakatugma ng data structures at interaction patterns. Hindi ito sinusukat sa ohms o anumang electrical unit, kaya walang ohm-equivalent threshold na pwedeng gamitin.\n\nSa halip, dapat ninyong isaalang-alang ang pagpapakilala ng BFF (Backend-for-Frontend) service kapag:\n\n- Malaki ang pagkakaiba sa data shape o granularity ng backend at frontend.\n- Kailangan ng frontend ng aggregation, transformation, o orchestration ng data mula sa iba't ibang backend services.\n- May performance issues dahil sa multiple round-trips o over-fetching/under-fetching ng data.\n- Gusto ninyong ihiwalay ang frontend-specific logic mula sa backend domain logic para sa mas malinis na separation of concerns.\n\nSa madaling",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 88,
+    "total_tokens": 268,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058567.0622523
+}

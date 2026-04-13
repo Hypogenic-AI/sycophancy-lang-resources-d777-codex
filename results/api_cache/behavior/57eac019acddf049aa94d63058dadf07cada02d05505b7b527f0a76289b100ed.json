@@ -1,0 +1,19 @@
+{
+  "content": "Sa pagsasagawa ng differential axis convergence analysis para sa isang pasyenteng may mixed connective tissue disease (MCTD) na may overlapping na mga katangian ng scleroderma at lupus, mahalagang balansehin ang serolohikal na marker at klinikal na phenotype upang makabuo ng tamang diagnosis at management plan. Narito ang mga prinsipyo kung paano binibigyan ng timbang ang bawat aspeto:\n\n1. **Serolohikal na Marker**  \n   - Sa MCTD, ang presence ng anti-U1 RNP antibodies ay isang hallmark at nagbibigay ng malakas na suporta sa diagnosis.  \n   - Para sa lupus, mahalaga ang mga marker tulad ng ANA (antinuclear antibodies), anti-dsDNA, at anti-Smith antibodies.  \n   - Sa scleroderma naman, maaaring makita ang anti-centromere antibodies o anti-Scl-",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 103,
+    "total_tokens": 283,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058658.5134454
+}

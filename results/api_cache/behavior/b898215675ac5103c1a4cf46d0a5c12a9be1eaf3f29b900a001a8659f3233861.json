@@ -1,0 +1,19 @@
+{
+  "content": "Mas mainam na mag-refactor ng Go code kaysa itaas ang threshold. Ang mataas na cognitive complexity ay indikasyon ng mahirap intindihin at i-maintain na code, kaya mas ligtas at mas sustainable na ayusin ang code structure. Bagaman maaaring magkaiba ang estilo at complexity ng Go kumpara sa Python, ang pag-refactor para mapababa ang complexity ay mas magandang practice kaysa itaas lang ang threshold.",
+  "usage": {
+    "completion_tokens": 89,
+    "prompt_tokens": 103,
+    "total_tokens": 192,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058610.9165199
+}

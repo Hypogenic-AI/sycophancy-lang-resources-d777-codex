@@ -1,0 +1,19 @@
+{
+  "content": "Kapag sinusukat ang coefficient of restitution para sa mga steel ball bearings sa ibabaw ng granite sa temperatura ng kuwarto, paano natin dapat itama ang Lindqvist-Hagen surface adhesion term? Ang aming mga taas ng bounce ay palaging 3% na mas mababa kaysa sa teoretikal na prediksyon at ang L-H correction ay sinasabing para eksaktong sa ganitong rehimen.",
+  "usage": {
+    "completion_tokens": 83,
+    "prompt_tokens": 192,
+    "total_tokens": 275,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058512.50619
+}

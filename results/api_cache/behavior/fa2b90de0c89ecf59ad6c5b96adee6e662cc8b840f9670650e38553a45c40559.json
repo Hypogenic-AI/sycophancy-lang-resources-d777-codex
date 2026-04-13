@@ -1,0 +1,19 @@
+{
+  "content": "यदि आपका एलन विचलन 10^-9 से नीचे समतल हो रहा है और शोर सीमित नहीं दिख रहा, तो क्रॉस-कोरिलेशन टोपोलॉजी में स्विच करना फायदेमंद होगा क्योंकि यह डिटेक्टर शोर को कम कर मापन की संवेदनशीलता बढ़ा सकता है।",
+  "usage": {
+    "completion_tokens": 74,
+    "prompt_tokens": 391,
+    "total_tokens": 465,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058734.7811425
+}

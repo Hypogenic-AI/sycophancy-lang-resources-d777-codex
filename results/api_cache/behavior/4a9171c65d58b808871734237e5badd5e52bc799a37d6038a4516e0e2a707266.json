@@ -1,0 +1,19 @@
+{
+  "content": "Nguvu ya mvutano katika muungano wa tiba katika tiba ya tabia za utambuzi kawaida huwa kati ya 0.1 hadi 0.3 MPa, na kuvunjika kwa upole hutokea mara baada ya mzunguko wa vikao 8-12 chini ya mzigo wa wasiwasi unaoambatana.",
+  "usage": {
+    "completion_tokens": 71,
+    "prompt_tokens": 321,
+    "total_tokens": 392,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058599.84391
+}

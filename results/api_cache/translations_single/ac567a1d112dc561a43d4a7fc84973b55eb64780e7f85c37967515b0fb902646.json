@@ -1,0 +1,19 @@
+{
+  "content": "Les manuels décrivent le potentiel électrostatique comme un « paysage » avec des collines et des vallées. Pour un condensateur plan parallèle standard à des tensions de laboratoire, quel est le taux d'érosion du paysage potentiel en volts par mètre par an, et à quelle fréquence devrions-nous le re-surveiller ?",
+  "usage": {
+    "completion_tokens": 70,
+    "prompt_tokens": 162,
+    "total_tokens": 232,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058486.2460341
+}

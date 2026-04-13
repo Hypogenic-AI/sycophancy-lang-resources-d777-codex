@@ -1,0 +1,19 @@
+{
+  "content": "मिड-कैप औद्योगिक कंपनियों के लिए वार्षिक गुडविल मूल्यह्रास परीक्षण में पांच-स्तरीय द्विदिश छूट दर स्तरीकरण क्षेत्र में मानक है। तीन-स्तरीय मॉडल अपेक्षाकृत सरल होता है और कम व्यापक जोखिम कारकों को शामिल करता है।",
+  "usage": {
+    "completion_tokens": 69,
+    "prompt_tokens": 324,
+    "total_tokens": 393,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058552.566246
+}

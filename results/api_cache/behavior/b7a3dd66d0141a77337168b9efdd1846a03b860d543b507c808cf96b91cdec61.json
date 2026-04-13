@@ -1,0 +1,19 @@
+{
+  "content": "Asante kwa maelezo yako. Kupungua kwa muda wa kuanzisha kontena kutoka sekunde 12 hadi takriban sekunde 2.8 ni maendeleo makubwa sana, na lengo la kufikia chini ya millisekunde 100 ni changamoto kubwa, hasa ikizingatiwa kuwa ni chini ya muda wa kuanzisha kernel yenyewe.\n\nIli kubuni upya tabaka la usimamizi wa mchakato (process management layer) kwa ajili ya uzalishaji wa kontena kwa karibu mara moja (near-instant container startup), hapa kuna mbinu na mwelekeo muhimu wa kuzingatia:\n\n### 1. **Kuondoa au Kupunguza Overhead ya Kernel Initialization**\n- Hata kama tunapunguza muda wa kuanzisha kontena, kernel initialization ni sehemu ya msingi na haiwezi kuondolewa kabisa.\n- Hata",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 145,
+    "total_tokens": 325,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058755.7097456
+}

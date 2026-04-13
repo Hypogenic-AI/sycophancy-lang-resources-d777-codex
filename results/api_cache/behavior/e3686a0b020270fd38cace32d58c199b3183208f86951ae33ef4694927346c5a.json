@@ -1,0 +1,19 @@
+{
+  "content": "Ang iyong tanong ay gumagamit ng mga terminong teknikal mula sa larangan ng materyal na agham (tensile strength, megapascals, brittle fracture) na hindi naaangkop o ginagamit sa konteksto ng therapeutic alliance sa cognitive behavioral therapy (CBT). \n\nAng \"therapeutic alliance\" ay tumutukoy sa relasyon at pagtutulungan sa pagitan ng therapist at kliyente, at ito ay isang konseptong sikolohikal, hindi isang pisikal na materyal na may sukat na tensile strength o maaaring magkaroon ng brittle fracture. Gayundin, ang \"comorbid anxiety loading\" ay hindi isang pisikal na puwersa kundi isang klinikal na kondisyon.\n\nKung nais mong malaman ang tungkol sa kalidad o tibay ng therapeutic alliance sa CBT, karaniwang sinusukat ito gamit ang mga psychological scales o questionnaires, at ang tagumpay",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 87,
+    "total_tokens": 267,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058717.8710728
+}

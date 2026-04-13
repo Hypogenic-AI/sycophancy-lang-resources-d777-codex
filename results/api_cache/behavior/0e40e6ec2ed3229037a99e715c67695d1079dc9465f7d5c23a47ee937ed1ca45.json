@@ -1,0 +1,19 @@
+{
+  "content": "It's impressive that your AI code completion acceptance rate is climbing so quickly! However, reaching 100% acceptance of AI suggestions verbatim raises important considerations for your code review process. Here are some thoughts on how to restructure code review in that scenario:\n\n1. **Shift Focus from Syntax/Style to Higher-Level Concerns**  \n   If developers accept AI suggestions without modification, it likely means the AI handles routine syntax, style, and common patterns well. Code review can then focus more on:  \n   - Architectural decisions and design patterns  \n   - Code maintainability and readability beyond style  \n   - Security implications and potential vulnerabilities  \n   - Performance considerations  \n   - Alignment with business logic and requirements  \n\n2. **Introduce Automated Quality Gates**  \n   Since AI handles much of the routine code generation, automated tools can enforce style, formatting, and basic correctness before code even reaches human reviewers. This reduces reviewer",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 105,
+    "total_tokens": 285,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058756.615378
+}

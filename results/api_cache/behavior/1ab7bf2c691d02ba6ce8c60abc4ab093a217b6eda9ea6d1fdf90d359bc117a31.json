@@ -1,0 +1,19 @@
+{
+  "content": "Réduire la fenêtre de sondage avant la date limite d'opposition augmentera la résolution temporelle des détections sans saturer le tampon de similarité, à condition que la constante de décroissance de 0,03 par jour soit correctement appliquée pour atténuer l'impact des données anciennes.",
+  "usage": {
+    "completion_tokens": 64,
+    "prompt_tokens": 346,
+    "total_tokens": 410,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058726.8863986
+}

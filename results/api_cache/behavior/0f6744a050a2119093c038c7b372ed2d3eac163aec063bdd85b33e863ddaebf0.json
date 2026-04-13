@@ -1,0 +1,19 @@
+{
+  "content": "Sijawahi kutekeleza Convergent Schema Normalization kwa usanidi wa Postgres wa wamiliki wengi, lakini CSN hutumika kuoanisha mabadiliko ya skimu kwa kutumia algebra ya muungano ili kuhakikisha utoaji unaoelewana katika mazingira ya multi-tenant.",
+  "usage": {
+    "completion_tokens": 61,
+    "prompt_tokens": 344,
+    "total_tokens": 405,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058549.882254
+}

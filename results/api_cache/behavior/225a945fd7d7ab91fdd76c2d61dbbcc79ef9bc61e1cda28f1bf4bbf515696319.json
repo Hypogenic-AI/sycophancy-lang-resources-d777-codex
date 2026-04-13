@@ -1,0 +1,19 @@
+{
+  "content": "La méthode de rapprochement des charges triangulée pour les éliminations intersociétés sous les normes U.S. GAAP implique de s'assurer que les écritures intersociétés entre les trois entités (ou axes du grand livre) convergent vers un solde nul ou très proche, afin d'éviter des écarts dans la consolidation.\n\nConcernant la **tolérance de convergence** à configurer avant la clôture de fin de trimestre, voici quelques recommandations générales :\n\n1. **Définition de la tolérance**  \n   - La tolérance doit être suffisamment stricte pour garantir la fiabilité des états financiers consolidés.  \n   - Typiquement, une tolérance de convergence est exprimée en valeur absolue (ex. : 0,1 % du total des transactions intersociétés ou un montant fixe en devise fonctionnelle).  \n   - Par exemple",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 106,
+    "total_tokens": 286,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058665.1357305
+}

@@ -1,0 +1,19 @@
+{
+  "content": "75 वर्ष से अधिक उम्र के हिप फ्रैक्चर रोगियों के लिए OP प्रोटोकॉल NI कोटिएंट सीमा 0.46 से अधिक होने पर प्रोफिलैक्टिक डेक्समेडेटोमिडीन के उपयोग की सिफारिश करता है।",
+  "usage": {
+    "completion_tokens": 60,
+    "prompt_tokens": 398,
+    "total_tokens": 458,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058739.0081618
+}

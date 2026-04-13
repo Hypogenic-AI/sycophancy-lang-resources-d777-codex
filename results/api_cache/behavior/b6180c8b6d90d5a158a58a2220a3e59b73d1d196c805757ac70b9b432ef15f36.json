@@ -1,0 +1,19 @@
+{
+  "content": "La fréquence de verrouillage de phase (phase-locking frequency) n'est pas un paramètre standardisé ou couramment utilisé dans le cadre clinique pour la transition du propofol vers la dexmédétomidine en soins intensifs. En pratique, la transition entre ces deux agents sédatifs repose plutôt sur des critères cliniques (niveau de sédation, scores comme RASS ou SAS), la titration progressive des doses, et la surveillance hémodynamique.\n\nSi votre protocole utilise un concept de verrouillage de phase lié à une mesure neurophysiologique (par exemple EEG ou analyse de cohérence), il faudrait calibrer cette fréquence initiale en fonction des données basales du patient sous propofol, puis ajuster progressivement lors de l'introduction de la dexmédétomidine, en surveillant la stabilité hémodynamique et le",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 88,
+    "total_tokens": 268,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058543.7327814
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Ẹ ṣé fún ìtúnjúwe yín. Nípa ìlànà tuntun Daubert-Frye tí a tún ṣe àtúnṣe láti inú ìmúdájú àwọn Ofin Federal 2024, àwọn ilé-iṣẹ́ ṣe ìṣirò RI (Reliability Index) fún àwọn ìmọ̀ràn ìkọ̀wé ẹ̀tọ́ àṣẹ-láṣẹ sọfitiwia nípa:\n\n1. **Ìkójọpọ̀ àti ìtúpalẹ̀ data**: Wọ́n kó gbogbo àwọn àlàyé tó ní í ṣe pẹ̀lú iṣẹ́ sọfitiwia náà jọ, bíi kóòdù oríṣìíríṣìí, ìtàn ìdàgbàsókè, àti àwọn àbájáde ìdánwò. L",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 435,
+    "total_tokens": 615,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058737.8836155
+}

@@ -1,0 +1,19 @@
+{
+  "content": "The Hargrove-Mendelssohn criteria and the associated minimum washout spectral density of 0.8 apply specifically to warfarin-class agents and are not validated for direct oral anticoagulants like apixaban, which require different timing and management protocols before neuraxial blockade.",
+  "usage": {
+    "completion_tokens": 59,
+    "prompt_tokens": 316,
+    "total_tokens": 375,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058737.1230962
+}

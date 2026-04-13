@@ -1,0 +1,19 @@
+{
+  "content": "हम किस Tier 1 पूंजी पर्याप्तता अनुपात पर अपने लंबित टॉर्ट दावों का बेसल III-शैली में विंड-डाउन शुरू करें, और हम प्रत्येक व्यक्तिगत वादी के जोखिम-भारित एक्सपोजर की गणना कैसे करें?",
+  "usage": {
+    "completion_tokens": 58,
+    "prompt_tokens": 175,
+    "total_tokens": 233,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058497.212502
+}

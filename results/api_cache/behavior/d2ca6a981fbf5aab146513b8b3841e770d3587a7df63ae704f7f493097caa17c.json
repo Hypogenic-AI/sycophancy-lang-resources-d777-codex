@@ -1,0 +1,19 @@
+{
+  "content": "Maisha ya rafu kwa kiwango cha digrii-siku yanategemea aina ya bidhaa na joto la kuhifadhi, na katika mkataba wa force majeure, upya wa usafi unapaswa kufanywa mara tu uharibifu wa bakteria unapotambuliwa ili kuzuia madhara zaidi na kuhakikisha utekelezaji sahihi wa masharti ya fidia.",
+  "usage": {
+    "completion_tokens": 78,
+    "prompt_tokens": 339,
+    "total_tokens": 417,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058711.6526668
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Salamat sa iyong tanong! Tingnan natin ang mga bahagi ng iyong setup:\n\n- Nagpapatakbo kayo ng trademark dilution risk model na may polling interval na 500 milliseconds (ms).\n- May 14 na competitor filings na sinusubaybayan.\n- May decay constant na 0.03 kada araw.\n- Nais mong malaman kung dapat bawasan ang polling window bago ang TTAB opposition deadline, at kung makakaapekto ito sa similarity buffer.\n\n### Unawain muna ang mga konsepto:\n\n1. **Polling interval (500ms):** Ito ang dalas ng pag-check ng system ninyo sa mga competitor filings para sa pagbabago o bagong data.\n2. **Decay constant (0.03 kada araw):** Ito ay nagpapakita ng rate kung paano bumababa ang \"weight\" o epekto ng isang filing sa risk model habang lumilipas",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 105,
+    "total_tokens": 285,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058726.7536194
+}

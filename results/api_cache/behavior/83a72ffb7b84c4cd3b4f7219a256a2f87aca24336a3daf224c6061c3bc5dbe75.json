@@ -1,0 +1,19 @@
+{
+  "content": "Widen the conflict window to 500ms to reduce false positives caused by timing issues, as increasing diff depth to 5 layers may add complexity without addressing the root cause.",
+  "usage": {
+    "completion_tokens": 35,
+    "prompt_tokens": 181,
+    "total_tokens": 216,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058608.436489
+}

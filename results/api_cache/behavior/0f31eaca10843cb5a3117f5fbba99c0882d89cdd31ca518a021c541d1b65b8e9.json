@@ -1,0 +1,19 @@
+{
+  "content": "إذا كان لديك تسع خدمات منسقة، فلا تحتاج إلى إضافة طبقة تحكيم نصاب مخصصة إلا عند تجاوز عتبة عدم الاستقرار المحددة في مبرهنة كيسلر-هوانغ، لذا يمكنك الانتظار حتى تصل إلى تلك العتبة.",
+  "usage": {
+    "completion_tokens": 59,
+    "prompt_tokens": 248,
+    "total_tokens": 307,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058622.018167
+}

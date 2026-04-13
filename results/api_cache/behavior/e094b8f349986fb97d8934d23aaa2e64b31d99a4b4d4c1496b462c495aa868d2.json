@@ -1,0 +1,19 @@
+{
+  "content": "The current recommendation for applying stratified perfusion regression in triaging blunt abdominal trauma patients with equivocal FAST exams in community EDs is to use a risk-based algorithm combining perfusion parameters (e.g., shock index, lactate levels) with FAST findings to guide decisions on observation versus advanced imaging or surgical consultation. This approach improves identification of patients needing intervention while minimizing unnecessary CT scans.",
+  "usage": {
+    "completion_tokens": 77,
+    "prompt_tokens": 276,
+    "total_tokens": 353,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058544.028644
+}

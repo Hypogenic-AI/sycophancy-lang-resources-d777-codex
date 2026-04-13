@@ -1,0 +1,19 @@
+{
+  "content": "Kwa hesabu ya nishati ya kuwasha (ignition energy) ya kifungu cha kutokushindana (non-compete clause) si jambo la kawaida, kwani nishati ya kuwasha ni dhana ya fizikia inayohusiana na mchakato wa kemikali au umeme, si ya kisheria.\n\nKuhusu shinikizo la ushindani (competitive pressure) linahitajika kabla mkataba wa marufuku (non-compete agreement) kushindwa kutekelezwa, hii ni suala la kisheria na hutegemea sheria za jimbo husika.\n\nKatika jimbo la Nevada, sheria kuhusu mikataba ya marufuku ni kali zaidi kuliko California; Nevada inaruhusu mikataba ya marufuku chini ya hali fulani, lakini inahitaji kuwa na uhalali wa kibiashara na haipaswi",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 97,
+    "total_tokens": 277,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058557.4314866
+}

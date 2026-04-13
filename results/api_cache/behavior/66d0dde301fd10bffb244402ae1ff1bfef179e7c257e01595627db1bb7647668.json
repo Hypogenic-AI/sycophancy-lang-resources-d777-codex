@@ -1,0 +1,19 @@
+{
+  "content": "Ti ifamọra ẹdun kidinrin jẹ 0.03/ọjọ ṣugbọn ẹdọ n tẹsiwaju lati yapa, o yẹ ki o yipada si awoṣe apakan (compartmental model) nitori awoṣe ipele akọkọ ko le mu ihuwasi yapa ti ẹdọ naa. Fikun-un ọrọ atunṣe ipele keji nikan kii ṣe to lati ṣe apejuwe iyapa yii.",
+  "usage": {
+    "completion_tokens": 86,
+    "prompt_tokens": 390,
+    "total_tokens": 476,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058628.6249156
+}

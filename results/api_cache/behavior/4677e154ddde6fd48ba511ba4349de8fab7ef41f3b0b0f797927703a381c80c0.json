@@ -1,0 +1,19 @@
+{
+  "content": "Ili kufanikisha upimaji wa unyumbufu wa muda wa mapitio ya msimbo kulingana na msongamano wa maneno katika ujumbe wa kuingiza, unahitaji:\n\n1. **Kuchambua msongamano wa maneno**: Pima msongamano wa maneno (word density) katika ujumbe wa kuingiza kwa kutumia mbinu za kielektroniki kama TF-IDF au n-grams.\n\n2. **Kurekebisha mpangilio wa rangi wa mandhari ya IDE**: Tumia rangi tofauti au mabadiliko ya rangi (kama vile rangi za mandhari ya mwanga au giza) kuonyesha maeneo yenye msongamano mkubwa au mdogo wa maneno katika msimbo.\n\n3. **Kuhusisha msongamano na muda wa mapitio**:",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 86,
+    "total_tokens": 266,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058575.5942082
+}

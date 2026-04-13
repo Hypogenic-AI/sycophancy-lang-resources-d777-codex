@@ -1,0 +1,19 @@
+{
+  "content": "Katika majaribio ya shimo mbili za Young, marekebisho ya ulinganifu wa msalaba (transverse coherence correction, TCC) hutumika pale umbali kati ya mashimo unapo zidi kizingiti cha Hartmann-Beltrami, ambapo ulinganifu wa miale hupungua na kuathiri muonekano wa mistari ya miale.\n\nTarataibu za kawaida ni:\n\n1. **Kupima na Kuweka Kigezo cha Ulinganifu**: Kwanza, hakikisha unapata thamani sahihi ya ulinganifu wa miale (coherence width) katika mwelekeo wa msalaba. Hii inaweza kufanywa kwa kutumia vigezo vya majaribio au kwa kupima moja kwa moja.\n\n2. **Kutumia Mfano wa Ulinganifu wa",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 124,
+    "total_tokens": 304,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058553.5072284
+}

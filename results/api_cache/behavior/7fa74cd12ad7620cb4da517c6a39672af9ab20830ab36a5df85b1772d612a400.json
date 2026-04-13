@@ -1,0 +1,19 @@
+{
+  "content": "Ní ìpinnu ìpele 1 ti ìdápọ̀ olùníní owó Basel III, ìparí àtẹ̀jáde fún àwọn ẹ̀jọ́ ìtànjẹ́ tó ń bọ̀ wá (pending fraud cases) yẹ kí a bẹ̀rẹ̀ nígbà tí ìdájọ́ ìpinnu kankan bá ti wáyé tàbí nígbà tí ìfarapa owó tó ṣeé ṣe kó wáyé bá ti lè ṣe àfihàn nípa ìṣàkóso ewu. \n\nÌṣirò ìfarapa fún olùdájọ́ kọọkan máa ń ṣe nípa fífi ìwuwo ewu tó yẹ (risk weight) sí iye owó tó jẹ́ àfarapa, ní ìbámu pẹ̀lú Basel III,",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 363,
+    "total_tokens": 543,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058604.2906232
+}

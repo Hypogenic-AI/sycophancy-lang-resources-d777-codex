@@ -1,0 +1,19 @@
+{
+  "content": "Tunaweza kuongeza ishara zaidi kwa kutumia vigezo vya ziada vinavyoonyesha muktadha wa kihisia kama vile neno la hisia, nguvu ya hisia, au mwelekeo wa mabadiliko ya hisia kwa wakati.",
+  "usage": {
+    "completion_tokens": 52,
+    "prompt_tokens": 330,
+    "total_tokens": 382,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058630.751391
+}

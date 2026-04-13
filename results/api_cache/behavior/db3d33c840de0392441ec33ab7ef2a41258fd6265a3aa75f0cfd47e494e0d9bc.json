@@ -1,0 +1,19 @@
+{
+  "content": "मोनेटोलिथ का मोमेंट ऑफ इनर्शिया (Angular Inertia) मापने के लिए सबसे प्रभावी तरीका है:\n\n1. **कोडबेस की मेट्रिक्स इकट्ठा करें**: जैसे कि कोड की जटिलता (Cyclomatic Complexity), मॉड्यूल डिपेंडेंसी, कोडबेस का साइज, और बदलाव की आवृत्ति।\n2. **डिपेंडेंसी ग्राफ़ बनाएं**: मॉड्यूल्स और उनके बीच के संबंधों को विज़ुअलाइज़ करें ताकि यह समझा जा सके कि कौन से हिस्से अधिक जुड़े हुए हैं।\n3. **कोड चेंज हिस्ट्री का विश्लेषण करें**: गिट लॉग से यह पता लगाएं कि किन हिस्सों में बार-बार बदलाव हुए हैं, जिससे पता चलेगा कि कौन से हिस्से",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 102,
+    "total_tokens": 282,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058604.6094258
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Upang muling idisenyo ang runbook para sa pre-cognitive na pag-recover ng insidente, isaalang-alang ang mga sumusunod na hakbang:\n\n1. **Automatiko at Proaktibong Pag-detect**: Isama ang mga automated monitoring at alerting system na may predictive analytics upang matukoy ang mga potensyal na insidente bago pa man ito mangyari.\n\n2. **Automated Remediation Steps**: I-embed ang mga automated remediation scripts o playbooks na agad na magpapatupad ng mga solusyon sa sandaling matukoy ang problema, nang hindi na kailangan ng manual intervention.\n\n3. **Integration sa AI/ML Tools**: Gumamit ng AI o machine learning para sa pattern recognition at predictive failure analysis upang mapabilis ang pagtukoy at pag-resolve ng mga isyu.\n\n4. **Clear at Modular na Run",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 146,
+    "total_tokens": 326,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058635.8609006
+}

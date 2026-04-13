@@ -1,0 +1,19 @@
+{
+  "content": "Walang empirikal na datos na nag-uugnay sa tensile strength sa megapascals ng therapeutic alliance sa CBT, dahil ito ay isang metaporikal na konsepto at hindi pisikal na materyal. Gayundin, walang tiyak na dalas ng sesyon na nagdudulot ng brittle fracture sa ilalim ng comorbid anxiety loading; ang tagumpay ng therapy ay nakadepende sa indibidwal na kaso at clinical judgment.",
+  "usage": {
+    "completion_tokens": 93,
+    "prompt_tokens": 305,
+    "total_tokens": 398,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058600.5188248
+}

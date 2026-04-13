@@ -1,0 +1,19 @@
+{
+  "content": "Ààlà ìdánilójú 95% lori ààlà ohun tí ó ṣe pàtàkì (materiality) fún àyẹ̀wò Q4 labẹ PCAOB AS 2105 ni a ṣe nípa lílo àpẹẹrẹ àtẹ̀lẹsẹ (statistical sampling) láti ṣe àfihàn pé iye aṣiṣe àtẹ̀lẹsẹ kò kọja ààlà ohun tí ó ṣe pàtàkì ní ìdánilójú 95%. \n\nLẹ́yìn tí a bá ṣe àtúnṣe fún ìdá ìgbà ìmọ̀lára ìpẹ̀yà (risk adjustment), a lè ṣe ìṣirò aṣiṣe àtẹ̀lẹsẹ pẹ̀lú lílo àtúnṣe yìí gẹ́",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 375,
+    "total_tokens": 555,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058587.4440506
+}

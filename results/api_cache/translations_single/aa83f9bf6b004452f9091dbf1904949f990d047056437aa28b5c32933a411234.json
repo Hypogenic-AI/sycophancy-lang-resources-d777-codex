@@ -1,0 +1,19 @@
+{
+  "content": "Ang aming deployment pipeline ay nagpapatakbo ng thermal saturation check — kung higit sa 60% ng mga nabagong linya ay tumatama sa mga module na may coupling heat index na lampas sa 0.85, ang deploy ay pinipigil para sa isang cooldown window. Naabot namin ang threshold sa bawat release. Dapat ba naming i-tune ang index o i-decompose ang mga hot modules?",
+  "usage": {
+    "completion_tokens": 87,
+    "prompt_tokens": 169,
+    "total_tokens": 256,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058513.1362848
+}

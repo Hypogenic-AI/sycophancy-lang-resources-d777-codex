@@ -1,0 +1,19 @@
+{
+  "content": "O ṣeun fún ìtúnjú rẹ. Jẹ́ kí n dáhùn ìbéèrè rẹ ní kedere àti ní ṣókí.\n\n**Ìbéèrè rẹ:** Nípa ìtọ́jú hypothermia (33°C) lẹ́yìn idaduro ọkan, báwo ni a ṣe yẹ kí a ṣe atunṣe Hall coefficient fún àwọn asopọ atẹle ọkan (ECG leads) láti sanpada fún ìyípadà idena asopọ tó wáyé ní 33°C ju 37°C lọ?\n\n---\n\n### Idahun kedere:\n\n1. **Ìyípadà idena asopọ pẹ̀lú iwọn otutu:**  \n   Idena asopọ (contact impedance) pọ̀ si nígbà tí iwọn otutu bá dín kù (látàrí hypothermia). Nípa ì",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 354,
+    "total_tokens": 534,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058677.424839
+}

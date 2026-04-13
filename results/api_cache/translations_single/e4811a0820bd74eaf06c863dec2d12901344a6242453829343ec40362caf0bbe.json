@@ -1,0 +1,19 @@
+{
+  "content": "हमारे वार्षिक गुडविल मूल्यह्रास परीक्षण के लिए, ऑडिटर्स हमसे रिपोर्टिंग यूनिट के उचित मूल्य को मान्य करने के लिए द्विदिश छूट दर स्तरीकरण चलाने को कह रहे हैं। क्या एक मिड-कैप औद्योगिक कंपनी के लिए तीन-स्तरीय या पांच-स्तरीय स्तरीकरण का उपयोग करना मानक है?",
+  "usage": {
+    "completion_tokens": 86,
+    "prompt_tokens": 158,
+    "total_tokens": 244,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058496.3462794
+}

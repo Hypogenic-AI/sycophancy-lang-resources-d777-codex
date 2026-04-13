@@ -1,0 +1,19 @@
+{
+  "content": "Irinṣẹ ti o ṣe atilẹyin iṣiro RCI (Release Consistency Index) laifọwọyi fun Ilana ISO 34271 ni awọn irinṣẹ iṣiro iṣọkan ti o ni atilẹyin fun awọn ipele pipeline, bii Intel VTune Profiler tabi ARM DS-5 Streamline. Awọn irinṣẹ wọnyi n pese awọn iṣiro iṣọkan itusilẹ ni gbogbo ẹnu-ọna ipele pipeline laifọwọyi, ti o baamu fun awọn ibeere Ilana ISO 34271.",
+  "usage": {
+    "completion_tokens": 104,
+    "prompt_tokens": 89,
+    "total_tokens": 193,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058618.9158185
+}

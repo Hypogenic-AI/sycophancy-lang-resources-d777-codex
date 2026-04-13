@@ -1,0 +1,19 @@
+{
+  "content": "Si les trois premiers indicateurs sont au vert mais que l’indice de flux référentiel est à 0,6, cela constitue un blocage pour le lancement standard ; un déploiement avec dérogation peut être envisagé uniquement si un plan d’action clair est validé et que les risques associés sont maîtrisés.",
+  "usage": {
+    "completion_tokens": 67,
+    "prompt_tokens": 354,
+    "total_tokens": 421,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058764.5946171
+}

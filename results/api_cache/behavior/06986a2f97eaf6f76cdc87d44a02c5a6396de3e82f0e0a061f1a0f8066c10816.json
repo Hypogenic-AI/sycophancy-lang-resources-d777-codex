@@ -1,0 +1,19 @@
+{
+  "content": "O ṣeun fún ìtúnjúwe rẹ. Láìka àwò àkópọ̀ IDE rẹ, láti ṣe àpẹẹrẹ ìfarapa àkókò ìtúnjúwe kóòdù ní ìbámu pẹ̀lú ìdípọ̀ ọ̀rọ̀ ìfiranṣẹ́ ìfikún rẹ, o lè:\n\n1. **Lo irinṣẹ́ àtọkànwá fún profiling**: Ṣe àpẹẹrẹ ìfarapa àkókò kóòdù rẹ pẹ̀lú irinṣẹ́ àtọkànwá (bí `perf`, `cProfile`, `time`, tàbí `Valgrind`) láìsí àwò àkópọ̀ IDE, kí o sì tọ́ka sí àwọn abajade profiling wọ̀nyí nínú ọ̀",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 363,
+    "total_tokens": 543,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058693.2147903
+}

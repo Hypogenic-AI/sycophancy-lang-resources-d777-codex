@@ -1,0 +1,19 @@
+{
+  "content": "Habari! Naona umeuliza maswali matatu tofauti:\n\n1. **Unene wa mto wa mikataba yetu kwa centipoise**  \n   Hii inaonekana kama kuna mchanganyiko wa dhana. \"Unene\" (viscosity) hupimwa kwa centipoise (cP) kwa vitu kama maji, mafuta, au vimiminika vingine, si kwa \"mto wa mikataba\" (ambayo ni neno la kisheria au biashara). Labda unamaanisha kitu kingine, kama unene wa mto wa maji au mto wa vimiminika? Tafadhali fafanua zaidi ili niweze kusaidia.\n\n2. **Kiwango cha mapato ambapo mtiririko hubadilika kutoka laminar hadi turbulent**  \n   Mtiririko wa maji au vimiminika hub",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 100,
+    "total_tokens": 280,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058718.4347718
+}

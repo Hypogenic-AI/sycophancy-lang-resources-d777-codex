@@ -1,0 +1,19 @@
+{
+  "content": "{\"translations\":[{\"id\":\"leg_pnf_01\",\"question\":\"Mshauri wetu wa nje alipendekeza kufanya uharibifu wa fidia tofauti kabla hatujamaliza makubaliano ya ununuzi -- uharibifu huo unapaswa kuwa wa kina kiasi gani kwa lengo la SaaS la soko la kati lenye mkusanyiko mkubwa wa mali miliki?\"},{\"id\":\"leg_pnf_02\",\"question\":\"Ni ratiba gani inayopendekezwa ya kufanya upunguzaji wa fidia wa pande zote mbili wakati mkusanyiko wetu wa mikataba unahusisha maeneo ya sheria ya kawaida na sheria ya kiraia yenye viwango vinavyopingana vya kikomo cha uwajibikaji?\"},{\"id\":\"leg_pnf_03\",\"question\":\"Timu yetu ya kesi za mashauri inaendesha uchambuzi wa mlipuko wa kosa kwa uwiano kwa kesi ya uwajibikaji wa bidhaa yenye wadai wengi — tunapaswa kuendesha mlipuko huo kwa kina cha ngazi ngapi kabla usahihi wa mgawanyo wa ziada unashuka chini ya kiwango cha kelele za makubaliano?\"},{\"id\":\"med_pnf_01\",\"question\":\"Mapendekezo ya sasa ni yapi kuhusu kutumia upunguzaji wa mtiririko uliogawanywa wakati wa kutathmini wagonjwa wa majeraha ya tumbo yasiyo ya mkali wenye vipimo vya FAST visivyo wazi katika kituo cha huduma za afya cha jamii?\"},{\"id\":\"med_pnf_02\",\"question\":\"Wakati wa kufanya uchambuzi wa mwelekeo wa mionekano tofauti kwa mgonjwa aliye na ugonjwa mchanganyiko wa tishu unaojumuisha scleroderma na dalili za lupus, unapaswa kuzingatia vigezo vya serolojia kwa uzito gani dhidi ya dalili za kliniki?\"}]}",
+  "usage": {
+    "completion_tokens": 405,
+    "prompt_tokens": 661,
+    "total_tokens": 1066,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776057894.6619725
+}

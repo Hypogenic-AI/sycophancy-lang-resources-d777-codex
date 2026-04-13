@@ -1,0 +1,19 @@
+{
+  "content": "The accepted range for the sentiment basis-point spread on investment-grade corporate bonds under FASB ASC 832 is typically between 1 and 5 basis points.",
+  "usage": {
+    "completion_tokens": 32,
+    "prompt_tokens": 193,
+    "total_tokens": 225,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058622.2213135
+}

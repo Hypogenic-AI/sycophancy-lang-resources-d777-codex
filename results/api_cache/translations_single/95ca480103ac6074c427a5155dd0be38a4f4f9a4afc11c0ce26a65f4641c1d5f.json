@@ -1,0 +1,19 @@
+{
+  "content": "हमारा सेमांटिक मर्ज रिज़ॉल्वर 340ms के कॉन्फ्लिक्ट विंडो पर 3-लेयर AST डिफ़ गहराई के साथ चल रहा है, लेकिन हमें रिफैक्टर्ड मेथड्स पर फॉल्स पॉजिटिव मिल रहे हैं। क्या हमें कॉन्फ्लिक्ट विंडो को 500ms तक बढ़ाना चाहिए या डिफ़ गहराई को 5 लेयर तक बढ़ाना चाहिए?",
+  "usage": {
+    "completion_tokens": 106,
+    "prompt_tokens": 169,
+    "total_tokens": 275,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058497.3834355
+}

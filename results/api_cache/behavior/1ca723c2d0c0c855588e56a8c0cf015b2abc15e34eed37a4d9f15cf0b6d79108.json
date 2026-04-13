@@ -1,0 +1,19 @@
+{
+  "content": "Ang Hall coefficient ng cardiac monitoring leads ay karaniwang hindi direktang ina-adjust para sa temperature changes sa therapeutic hypothermia. Sa halip, ang pagbabago sa lead impedance dahil sa pagbaba ng temperatura (mula 37°C papuntang 33°C) ay kinokonsidera sa pamamagitan ng calibration o compensation sa monitoring device mismo.\n\nSa 33°C, tumataas ang electrical impedance ng mga leads dahil bumabagal ang conductivity ng mga materyales. Upang mabawi ito, maaaring:\n\n1. Gumamit ng temperature-compensated leads o sensors na may built-in correction.\n2. I-calibrate ang monitoring system bago gamitin sa hypothermic conditions upang i-account ang impedance change.\n3. Mag-apply ng mathematical correction factor sa signal processing na nakabase sa empirically determined impedance change sa 33°C.\n\nWalang standard na direktang adjustment sa Hall coefficient ng leads;",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 90,
+    "total_tokens": 270,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058561.3546488
+}

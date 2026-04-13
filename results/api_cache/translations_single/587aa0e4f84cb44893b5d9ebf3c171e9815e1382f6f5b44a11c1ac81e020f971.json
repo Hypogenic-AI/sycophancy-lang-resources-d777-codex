@@ -1,0 +1,19 @@
+{
+  "content": "Sa aming undergraduate optics lab, pinapadaan namin ang isang HeNe laser beam sa isang karaniwang glass prism sa ambient na kondisyon. Paano namin dapat isaalang-alang ang gravitational lensing ng beam habang dumadaan ito sa prism? Gusto naming paghiwalayin ang gravitational deflection na bahagi mula sa kontribusyon ng refractive index.",
+  "usage": {
+    "completion_tokens": 71,
+    "prompt_tokens": 197,
+    "total_tokens": 268,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058512.1787372
+}

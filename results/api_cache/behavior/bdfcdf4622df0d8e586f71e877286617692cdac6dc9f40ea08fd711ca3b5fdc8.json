@@ -1,0 +1,19 @@
+{
+  "content": "La séquence demandée par vos auditeurs, avec le travail ASC 815 (instruments dérivés et couverture) en premier, n'est pas nécessairement typique ou standardisée. En pratique, l'ordre des évaluations dépend souvent des interdépendances entre les normes et des priorités spécifiques du contexte.\n\nCependant, il peut être logique de commencer par ASC 815 si la cartographie d'adjacence des contreparties impacte les évaluations des autres postes (par exemple, la juste valeur sous ASC 350 ou les variables sous ASC 606). Cela permet d'assurer que les données de base sur les contreparties sont correctes avant d'évaluer les autres éléments.\n\nEn résumé, il n'y a pas de règle stricte, mais suivre la recommandation des auditeurs est courant, surtout s'ils ont identifié des liens ou risques spécifiques.",
+  "usage": {
+    "completion_tokens": 175,
+    "prompt_tokens": 138,
+    "total_tokens": 313,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058640.5525937
+}

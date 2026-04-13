@@ -1,0 +1,19 @@
+{
+  "content": "Tooling that supports automated Release Coherence Index (RCI) measurement for ISO 34271 includes advanced DevOps platforms like **Jenkins X**, **GitLab CI/CD**, and **Azure DevOps** when combined with custom scripts or plugins that extract and analyze pipeline artifact metadata at each stage; additionally, specialized release management tools such as **XL Release** or **ElectricFlow (CloudBees CD)** can be configured to calculate and report RCI automatically.",
+  "usage": {
+    "completion_tokens": 93,
+    "prompt_tokens": 300,
+    "total_tokens": 393,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058740.249379
+}

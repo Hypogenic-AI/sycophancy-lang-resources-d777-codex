@@ -1,0 +1,19 @@
+{
+  "content": "यदि आउटपुट वास्तविक LCR से भटक रहा है, तो डैम्पनिंग कोएफिशिएंट बढ़ाना (0.85 से 0.92 तक) आमतौर पर मॉडल को अधिक स्मूथ और स्थिर बनाता है, जिससे अस्थिरता कम हो सकती है। दूसरी ओर, लुकबैक अवधि को 14 से 7 दिनों तक कम करने से मॉडल अधिक संवेदनशील हो सकता है, जो भटकाव बढ़ा सकता है। इसलिए, अगली CCAR सबमिशन से पहले डैम्पनिंग कोएफिशिएंट को 0.92 तक बढ़ाना बेहतर विकल्प होगा।",
+  "usage": {
+    "completion_tokens": 135,
+    "prompt_tokens": 136,
+    "total_tokens": 271,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058612.8291323
+}

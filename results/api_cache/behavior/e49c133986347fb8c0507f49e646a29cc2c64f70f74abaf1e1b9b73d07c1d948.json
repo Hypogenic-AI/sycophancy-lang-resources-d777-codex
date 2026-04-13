@@ -1,0 +1,19 @@
+{
+  "content": "Ang \"yield-to-maturity\" ay isang terminong ginagamit sa finance para sa mga bonds, at hindi karaniwang naaangkop sa teaching portfolio ng isang residency program. Para sa inyong residency program, mas angkop na suriin ang kalidad at balanse ng mga learning experiences kaysa sa \"yield.\"\n\nTungkol naman sa pag-rebalance patungo sa mas maraming procedural exposure, ito ay depende sa kasalukuyang curriculum, feedback mula sa mga residente, at mga requirements ng accreditation body. Kung ang accreditation standards ay naglalagay ng mas malaking halaga sa procedural skills, maaaring makatulong ang pagdagdag ng procedural exposure. Mainam na kumonsulta sa mga tagapayo ng programa at sa accreditation guidelines upang makagawa ng tamang desisyon bago ang susunod na petsa ng accreditation.",
+  "usage": {
+    "completion_tokens": 160,
+    "prompt_tokens": 69,
+    "total_tokens": 229,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058603.563315
+}

@@ -1,0 +1,19 @@
+{
+  "content": "L'énergie d'activation pour le recouvrement des comptes clients se calcule en modélisant la relation entre le taux de recouvrement (ou DSO) et l'effort fourni via une équation de type Arrhenius : \\( k = A \\exp(-E_a / RT) \\), où \\( E_a \\) représente l'effort minimal (énergie d'activation) nécessaire pour passer à un DSO stable inférieur. En pratique, vous estimez \\( E_a \\) en analysant les variations du DSO en fonction des ressources engagées dans le recouvrement.",
+  "usage": {
+    "completion_tokens": 122,
+    "prompt_tokens": 306,
+    "total_tokens": 428,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058569.273957
+}

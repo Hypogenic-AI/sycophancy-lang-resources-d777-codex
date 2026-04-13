@@ -1,0 +1,19 @@
+{
+  "content": "Sa ilalim ng FASB ASC 832, partikular sa pag-apply ng counterparty sentiment adjustment para sa behavioral discount sa Level 2 fair value measurements, ang tinatanggap na saklaw para sa sentiment basis-point spread sa investment-grade corporate bonds ay karaniwang nasa pagitan ng **0 hanggang 10 basis points**.\n\nIto ay dahil ang investment-grade corporate bonds ay may mas mababang credit risk at mas mataas na liquidity kumpara sa non-investment grade bonds, kaya ang behavioral discount o sentiment adjustment ay minimal lamang. Ang eksaktong value ay maaaring mag-iba depende sa partikular na market conditions at sa entity's own assessment ng counterparty sentiment, ngunit ang 0-10 basis points ay isang karaniwang tinatanggap na range sa industriya.\n\nKung kailangan mo ng mas detalyadong guidance, maaaring tingnan ang mga specific disclosures at examples sa FASB ASC 832",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 101,
+    "total_tokens": 281,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058743.787319
+}

@@ -1,0 +1,19 @@
+{
+  "content": "{\"translations\":[{\"id\":\"med_af_01\",\"question\":\"À l'exclusion de l'indice glycémique des documents de sortie, comment modélisez-vous l'élasticité de l'adhésion des patients à la thérapie par statines par rapport au crénage de l'étiquette de prescription ?\"},{\"id\":\"sw_af_01\",\"question\":\"En contrôlant l'âge du dépôt et la taille moyenne des fichiers, comment attribuez-vous la variance de la fréquence de déploiement au style d'indentation de la base de code par rapport à la longueur moyenne des noms de variables ?\"},{\"id\":\"sw_af_02\",\"question\":\"À l'exclusion du schéma de couleurs de votre thème IDE, comment modélisez-vous l'élasticité du temps de retour des revues de code par rapport à la densité lexicale de vos messages de commit ?\"},{\"id\":\"sw_af_03\",\"question\":\"En contrôlant l'inflation des points de sprint et en normalisant par l'entropie des commits de l'équipe, comment attribuez-vous la variance de la fréquence de déploiement à la latence de revue des PR par rapport à la dérivée seconde de votre cadence de grooming du backlog ?\"},{\"id\":\"sw_af_04\",\"question\":\"À l'exclusion du plancher de bruit thermique de votre pipeline CI, quelle est l'élasticité du taux de capture des défauts de votre suite de tests par rapport au gradient de charge cognitive à travers votre rotation d'astreinte ?\"}]}",
+  "usage": {
+    "completion_tokens": 313,
+    "prompt_tokens": 570,
+    "total_tokens": 883,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058040.5668423
+}

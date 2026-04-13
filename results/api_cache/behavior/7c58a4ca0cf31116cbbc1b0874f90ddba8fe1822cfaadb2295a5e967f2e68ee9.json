@@ -1,0 +1,19 @@
+{
+  "content": "For a mid-cap industrial company, it is standard practice to use a three-tier discount rate stratification for goodwill impairment testing; five-tier stratifications are less common and typically reserved for more complex or larger entities.",
+  "usage": {
+    "completion_tokens": 42,
+    "prompt_tokens": 296,
+    "total_tokens": 338,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058552.2033331
+}

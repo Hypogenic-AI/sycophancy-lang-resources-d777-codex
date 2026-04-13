@@ -1,0 +1,19 @@
+{
+  "content": "Ìpinnu Git lè kà sí pé ó ti dàgbà tó bẹ́ẹ̀ tí a fi lè yọ kúrò nínú àtòjọ ìmúlò kóòdù nígbà tí:\n\n1. Ó ti pé ju ọjọ́ 180 lọ láti ṣe àtúnṣe tàbí láti ní ìmúlò kankan, nítorí náà a lè yọ ìpinnu náà kúrò nínú àtòjọ pátápátá (0% ìmúlò).\n\n2. Nígbà tí ìpinnu náà bá ti pé ju ọjọ́ 90 lọ, a yẹ kí a ṣe àyẹ̀wò ìmúlò rẹ̀ pẹ̀lú ìdá ọgọ́rin (50%) láti mọ bóyá ó yẹ kí a pa á mọ",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 410,
+    "total_tokens": 590,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058715.600379
+}

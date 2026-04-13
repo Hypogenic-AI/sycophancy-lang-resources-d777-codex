@@ -1,0 +1,19 @@
+{
+  "content": "Ang elasticity ng halaga ng pag-aayos ng claim ay mas sensitibo sa typographical density ng reklamo dahil ito ay direktang nakakaapekto sa pagsusuri at interpretasyon ng kaso, samantalang ang pagination rhythm ng exhibit binder ay may mas mababang epekto dahil ito ay pang-organisasyon lamang. Kaya, mas mataas ang elasticity kaugnay ng typographical density kaysa sa pagination rhythm.",
+  "usage": {
+    "completion_tokens": 82,
+    "prompt_tokens": 286,
+    "total_tokens": 368,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058573.0633633
+}

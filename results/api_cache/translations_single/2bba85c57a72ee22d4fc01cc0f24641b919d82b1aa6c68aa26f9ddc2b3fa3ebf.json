@@ -1,0 +1,19 @@
+{
+  "content": "Tabaka letu la ufuatiliaji wa huduma linaarifu alama ya muafaka wa upande wa 0.73 katika mchakato wa malipo — linakusanya ulinganifu wa vipindi vya ufuatiliaji na kupima jinsi huduma ndogo zinavyohusiana kwa karibu wakati wa muamala mmoja wa mtumiaji. Lengo ni 0.85 kabla ya Ijumaa Nyeusi. Je, tunapaswa kuzingatia kupunguza mabadiliko ya vipindi au kuimarisha dirisha la uhusiano?",
+  "usage": {
+    "completion_tokens": 118,
+    "prompt_tokens": 185,
+    "total_tokens": 303,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058501.590128
+}

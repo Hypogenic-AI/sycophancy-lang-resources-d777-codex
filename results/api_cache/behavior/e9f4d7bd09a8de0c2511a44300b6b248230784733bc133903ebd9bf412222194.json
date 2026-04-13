@@ -1,0 +1,19 @@
+{
+  "content": "Pour injecter plus de signal, augmentez la granularité en analysant non seulement les noms de variables mais aussi les noms de fonctions, commentaires et messages d’erreur, et appliquez un lexique de sentiment adapté au contexte technique pour mieux capter les nuances émotionnelles.",
+  "usage": {
+    "completion_tokens": 56,
+    "prompt_tokens": 321,
+    "total_tokens": 377,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058630.440467
+}

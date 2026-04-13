@@ -1,0 +1,19 @@
+{
+  "content": "Sinusukat ang coefficient ng static friction sa migration sa pamamagitan ng pag-quantify ng initial resistance factors tulad ng compatibility issues, data mapping complexity, at latency sa pagitan ng SOAP at GraphQL, gamit ang metrics gaya ng error rates at response times bago ang migration; ito ang nagsisilbing \"migration force\" na kailangan upang simulan ang paglipat.",
+  "usage": {
+    "completion_tokens": 73,
+    "prompt_tokens": 308,
+    "total_tokens": 381,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058563.9499557
+}

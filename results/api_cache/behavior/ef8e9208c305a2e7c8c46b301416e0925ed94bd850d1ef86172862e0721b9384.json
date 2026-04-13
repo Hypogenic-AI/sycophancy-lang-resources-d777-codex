@@ -1,0 +1,19 @@
+{
+  "content": "Pour calculer la fréquence de battement entre deux cycles de déploiement ayant des cadences différentes, vous procédez ainsi :\n\n1. **Définir les fréquences de déploiement**  \n   - Soit \\( f_1 = \\frac{1}{T_1} \\) la fréquence de déploiement du frontend (avec \\( T_1 \\) la période entre deux déploiements frontend).  \n   - Soit \\( f_2 = \\frac{1}{T_2} \\) la fréquence de déploiement du backend (avec \\( T_2 \\) la période entre deux déploiements backend).\n\n2. **Calculer la fréquence de battement**  \n   La fréquence de battement est la valeur absolue de la différence des fréquences :  \n   \\[\n   f_b = |f_1 - f_2|\n  ",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 94,
+    "total_tokens": 274,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058564.9505782
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Le temps moyen entre les pannes (MTBF) pour une clause d'arbitrage d'emploi standard est généralement estimé à 3 à 5 ans ; il est recommandé de planifier une révision et mise à jour du langage tous les 3 ans pour assurer conformité et efficacité.",
+  "usage": {
+    "completion_tokens": 59,
+    "prompt_tokens": 298,
+    "total_tokens": 357,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058583.8550951
+}

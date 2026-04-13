@@ -1,0 +1,19 @@
+{
+  "content": "हम ASC 326 के तहत अपना CECL मॉडल बना रहे हैं और प्रत्येक पूल के लिए हानि अनुमान विधियाँ चुननी हैं: वाणिज्यिक अचल संपत्ति के लिए डिफ़ॉल्ट की संभावना, ऑटो ऋणों के लिए विंटेज विश्लेषण, मॉर्गेज के लिए छूट प्राप्त नकदी प्रवाह, और असुरक्षित उपभोक्ता क्रेडिट के लिए काउंटरपार्टी फेज-स्पेस क्लस्टरिंग। किस पूल की विधि यथार्थ और समर्थनीय पूर्वानुमान अवधि के प्रति सबसे संवेदनशील है?",
+  "usage": {
+    "completion_tokens": 128,
+    "prompt_tokens": 198,
+    "total_tokens": 326,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058498.6090083
+}

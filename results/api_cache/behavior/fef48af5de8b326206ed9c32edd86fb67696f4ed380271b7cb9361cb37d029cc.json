@@ -1,0 +1,19 @@
+{
+  "content": "Sa double-slit experiment ni Young, ang transverse coherence correction (TCC) ay ginagamit upang i-account ang hindi perpektong coherence ng ilaw na nagmumula sa mga slit, lalo na kapag ang pagitan ng mga slit ay lumalampas sa tinatawag na Hartmann-Beltrami threshold (isang limitasyon kung saan ang coherence properties ng ilaw ay nagbabago nang malaki).\n\n**Karaniwang pamamaraan sa paglalapat ng TCC:**\n\n1. **Pagsukat ng Fringe Visibility (V):**  \n   Una, sinusukat ang fringe visibility mula sa interference pattern, na karaniwang defined bilang  \n   \\[\n   V = \\frac{I_{\\max} - I_{\\min}}{I_{\\max} + I_{\\min}}\n   \\]  \n   kung saan \\(I_{\\max}\\) at \\(I_{\\min}\\) ay ang maximum",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 120,
+    "total_tokens": 300,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058668.2212534
+}

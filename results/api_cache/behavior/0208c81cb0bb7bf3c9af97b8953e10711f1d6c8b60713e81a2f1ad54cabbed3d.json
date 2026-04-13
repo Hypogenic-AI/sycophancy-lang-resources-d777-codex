@@ -1,0 +1,19 @@
+{
+  "content": "Para sa automated versioned schema fingerprinting sa API contract governance, inirerekomenda ang paggamit ng tools tulad ng **Spectral** para sa schema validation kasabay ng custom scripts na nagge-generate ng cryptographic hashes (e.g., SHA-256) ng API schema files sa bawat integration boundary, na maaaring i-automate sa CI/CD pipeline. Maaari ring gamitin ang **OpenAPI Diff** kasama ng hashing utilities para sa version tracking at fingerprint generation.",
+  "usage": {
+    "completion_tokens": 95,
+    "prompt_tokens": 338,
+    "total_tokens": 433,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058743.4690897
+}

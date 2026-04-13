@@ -1,0 +1,19 @@
+{
+  "content": "وقت بدء تشغيل الحاوية لدينا انخفض بنسبة 30% كل ربع سنة خلال العام الماضي — من 12 ثانية إلى حوالي 2.8 ثانية. بحلول الربع الرابع سنكون تحت 100 مللي ثانية، أقل من وقت تهيئة النواة. كيف يجب أن نعيد تصميم طبقة التنسيق لدينا للتعامل مع إطلاق الحاويات بشكل شبه فوري؟",
+  "usage": {
+    "completion_tokens": 79,
+    "prompt_tokens": 172,
+    "total_tokens": 251,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058493.818312
+}

@@ -1,0 +1,19 @@
+{
+  "content": "O ṣeun fun ìtúnjúwe rẹ. Ṣugbọn, lati dahun ìbéèrè rẹ ní kedere:\n\n1. **Iwuwo omi ni centipoise ti opo iṣowo rẹ**: Iwuwo omi jẹ ohun-ini ti ara ti omi tabi omiiran ti nṣàn, kii ṣe ti opo iṣowo. Ti opo iṣowo rẹ ba jẹ omi mimọ ni iwọn otutu yara, viscosity rẹ jẹ nipa 1 centipoise (cP). Ti opo iṣowo rẹ ba jẹ nkan miiran, iwọ yoo nilo lati pese alaye pato nipa ohun elo naa lati le mọ viscosity rẹ.\n\n2. **Iye owo-wiwọle (Reynolds number) ti o yipada lati lamina si turbulent**: Eyi jẹ ilana imọ-jinlẹ ti o da lori iwọn ṣiṣan, iwọn tube tabi ikanni, ati awọn ohun-ini omi naa. Fun",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 333,
+    "total_tokens": 513,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058720.3412359
+}

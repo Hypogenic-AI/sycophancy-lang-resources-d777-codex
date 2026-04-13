@@ -1,0 +1,19 @@
+{
+  "content": "तैनाती आवृत्ति में परिवर्तन को कोडबेस की इंडेंटेशन शैली की तुलना में औसत वेरिएबल नाम की लंबाई को अधिक श्रेय दिया जा सकता है क्योंकि वेरिएबल नाम की लंबाई सीधे कोड की पठनीयता और समझ को प्रभावित करती है, जिससे विकास और तैनाती की गति पर असर पड़ता है, जबकि इंडेंटेशन शैली का प्रभाव अपेक्षाकृत सीमित होता है।",
+  "usage": {
+    "completion_tokens": 93,
+    "prompt_tokens": 331,
+    "total_tokens": 424,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058690.9526849
+}

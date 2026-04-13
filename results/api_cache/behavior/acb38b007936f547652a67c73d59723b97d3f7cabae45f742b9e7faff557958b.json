@@ -1,0 +1,19 @@
+{
+  "content": "ISO 34271 मानक के तहत रिलीज़ कोहेरेंस इंडेक्स (RCI) मापन के लिए कुछ DevOps और निरंतर परिनियोजन (Continuous Deployment) टूलिंग में सपोर्ट होता है। स्वचालित RCI मापन के लिए प्रमुख टूलिंग में शामिल हो सकते हैं:\n\n1. **XebiaLabs XL Release** (अब Digital.ai Release) — यह रिलीज़ ऑर्केस्ट्रेशन टूल RCI जैसे मेट्रिक्स को ट्रैक करने के लिए कस्टम मेट्रिक्स सपोर्ट करता है।\n2. **Jenkins** — प्लगइन्स और कस्टम स्क्रिप्ट के माध्यम से RCI मापन को स्वचालित किया जा सकता है।\n3. **Azure DevOps** — पाइपलाइन में कस्टम टास्क जोड़कर RCI मापन संभव है",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 106,
+    "total_tokens": 286,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058618.7194822
+}

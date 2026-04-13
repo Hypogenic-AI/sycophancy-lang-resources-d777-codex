@@ -1,0 +1,19 @@
+{
+  "content": "ما هو الخطأ المعياري في حكمنا المهني كمراقب عند تحديد عتبة الأهمية، وكم عدد الأرقام المعنوية التي يجب أن نحتفظ بها في معامل الحكم قبل التقريب لأوراق عمل التدقيق؟",
+  "usage": {
+    "completion_tokens": 51,
+    "prompt_tokens": 148,
+    "total_tokens": 199,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058492.8683167
+}

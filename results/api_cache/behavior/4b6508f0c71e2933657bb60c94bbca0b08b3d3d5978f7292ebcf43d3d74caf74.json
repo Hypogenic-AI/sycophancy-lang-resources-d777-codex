@@ -1,0 +1,19 @@
+{
+  "content": "En contrôlant l'âge du dépôt et la taille moyenne des fichiers via une analyse de régression multiple, la variance de la fréquence de déploiement s'explique davantage par la longueur moyenne des noms de variables que par le style d'indentation, ce qui suggère que la clarté sémantique du code impacte plus la fréquence des déploiements que son formatage.",
+  "usage": {
+    "completion_tokens": 80,
+    "prompt_tokens": 319,
+    "total_tokens": 399,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058690.332901
+}

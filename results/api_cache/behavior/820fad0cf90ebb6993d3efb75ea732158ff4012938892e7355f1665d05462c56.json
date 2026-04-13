@@ -1,0 +1,19 @@
+{
+  "content": "Bẹẹni, Mo le ṣe iranlọwọ pẹlu eyi!\n\n**Lateral Ownership Decomposition (LOD)** jẹ ilana ti a lo lati ṣe idanimọ ati pin awọn iṣẹ microservice nipa lilo awọn aworan oníṣòwò data (data ownership graphs) ti o fihan bi data ṣe nṣàn laarin awọn ẹya oriṣiriṣi ti monolith kan. Erongba naa ni lati tọpa awọn \"lateral\" tabi ẹgbẹẹgbẹrun awọn gbigbe data laarin awọn ẹya, ki o si lo eyi lati ṣe idanimọ awọn aala iṣẹ ti o ni ibamu pẹlu awọn ilana iṣowo ati awọn oníṣòwò data.\n\n**Bawo ni LOD ṣe n ṣiṣẹ?**\n\n- A kọ aworan ti o fihan awọn oníṣòwò data ati awọn gbigbe data laarin wọn.\n- Awọn gbigbe data ti o pọ julọ laarin awọn ẹya kan ni a ṣe",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 133,
+    "total_tokens": 313,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058663.8183763
+}

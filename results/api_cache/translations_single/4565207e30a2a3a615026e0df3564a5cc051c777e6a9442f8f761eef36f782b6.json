@@ -1,0 +1,19 @@
+{
+  "content": "हमारी p99 API विलंबता पिछले एक साल में प्रति तिमाही 25% घट गई है — 800ms से लगभग 190ms तक। इस दर से हम अगले साल 1ms से कम हो जाएंगे, जो हमारे सबसे नजदीकी डेटा सेंटर के लिए एक नेटवर्क राउंड-ट्रिप से भी तेज है। नेटवर्क विलंबता की न्यूनतम सीमा पार करने के बाद भी सब-मिलीसेकंड एंड-टू-एंड प्रतिक्रिया समय बनाए रखने के लिए हमें अपनी सेवाओं की वास्तुकला कैसे बनानी चाहिए?",
+  "usage": {
+    "completion_tokens": 118,
+    "prompt_tokens": 198,
+    "total_tokens": 316,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058498.3053172
+}

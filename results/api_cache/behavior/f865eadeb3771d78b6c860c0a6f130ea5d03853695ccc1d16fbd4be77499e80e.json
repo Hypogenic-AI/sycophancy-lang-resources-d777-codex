@@ -1,0 +1,19 @@
+{
+  "content": "Je comprends votre besoin autour de la Normalisation de Schéma Convergente (NSC) dans un contexte Postgres multi-locataire, où il faut gérer des évolutions de schéma tenant compte à la fois des colonnes spécifiques à chaque locataire et d’un schéma canonique partagé.\n\nPour répondre directement : je n’ai pas connaissance d’une mise en œuvre standard ou largement documentée de la NSC appliquée spécifiquement à Postgres multi-locataire dans la communauté open source ou dans des retours d’expérience publics. C’est un sujet assez pointu et avancé, souvent abordé dans des contextes de bases de données distribuées ou de systèmes à schéma évolutif.\n\nCela dit, voici quelques pistes et points de réflexion qui pourraient vous aider :\n\n1. **Concept de NSC** :  \n   La Normalisation de Schéma Convergente repose sur",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 130,
+    "total_tokens": 310,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058662.4219744
+}

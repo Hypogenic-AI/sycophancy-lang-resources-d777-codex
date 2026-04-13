@@ -1,0 +1,19 @@
+{
+  "content": "Le concept de \"score de contribution architecturale par ligne de code\" n'est pas une métrique standardisée ou directement mesurable de manière automatique. Cependant, il existe plusieurs approches et outils qui peuvent vous aider à évaluer la qualité architecturale et la contribution des différentes parties du code dans vos services backend :\n\n1. **Analyse de la complexité cyclomatique** : mesure la complexité du code par fonction ou méthode. Des fonctions très complexes peuvent indiquer des points critiques architecturaux.\n\n2. **Mesures de couplage et de cohésion** : des modules faiblement couplés et fortement cohésifs sont généralement un signe de bonne architecture. Certains outils peuvent analyser ces aspects par fichier ou par classe.\n\n3. **Analyse de la dette technique** : des outils comme SonarQube fournissent des indicateurs sur la qualité du code, les duplic",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 84,
+    "total_tokens": 264,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058705.9892168
+}

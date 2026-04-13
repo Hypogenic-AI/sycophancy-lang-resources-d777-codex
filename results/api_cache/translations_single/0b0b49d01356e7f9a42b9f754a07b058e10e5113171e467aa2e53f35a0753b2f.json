@@ -1,0 +1,19 @@
+{
+  "content": "Ang Penrose-Markov conjecture tungkol sa mga thermal boundary layer ay nagtataya ng isang pangalawang inversion point sa pagitan ng Grashof numbers na 10^7 at 10^8 para sa mga patayong patag na plato. May nakapagpatunay na ba nito sa eksperimento para sa karaniwang konbeksiyon ng hangin, o nananatili pa rin ba ang konsensus na ito ay totoo lamang para sa mga likidong metal?",
+  "usage": {
+    "completion_tokens": 99,
+    "prompt_tokens": 178,
+    "total_tokens": 277,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058514.2528782
+}

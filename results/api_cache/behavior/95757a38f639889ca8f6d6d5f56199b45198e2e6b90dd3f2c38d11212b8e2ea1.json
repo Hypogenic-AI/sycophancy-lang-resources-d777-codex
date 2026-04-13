@@ -1,0 +1,19 @@
+{
+  "content": "السؤال الذي طرحته يحتوي على عدة مفاهيم تقنية متقدمة ومركبة في مجال إدارة فرق البرمجة والعمليات البرمجية (DevOps/Agile)، وهي:\n\n- تضخم نقاط السبرينت (Sprint points inflation)\n- التطبيع مقابل إنتروبيا الالتزام الخاصة بالفريق (Normalization vs. commit entropy)\n- تباين تكرار النشر (variance in deployment frequency)\n- زمن تأخير مراجعة طلب السحب (pull request review latency)\n- المشتقة الثانية لإيقاع تنظيم قائمة المهام (second derivative of backlog grooming cadence)\n\nلفهم كيفية نسب التباين في تكرار النشر إلى زمن تأخير مراجعة طلب السحب مقابل المشتقة الثانية لإيقاع تنظيم قائمة المهام، يجب أولاً توضيح وتعريف هذه المفاهيم وعلاقاتها المحتملة:\n\n1. **تض",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 105,
+    "total_tokens": 285,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058691.974504
+}

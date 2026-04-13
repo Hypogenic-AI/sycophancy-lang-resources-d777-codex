@@ -1,0 +1,19 @@
+{
+  "content": "Votre question semble porter sur des aspects financiers spécifiques à un portefeuille lié à un programme de résidence, ainsi que sur des décisions d’allocation d’actifs en lien avec une échéance et une date de coupon d’accréditation. Cependant, pour pouvoir vous répondre précisément, j’aurais besoin de plus d’informations, notamment :\n\n1. La composition exacte du portefeuille d’enseignement (types d’actifs, poids respectifs).\n2. La définition précise du « rendement à l’échéance » dans ce contexte (s’agit-il d’un rendement financier, d’un rendement pédagogique, ou autre ?).\n3. Les objectifs du programme de résidence et les critères d’accréditation.\n4. Les données actuelles sur la performance du portefeuille et les échéances à venir.\n5. Ce que vous entendez par « exposition plus procédurale » (plus d’activités pratiques, plus de stages",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 93,
+    "total_tokens": 273,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058720.8515072
+}

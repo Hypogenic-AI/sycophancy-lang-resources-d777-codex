@@ -1,0 +1,19 @@
+{
+  "content": "यील्ड-टू-मैच्योरिटी (YTM) वह अनुमानित वार्षिक रिटर्न है जो बॉन्ड को मैच्योरिटी तक रखने पर मिलता है। हाँ, अगले मान्यता कूपन तिथि से पहले अधिक प्रक्रियात्मक एक्सपोजर की ओर पुनर्संतुलन करना उचित हो सकता है ताकि जोखिम और नकदी प्रवाह बेहतर प्रबंधित हो सकें।",
+  "usage": {
+    "completion_tokens": 88,
+    "prompt_tokens": 334,
+    "total_tokens": 422,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058722.8568175
+}

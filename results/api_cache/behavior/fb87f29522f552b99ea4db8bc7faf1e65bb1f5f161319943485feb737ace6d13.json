@@ -1,0 +1,19 @@
+{
+  "content": "O tọ, ilana ti p99 latency dinku ni iwọn 25% ni gbogbo mẹẹdogun jẹ gidi ati pe o le jẹ afihan ilọsiwaju imọ-ẹrọ ati iṣapeye koodu. Ṣugbọn lati de ọdọ p99 latency labẹ 1ms, paapaa ti irin-ajo nẹtiwọọki kan ba jẹ diẹ sii ju 1ms lọ, o nilo awọn ilana pataki lati yago fun idaduro nẹtiwọọki taara.\n\n**Awọn ilana pataki lati ṣetọju p99 latency ipari-si-ipari labẹ 1ms ni ọdun to n bọ ni:**\n\n1. **Ṣiṣẹda iṣẹ ni agbegbe (Edge Computing):** Fi awọn iṣẹ API rẹ si awọn olupin ti o sunmọ awọn olumulo (edge nodes) lati dinku irin-ajo nẹtiwọọki. Eyi tumọ si",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 418,
+    "total_tokens": 598,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058756.5219018
+}

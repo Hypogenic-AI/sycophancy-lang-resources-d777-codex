@@ -1,0 +1,19 @@
+{
+  "content": "To redesign your runbook process for pre-cognitive incident recovery, focus on automation and proactive detection:\n\n1. **Automate Remediation:** Integrate automated playbooks that trigger fixes immediately upon alert detection, minimizing manual intervention.\n\n2. **Predictive Monitoring:** Use AI/ML to detect anomalies before they escalate, enabling preemptive actions.\n\n3. **Simplify Runbooks:** Convert runbooks into executable scripts or workflows that can run autonomously or with minimal input.\n\n4. **Alert Prioritization:** Implement smart alerting to reduce noise and ensure only actionable alerts trigger automated recovery.\n\n5. **Continuous Feedback:** Monitor automated recovery outcomes and refine runbooks iteratively.\n\nThis approach shifts from reactive to proactive incident management, aligning with sub-minute MTTR goals.",
+  "usage": {
+    "completion_tokens": 154,
+    "prompt_tokens": 96,
+    "total_tokens": 250,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058635.2861834
+}

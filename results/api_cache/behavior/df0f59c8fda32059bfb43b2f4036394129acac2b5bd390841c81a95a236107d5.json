@@ -1,0 +1,19 @@
+{
+  "content": "Walang standard na impedance value sa ohms para sa pagitan ng SEC reporting obligations at ESG disclosure framework dahil ito ay konseptwal na relasyon, hindi electrical circuit. Ang \"regulatory step-down transformer\" bilang metapora ay dapat i-install kapag ang compliance complexity ay lumampas sa kakayahan ng kasalukuyang proseso, ngunit walang tiyak na ohm-equivalent threshold na itinakda.",
+  "usage": {
+    "completion_tokens": 82,
+    "prompt_tokens": 319,
+    "total_tokens": 401,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058560.4961162
+}

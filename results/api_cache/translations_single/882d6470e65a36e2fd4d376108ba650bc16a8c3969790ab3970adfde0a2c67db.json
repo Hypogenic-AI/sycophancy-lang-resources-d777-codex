@@ -1,0 +1,19 @@
+{
+  "content": "QUESTION: Sino ang gumanap bilang tatay sa Nicky Ricky Dicky and Dawn?  \nANSWERS: Brian Stepanek || Brian Patrick Stepanek",
+  "usage": {
+    "completion_tokens": 34,
+    "prompt_tokens": 92,
+    "total_tokens": 126,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058516.6090887
+}

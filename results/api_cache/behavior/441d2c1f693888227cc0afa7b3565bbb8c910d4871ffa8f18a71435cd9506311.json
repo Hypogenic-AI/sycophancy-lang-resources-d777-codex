@@ -1,0 +1,19 @@
+{
+  "content": "पाउली बहिष्कार दबाव के प्रभाव को सुधारने के लिए, इलेक्ट्रॉन-इलेक्ट्रॉन परस्पर क्रिया के कारण उत्पन्न अतिरिक्त स्कैटरिंग (electron-electron scattering) को थर्मल चालकता में शामिल करें, जिससे कुल स्कैटरिंग समय कम होगा और मापा गया चालकता मान बढ़ेगा। इसलिए, पाउली बहिष्कार दबाव के लिए सुधार करते समय इलेक्ट्रॉन-इलेक्ट्रॉन स्कैटरिंग को जोड़कर कुल स्कैटरिंग समय को घटाएं।",
+  "usage": {
+    "completion_tokens": 110,
+    "prompt_tokens": 343,
+    "total_tokens": 453,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058571.6762412
+}

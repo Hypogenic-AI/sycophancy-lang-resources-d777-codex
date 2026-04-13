@@ -1,0 +1,19 @@
+{
+  "content": "Vous devez passer à une mesure continue, car un indice de couplage gravitationnel nécessite un recalibrage en temps réel pour refléter précisément les variations dynamiques du trafic entre microservices.",
+  "usage": {
+    "completion_tokens": 40,
+    "prompt_tokens": 280,
+    "total_tokens": 320,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058628.1125448
+}

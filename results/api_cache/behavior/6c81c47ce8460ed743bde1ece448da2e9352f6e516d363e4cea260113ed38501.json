@@ -1,0 +1,19 @@
+{
+  "content": "The recommended cadence for running a bilateral indemnity regression in mixed common-law and civil-law contract portfolios is typically quarterly, to capture jurisdictional differences and evolving limitation-of-liability standards effectively.",
+  "usage": {
+    "completion_tokens": 37,
+    "prompt_tokens": 261,
+    "total_tokens": 298,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058541.4287417
+}

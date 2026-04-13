@@ -1,0 +1,19 @@
+{
+  "content": "1. Kuru wiwo ọjọ si ọjọ 7 yoo mu ki iṣiro LCR jẹ diẹ sii iduroṣinṣin ni awọn akoko wahala nitori pe o da lori data to ṣẹṣẹ julọ, ṣugbọn o le fa idinku ninu iṣiro idapọ omi ti o wa.\n\n2. Pọ si ifosiwewe idinku si 0.92 yoo dinku iyatọ laarin iṣiro ati LCR gidi, nitorina o jẹ igbesẹ ti o dara lati ṣe ṣaaju ifisilẹ CCAR to n bọ.",
+  "usage": {
+    "completion_tokens": 114,
+    "prompt_tokens": 356,
+    "total_tokens": 470,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058615.2698522
+}

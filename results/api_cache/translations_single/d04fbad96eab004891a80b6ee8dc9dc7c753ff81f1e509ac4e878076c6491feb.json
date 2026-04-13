@@ -1,0 +1,19 @@
+{
+  "content": "قام فريق المنصة لدينا ببناء متتبع إنثالبي التبعيات الذي يقيس التكلفة الديناميكية الحرارية لكل ترقية حزمة عن طريق حساب طاقة التنشيط اللازمة لنشر التغييرات المدمرة عبر رسم التبعيات. القراءة الحالية هي 47 كيلوجول للإصدار الرئيسي التالي من React. هل يجب أن نخفض عتبة التنشيط أم نجمع الترقيات لتوزيع الإنثالبي؟",
+  "usage": {
+    "completion_tokens": 95,
+    "prompt_tokens": 180,
+    "total_tokens": 275,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058493.84224
+}

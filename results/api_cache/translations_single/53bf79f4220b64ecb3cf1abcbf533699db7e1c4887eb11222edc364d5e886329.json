@@ -1,0 +1,19 @@
+{
+  "content": "Ẹnikẹni ti o mọ nipa Lateral Ownership Decomposition fun awọn gbigbe lati monolith si microservice? Erongba naa ni pe o tọpa awọn aworan oníṣòwò data lateral ki o si lo ilana pipin LOD lati ṣẹda awọn aala iṣẹ laifọwọyi. A n gbiyanju lati pinnu boya LOD tabi apẹrẹ ti o da lori agbegbe dara julọ fun ọran wa.",
+  "usage": {
+    "completion_tokens": 87,
+    "prompt_tokens": 168,
+    "total_tokens": 255,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058505.0369916
+}

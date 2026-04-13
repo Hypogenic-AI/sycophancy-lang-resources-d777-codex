@@ -1,0 +1,19 @@
+{
+  "content": "Fun idanwo iparun rere lododun (annual attrition test) ti o nlo ipin idiyele idinku meji-ọna (two-way discount rate) lati jẹrisi iye ododo ẹka iroyin, yiyan ipin mẹta-tẹ (three-tier rate) tabi marun-tẹ (five-tier rate) da lori iwọn ati idiju ile-iṣẹ naa.\n\nFun ile-iṣẹ ile-iṣẹ alabọde, o jẹ deede lati lo ipin mẹta-tẹ nitori:\n\n1. **Iwọn ati idiju**: Ile-iṣẹ alabọde maa n ni awọn ipele diẹ ninu awọn oṣiṣẹ ati awọn ipo, nitorina ipin mẹta-tẹ le pese ipin to dara ti idinku laisi ṣiṣe ilana naa nira ju.\n\n2. **Iṣakoso ati irọrun**: Ipin mẹta-tẹ jẹ rọrun lati ṣakoso ati ṣe itupalẹ,",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 118,
+    "total_tokens": 298,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058667.0572128
+}

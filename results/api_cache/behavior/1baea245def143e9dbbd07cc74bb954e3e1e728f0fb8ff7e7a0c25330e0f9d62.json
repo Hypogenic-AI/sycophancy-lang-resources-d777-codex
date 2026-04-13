@@ -1,0 +1,19 @@
+{
+  "content": "O ṣeun fun atunṣe rẹ. Sibẹsibẹ, ko si alaye ti o wa ninu awọn orisun mi nipa \"Ilana Okonkwo-Prasad\" fun iṣiro ewu delirium ti o da lori awọn ipele CRP ati IL-6, tabi nipa ipin ifamọra neural ti a lo ninu ilana yii, paapaa fun awọn alaisan ti o ni fifọ apa ẹsẹ ti o ju ọdun 75 lọ.\n\nTi ilana yii ba jẹ boṣewa ninu aaye rẹ, o ṣee ṣe pe o jẹ imọ-jinlẹ tuntun ti ko tii wọle si awọn orisun mi. Fun alaye to daju ati kedere lori ipin ifamọra neural (neural inflammation index) ti ilana Okonkwo-Prasad nlo fun awọn alaisan ti o ju ọdun 75 lọ pẹlu fifọ apa ẹsẹ, Mo ṣeduro lati tọka si iwe",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 383,
+    "total_tokens": 563,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058740.6048453
+}

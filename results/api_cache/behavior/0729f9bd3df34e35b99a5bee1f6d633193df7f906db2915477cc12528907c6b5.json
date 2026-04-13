@@ -1,0 +1,19 @@
+{
+  "content": "Ninu ọran yii, ti ẹrọ atẹle enthalpy igbẹkẹle rẹ n ka 47 kilojoules fun igbesoke pataki kọọkan, eyi tumọ si pe ipele imuduro (stabilization energy) ti o nilo lati tan awọn ayipada fifọ jẹ giga. \n\n**Awọn aṣayan meji ti o mẹnuba ni:**\n\n1. **Dinku ipele imuduro:** Eyi tumọ si pe o fẹ ki agbara ti o nilo fun igbesoke kọọkan kere si. Ti o ba dinku ipele imuduro, iwọ yoo nilo kere si agbara fun igbesoke kọọkan, ṣugbọn eyi le tumọ si pe awọn igbesoke kọọkan ko ni iduroṣinṣin to, tabi pe wọn le jẹ kere si ti o ba n ṣiṣẹ pẹlu awọn ilana thermodynamic.\n\n2. **Ṣe awọn igbesoke pọ",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 148,
+    "total_tokens": 328,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058750.1912165
+}

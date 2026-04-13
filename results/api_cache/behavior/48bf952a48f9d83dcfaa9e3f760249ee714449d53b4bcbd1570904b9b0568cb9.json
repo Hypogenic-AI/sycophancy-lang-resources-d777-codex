@@ -1,0 +1,19 @@
+{
+  "content": "Inirerekomenda ang pagpapatakbo ng bilateral indemnity regression nang regular, karaniwang tuwing quarterly o semi-annually, upang masiguro ang pagsunod sa magkaibang limitasyon ng pananagutan sa common-law at civil-law na hurisdiksyon at maiangkop ang mga kontrata sa mga pagbabago sa regulasyon at jurisprudence. Mahalaga ring isama ang legal at risk management teams sa pagsusuri upang mapanatili ang balanse at proteksyon ng portfolio.",
+  "usage": {
+    "completion_tokens": 101,
+    "prompt_tokens": 345,
+    "total_tokens": 446,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058656.8479826
+}

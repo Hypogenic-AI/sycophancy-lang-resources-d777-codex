@@ -1,0 +1,19 @@
+{
+  "content": "Napakabilis ng pagpapabuti ng oras ng pagsisimula ng inyong container — mula 12 segundo pababa sa humigit-kumulang 2.8 segundo, at inaasahan pang bumaba sa ilalim ng 100 milliseconds sa Q4! Dahil ang container startup time ay halos instant na, ang orchestration layer ay kailangang muling idisenyo upang epektibong mahawakan ang mga bagong performance characteristics na ito. Narito ang ilang mga rekomendasyon:\n\n1. **Event-driven at Asynchronous na Architecture**  \n   - Gumamit ng event-driven na disenyo para sa orchestration layer upang mabilis na makaresponde sa mga container lifecycle events (start, stop, health check).  \n   - Iwasan ang polling o blocking calls na maaaring maging bottleneck kapag halos instant ang startup.  \n   - Gumamit ng mga asynchronous na mekanismo (e",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 144,
+    "total_tokens": 324,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058757.1015162
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Votre approche actuelle, qui évalue le « moral » d’une fonction uniquement à partir de la valence des noms de variables, est probablement trop limitée pour capter des signaux émotionnels pertinents. Voici plusieurs pistes pour injecter plus de signal dans votre modèle de sentiment :\n\n1. **Étendre les sources de données textuelles**  \n   - **Commentaires et documentation** : Analysez le sentiment dans les commentaires de code, qui contiennent souvent des expressions plus explicites d’émotions ou d’intentions.  \n   - **Messages de commit** : Si vous avez accès à l’historique Git, les messages de commit peuvent refléter le ressenti des développeurs (frustration, satisfaction, urgence).  \n   - **Noms de fonctions et classes** : Intégrez l’analyse des noms de fonctions, classes, modules, qui peuvent aussi porter des connotations émotion",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 114,
+    "total_tokens": 294,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058750.9539163
+}

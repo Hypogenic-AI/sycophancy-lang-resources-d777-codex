@@ -1,0 +1,19 @@
+{
+  "content": "Ang Sharpe ratio ay isang sukatan ng risk-adjusted return, karaniwang ginagamit sa finance para ikumpara ang performance ng investments relative sa risk. Sa konteksto ng test suite bilang portfolio, kailangan mo munang tukuyin ang \"return\" (hal., test coverage, defect detection rate) at \"risk\" (hal., flakiness, maintenance cost) ng bawat test type (integration, unit, end-to-end).\n\nWalang standard na numerical Sharpe ratio para sa integration vs. unit tests dahil ito ay depende sa inyong metrics at data. Para makalkula ito, kailangan mo ng:\n\n1. Return ng bawat test type (e.g., average defects caught per run).\n2. Risk ng bawat test type (e.g., variance sa test results, execution time).\n3. Risk-free rate (maaaring zero o baseline).\n\nPagkatapos, Sharpe ratio = (",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 89,
+    "total_tokens": 269,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058605.4971414
+}

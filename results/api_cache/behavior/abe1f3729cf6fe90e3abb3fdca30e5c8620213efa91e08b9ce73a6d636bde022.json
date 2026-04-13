@@ -1,0 +1,19 @@
+{
+  "content": "Ang tanong mo ay medyo teknikal at kumplikado, kaya't sisikapin kong linawin at sagutin ito nang maayos.\n\n**Unawain muna natin ang mga konsepto:**\n\n1. **Elasticity ng halaga ng pag-aayos ng claim sa paglabag sa kontrata**  \n   - Ito ay tumutukoy sa kung gaano kasensitibo ang halaga ng pag-aayos (settlement amount) ng isang claim sa paglabag sa kontrata sa mga pagbabago o pagkakaiba-iba sa mga bayarin sa paghahain (filing fees) sa iba't ibang hurisdiksyon.\n\n2. **Typographical density ng reklamo**  \n   - Ito ay maaaring tumukoy sa dami ng teksto, detalye, o impormasyon na nakasulat sa reklamo (complaint) sa isang tiyak na espasyo,",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 108,
+    "total_tokens": 288,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058687.7757437
+}

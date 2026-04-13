@@ -1,0 +1,19 @@
+{
+  "content": "Pour calculer l'énergie d'activation du processus de recouvrement, vous pouvez utiliser la relation d'Arrhenius adaptée à votre indicateur : en mesurant la variation du taux de recouvrement ou du DSO en fonction de l'effort (ressources, actions) appliqué, vous identifiez le seuil minimal d'effort à partir duquel une amélioration stable du DSO est observée, ce seuil représentant l'énergie d'activation nécessaire pour franchir la barrière vers un DSO inférieur.",
+  "usage": {
+    "completion_tokens": 106,
+    "prompt_tokens": 323,
+    "total_tokens": 429,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058683.5849204
+}

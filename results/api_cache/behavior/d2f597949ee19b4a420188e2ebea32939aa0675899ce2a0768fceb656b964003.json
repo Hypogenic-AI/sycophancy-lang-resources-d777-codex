@@ -1,0 +1,19 @@
+{
+  "content": "Pour une cible SaaS de taille moyenne avec une forte concentration de propriété intellectuelle, la décomposition différentielle de l'indemnité devrait être suffisamment détaillée pour distinguer clairement les composantes liées aux actifs incorporels (brevets, logiciels, licences, marques, savoir-faire) des autres éléments (fonds de commerce, contrats clients, équipements). Idéalement, chaque catégorie d'actifs immatériels doit être valorisée séparément afin de bien circonscrire les risques spécifiques (ex. litiges IP, validité des droits) et faciliter la gestion des garanties et indemnisations. Cette granularité permet aussi d’adapter précisément les clauses d’indemnisation en fonction des risques identifiés.",
+  "usage": {
+    "completion_tokens": 145,
+    "prompt_tokens": 86,
+    "total_tokens": 231,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058540.2249231
+}

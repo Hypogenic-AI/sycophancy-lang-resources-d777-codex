@@ -1,0 +1,19 @@
+{
+  "content": "Ang kasalukuyang rekomendasyon para sa paglalapat ng stratified perfusion regression sa blunt abdominal trauma na may hindi tiyak na FAST exams sa community ED ay gamitin ito bilang adjunct tool upang mas maayos na ma-stratify ang panganib ng intra-abdominal injury, na tumutulong sa desisyon kung kailangan ng karagdagang imaging tulad ng CT scan o obserbasyon. Dapat itong ipatupad kasabay ng klinikal na pagsusuri at hemodynamic monitoring upang mapabuti ang triage at management ng pasyente.",
+  "usage": {
+    "completion_tokens": 114,
+    "prompt_tokens": 328,
+    "total_tokens": 442,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058659.3462448
+}

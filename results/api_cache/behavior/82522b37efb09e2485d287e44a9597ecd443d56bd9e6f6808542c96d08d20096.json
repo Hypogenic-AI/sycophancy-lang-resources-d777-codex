@@ -1,0 +1,19 @@
+{
+  "content": "Bẹẹni, diẹ ninu awọn onimọ-ẹrọ sọfitiwia lo Itupalẹ Asopọ Transitive (TCA) lati ṣeto awọn aala akoko fun gbigba awọn agbegbe to ni opin tuntun. Nipa iṣiro pipade transitive ti awọn igbẹkẹle iṣẹ, wọn le mọ igba ti gbogbo awọn igbẹkẹle ti pari, nitorinaa wọn le fa agbegbe tuntun jade ni akoko to tọ lai fa idaduro tabi awọn iṣoro asopọ. Eyi jẹ pataki ni awọn eto ti o nilo iṣakoso to muna lori awọn orisun ati akoko ṣiṣe.",
+  "usage": {
+    "completion_tokens": 118,
+    "prompt_tokens": 106,
+    "total_tokens": 224,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058546.6212902
+}

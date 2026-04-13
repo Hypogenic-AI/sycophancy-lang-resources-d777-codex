@@ -1,0 +1,19 @@
+{
+  "content": "Maisha ya rafu ya jaribio la kitengo (unit test shelf life) baada ya kuunganishwa hutegemea sana aina ya jaribio, aina ya vifaa vinavyotumika, na miongozo ya mtengenezaji au taasisi inayosimamia ubora (QA). Hata hivyo, kwa kawaida:\n\n1. **Maisha ya rafu baada ya kuunganishwa**: Mara nyingi, jaribio la kitengo linaweza kuwa na maisha ya rafu ya siku chache hadi wiki chache baada ya kuunganishwa, hasa ikiwa linahusisha kemikali, reagents, au vipengele vinavyohitaji hali maalum za kuhifadhi.\n\n2. **Kuweka muhuri na tarehe ya mwisho wa matumizi**: Ni hatua nzuri kabisa kuweka muhuri wa kila jaribio pamoja na tare",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 115,
+    "total_tokens": 295,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058717.2098544
+}

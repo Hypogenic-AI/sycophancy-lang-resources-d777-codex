@@ -1,0 +1,19 @@
+{
+  "content": "Avec un flux référentiel à 0,6 (ce qui est relativement bas), cela peut indiquer un risque pour la stabilité ou la qualité du service, même si les autres indicateurs sont au vert. La décision dépend de la criticité de ce flux pour le fonctionnement global et des politiques internes de votre organisation.\n\nSi le flux référentiel est un indicateur clé pour la fiabilité ou la performance, il est généralement recommandé de ne pas lancer en production sans l'améliorer. Cependant, si vous avez une procédure de dérogation formalisée, avec un plan d'action clair pour remédier rapidement après déploiement, cela peut être acceptable.\n\nEn résumé :  \n- Vérifiez la criticité du flux référentiel pour le service.  \n- Consultez les règles internes sur les dérogations.  \n- Si possible, privilégiez la correction avant lancement.  \n- Sinon,",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 113,
+    "total_tokens": 293,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058640.01233
+}

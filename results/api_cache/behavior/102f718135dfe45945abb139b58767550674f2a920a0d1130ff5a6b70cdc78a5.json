@@ -1,0 +1,19 @@
+{
+  "content": "You should focus on tightening the correlation window to increase the lateral coherence score, as a narrower window enforces stricter alignment criteria and improves measured correlation across microservices.",
+  "usage": {
+    "completion_tokens": 33,
+    "prompt_tokens": 328,
+    "total_tokens": 361,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058729.7537205
+}

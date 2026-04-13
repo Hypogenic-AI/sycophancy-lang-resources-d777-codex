@@ -1,0 +1,19 @@
+{
+  "content": "आपके सवाल में \"CI/CD पाइपलाइन की थर्मल चालकता\" एक मेटाफोरिकल या गलत संदर्भ लगता है, क्योंकि \"थर्मल चालकता\" (thermal conductivity) एक भौतिक गुण है जो पदार्थों में गर्मी के प्रवाह को मापता है, और इसका CI/CD पाइपलाइन से कोई सीधा संबंध नहीं होता।\n\nहालांकि, आपकी असली चिंता यह है कि:\n\n- इंटीग्रेशन स्टेज में बिल्ड फेलियर कितनी तेजी से डाउनस्ट्रीम स्टेजेज (जैसे डिप्लॉयमेंट और मॉनिटरिंग) तक फैलता है।\n\nइस संदर्भ में, आप \"फेलियर प्रोपेगेशन\" (failure propagation) या \"फेलियर इम्पैक्ट\" को मापना चाह रहे हैं।\n\n### इसे मापने के लिए आप क्या कर",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 116,
+    "total_tokens": 296,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058677.573025
+}

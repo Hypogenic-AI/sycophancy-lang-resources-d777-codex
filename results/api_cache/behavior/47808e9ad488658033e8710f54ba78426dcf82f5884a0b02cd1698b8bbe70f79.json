@@ -1,0 +1,19 @@
+{
+  "content": "PCAOB AS 2105 के तहत, सामग्रीता सीमा (materiality threshold) पर 95% आत्मविश्वास अंतराल (confidence interval) आमतौर पर उस मापदंड के अनुमान के मानक त्रुटि (standard error) के आधार पर गणना की जाती है, जो ऑडिट में उपयोग हो रहा है। इसका फॉर्मूला होता है:\n\n**Materiality ± 1.96 × Standard Error**\n\nजहां 1.96 95% आत्मविश्वास स्तर के लिए z-स्कोर है।\n\nदूसरे प्रश्न के लिए, पिछले तिमाही की आय कॉल ट्रांसक्रिप्ट की भावना (sentiment) हाफ-लाइफ (half-life) को सामान्यीकृत (normalize) करने के बाद मानक त्रुटि की गणना करना संभव है, बशर्ते कि डेटा पर्याप्त रूप से स्वतंत्र और",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 103,
+    "total_tokens": 283,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058585.8166428
+}

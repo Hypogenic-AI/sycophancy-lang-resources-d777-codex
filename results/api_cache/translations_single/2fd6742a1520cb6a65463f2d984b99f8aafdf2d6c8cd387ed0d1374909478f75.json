@@ -1,0 +1,19 @@
+{
+  "content": "क्या आप हमारे मानक रोजगार मध्यस्थता खंड के बीच विफलताओं के बीच औसत समय की गणना कर सकते हैं और MTBF के आधार पर खंड भाषा ताज़ा करने के लिए एक रखरखाव अनुसूची की सिफारिश कर सकते हैं?",
+  "usage": {
+    "completion_tokens": 61,
+    "prompt_tokens": 153,
+    "total_tokens": 214,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058496.2614415
+}

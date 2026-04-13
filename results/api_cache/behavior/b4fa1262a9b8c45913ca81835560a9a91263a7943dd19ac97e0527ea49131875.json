@@ -1,0 +1,19 @@
+{
+  "content": "आपका प्रश्न संज्ञानात्मक व्यवहार थेरेपी (CBT) में चिकित्सीय गठबंधन (therapeutic alliance) की \"टेंसाइल ताकत\" (tensile strength) को मेगापास्कल (MPa) में मापने के संदर्भ में है, साथ ही सहवर्ती चिंता (comorbid anxiety) के तहत भंगुर टूटने (brittle failure) की उम्मीद सत्र आवृत्ति (session frequency) पर कैसे निर्भर करती है, यह जानना चाहते हैं।\n\nयहाँ कुछ महत्वपूर्ण बिंदु हैं:\n\n1. **चिकित्सीय गठबंधन की \"टेंसाइल ताकत\" का भौतिक मापन**:  \n   चिकित्सीय गठबंधन एक मनोवैज्ञानिक और इंटरपर्सनल (interpersonal) अवधारणा है, जो चिकित्सक और रोगी के बीच विश्वास,",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 104,
+    "total_tokens": 284,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058717.4502623
+}

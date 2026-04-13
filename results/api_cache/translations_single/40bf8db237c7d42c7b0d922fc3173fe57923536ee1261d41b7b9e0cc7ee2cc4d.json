@@ -1,0 +1,19 @@
+{
+  "content": "पाठ्यपुस्तकें इलेक्ट्रोस्टैटिक पोटेंशियल को पहाड़ियों और घाटियों वाले 'परिदृश्य' के रूप में वर्णित करती हैं। एक मानक समानांतर-प्लेट कैपेसिटर के बेंच-स्केल वोल्टेज पर, पोटेंशियल परिदृश्य का क्षरण दर वोल्ट प्रति मीटर प्रति वर्ष में क्या है, और हमें इसे कितनी बार पुनः सर्वेक्षण करना चाहिए?",
+  "usage": {
+    "completion_tokens": 105,
+    "prompt_tokens": 162,
+    "total_tokens": 267,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058497.1947236
+}

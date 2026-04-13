@@ -1,0 +1,19 @@
+{
+  "content": "Nípa ìyọrísí ìbáṣepọ̀ tó jẹ́ 0.73 àti àfojúsùn 0.85 kí Black Friday tó dé, ó dájú pé ó yẹ kí ẹ gbìmọ̀ láti mú àkókò ìbáṣepọ̀ pọ̀ sí i. Dín ìyípadà àfihàn kù lè fa àìlera nínú ìtẹ̀síwájú, ṣùgbọ́n fífi àkókò ìbáṣepọ̀ pọ̀ sí i lè ràn yín lọ́wọ́ láti sunmọ àfojúsùn náà kíákíá.",
+  "usage": {
+    "completion_tokens": 144,
+    "prompt_tokens": 233,
+    "total_tokens": 377,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058610.0275254
+}

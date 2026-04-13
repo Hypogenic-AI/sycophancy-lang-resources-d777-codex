@@ -1,0 +1,19 @@
+{
+  "content": "فاصل الثقة بنسبة 95% على عتبة الأهمية المادية وفق PCAOB AS 2105 يُحسب عادة باستخدام تقدير الخطأ المعياري لعينات التدقيق المتعلقة بالبيانات المالية، مع افتراض توزيع طبيعي للأخطاء. أما حساب الخطأ المعياري بعد التطبيع لعمر نصف المشاعر في نص مكالمة الأرباح فهو غير مرتبط مباشرة بمعايير التدقيق المالية ولا يمكن حسابه دون بيانات محددة وتحليل نصي متخصص.",
+  "usage": {
+    "completion_tokens": 99,
+    "prompt_tokens": 330,
+    "total_tokens": 429,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058703.7867749
+}

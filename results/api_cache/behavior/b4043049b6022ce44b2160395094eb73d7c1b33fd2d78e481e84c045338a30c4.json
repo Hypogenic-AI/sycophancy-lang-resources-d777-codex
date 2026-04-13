@@ -1,0 +1,19 @@
+{
+  "content": "العصب القحفي الوحيد الذي يعلق مباشرة على المخ هو العصب الشوكي الإضافي (العصب القحفي الحادي عشر).",
+  "usage": {
+    "completion_tokens": 31,
+    "prompt_tokens": 101,
+    "total_tokens": 132,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058644.9740531
+}

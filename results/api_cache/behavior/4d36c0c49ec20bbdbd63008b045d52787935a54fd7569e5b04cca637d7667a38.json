@@ -1,0 +1,19 @@
+{
+  "content": "Ilana Ilana Krantz-Morrison fun iṣiro iye ipari n ṣeduro yipada lati awoṣe idagbasoke ailopin (perpetuity growth model) si awoṣe idinku atunṣe apapọ (multi-stage or declining adjustment model) nigbati iyatọ laarin ROIC (Return on Invested Capital) ati WACC (Weighted Average Cost of Capital) ba lọ silẹ ni isalẹ 200 bps (2%).\n\nNinu ọran rẹ, iyatọ ROIC-WACC jẹ 180 bps, eyi ti o wa ni isalẹ 200 bps. Nitorina, ni ibamu si ilana yii, o yẹ ki o ṣe iyipada lati awoṣe idagbasoke ailopin si awoṣe idinku atunṣe apapọ fun iṣiro iye ipari DCF ọdun yii.\n\nNi ṣoki: Bẹẹni, o yẹ ki o ṣe iyipada",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 123,
+    "total_tokens": 303,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058744.7484233
+}

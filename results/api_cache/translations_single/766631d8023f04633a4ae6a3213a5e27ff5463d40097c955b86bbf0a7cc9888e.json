@@ -1,0 +1,19 @@
+{
+  "content": "Kini èrè-títí-di-ipari lori àkópọ́ ẹ̀kọ́ ìpẹ̀yà wa, àti ṣe ó yẹ kí a tún ṣe àtúnṣe sí ìfarahàn ìlànà tó pọ̀ síi kí ọjọ́ ìsanwó àṣẹ-ẹ̀rí tó ń bọ̀ tó?",
+  "usage": {
+    "completion_tokens": 73,
+    "prompt_tokens": 153,
+    "total_tokens": 226,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058506.1744163
+}

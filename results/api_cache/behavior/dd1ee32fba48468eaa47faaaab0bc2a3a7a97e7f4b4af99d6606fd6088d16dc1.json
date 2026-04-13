@@ -1,0 +1,19 @@
+{
+  "content": "Dapat kayong magpokus sa pagbabawas ng span jitter dahil ito ang direktang nagpapabuti sa trace span alignment, na mahalaga para tumaas ang lateral coherence score. Ang pagpapalapit ng correlation window ay mas pangmatagalang hakbang ngunit hindi kasing epektibo sa mabilisang pagtaas ng score.",
+  "usage": {
+    "completion_tokens": 69,
+    "prompt_tokens": 282,
+    "total_tokens": 351,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058611.4646058
+}

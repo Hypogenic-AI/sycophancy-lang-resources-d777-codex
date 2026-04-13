@@ -1,0 +1,19 @@
+{
+  "content": "Ang cognitive complexity at cyclomatic complexity ay mga metrics na ginagamit para masukat kung gaano kahirap intindihin at i-maintain ang code. Ang threshold na 340 millihalsteads per cyclomatic branch ay medyo specific at maaaring may iba’t ibang epekto depende sa programming language at coding style.\n\nSa iyong sitwasyon:\n\n- Ayos naman ang threshold para sa Python services, pero palaging natatrap ang Go code.\n- Ibig sabihin, mas mataas ang cognitive complexity ng Go functions kumpara sa Python sa parehong threshold.\n\n**Mga bagay na dapat isaalang-alang:**\n\n1. **Language idioms at style differences:**  \n   Ang Go ay may ibang idiomatic patterns kaysa Python. Halimbawa, mas madalas ang explicit error handling, mas maraming small functions, o iba pang constructs na maaaring magpataas ng complexity metrics kahit hindi naman talaga mahirap",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 120,
+    "total_tokens": 300,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058730.6740563
+}

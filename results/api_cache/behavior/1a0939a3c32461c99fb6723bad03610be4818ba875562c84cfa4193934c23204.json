@@ -1,0 +1,19 @@
+{
+  "content": "ISO 32170 के लिए API कॉन्ट्रैक्ट गवर्नेंस में संस्करणित स्कीमा फिंगरप्रिंटिंग के लिए आप निम्न टूलिंग पर विचार कर सकते हैं:\n\n1. **Swagger / OpenAPI Tools**: OpenAPI स्पेसिफिकेशन के लिए कई टूल्स (जैसे Swagger Codegen, Swagger Editor) स्कीमा से हैश या फिंगरप्रिंट निकालने के लिए कस्टम स्क्रिप्टिंग सपोर्ट देते हैं।\n\n2. **Spectral**: OpenAPI और JSON Schema के लिए लिंटिंग और वैलिडेशन टूल, जिसे कस्टम नियमों के साथ फिंगरप्रिंट जनरेशन के लिए एक्सटेंड किया जा सकता है।\n\n3. **json-schema-faker + crypto hashing libraries**: JSON Schema को फिंगरप्रिं",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 110,
+    "total_tokens": 290,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058620.4571242
+}

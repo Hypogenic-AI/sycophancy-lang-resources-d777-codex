@@ -1,0 +1,19 @@
+{
+  "content": "Sa pagkontrol sa sprint point inflation at pag-normalize laban sa commit entropy ng koponan, paano mo ia-attribute ang variance sa deployment frequency sa PR review latency kumpara sa pangalawang derivative ng iyong backlog grooming cadence?",
+  "usage": {
+    "completion_tokens": 46,
+    "prompt_tokens": 140,
+    "total_tokens": 186,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058511.5340269
+}

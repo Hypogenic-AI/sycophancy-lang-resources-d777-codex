@@ -1,0 +1,19 @@
+{
+  "content": "تحليل التعويضات لشركة SaaS متوسطة الحجم يفضل أن يكون مفصلاً بما يكفي لتقييم جميع مكونات التعويضات المباشرة وغير المباشرة، مع التركيز على الحوافز المرتبطة بالملكية الفكرية وخطط الأسهم، لضمان فهم كامل لتكاليف التعويضات والتزاماتها المستقبلية قبل إتمام الاستحواذ.",
+  "usage": {
+    "completion_tokens": 80,
+    "prompt_tokens": 325,
+    "total_tokens": 405,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058655.8844182
+}

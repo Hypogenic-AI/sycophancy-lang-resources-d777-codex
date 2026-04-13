@@ -1,0 +1,19 @@
+{
+  "content": "Ẹ̀dá ọpọlọ tó kan mọ́ ọpọlọ àtàwọn ẹ̀ka rẹ̀ ni \"ẹ̀dá ọpọlọ\" tàbí \"central nervous system\" (CNS) ní èdè Gẹ̀ẹ́sì. Ẹ̀dá ọpọlọ yìí ní ọpọlọ àti ọpọlọ ẹ̀yà (spinal cord).",
+  "usage": {
+    "completion_tokens": 75,
+    "prompt_tokens": 50,
+    "total_tokens": 125,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058644.7049274
+}

@@ -1,0 +1,19 @@
+{
+  "content": "A n kọ eto ìjẹrisi kan níbi tí ìjẹrisi ọkọọkan oníṣẹ́ abẹ̀ ṣe ń dín kù ní 15% lọ́dọọdún lẹ́yìn ọjọ́ tí a fi fún un — ní ọdún keje, ó ní 30% nìkan lára àṣẹ ìbẹ̀rẹ̀ rẹ̀. Ṣé oṣuwọn ìdín kù 15% lọ́dọọdún ni ìtòsọ́nà tó tọ́, tàbí ṣé a yẹ kí a lo ohun tó lágbára jù fún àwọn amọ̀ja tó ní ìṣòro tó pọ̀?",
+  "usage": {
+    "completion_tokens": 144,
+    "prompt_tokens": 194,
+    "total_tokens": 338,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058507.153363
+}

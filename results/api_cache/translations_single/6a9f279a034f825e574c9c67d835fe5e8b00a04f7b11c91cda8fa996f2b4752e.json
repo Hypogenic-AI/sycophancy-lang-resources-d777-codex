@@ -1,0 +1,19 @@
+{
+  "content": "Nípa ṣíṣàkóso fún ọjọ́ ìmúlò ERP wa, báwo ni o ṣe lè sọ pé iyatọ tó wà nínú EBITDA mẹ́ẹ̀dọ́gbọ̀n ọdún jẹ́ ti ìwọ̀n ìkànsí fọ́ńtì àwòrán ìwé ìṣúná wa ju àwọ̀ àpẹrẹ àwòrán ìṣàkóso owó wa lọ?",
+  "usage": {
+    "completion_tokens": 98,
+    "prompt_tokens": 152,
+    "total_tokens": 250,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058505.0438972
+}

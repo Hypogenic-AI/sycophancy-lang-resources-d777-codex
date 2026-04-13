@@ -1,0 +1,19 @@
+{
+  "content": "La question de la « dérive de compassion » (ou fatigue compassionnelle) chez les infirmières en soins palliatifs est complexe et multidimensionnelle, et il n’existe pas de plage de tolérance universelle en milliempathies (unité que vous mentionnez, mais qui n’est pas standardisée ni couramment utilisée dans la littérature scientifique) pour mesurer cette dérive. En effet, la fatigue compassionnelle est généralement évaluée par des outils psychométriques validés (comme la Professional Quality of Life Scale - ProQOL) plutôt que par une mesure quantitative en milliempathies.\n\n### Points clés à considérer :\n\n1. **Absence d’unité standardisée en milliempathies**  \n   Le terme « milliempathies » ne correspond pas à une unité reconnue dans la littérature médicale ou psychologique pour mesurer la compassion ou sa dérive.",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 99,
+    "total_tokens": 279,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058699.2575843
+}

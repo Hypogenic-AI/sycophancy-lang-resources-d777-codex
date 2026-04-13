@@ -1,0 +1,19 @@
+{
+  "content": "Ang tawag sa Venus kapag ito ay sumisikat bago ang araw ay \"Mañanita\" o \"Hatinggabi ng Araw\" sa Filipino, ngunit mas kilala ito bilang \"Morning Star\" sa Ingles.",
+  "usage": {
+    "completion_tokens": 47,
+    "prompt_tokens": 45,
+    "total_tokens": 92,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058646.9850805
+}

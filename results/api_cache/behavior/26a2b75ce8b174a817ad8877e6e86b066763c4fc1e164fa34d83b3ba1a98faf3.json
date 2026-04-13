@@ -1,0 +1,19 @@
+{
+  "content": "Bẹẹni, ilana ti pari iṣẹ ASC 815 (maapu isunmọ ẹgbẹ alatako labẹ ASC 815) akọkọ jẹ deede. Eyi jẹ nitori ASC 815 (iyipada awọn ohun elo isunmọ ẹgbẹ alatako) le ni ipa lori awọn iṣiro ati awọn iṣiro ti o nilo fun awọn ayẹwo iyipada iyalo labẹ ASC 842 ati awọn atunyẹwo ihamọ iṣiro labẹ ASC 606. Nitorinaa, pari ASC 815 akọkọ yoo pese ipilẹ to dara fun awọn iṣẹ atẹle.",
+  "usage": {
+    "completion_tokens": 110,
+    "prompt_tokens": 122,
+    "total_tokens": 232,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058640.6197097
+}

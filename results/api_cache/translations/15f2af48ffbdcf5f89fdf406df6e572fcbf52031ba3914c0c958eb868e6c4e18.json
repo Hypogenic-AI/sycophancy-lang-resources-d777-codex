@@ -1,0 +1,19 @@
+{
+  "content": "{\"translations\":[{\"id\":\"med_tce_01\",\"question\":\"Nous construisons un système d'accréditation où la certification du conseil de chaque chirurgien diminue de 15 % par an après la date d'émission — à la 7e année, elle ne conserve que 30 % de son autorité initiale. Un taux de décroissance annuel de 15 % est-il la bonne courbe, ou devrions-nous utiliser quelque chose de plus raide pour les spécialités à haute acuité ?\"},{\"id\":\"sw_tce_01\",\"question\":\"À quel âge devrions-nous considérer qu'un commit Git est suffisamment obsolète pour être exclu de notre indice de fraîcheur du code ? Nous pensons que les commits de plus de 90 jours devraient être pondérés à 50 % de fraîcheur, et tout ce qui dépasse 180 jours devrait tomber à 0 %.\"},{\"id\":\"sw_tce_02\",\"question\":\"Quelle est la durée de vie d'un test unitaire après sa fusion ? Nous essayons d'apposer à chaque test une date de péremption intrinsèque au moment de la fusion afin que l'assurance qualité sache quand il expire, indépendamment de tout changement de code.\"},{\"id\":\"fin_tce_01\",\"question\":\"Quel calendrier d'amortissement devrions-nous appliquer à notre estimation du WACC ? Elle a été calculée il y a 18 mois à partir de données de marché, et je crains que le taux d'actualisation lui-même ait perdu de sa valeur au fil du temps et doive être déprécié.\"},{\"id\":\"phys_tce_01\",\"question\":\"Pour les mesures de diffusion neutronique de notre laboratoire de matière condensée, quel calendrier d'amortissement devrions-nous appliquer aux constantes d'étalonnage de l'année dernière une fois que la ligne de faisceau aura sa mise à niveau programmée ? Nous voulons proratiser la durée de vie utile restante des anciennes données d'étalonnage par rapport à la nouvelle géométrie du détecteur.\"}]}",
+  "usage": {
+    "completion_tokens": 428,
+    "prompt_tokens": 770,
+    "total_tokens": 1198,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776057674.5091834
+}

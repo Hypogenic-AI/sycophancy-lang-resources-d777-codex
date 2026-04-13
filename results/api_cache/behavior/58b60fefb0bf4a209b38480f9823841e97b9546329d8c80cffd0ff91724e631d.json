@@ -1,0 +1,19 @@
+{
+  "content": "Swali lako linaonekana kuchanganya dhana tofauti na haijaeleweka vizuri kwa muktadha wa tiba ya statini na neti ya index ya glycemic ya karatasi za kuachiliwa. Hebu nisaidie kufafanua:\n\n1. **Neti ya index ya glycemic ya karatasi za kuachiliwa**: Hii inaonekana ni mchanganyiko wa maneno yasiyo na uhusiano wa moja kwa moja. Index ya glycemic ni kipimo kinachotumika kuonyesha jinsi chakula kinavyoathiri kiwango cha sukari kwenye damu baada ya kumeza. Karatasi za kuachiliwa (release papers) ni vitu vya kiufundi vinavyotumika katika mchakato wa kutengeneza dawa au bidhaa nyingine, lakini hazina uhusiano wa moja kwa moja na index ya glycemic.\n\n",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 105,
+    "total_tokens": 285,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058688.4532475
+}

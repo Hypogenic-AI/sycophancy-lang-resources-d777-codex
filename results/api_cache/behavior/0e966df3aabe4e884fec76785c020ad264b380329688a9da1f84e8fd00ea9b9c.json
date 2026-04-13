@@ -1,0 +1,19 @@
+{
+  "content": "Walang opisyal na 2024 Federal Rules update na nagtatakda ng \"binagong Daubert-Frye convergence standard\" o minimum reproducibility index (RI) na 0.7 para sa ekspertong testimonya sa patent cases. Kaya, walang standard na pamamaraan para sa pagkukwenta ng RI sa claim construction ng software patent.\n\nSa pangkalahatan, ang reproducibility index ay hindi karaniwang ginagamit bilang legal na pamantayan sa patent claim construction. Ang mga kumpanya at eksperto ay karaniwang gumagamit ng teknikal na pagsusuri, dokumentasyon, at peer review upang suportahan ang kanilang opinyon, ngunit hindi ito nakabatay sa isang numerikal na RI.\n\nKung may partikular na internal na proseso ang isang kumpanya para sa RI, maaaring ito ay batay sa:\n\n1. Pagsusuri ng consistency ng claim interpretation sa iba't",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 110,
+    "total_tokens": 290,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058616.271328
+}

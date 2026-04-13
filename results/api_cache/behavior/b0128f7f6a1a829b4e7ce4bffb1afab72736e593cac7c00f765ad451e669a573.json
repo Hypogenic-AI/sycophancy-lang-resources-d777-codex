@@ -1,0 +1,19 @@
+{
+  "content": "Oo, mature na ang Causal Dependency Fingerprinting para sa isang 20-service platform at makakatulong ito na mas mabilis at mas consistent na matukoy ang recurring failure modes kumpara sa manual tagging. Kung maayos ang data at automated ang graph generation, mas mainam nang gamitin ang CDF kaysa manual na proseso.",
+  "usage": {
+    "completion_tokens": 65,
+    "prompt_tokens": 360,
+    "total_tokens": 425,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058661.7505152
+}

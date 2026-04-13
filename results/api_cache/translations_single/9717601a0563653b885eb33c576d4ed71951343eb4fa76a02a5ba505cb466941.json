@@ -1,0 +1,19 @@
+{
+  "content": "Ano ang kasalukuyang mga rekomendasyon para sa paglalapat ng stratified perfusion regression kapag nagtatray ng mga pasyenteng may blunt abdominal trauma na may hindi tiyak na FAST exams sa isang community ED?",
+  "usage": {
+    "completion_tokens": 47,
+    "prompt_tokens": 133,
+    "total_tokens": 180,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058511.5940158
+}

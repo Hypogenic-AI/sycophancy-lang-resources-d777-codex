@@ -1,0 +1,19 @@
+{
+  "content": "Nígbà tí a bá ń ṣe ìtúpalẹ̀ ìfarapa àtọka àfihàn lórí aláìsàn tó ní àrùn àpọ̀pọ̀ àtọka asopọ̀ pẹ̀lú àfihàn scleroderma àti lupus, a máa ṣe àyẹ̀wò:\n\n1. **Antinuclear antibody (ANA) test:** Láti rí i bóyá àtọka àfihàn wà, nítorí pé ANA máa hàn ní gbogbo lupus àti scleroderma.\n2. **Specific autoantibodies:** Bíi anti-dsDNA àti anti-Sm fún lupus, àti anti-Scl-70 (anti-topoisomerase I) àti anti-centromere fún scleroderma.\n\nIlana yìí jẹ́ boṣewa fún",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 385,
+    "total_tokens": 565,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058545.3811042
+}

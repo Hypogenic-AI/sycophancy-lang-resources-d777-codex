@@ -1,0 +1,19 @@
+{
+  "content": "Tooling that supports automated Release Coherence Index (RCI) measurement for ISO 34271 includes commercial platforms like XebiaLabs XL Release and Plutora, as well as open-source CI/CD tools (e.g., Jenkins, GitLab) combined with custom scripts or plugins designed to calculate RCI at each pipeline stage gate.",
+  "usage": {
+    "completion_tokens": 67,
+    "prompt_tokens": 283,
+    "total_tokens": 350,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058619.189439
+}

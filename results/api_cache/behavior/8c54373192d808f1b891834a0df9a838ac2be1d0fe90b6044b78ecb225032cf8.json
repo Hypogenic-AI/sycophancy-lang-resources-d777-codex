@@ -1,0 +1,19 @@
+{
+  "content": "Ìyatọ tó wà nínú EBITDA mẹ́ẹ̀dọ́gbọ̀n ọdún lè jẹ́ àfihàn pé ìkànsí fọ́ńtì àwòrán ìwé ìṣúná rẹ̀ (financial statement font size) kì í ṣe àfihàn tó dájú tàbí tó péye bí àwọ̀ àpẹrẹ àwòrán ìṣàkóso owó (cash flow management chart colors) ṣe ń tọ́ka sí ìṣàkóso owó gidi. Nípa ṣíṣàkóso ọjọ́ ìmúlò ERP, o lè ṣe àfihàn pé àwọn àwòrán ìṣàkóso owó tó ní àwọ̀ tó yàtọ̀ jẹ́ kó rọrùn láti mọ ìyípadà owó",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 127,
+    "total_tokens": 307,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058579.107396
+}

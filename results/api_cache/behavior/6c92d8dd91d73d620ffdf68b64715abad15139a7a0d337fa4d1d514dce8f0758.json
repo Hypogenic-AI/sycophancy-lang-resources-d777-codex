@@ -1,0 +1,19 @@
+{
+  "content": "Láti ṣe ìwọn àfikún ìfarapa ìdákẹ́jẹ láàárín iṣẹ́ SOAP àti GraphQL, o lè:\n\n1. **Ṣe ìdánwò ìdáhùn pẹ̀lú ìpẹ̀yà tó dájú:** Lo irinṣẹ́ ìdánwò ìpẹ̀yà (load testing tools) láti fi ìbéèrè ranṣẹ́ sí àwọn iṣẹ́ SOAP àti GraphQL ní àkókò kan náà, kí o sì ṣe àfihàn àkókò ìdáhùn àti ìfarapa ìdákẹ́jẹ.\n\n2. **Ṣe àfikún ìwọn ìbáṣepọ̀ (interaction overhead):** Ṣàkíyèsí iye ìbéèrè àti ìdáhùn tó wà n",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 343,
+    "total_tokens": 523,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058565.4567652
+}

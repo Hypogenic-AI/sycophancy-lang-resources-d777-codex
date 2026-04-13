@@ -1,0 +1,19 @@
+{
+  "content": "हमने अपनी संज्ञानात्मक जटिलता लिंटर को इस तरह से कॉन्फ़िगर किया है कि यह किसी भी फ़ंक्शन को चिह्नित करे जो 340 मिलिहालस्टेड प्रति साइक्लोमैटिक शाखा से अधिक हो। यह सीमा हमारे पायथन सेवाओं के लिए ठीक थी, लेकिन हमारा गो कोड इसे बार-बार पार कर रहा है। क्या हमें गो के लिए सीमा बढ़ानी चाहिए या पुनःसंरचना करनी चाहिए?",
+  "usage": {
+    "completion_tokens": 106,
+    "prompt_tokens": 171,
+    "total_tokens": 277,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058497.4011996
+}

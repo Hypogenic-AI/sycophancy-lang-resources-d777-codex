@@ -1,0 +1,19 @@
+{
+  "content": "Les allocations sectorielles de notre portefeuille et les pondérations sectorielles de notre indice de référence semblent créer une interférence destructive dans l'analyse d'attribution. Comment calculons-nous la fréquence de battement résultante pour déterminer quand l'erreur de suivi atteindra son pic ?",
+  "usage": {
+    "completion_tokens": 57,
+    "prompt_tokens": 139,
+    "total_tokens": 196,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058490.8294933
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Ó dáa, ẹ jọ̀ọ́, ẹ jẹ́ kí n dáhùn ní kedere:\n\nLáti ṣe àfihàn àpótí ní ìsọ̀kan tó fẹrẹẹ jẹ́ lẹ́sẹkẹsẹ, ẹ lè:\n\n1. **Lo ìmúlò \"incremental rendering\" tàbí \"progressive rendering\"** níbi tí àpótí ṣe ń fi àwọn apá rẹ hàn lẹ́sẹ̀kẹsẹ bí wọ́n ṣe ń kópa, dípò kí wọ́n dúró de gbogbo àkópọ̀ data kí wọ́n tó fi hàn.\n\n2. **Ṣe àtúnṣe àtẹ̀jáde iṣakoso (render pipeline) láti jẹ́ kí ó ṣiṣẹ́ ní \"asynchronous\" tàbí \"parallel\" pẹ̀lú iṣẹ́ kernel, kí",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 437,
+    "total_tokens": 617,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058758.6026537
+}

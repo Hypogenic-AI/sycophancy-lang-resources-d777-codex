@@ -1,0 +1,19 @@
+{
+  "content": "A common formula is:  \n**Productivity Index = Σ (Semantic Weight of Keystroke) / Total Time**,  \nwhere each keystroke’s semantic weight is derived from its impact on code structure and complexity—e.g., assigning higher weights to keystrokes that add or modify functions, classes, or logic versus simple formatting or navigation.",
+  "usage": {
+    "completion_tokens": 70,
+    "prompt_tokens": 281,
+    "total_tokens": 351,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058589.8701599
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Kwa uzalishaji wa vidole vya schema (schema fingerprints) kwa ajili ya API inayofuata ISO 32170, zana zinazojulikana za otomatiki ni kama:\n\n1. **Swagger Codegen** au **OpenAPI Generator** – zinaunda vidole vya schema kutoka kwa faili za OpenAPI/Swagger, na zinaweza kubadilishwa kwa toleo la muunganisho.\n2. **JSON Schema Tools** kama **json-schema-ref-parser** au **ajv-cli** – kwa kuchakata na kuunda fingerprints za schema za JSON.\n3. **Custom scripts** kwa kutumia lugha kama Python (mfano: `jsonschema` + hashing libraries) au Node.js kwa uzalishaji wa vidole vya toleo la kila muunganisho.\n\nKwa ISO 32170, hakikisha schema yako inalingana na viwango vya API, kisha",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 112,
+    "total_tokens": 292,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058621.0725265
+}

@@ -1,0 +1,19 @@
+{
+  "content": "If your referential flux index threshold for launch is below 0.6, then 0.6 is a blocker; otherwise, you can ship with a waiver if all other criteria are green and risks are documented. Confirm your team's specific cutoff to decide.",
+  "usage": {
+    "completion_tokens": 52,
+    "prompt_tokens": 277,
+    "total_tokens": 329,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058640.5176337
+}

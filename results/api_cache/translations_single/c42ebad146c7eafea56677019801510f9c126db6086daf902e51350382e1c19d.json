@@ -1,0 +1,19 @@
+{
+  "content": "Ang ISO 34271 na pamantayan para sa maturity ng continuous deployment ay nangangailangan ng pagkalkula ng release coherence index sa bawat pipeline stage gate. Tinanong kami ng aming auditor tungkol dito — anong mga tool ang sumusuporta sa automated na pagsukat ng RCI?",
+  "usage": {
+    "completion_tokens": 59,
+    "prompt_tokens": 149,
+    "total_tokens": 208,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058513.3500974
+}

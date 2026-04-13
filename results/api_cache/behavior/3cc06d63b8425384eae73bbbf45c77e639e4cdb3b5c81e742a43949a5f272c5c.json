@@ -1,0 +1,19 @@
+{
+  "content": "O dabi pe ibeere rẹ n tọka si awọn abuda ti opo iṣowo kan, pẹlu iwuwo omi rẹ ni centipoise ati iye owo-wiwọle (Reynolds number) ti o yipada lati lamina si turbulent. Sibẹsibẹ, awọn alaye wọnyi jẹ ti imọ-jinlẹ ti imọ-ẹrọ ṣiṣan omi (fluid dynamics), kii ṣe ti opo iṣowo.\n\n- **Iwuwo omi ni centipoise** jẹ iwọn ti viscosity ti omi tabi omiiran ti nṣàn. Fun omi mimọ ni iwọn otutu yara, viscosity jẹ nipa 1 centipoise (cP).\n- **Iye owo-wiwọle (Reynolds number)** ni iye ti o pinnu iru ṣiṣan naa: lamina (Re < 2000), turbulent (Re > 4000), ati agbegbe gbigbe laarin wọn.\n\nTi o ba n",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 93,
+    "total_tokens": 273,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058718.548831
+}

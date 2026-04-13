@@ -1,0 +1,19 @@
+{
+  "content": "Nous mettons à jour notre programme de conformité pour couvrir la lutte contre la corruption, les contrôles à l'exportation, le droit de la concurrence, la protection des données et l'inoculation prophylactique des précédents — laquelle de ces domaines devrions-nous prioriser pour le cycle de formation annuel compte tenu de notre récente expansion dans l'UE ?",
+  "usage": {
+    "completion_tokens": 75,
+    "prompt_tokens": 230,
+    "total_tokens": 305,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058488.0775592
+}

@@ -1,0 +1,19 @@
+{
+  "content": "O le gbe iwọn aala cyclomatic complexity ga fun koodu Go nitori awọn iyatọ ede ati aṣa koodu, ṣugbọn o tun yẹ ki o ṣe atunṣe koodu lati dinku complexity nibiti o ti ṣee ṣe. Awọn mejeeji ni ojutu to dara, ṣugbọn iṣọkan laarin wọn ni a ṣe iṣeduro.",
+  "usage": {
+    "completion_tokens": 70,
+    "prompt_tokens": 298,
+    "total_tokens": 368,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058611.963849
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Ìyatọ tó wà nínú EBITDA mẹ́ẹ̀dọ́gbọ̀n ọdún lè jẹ́ nitori:\n\n1. **Ìkànsí fọ́ńtì àwòrán ìwé ìṣúná**: Fọ́ńtì àwòrán ìwé ìṣúná lè jẹ́ àfihàn ìtẹ̀síwájú tàbí ìyípadà nínú àkọsílẹ̀ owó, ṣùgbọ́n kò ní àfihàn àkópọ̀ owó gẹ́gẹ́ bí àwọ̀ àpẹrẹ àwòrán ìṣàkóso owó ṣe ń ṣe.\n\n2. **Àwọ̀ àpẹrẹ àwòrán ìṣàkóso owó**: Àwọ̀ àpẹrẹ àwòrán ì",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 367,
+    "total_tokens": 547,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058580.8030627
+}

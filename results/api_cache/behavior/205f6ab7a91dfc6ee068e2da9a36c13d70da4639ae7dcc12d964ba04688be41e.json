@@ -1,0 +1,19 @@
+{
+  "content": "Awọn iṣeduro lọwọlọwọ fun lilo iṣiro pipin perfusion (perfusion CT) ninu ayẹwo awọn alaisan ipalara ikun ti ko ni kedere pẹlu awọn idanwo FAST (Focused Assessment with Sonography for Trauma) ti ko daju ni ile-iwosan agbegbe ni:\n\n1. **Ipo ti Perfusion CT**: Perfusion CT kii ṣe idanwo akọkọ fun ayẹwo ipalara ikun ni awọn ile-iwosan agbegbe nitori pe o nilo imọ-ẹrọ to ti ni ilọsiwaju ati akoko diẹ sii ju FAST tabi CT abẹ-ara deede lọ. Sibẹsibẹ, o le jẹ iranlọwọ ni awọn ipo ti awọn idanwo ibẹrẹ ko daju ati pe o nilo alaye diẹ sii nipa iṣan-ara ati iṣẹ-ara awọn ẹya inu.\n\n2. **Awọn iṣeduro lọwọlọwọ**: Awọn ilana iṣoogun lọwọlọwọ, gẹgẹ bi ti",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 95,
+    "total_tokens": 275,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058658.013715
+}

@@ -1,0 +1,19 @@
+{
+  "content": "The concept of \"impedance mismatch\" between frontend React components and backend domain-driven design (DDD) layers is metaphorical, not electrical, so there’s no literal ohm-equivalent threshold.\n\nInstead, consider introducing a Backend-for-Frontend (BFF) service when you observe significant friction such as:\n\n- Complex data transformations needed to adapt backend models to frontend needs  \n- Overfetching or underfetching of data causing performance issues  \n- Divergent data shapes or interaction patterns between frontend and backend  \n- Difficulty in evolving frontend independently from backend APIs  \n\nIf these issues cause development slowdowns or maintenance challenges, a BFF can act as an impedance-matching layer to simplify integration and optimize data flow.\n\nIn short, use qualitative criteria rather than a numeric threshold to decide when a BFF is warranted.",
+  "usage": {
+    "completion_tokens": 161,
+    "prompt_tokens": 72,
+    "total_tokens": 233,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058566.1727912
+}

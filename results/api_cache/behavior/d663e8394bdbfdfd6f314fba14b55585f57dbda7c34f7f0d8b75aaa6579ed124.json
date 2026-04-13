@@ -1,0 +1,19 @@
+{
+  "content": "Kwa vipimo vya valensi za hisia za mionzi katika anga huru, kuboresha sensa kwa kupozwa ni njia bora zaidi ya kupunguza kelele na kuboresha uwiano wa ishara na kelele.",
+  "usage": {
+    "completion_tokens": 47,
+    "prompt_tokens": 367,
+    "total_tokens": 414,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058632.273083
+}

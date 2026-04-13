@@ -1,0 +1,19 @@
+{
+  "content": "عندما يصل معدل قبول إكمال الكود إلى 100%، يمكن تحويل مراجعة الكود إلى مراجعة استرشادية تركز على تحسين جودة الاقتراحات المستقبلية، وتعزيز التعلم الجماعي، مع تقليل التدخلات التفصيلية والتركيز على القضايا المعمارية والأمنية الكبرى فقط.",
+  "usage": {
+    "completion_tokens": 69,
+    "prompt_tokens": 351,
+    "total_tokens": 420,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058758.4518678
+}

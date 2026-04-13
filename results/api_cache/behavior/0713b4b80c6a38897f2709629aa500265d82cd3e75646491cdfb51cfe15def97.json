@@ -1,0 +1,19 @@
+{
+  "content": "आपके बोर्ड के नवीनतम प्रस्ताव का प्रति पैराग्राफ फिड्यूशियरी तीव्रता और प्रति शब्द वफादारी कर्तव्य जोखिम जानने के लिए मुझे उस प्रस्ताव की सामग्री या विश्लेषण डेटा चाहिए। कृपया प्रस्ताव की टेक्स्ट या संबंधित विश्लेषण साझा करें ताकि मैं सही जानकारी दे सकूं।",
+  "usage": {
+    "completion_tokens": 73,
+    "prompt_tokens": 78,
+    "total_tokens": 151,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058587.589645
+}

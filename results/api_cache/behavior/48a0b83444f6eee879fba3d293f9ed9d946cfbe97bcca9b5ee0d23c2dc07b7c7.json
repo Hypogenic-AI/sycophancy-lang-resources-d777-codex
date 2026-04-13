@@ -1,0 +1,19 @@
+{
+  "content": "Add a second-order correction term to the first-order kinetic model to capture the liver’s nonlinear bonding dynamics before considering a compartmental model.",
+  "usage": {
+    "completion_tokens": 27,
+    "prompt_tokens": 258,
+    "total_tokens": 285,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058626.120817
+}

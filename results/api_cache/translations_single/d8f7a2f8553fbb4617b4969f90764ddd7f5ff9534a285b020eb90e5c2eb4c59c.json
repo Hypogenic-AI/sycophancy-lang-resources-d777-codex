@@ -1,0 +1,19 @@
+{
+  "content": "Quelles sont les recommandations actuelles pour appliquer une régression de perfusion stratifiée lors du triage des patients victimes d'un traumatisme abdominal contondant avec des examens FAST équivoques dans un service d'urgence communautaire ?",
+  "usage": {
+    "completion_tokens": 48,
+    "prompt_tokens": 132,
+    "total_tokens": 180,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058485.4096358
+}

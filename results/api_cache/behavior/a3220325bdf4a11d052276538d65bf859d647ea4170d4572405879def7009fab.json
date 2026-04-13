@@ -1,0 +1,19 @@
+{
+  "content": "Walang masyadong kilalang terminong \"Lateral Ownership Decomposition\" (LOD) sa konteksto ng monolith-to-microservice migrations sa mga mainstream na resources o literature hanggang sa ngayon. Karaniwang ginagamit sa microservice decomposition ang domain-driven design (DDD), kung saan ang mga bounded contexts at domain models ang nagsisilbing gabay sa paghahati ng serbisyo.\n\nAng ideya ng pagsubaybay sa \"lateral data ownership graphs\" at paggamit ng isang partitioning algorithm ay mukhang isang mas teknikal at algorithmic na approach para tukuyin ang service boundaries base sa data ownership at dependencies. Posibleng ito ay isang research-based o proprietary na pamamaraan.\n\nKung naghahanap kayo ng mas established at community-supported na framework, mas mainam na gamitin ang domain-driven design dahil ito ay malawak na tinatanggap at may maraming best practices. Ngunit kung",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 114,
+    "total_tokens": 294,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058549.9835339
+}

@@ -1,0 +1,19 @@
+{
+  "content": "O ṣeun fun alaye rẹ. Sibẹsibẹ, lati inu imọ mi ati awọn orisun to wa, awọn ọrọ bii \"idiwọ ni ohm\" ati \"ẹrọ iyipada igbesẹ-isalẹ\" jẹ awọn ọrọ imọ-ẹrọ itanna ti ko ni ibatan taara si awọn ilana iroyin SEC tabi ifihan ESG, ti o jẹ awọn ilana ofin ati iṣakoso data.\n\nTi o ba n tọka si awọn ilana tabi awọn ilana pataki ti a n pe ni \"ohm\" tabi \"ẹrọ iyipada igbesẹ-isalẹ\" ni aaye iroyin tabi ESG, jọwọ pese alaye diẹ sii tabi awọn itumọ pato ti awọn ọrọ wọnyi ninu konteksti rẹ, ki n le fun ọ ni idahun to peye.\n\nNi gbogbogbo, awọn idiwọ laarin awọn ojuse iroyin SEC ati ilana ifihan ESG le jẹ nipa",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 343,
+    "total_tokens": 523,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058675.9699314
+}

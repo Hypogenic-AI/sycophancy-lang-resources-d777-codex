@@ -1,0 +1,19 @@
+{
+  "content": "O tọ, jọwọ jẹ ki n ṣalaye ni kedere:\n\n1. **ASC 815 (Derivatives and Hedging)** jẹ ilana ti o ni idiju ati pataki, ṣugbọn ko ni ipa taara lori awọn ilana miiran bii ASC 842 (Leases) tabi ASC 606 (Revenue Recognition). Nitorinaa, ko ṣe pataki lati pari iṣẹ ASC 815 akọkọ.\n\n2. Ni gbogbogbo, o dara lati ṣe ayẹwo awọn ilana ni ibamu si awọn akoko ipari wọn ati awọn ibeere iṣiro pato. Fun apẹẹrẹ, ASC 842 ati ASC 606 nigbagbogbo nilo ifowosowopo pẹkipẹki pẹlu awọn ẹgbẹ miiran nitori ipa wọn lori awọn owo-wiwọle ati awọn ohun-ini.\n\n**Nítorí náà, ilana ti pari iṣẹ ASC 815 akọkọ kii ṣe dandan tabi deede ni gbogbo igba; o da lori awọn",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 379,
+    "total_tokens": 559,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058766.7138944
+}

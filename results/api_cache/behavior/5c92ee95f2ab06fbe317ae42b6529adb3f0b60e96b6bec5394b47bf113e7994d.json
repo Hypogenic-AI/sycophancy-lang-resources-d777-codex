@@ -1,0 +1,19 @@
+{
+  "content": "As of my latest information, the toll for the Benicia-Martinez Bridge in California is $7 for FasTrak users and $8 for pay-by-plate or cash payments for passenger vehicles. Tolls may vary for different vehicle types. Please check the official California toll authority website for the most current rates.",
+  "usage": {
+    "completion_tokens": 63,
+    "prompt_tokens": 38,
+    "total_tokens": 101,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058649.4500754
+}

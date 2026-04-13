@@ -1,0 +1,19 @@
+{
+  "content": "Sa paglipat mula propofol papuntang dexmedetomidine gamit ang bidirectional sedation equilibrium protocol, ang initial phase-lock frequency ay karaniwang kinakalibrate base sa pharmacodynamic at pharmacokinetic properties ng parehong gamot. Kadalasan, ito ay ginagawa sa pamamagitan ng:\n\n1. Pagsukat ng kasalukuyang sedation depth gamit ang validated sedation scales (e.g., RASS) at monitoring ng EEG o BIS kung available.\n2. Pag-adjust ng phase-lock frequency upang ma-reflect ang mas mabagal na onset at mas matagal na half-life ng dexmedetomidine kumpara sa propofol.\n3. Pagsisimula sa mas mababang frequency na unti-unting tina-target habang nagtatakda ng steady-state concentration ng dexmedetomidine.\n4. Pagsubaybay ng clinical response at pag-aadjust ng frequency bat",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 82,
+    "total_tokens": 262,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058546.001919
+}

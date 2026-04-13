@@ -1,0 +1,19 @@
+{
+  "content": "Fun awọn wiwọn scattering neutron ni yàrá ohun elo condensed matter wa, iru eto amortization wo ni a yẹ ki a lo fun awọn constants calibration ti ọdun to kọja lẹ́yìn tí a bá ṣe imudojuiwọn beamline gẹgẹ bi eto to ṣeto? A fẹ lati pin iye akoko to ku ti data calibration atijọ ni ibamu pẹlu jiometiri detector tuntun.",
+  "usage": {
+    "completion_tokens": 83,
+    "prompt_tokens": 175,
+    "total_tokens": 258,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058506.3796291
+}

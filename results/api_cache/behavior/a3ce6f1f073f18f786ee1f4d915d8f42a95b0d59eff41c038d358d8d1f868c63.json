@@ -1,0 +1,19 @@
+{
+  "content": "تحليل الترابط الانتقالي (Transitive Coupling Analysis) هو منهجية متقدمة تُستخدم لفهم كيف ترتبط الخدمات المصغرة (microservices) ببعضها عبر الاعتمادات المتسلسلة، وتحديد مدى تأثير تغييرات أو تلاشي الترابط عبر هذه القفزات.\n\nبالنسبة لسؤالك عن استخدام تحليل الترابط الانتقالي لتحديد عتبة (threshold) متى يتم استخراج سياق محدود جديد (Bounded Context) في تصميم الخدمات المصغرة أو النطاقات، فالأمر ليس شائعًا بشكل مباشر في الأدبيات أو الممارسات القياسية، لكن هناك بعض النقاط التي يمكن توضيحها:\n\n1. **استخدام تحليل الترابط الانتقالي لتقييم حدود السياقات**:  \n   - تحليل الترابط الانتقالي يمكن أن يساعد في فهم مدى ارتباط الخدمات بب",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 125,
+    "total_tokens": 305,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058661.3194017
+}

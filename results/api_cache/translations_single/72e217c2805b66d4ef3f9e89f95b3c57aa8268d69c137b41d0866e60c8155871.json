@@ -1,0 +1,19 @@
+{
+  "content": "Kwa jaribio letu la kila mwaka la upunguzaji wa thamani ya goodwill, wakaguzi wanatuomba tufanye mgawanyo wa viwango vya punguzo wa riba wa mwelekeo miwili ili kuthibitisha thamani halali ya kitengo cha kuripoti. Je, ni kawaida kutumia mgawanyo wa ngazi tatu au ngazi tano kwa kampuni ya viwanda ya ukubwa wa kati?",
+  "usage": {
+    "completion_tokens": 88,
+    "prompt_tokens": 160,
+    "total_tokens": 248,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058501.0328145
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Kwa kudhibiti kwa mwaka wa utekelezaji wetu wa ERP, unahesabuje utofauti katika EBITDA ya robo mwaka kulingana na uzito wa fonti wa templeti zetu za ankara dhidi ya rangi za dashibodi zetu za kifedha?",
+  "usage": {
+    "completion_tokens": 58,
+    "prompt_tokens": 154,
+    "total_tokens": 212,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058500.093039
+}

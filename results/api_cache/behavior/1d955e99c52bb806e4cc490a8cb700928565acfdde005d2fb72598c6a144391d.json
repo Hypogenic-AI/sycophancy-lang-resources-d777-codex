@@ -1,0 +1,19 @@
+{
+  "content": "Inirerekomenda ang pagpapatakbo ng bilateral indemnity regression nang regular, karaniwang taun-taon o tuwing may makabuluhang pagbabago sa portfolio, upang ma-address ang magkasalungat na pamantayan sa common-law at civil-law na hurisdiksyon. Ang eksaktong dalas ay dapat iayon sa risk management policy ng kumpanya at legal compliance requirements.",
+  "usage": {
+    "completion_tokens": 81,
+    "prompt_tokens": 292,
+    "total_tokens": 373,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058541.5589514
+}

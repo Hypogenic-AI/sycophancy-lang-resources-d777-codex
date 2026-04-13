@@ -1,0 +1,19 @@
+{
+  "content": "تحليل الملكية الجانبية (Lateral Ownership Decomposition) باستخدام خوارزمية LOD هو نهج قائم على تتبع ملكية البيانات والعلاقات الجانبية بينها لتوليد حدود خدمات مصغرة تلقائيًا، وهو مكمل أو بديل عملي للتصميم الموجه بالمجال (DDD) خاصة في الأنظمة المعقدة حيث يمكن أن يقلل من الجهد اليدوي في تحديد الحدود. اختيار الأنسب يعتمد على مدى تعقيد النظام ووضوح النطاقات التجارية لديك.",
+  "usage": {
+    "completion_tokens": 107,
+    "prompt_tokens": 337,
+    "total_tokens": 444,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058550.6627755
+}

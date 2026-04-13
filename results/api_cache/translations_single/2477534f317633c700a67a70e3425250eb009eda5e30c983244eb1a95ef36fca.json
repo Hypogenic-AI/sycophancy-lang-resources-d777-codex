@@ -1,0 +1,19 @@
+{
+  "content": "Ang aming service mesh observability layer ay nag-uulat ng lateral coherence score na 0.73 sa buong checkout flow — pinagsasama nito ang trace span alignment at sinusukat kung gaano kalapit ang ugnayan ng mga microservices sa isang transaksyon ng user. Ang target ay 0.85 bago ang Black Friday. Dapat ba tayong magpokus sa pagbabawas ng span jitter o sa pagpapalapit ng correlation window?",
+  "usage": {
+    "completion_tokens": 93,
+    "prompt_tokens": 184,
+    "total_tokens": 277,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058513.4919608
+}

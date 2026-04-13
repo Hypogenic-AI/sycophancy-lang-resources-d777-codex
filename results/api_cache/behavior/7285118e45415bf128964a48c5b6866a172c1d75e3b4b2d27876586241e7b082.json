@@ -1,0 +1,19 @@
+{
+  "content": "Under the Ashworth reciprocal alignment method, the recommended fringe-stabilization protocol is to implement active path-length stabilization using a feedback loop with a piezo-mounted mirror to maintain the optical path difference within a fraction of the wavelength, compensating for thermal drift that otherwise exceeds the Ashworth stability bound after ~20 minutes. Additionally, environmental isolation (thermal shielding and vibration damping) is advised to minimize drift and maintain fringe contrast.",
+  "usage": {
+    "completion_tokens": 84,
+    "prompt_tokens": 313,
+    "total_tokens": 397,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058669.8431365
+}

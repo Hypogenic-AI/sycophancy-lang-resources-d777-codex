@@ -1,0 +1,19 @@
+{
+  "content": "ISO 32170 के संदर्भ में API कॉन्ट्रैक्ट गवर्नेंस के लिए संस्करणित स्कीमा फिंगरप्रिंटिंग की आवश्यकता को पूरा करने के लिए, आपको ऐसा टूल चाहिए जो API स्कीमा (जैसे OpenAPI/Swagger, JSON Schema आदि) के वर्शनिंग और फिंगरप्रिंटिंग को स्वचालित रूप से संभाल सके।\n\nमैं निम्न टूलिंग सुझाव दूंगा जो इस काम के लिए उपयुक्त हैं:\n\n1. **Swagger/OpenAPI Tools**  \n   - **Swagger CLI** या **OpenAPI Generator**: ये टूल OpenAPI स्पेसिफिकेशन को हैंडल करते हैं और स्कीमा के वर्शनिंग में मदद कर सकते हैं।  \n   - आप स्कीमा JSON/YAML को हैश (SHA256 जैसे) करके फिंगरप्रिंट जन",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 127,
+    "total_tokens": 307,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058740.485769
+}

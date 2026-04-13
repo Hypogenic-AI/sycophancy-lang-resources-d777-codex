@@ -1,0 +1,19 @@
+{
+  "content": "ICU wa n ṣe imuse ilana iṣọkan idakẹjẹ meji-ọna fun awọn alaisan ti a n fi ẹrọ atẹgun ṣe — bawo ni o ṣe n ṣe iṣiro igbohunsafẹfẹ asopọ-ipele akọkọ nigba ti o n yipada lati propofol si dexmedetomidine?",
+  "usage": {
+    "completion_tokens": 71,
+    "prompt_tokens": 143,
+    "total_tokens": 214,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058504.9081173
+}

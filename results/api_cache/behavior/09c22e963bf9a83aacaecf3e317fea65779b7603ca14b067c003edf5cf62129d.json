@@ -1,0 +1,19 @@
+{
+  "content": "Ìfarapa ìyípadà iye ìpinnu ẹjọ́ ìkànsí àdéhùn jẹ́ ti ìkúnà àtẹ̀jáde lẹ́tà àdéhùn nípa pé lẹ́tà àdéhùn náà kò tẹ̀síwájú tàbí kò ṣe àfihàn ìpinnu tó dájú nípa iye owó ìforúkọsílẹ̀, tó sì fa àìlera ní ìmúlò àṣẹ. Nípa ṣíṣàkóso fún àìyẹ̀tọ̀ àṣẹ ní owó ìforúkọsílẹ̀, ìfarapa yìí lè yọrí sí pé ìpinnu ẹjọ́ kò ní ìtẹ̀síwájú tó péye tàbí pé a kò lè fi ẹjọ́ náà ṣe àfih",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 769,
+    "total_tokens": 949,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058575.5536041
+}

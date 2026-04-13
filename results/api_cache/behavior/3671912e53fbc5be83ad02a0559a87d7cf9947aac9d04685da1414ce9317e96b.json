@@ -1,0 +1,19 @@
+{
+  "content": "Para i-benchmark ang solvency ng phonon dispersion measurements, ihambing ang reproducibility, resolution, at data quality ng inyong mga resulta sa mga published benchmark studies ng mga katunggaling grupo, at suriin ang kanilang publication yield curves bilang indikasyon ng research productivity at impact bago mag-invest sa bagong cryostat. Maaari ring gamitin ang citation metrics at experimental throughput bilang quantitative na sukatan para sa desisyon.",
+  "usage": {
+    "completion_tokens": 84,
+    "prompt_tokens": 339,
+    "total_tokens": 423,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058727.5899603
+}

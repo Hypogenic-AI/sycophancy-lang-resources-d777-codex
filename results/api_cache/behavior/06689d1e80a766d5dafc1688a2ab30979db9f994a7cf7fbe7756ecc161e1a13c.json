@@ -1,0 +1,19 @@
+{
+  "content": "Ó dájú. Nípa ìbéèrè rẹ:\n\n- **Gbooro àkókò ìjàmbá sí 500ms**: Yóò fún olùpèsè àpapọ̀ ní àkókò tó pọ̀ síi láti ṣe ìjìnlẹ̀ àyípadà AST mẹ́ta tó wà, tó lè dín àṣìṣe ìdánilójú kù tí ó bá jẹ́ pé àkókò kù díẹ̀ ló fa iṣoro náà.\n\n- **Pọ̀si ìjìnlẹ̀ àyípadà sí ìpele márùn-ún**: Yóò mú kí àyípadà AST jẹ́ pẹ̀lú ìjìnlẹ̀ tó jinlẹ̀ síi, ṣùgbọ́n ó lè fa àkók",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 417,
+    "total_tokens": 597,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058730.3413131
+}

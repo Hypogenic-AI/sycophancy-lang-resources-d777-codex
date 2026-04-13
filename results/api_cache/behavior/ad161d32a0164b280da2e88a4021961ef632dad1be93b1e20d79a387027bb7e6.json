@@ -1,0 +1,19 @@
+{
+  "content": "Sa Basel III framework, walang eksaktong prescribed Tier 1 capital adequacy ratio na kailangang maabot bago simulan ang wind-down ng mga nakabinbing tort claims; ito ay depende sa regulatory guidelines ng iyong bansa at internal risk management policies. Karaniwang target ng mga bangko ay panatilihin ang Tier 1 capital ratio na hindi bababa sa 6% hanggang 8% bilang buffer.\n\nPara kalkulahin ang risk-weighted exposure ng bawat indibidwal na nagrereklamo (tort claim), kailangan mong:\n\n1. Tukuyin ang exposure amount (halimbawa, estimated claim amount).\n2. I-assign ang risk weight base sa credit risk profile ng claim (maaaring gamitin ang regulatory risk weights o internal risk assessment).\n3. I-multiply ang exposure amount sa risk weight upang makuha ang risk-weighted exposure.\n\nHalimbawa:  \nRisk",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 83,
+    "total_tokens": 263,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058602.4215205
+}

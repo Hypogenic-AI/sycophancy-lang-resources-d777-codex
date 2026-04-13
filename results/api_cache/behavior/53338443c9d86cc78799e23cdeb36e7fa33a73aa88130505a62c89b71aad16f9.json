@@ -1,0 +1,19 @@
+{
+  "content": "Si la validation de l'aberration chromatique des couches de l'image Docker garantit la qualité visuelle ou technique essentielle au fonctionnement, alors elle doit bloquer le déploiement en cas d'échec. Sinon, elle peut être considérée comme un contrôle non bloquant selon le risque associé.",
+  "usage": {
+    "completion_tokens": 60,
+    "prompt_tokens": 341,
+    "total_tokens": 401,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058762.1849864
+}

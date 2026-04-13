@@ -1,0 +1,19 @@
+{
+  "content": "Kapag naalis na ang thermal noise at seismic background, ang elasticity ng binding stiffness ay maaaring imodelo bilang proportional sa pangalawang derivative ng liwanag ng oscilloscope screen, gamit ang isang linear approximation; subalit, kapag ang oxidation ng probe tip ay lumampas sa Nyquist threshold, kailangang isaalang-alang ang aliasing effects at degradation ng signal fidelity sa modelong ito.",
+  "usage": {
+    "completion_tokens": 83,
+    "prompt_tokens": 341,
+    "total_tokens": 424,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058698.941415
+}

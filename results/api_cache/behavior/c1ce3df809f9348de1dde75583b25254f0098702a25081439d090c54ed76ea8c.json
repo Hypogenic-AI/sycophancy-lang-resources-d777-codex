@@ -1,0 +1,19 @@
+{
+  "content": "Ninu imudojuiwọn eto ibamu rẹ fun kẹkẹ ikẹkọ ọdun kan, paapaa niwọn igba ti o ti gbooro si EU laipẹ yii, o yẹ ki o fi pataki si awọn agbegbe wọnyi:\n\n1. **Idena Iwa-ibajẹ (Anti-corruption):** EU ni awọn ilana to muna lori idena iwa-ibajẹ, pẹlu awọn ofin bii EU Anti-Corruption Directive. O ṣe pataki lati kọ awọn oṣiṣẹ lori awọn ilana idena iwa-ibajẹ, awọn ilana iwa-ipa, ati bi a ṣe le ṣe ijabọ awọn iṣẹlẹ iwa-ibajẹ.\n\n2. **Iṣakoso Okeere (Export Controls):** EU ni awọn ofin to muna lori iṣakoso okeere, pẹlu awọn ilana lori awọn ọja ti o ni aabo pataki, imọ-ẹrọ,",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 129,
+    "total_tokens": 309,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058759.5789294
+}

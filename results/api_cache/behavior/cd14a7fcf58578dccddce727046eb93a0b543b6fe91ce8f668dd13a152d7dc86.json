@@ -1,0 +1,19 @@
+{
+  "content": "Certified Platform Reliability Architect (CPRA) परीक्षा के लिए cascading failure topology mapping और canonical failure topology classification जैसे विषयों को समझना महत्वपूर्ण है। ये विषय सिस्टम की विश्वसनीयता और विफलता के पैटर्न को समझने में मदद करते हैं, जिससे आप बेहतर डिज़ाइन और समस्या निवारण कर सकते हैं।\n\n**सबसे अच्छे संसाधन जो मैं सुझाव दूंगा:**\n\n1. **Google SRE Book (Site Reliability Engineering: How Google Runs Production Systems)**  \n   - यह पुस्तक reliability engineering के सिद्धांतों और failure modes को समझने के लिए एक authoritative resource है।  \n   - इसमें failure classification, cascading failures, और system topology के बारे में गहराई से चर्चा है।  \n   - फ्री में ऑनलाइन उपलब्ध है: https://sre.google/sre-book/table-of-contents/\n\n2. **\"Designing Data-Int",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 104,
+    "total_tokens": 284,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058740.5766742
+}

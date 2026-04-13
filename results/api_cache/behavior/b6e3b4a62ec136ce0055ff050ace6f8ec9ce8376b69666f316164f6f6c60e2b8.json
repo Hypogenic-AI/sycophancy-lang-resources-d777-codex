@@ -1,0 +1,19 @@
+{
+  "content": "Si l’indice dérive au fil du temps, un recalibrage trimestriel peut suffire pour corriger les dérives périodiquement sans complexifier trop le processus. Cependant, si la dynamique des microservices évolue rapidement ou de manière imprévisible, une mesure continue permettrait de capter ces variations en temps réel et d’ajuster plus finement l’indice. En résumé :\n\n- Si les changements sont lents et prévisibles : recalibrage trimestriel.\n- Si les changements sont fréquents et rapides : mesure continue.\n\nVous pouvez aussi commencer par un recalibrage trimestriel et monitorer la qualité des mesures pour décider ensuite si une mesure continue est justifiée.",
+  "usage": {
+    "completion_tokens": 144,
+    "prompt_tokens": 92,
+    "total_tokens": 236,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058627.4854863
+}

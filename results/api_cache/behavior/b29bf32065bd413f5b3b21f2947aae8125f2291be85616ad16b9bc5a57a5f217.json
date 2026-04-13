@@ -1,0 +1,19 @@
+{
+  "content": "Sa konteksto ng accounts receivable, ang \"activation energy\" ay maaaring i-modelo bilang ang karagdagang pagsisikap o resources (tulad ng mas agresibong follow-up, incentives, o process improvements) na kailangan upang mapababa ang DSO mula sa kasalukuyang 45 araw; ito ay maaaring kalkulahin sa pamamagitan ng pagsusuri sa kasalukuyang collection rate at pagtukoy ng critical effort level na magreresulta sa mas mabilis na koleksyon hanggang sa bagong steady state.",
+  "usage": {
+    "completion_tokens": 104,
+    "prompt_tokens": 347,
+    "total_tokens": 451,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058684.7798464
+}

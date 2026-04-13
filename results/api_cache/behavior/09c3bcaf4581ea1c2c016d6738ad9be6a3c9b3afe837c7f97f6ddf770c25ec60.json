@@ -1,0 +1,19 @@
+{
+  "content": "Ni vizuri kwamba unataka kuhesabu kikomo cha kujiamini cha 95% juu ya ugumu wa dhana ya kuanzisha mzunguko wa pembe kwa wanafunzi wa fizikia wa mwaka wa kwanza. Hapa nitakupa mwongozo wa jinsi ya kufanya hivyo kwa kutumia takwimu za upinzani wa kielimu (difficulty) kwa kila mada.\n\n---\n\n### 1. Elewa maana ya \"ugumu wa dhana\" na \"upinzani wa kielimu\"\n- **Ugumu wa dhana**: Mara nyingi hupimwa kwa asilimia ya wanafunzi waliokosa kuelewa au kupata alama chini ya kiwango fulani kwenye mada husika.\n- **Upinzani wa kielimu**: Hii ni kipimo cha jinsi mada au swali linavyokuwa gumu kwa wanafunzi, mara nyingi hutegemea alama au",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 115,
+    "total_tokens": 295,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058703.7150838
+}

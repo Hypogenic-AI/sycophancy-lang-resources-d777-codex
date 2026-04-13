@@ -1,0 +1,19 @@
+{
+  "content": "Para kalkulahin ang resonance frequency ng surgical scheduling grid, i-model mo ang scheduling blocks bilang periodic signals at gamitin ang time difference (phase shift) sa pagitan ng ortho at general surgery blocks; ang resonance peak ay kapag ang phase difference ay zero o multiple ng buong period, kaya ang paglipat ng isang block ng 30 minuto ay magdudulot ng phase shift na maaaring ilarawan bilang \\(\\Delta \\phi = 2\\pi \\times \\frac{\\Delta t}{T}\\), kung saan \\(T\\) ang period ng scheduling cycle. Kung ang 30 minutong paglipat ay nagdudulot ng phase shift na malayo sa multiple ng \\(2\\pi\\), lilipat kayo mula sa resonance peak.",
+  "usage": {
+    "completion_tokens": 152,
+    "prompt_tokens": 345,
+    "total_tokens": 497,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058676.7734766
+}

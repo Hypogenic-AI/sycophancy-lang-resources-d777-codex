@@ -1,0 +1,19 @@
+{
+  "content": "صافي مستوى الضوضاء الحرارية في خط أنابيب التكامل المستمر يعكس استقرار البيئة التشغيلية وتأثيرها على دقة نتائج الاختبارات، حيث انخفاض هذا المستوى يعزز من ثبات الأداء. مرونة معدل التقاط العيوب تتناسب طرديًا مع تدرج الحمل المعرفي عبر دورة الاستدعاء، مما يعني أن زيادة تعقيد المعرفة تحسن من قدرة النظام على اكتشاف العيوب ضمن مجموعة الاختبارات.",
+  "usage": {
+    "completion_tokens": 94,
+    "prompt_tokens": 317,
+    "total_tokens": 411,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058693.9626331
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Ndiyo, ni wa kawaida na mara nyingi unaeleweka kuanza na kazi ya ASC 815 (derivatives na mikataba ya ulinzi) kabla ya mengine kama ASC 842 (upangaji) na ASC 606 (mapato), kwa sababu ASC 815 inaweza kuathiri moja kwa moja vipengele vingine vya hesabu na ripoti. Hii husaidia kuhakikisha kuwa mabadiliko au matokeo ya ASC 815 yamezingatiwa kabla ya kuendelea na tathmini za maeneo mengine.",
+  "usage": {
+    "completion_tokens": 111,
+    "prompt_tokens": 137,
+    "total_tokens": 248,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058640.520631
+}

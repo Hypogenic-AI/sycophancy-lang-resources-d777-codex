@@ -1,0 +1,34 @@
+{
+  "gpt-4.1-mini__base": {
+    "low_cap": 4,
+    "low_not": 198,
+    "high_cap": 11,
+    "high_not": 192,
+    "odds_ratio": 0.3526170798898072,
+    "p_value": 0.11166529144479367
+  },
+  "Qwen/Qwen2.5-3B-Instruct__base": {
+    "low_cap": 1,
+    "low_not": 199,
+    "high_cap": 3,
+    "high_not": 197,
+    "odds_ratio": 0.32998324958123953,
+    "p_value": 0.6231131986136624
+  },
+  "Qwen/Qwen2.5-3B-Instruct__truth_prompt": {
+    "low_cap": 0,
+    "low_not": 200,
+    "high_cap": 3,
+    "high_not": 197,
+    "odds_ratio": 0.0,
+    "p_value": 0.24812030075187969
+  },
+  "Qwen/Qwen2.5-3B-Instruct__steered": {
+    "low_cap": 0,
+    "low_not": 200,
+    "high_cap": 0,
+    "high_not": 200,
+    "odds_ratio": NaN,
+    "p_value": 1.0
+  }
+}

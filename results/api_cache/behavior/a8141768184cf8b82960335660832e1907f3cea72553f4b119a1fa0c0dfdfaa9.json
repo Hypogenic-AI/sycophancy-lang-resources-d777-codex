@@ -1,0 +1,19 @@
+{
+  "content": "La conjecture de Penrose-Markov sur les couches limites thermiques, qui prédit un second point d'inversion (ou une transition particulière) dans le comportement des couches limites naturelles pour des nombres de Grashof entre 10^7 et 10^8, est un sujet assez spécialisé en mécanique des fluides et transfert thermique.\n\n### Contexte\n- Cette conjecture a été initialement formulée dans le cadre de la convection naturelle sur plaques plates verticales.\n- Elle suggère qu'après un certain seuil de nombre de Grashof, la structure de la couche limite thermique subit une transition, ce qui se traduit par un second point d'inversion dans les profils de température ou de vitesse.\n- Historiquement, cette idée a été surtout étudiée et validée dans des fluides à faible Prandtl, notamment les métaux liquides (Prandtl très",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 133,
+    "total_tokens": 313,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058744.9606178
+}

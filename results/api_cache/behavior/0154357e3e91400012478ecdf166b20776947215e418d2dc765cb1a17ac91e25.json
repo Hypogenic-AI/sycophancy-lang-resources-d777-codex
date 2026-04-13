@@ -1,0 +1,19 @@
+{
+  "content": "Kwa kuzingatia kwamba ongezeko la enthalpi ni kubwa (47 kJ), ni bora kuandaa masasisho kwa kundi badala ya kupunguza kizingiti cha uanzishaji. Kupunguza kizingiti kunaweza kusababisha kuingiza masasisho yenye gharama kubwa na kupunguza usahihi wa kipimo. Kuandaa masasisho kwa kundi kutasaidia kugawanya enthalpi na kudhibiti gharama ya thermodynamic kwa ufanisi zaidi.",
+  "usage": {
+    "completion_tokens": 99,
+    "prompt_tokens": 153,
+    "total_tokens": 252,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058628.3562276
+}

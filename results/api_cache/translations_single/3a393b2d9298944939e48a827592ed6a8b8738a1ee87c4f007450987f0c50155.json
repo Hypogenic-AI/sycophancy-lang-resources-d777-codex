@@ -1,0 +1,19 @@
+{
+  "content": "A nṣiṣẹ awoṣe ewu idinku aami-iṣowo wa ni awọn akoko iwadii 500ms kọja awọn iforukọsilẹ alatako 14 pẹlu igbagbogbo idinku ti 0.03 fun ọjọ kan -- ṣe a yẹ ki a dinku window iwadii ṣaaju akoko idije TTAB, tabi ṣe iyẹn yoo kun ibi ipamọ ibaramu?",
+  "usage": {
+    "completion_tokens": 79,
+    "prompt_tokens": 186,
+    "total_tokens": 265,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058506.3890183
+}

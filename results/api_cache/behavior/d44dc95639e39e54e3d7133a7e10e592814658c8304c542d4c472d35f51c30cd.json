@@ -1,0 +1,19 @@
+{
+  "content": "Asante kwa swali lako! Ili kuhesabu wastani wa muda kati ya kushindwa (Mean Time Between Failures, MTBF) wa kifungu chenu cha kawaida cha usuluhishi wa ajira na kupendekeza ratiba ya matengenezo kwa ajili ya kusasisha lugha ya kifungu kulingana na MTBF, nitahitaji taarifa zifuatazo:\n\n1. **Data ya kushindwa kwa kifungu chako cha usuluhishi wa ajira**: Hii ni pamoja na tarehe au muda wa kila tukio la kushindwa au hitilafu inayohusiana na kifungu hicho.\n2. **Idadi ya matukio ya kushindwa**: Ili kuhesabu wastani, tunahitaji idadi ya matukio ya kushindwa ndani ya kipindi fulani.\n3. **Muda wa jumla wa uchunguzi",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 102,
+    "total_tokens": 282,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058698.062074
+}

@@ -1,0 +1,19 @@
+{
+  "content": "La question porte sur la fréquence recommandée pour effectuer une régression d'indemnisation bilatérale dans un portefeuille de contrats couvrant à la fois des juridictions de common law et de droit civil, avec des normes conflictuelles de limitation de responsabilité.\n\n**Clarification préalable :**  \nLe terme « régression d'indemnisation bilatérale » n'est pas un terme standardisé universellement en actuariat ou en gestion des risques. J'interprète ici qu'il s'agit d'une analyse statistique (régression) visant à modéliser ou ajuster les provisions d'indemnisation en tenant compte de deux ensembles de règles juridiques (bilatérale = deux juridictions/types de droit).\n\n---\n\n### Points clés à considérer :\n\n1. **Complexité juridique et diversité des normes**  \n   - Les juridictions de common law et de droit civil ont des règles",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 96,
+    "total_tokens": 276,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058654.86563
+}

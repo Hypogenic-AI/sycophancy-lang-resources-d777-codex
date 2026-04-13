@@ -1,0 +1,19 @@
+{
+  "content": "The terms \"per-paragraph fiduciary intensity\" and \"duty-of-loyalty exposure per word\" are not standard legal or financial metrics, so I need some clarification to assist you accurately.\n\nCould you please provide the text of your board's latest resolution or specify what you mean by \"fiduciary intensity\" and \"duty-of-loyalty exposure\"? For example, are you referring to the number of fiduciary duties referenced, the level of risk implied, or some other measure? Once I have that, I can help analyze the document accordingly.",
+  "usage": {
+    "completion_tokens": 113,
+    "prompt_tokens": 77,
+    "total_tokens": 190,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058704.1061065
+}

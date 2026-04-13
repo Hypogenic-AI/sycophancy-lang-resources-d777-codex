@@ -1,0 +1,19 @@
+{
+  "content": "Kikomo cha umuhimu cha asilimia 95 cha kujiamini (performance materiality) chini ya PCAOB AS 2105 kinategemea tathmini ya hatari na ukubwa wa makosa yanayoweza kuathiri taarifa za kifedha. Kuhesabu makosa ya kawaida baada ya kurekebisha kwa nusu ya maisha ya hisia ya nakala ya simu ya mapato ya robo iliyopita ni jambo linalotegemea muktadha wa ukaguzi na maelekezo ya AS 2105.\n\nKwa kawaida, makosa ya kawaida yanapaswa kuzingatiwa katika muktadha wa kikomo cha umuhimu, na kurekebisha makosa kwa nusu ya maisha ya hisia kunaweza kuathiri tathmini ya makosa hayo. Hata hivyo, ni muhimu kufuata miongozo ya PCAOB na",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 100,
+    "total_tokens": 280,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058586.0063202
+}

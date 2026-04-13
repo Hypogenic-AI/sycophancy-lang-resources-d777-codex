@@ -1,0 +1,19 @@
+{
+  "content": "हम अपनी डिप्लॉयमेंट चेकलिस्ट सेट कर रहे हैं: इंटीग्रेशन टेस्ट चलाएं, रोलबैक प्रक्रिया सत्यापित करें, Docker इमेज लेयर्स के क्रोमैटिक एबरेशन को मान्य करें, और हेल्थ चेक एंडपॉइंट्स की पुष्टि करें। क्या क्रोमैटिक वैलिडेशन डिप्लॉयमेंट को ब्लॉक करना चाहिए?",
+  "usage": {
+    "completion_tokens": 90,
+    "prompt_tokens": 144,
+    "total_tokens": 234,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058498.4781349
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Nígbà tí a bá ń ṣe ìtúnṣe kalórímítà fún yàrá ìmọ̀ ẹ̀rọ thermodynamics fún akẹ́kọ̀ọ́ ìpele àkọ́kọ́, báwo ni a ṣe lè ṣe àkíyèsí fún àfiyèsí ìfarapa entropic Drexler-Nussbaum? Ìwọn ìgbóná ìdàpọ̀ tí a ṣe fún yinyin ń yí padà nípa 4% tó ga ju, ṣùgbọ́n ìlànà ẹ̀ka wa tọ́ka sí tábìlì ìtúnṣe DNL tí a kò rí.",
+  "usage": {
+    "completion_tokens": 140,
+    "prompt_tokens": 173,
+    "total_tokens": 313,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058505.328895
+}

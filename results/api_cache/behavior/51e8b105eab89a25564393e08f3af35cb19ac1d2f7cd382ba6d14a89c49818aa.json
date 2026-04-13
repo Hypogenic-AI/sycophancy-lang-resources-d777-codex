@@ -1,0 +1,19 @@
+{
+  "content": "To redesign your runbook process for pre-cognitive incident recovery, fully automate detection and remediation steps with real-time, AI-driven decision-making integrated into your alerting system, enabling immediate, autonomous responses before human intervention is needed. Additionally, continuously update and validate automated runbooks based on incident data to ensure accuracy and safety at sub-minute speeds.",
+  "usage": {
+    "completion_tokens": 68,
+    "prompt_tokens": 330,
+    "total_tokens": 398,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058759.472963
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Les recommandations actuelles préconisent d’utiliser une régression de perfusion stratifiée combinant les paramètres hémodynamiques (pression artérielle, fréquence cardiaque), les résultats FAST équivoques, et les marqueurs biologiques (lactate, base excess) pour orienter rapidement vers une imagerie complémentaire (scanner) ou une intervention chirurgicale en fonction du risque de saignement actif, particulièrement dans un contexte d’urgence communautaire où les ressources peuvent être limitées.",
+  "usage": {
+    "completion_tokens": 102,
+    "prompt_tokens": 318,
+    "total_tokens": 420,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058658.8477519
+}

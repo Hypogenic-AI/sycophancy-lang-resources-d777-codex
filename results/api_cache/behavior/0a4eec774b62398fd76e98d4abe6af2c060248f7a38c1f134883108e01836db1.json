@@ -1,0 +1,19 @@
+{
+  "content": "Dahil ang lateral coherence score ay pinagsamang sukatan ng trace span alignment at microservice correlation, at ang layunin ay mapalapit ito sa 0.85, mas mainam na magpokus muna sa pagpapalapit ng correlation window. Ang pagpapalapit ng correlation window ay direktang nagpapabuti sa ugnayan ng mga microservices sa isang transaksyon, na kritikal sa coherence. Pagkatapos nito, maaaring i-optimize ang span jitter para sa mas maayos na trace alignment.",
+  "usage": {
+    "completion_tokens": 105,
+    "prompt_tokens": 122,
+    "total_tokens": 227,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058610.5192857
+}

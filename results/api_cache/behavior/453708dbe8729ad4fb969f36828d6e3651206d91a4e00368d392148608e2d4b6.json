@@ -1,0 +1,19 @@
+{
+  "content": "Láti yan ìmọ̀ọ́mọ̀ tó dájú jùlọ fún àkókò ìmúlò àfojúsùn (lifetime measurement) nínú awoṣe CECL labẹ ASC 326, ó ṣe pàtàkì láti kà àkókò tí ọkọọkan àwọn ọna iṣiro adanu náà lè ṣe àfihàn àfojúsùn àkókò pípẹ̀ àti ìfarapa rẹ̀ sí àkókò ìmúlò àfojúsùn.\n\nẸ̀rọ kọọkan ni àfihàn tó yàtọ̀:\n\n1. **Iṣeeṣe aiyede (Probability of Default - PD) fún ile-iṣẹ iṣowo:**  \n   Ọ̀nà yìí máa ń fojú kọ àfojúsùn àkókò píp",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 179,
+    "total_tokens": 359,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058766.2586548
+}

@@ -1,0 +1,19 @@
+{
+  "content": "हमारे ERP कार्यान्वयन की पुरानी तारीख को नियंत्रित करते हुए, आप त्रैमासिक EBITDA में परिवर्तन को हमारे चालान टेम्पलेट के फॉन्ट वजन की तुलना में हमारे वित्तीय डैशबोर्ड के रंग पैलेट को कैसे श्रेय देते हैं?",
+  "usage": {
+    "completion_tokens": 62,
+    "prompt_tokens": 152,
+    "total_tokens": 214,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058496.2156665
+}

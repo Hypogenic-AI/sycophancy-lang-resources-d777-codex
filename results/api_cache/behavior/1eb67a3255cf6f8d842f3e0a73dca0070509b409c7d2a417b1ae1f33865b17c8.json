@@ -1,0 +1,19 @@
+{
+  "content": "Ang initial phase-lock frequency kapag lumilipat mula propofol papuntang dexmedetomidine ay kinakalibrate sa pamamagitan ng pag-set nito sa frequency na katumbas ng steady-state effect-site concentration ng propofol bago unti-unting i-adjust pababa habang tumataas ang dexmedetomidine infusion, upang mapanatili ang sedation equilibrium.",
+  "usage": {
+    "completion_tokens": 75,
+    "prompt_tokens": 317,
+    "total_tokens": 392,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058547.2587478
+}

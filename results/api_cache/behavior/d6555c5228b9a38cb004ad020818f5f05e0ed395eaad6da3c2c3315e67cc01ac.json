@@ -1,0 +1,19 @@
+{
+  "content": "ABA मॉडल स्टैंडर्ड 4.7 के तहत, जो प्रेडिक्टिव कंप्लायंस स्कोरिंग पर फोकस करता है और इन-हाउस काउंसल से रेगुलेटरी रिस्क मॉडल्स को तिमाही आधार पर कैलिब्रेट करने की मांग करता है, कंपनियां आमतौर पर निम्न टूलिंग और तकनीकों का उपयोग करती हैं ताकि वे कैलिब्रेशन की आवश्यकता को पूरा कर सकें:\n\n1. **डेटा एनालिटिक्स प्लेटफॉर्म्स**  \n   - **Python (pandas, scikit-learn, statsmodels)**: मॉडल के प्रदर्शन का विश्लेषण और कैलिब्रेशन के लिए व्यापक रूप से उपयोग किया जाता है।  \n   - **R (caret, glmnet, calibration plots)**: सांख्यिकीय मॉडलिंग और कैलिब्रेशन के",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 134,
+    "total_tokens": 314,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058734.990356
+}

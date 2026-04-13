@@ -1,0 +1,19 @@
+{
+  "content": "Les entreprises utilisent généralement des outils statistiques comme SAS, R ou Python pour recalibrer leurs modèles de risque réglementaire chaque trimestre, en s'appuyant sur des techniques de validation croisée et d'ajustement des paramètres conformément à la norme ABA 4.7.",
+  "usage": {
+    "completion_tokens": 54,
+    "prompt_tokens": 285,
+    "total_tokens": 339,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058615.0803778
+}

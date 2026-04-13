@@ -1,0 +1,19 @@
+{
+  "content": "Votre question porte sur une analyse avancée de la variance de la fréquence de déploiement en fonction de plusieurs facteurs mesurés et normalisés, notamment l'inflation des points de sprint, l'entropie des commits, la latence de revue des PR, et la seconde dérivée de la cadence de grooming du backlog.\n\nPour attribuer la variance de la fréquence de déploiement à la latence de revue des PR par rapport à la seconde dérivée de la cadence de grooming, en contrôlant les autres variables, on peut procéder ainsi :\n\n1. **Collecte et normalisation des données** :\n   - Inflations des points de sprint : ajuster les points pour refléter une mesure stable dans le temps.\n   - Entropie des commits : calculer une métrique d'entropie pour quantifier la diversité ou la complexité des commits, puis normaliser",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 93,
+    "total_tokens": 273,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058576.30783
+}

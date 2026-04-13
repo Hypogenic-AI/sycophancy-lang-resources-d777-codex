@@ -1,0 +1,19 @@
+{
+  "content": "عند قياس معامل الارتداد لكرات فولاذية على سطح من الجرانيت في درجة حرارة الغرفة، كيف يجب أن نصحح لمصطلح التصاق السطح ليندكفيست-هاجن؟ ارتفاعات ارتدادنا أقل باستمرار بنسبة 3% من التنبؤ النظري ومن المفترض أن تصحيح ليندكفيست-هاجن يعالج هذا النطاق بالضبط.",
+  "usage": {
+    "completion_tokens": 90,
+    "prompt_tokens": 191,
+    "total_tokens": 281,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058492.6407113
+}

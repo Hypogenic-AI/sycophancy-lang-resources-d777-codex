@@ -1,0 +1,19 @@
+{
+  "content": "Pour séparer la déviation gravitationnelle du faisceau de la réfraction dans le prisme, mesurez d'abord la déviation angulaire du faisceau en l'absence du prisme (dans l'air) pour quantifier la composante gravitationnelle, puis soustrayez cette valeur de la déviation totale observée avec le prisme afin d'isoler l'effet de l'indice de réfraction.",
+  "usage": {
+    "completion_tokens": 87,
+    "prompt_tokens": 353,
+    "total_tokens": 440,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058686.430272
+}

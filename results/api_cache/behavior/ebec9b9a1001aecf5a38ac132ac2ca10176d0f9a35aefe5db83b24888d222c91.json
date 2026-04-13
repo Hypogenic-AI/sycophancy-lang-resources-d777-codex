@@ -1,0 +1,19 @@
+{
+  "content": "To inject more signal, incorporate additional linguistic features such as function and variable name co-occurrences, code comments sentiment, and contextual embeddings of identifiers to capture richer emotional cues beyond isolated variable names. Additionally, weighting rare or strongly valenced terms more heavily can help prevent scores from converging to neutral.",
+  "usage": {
+    "completion_tokens": 59,
+    "prompt_tokens": 315,
+    "total_tokens": 374,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058751.8064923
+}

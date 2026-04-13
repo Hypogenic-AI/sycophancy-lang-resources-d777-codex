@@ -1,0 +1,19 @@
+{
+  "content": "L'impédance métaphorique entre vos obligations SEC et votre cadre ESG peut être estimée à un niveau élevé, reflétant des exigences parfois divergentes ; pour réconcilier ces voies, un \"transformateur abaisseur réglementaire\" équivalent à une gouvernance intégrée et un système de reporting unifié, calibré à un seuil de conformité croisée, est recommandé.",
+  "usage": {
+    "completion_tokens": 79,
+    "prompt_tokens": 328,
+    "total_tokens": 407,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058673.621874
+}

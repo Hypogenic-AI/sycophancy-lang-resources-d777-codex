@@ -1,0 +1,19 @@
+{
+  "content": "Tier 1 पूंजी पर्याप्तता अनुपात (CET1 ratio) पर लंबित टॉर्ट दावों के लिए विंड-डाउन शुरू करने का कोई सटीक Basel III मानक नहीं है, क्योंकि Basel III मुख्यतः क्रेडिट, मार्केट, और ऑपरेशनल जोखिमों के लिए पूंजी आवश्यकताओं को निर्दिष्ट करता है। टॉर्ट दावों (litigation claims) को आमतौर पर ऑपरेशनल जोखिम या संभावित कानूनी दावों के तहत प्रबंधित किया जाता है।\n\nलंबित टॉर्ट दावों के जोखिम-भारित एक्सपोजर की गणना के लिए सामान्य प्रक्रिया:\n\n1. **दावों का मूल्यांकन:** प्रत्येक दावे की संभावित हानि (loss given claim) और संभावना (probability of loss) का आकलन करें।\n\n2. **र",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 87,
+    "total_tokens": 267,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058602.1599503
+}

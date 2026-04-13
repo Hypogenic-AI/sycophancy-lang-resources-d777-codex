@@ -1,0 +1,19 @@
+{
+  "content": "Narito ang karaniwang inirerekomendang SLA response times para sa bawat alert tier base sa urgency:\n\n- **P1 (Service outages):** 15 minuto o mas mababa — critical issue na kailangang agad aksyunan.\n- **P2 (Latency degradation):** 30 minuto hanggang 1 oras — mahalaga pero hindi agad life-threatening.\n- **P3 (Log entropy inversion):** 4 na oras — indikasyon ng potential issue, pero hindi agad emergency.\n- **P4 (Resource utilization warnings):** 1 araw (24 oras) — preventive alerts na pwedeng planuhin ang aksyon.\n\nPwede mo itong i-adjust depende sa iyong operational capacity at business impact.",
+  "usage": {
+    "completion_tokens": 146,
+    "prompt_tokens": 99,
+    "total_tokens": 245,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058639.5692914
+}

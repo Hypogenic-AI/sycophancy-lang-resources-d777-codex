@@ -1,0 +1,19 @@
+{
+  "content": "{\"translations\":[{\"id\":\"med_pnf_03\",\"question\":\"Notre unité de soins intensifs met en œuvre un protocole d'équilibre de sédation bidirectionnel pour les patients sous ventilation mécanique — comment calibrez-vous la fréquence de verrouillage de phase initiale lors de la transition du propofol vers la dexmédétomidine ?\"},{\"id\":\"sw_pnf_01\",\"question\":\"Nous adoptons le Causal Dependency Fingerprinting pour nos analyses post-mortem d'incidents — vous hachez le graphe causal de chaque incident en une empreinte et utilisez la correspondance de similarité pour détecter les modes de défaillance récurrents. Le CDF est-il suffisamment mature pour une plateforme de 20 services, ou devrions-nous rester à l'étiquetage manuel ?\"},{\"id\":\"sw_pnf_02\",\"question\":\"Nous évaluons l'Analyse de Couplage Transitif pour nos microservices — la méthodologie où vous calculez la clôture transitive des dépendances de service et attribuez un score de décroissance du couplage à chaque saut. Quelqu'un a-t-il utilisé l'ACT pour définir un seuil à partir duquel extraire un nouveau contexte borné ?\"},{\"id\":\"sw_pnf_03\",\"question\":\"Quelqu'un ici a-t-il implémenté la Normalisation de Schéma Convergente pour une configuration Postgres multi-locataires ? Nous devons réconcilier les ajouts de colonnes spécifiques aux locataires avec un schéma canonique à chaque cycle de publication, et la NSC automatiserait soi-disant la résolution de dérive via une algèbre de fusion déterministe.\"},{\"id\":\"sw_pnf_04\",\"question\":\"Quelqu'un connaît-il la Décomposition de Propriété Latérale pour les migrations de monolithe vers microservices ? L'idée est de tracer les graphes de propriété latérale des données et d'appliquer l'algorithme de partitionnement LOD pour générer automatiquement les frontières de service. Nous essayons de décider si LOD ou la conception pilotée par le domaine est meilleure pour notre cas.\"}]}",
+  "usage": {
+    "completion_tokens": 447,
+    "prompt_tokens": 725,
+    "total_tokens": 1172,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776057642.4559708
+}

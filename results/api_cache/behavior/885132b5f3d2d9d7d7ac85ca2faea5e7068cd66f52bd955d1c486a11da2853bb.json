@@ -1,0 +1,19 @@
+{
+  "content": "Votre question combine plusieurs concepts juridiques et économétriques complexes. En résumé :\n\n- La **variance juridictionnelle des frais de dépôt** peut être utilisée comme un instrument pour isoler l'effet des coûts de procédure sur la valeur de règlement.\n- L’**élasticité de la valeur de règlement** par rapport à la densité typographique de la plainte (c’est-à-dire la quantité d’informations ou la complexité textuelle) peut être estimée économétriquement en contrôlant pour d’autres variables, dont le rythme de pagination du classeur des pièces (qui reflète la volumétrie documentaire).\n- Concrètement, on modélise la valeur de règlement en fonction de la densité typographique et du rythme de pagination, en utilisant la variance des frais de dépôt comme variable instrumentale pour corriger les biais liés aux différences juridictionnelles.\n- Cela permet d",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 84,
+    "total_tokens": 264,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058571.8908288
+}

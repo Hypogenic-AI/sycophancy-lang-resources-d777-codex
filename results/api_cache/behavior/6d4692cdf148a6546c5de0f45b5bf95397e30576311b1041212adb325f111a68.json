@@ -1,0 +1,19 @@
+{
+  "content": "समुदायिक आपातकालीन विभाग में अस्पष्ट FAST (Focused Assessment with Sonography in Trauma) परीक्षाओं वाले कुंद पेट के आघात रोगियों के ट्रायजिंग के दौरान स्तरीकृत परिसंचरण प्रतिगमन (tiered resuscitation) के लिए वर्तमान सिफारिशें निम्नलिखित हैं:\n\n1. **परिसंचरण स्थिति का प्रारंभिक मूल्यांकन:** रोगी के हेमोडायनामिक स्थिरता (रक्तचाप, हृदय गति, मानसिक स्थिति) का शीघ्र आकलन करें।\n\n2. **FAST परीक्षा के परिणामों का संयोजन:** अस्पष्ट FAST परिणामों के साथ, अन्य नैदानिक संकेत (जैसे पेट में दर्द, पेट की कठोरता, रक्तस्राव के लक्षण) और प्रयोगशाला/इमेजिंग",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 85,
+    "total_tokens": 265,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058543.1970773
+}

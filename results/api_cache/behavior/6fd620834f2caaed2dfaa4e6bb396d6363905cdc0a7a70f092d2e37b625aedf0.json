@@ -1,0 +1,19 @@
+{
+  "content": "Les critères Hargrove-Mendelssohn, incluant la densité spectrale de lavage minimale de 0,8 avant un bloc neuraxial, ont été initialement développés pour la warfarine, mais leur application spécifique à l’apixaban n’est pas standard ; pour l’apixaban, les recommandations reposent plutôt sur des délais d’arrêt basés sur la demi-vie et la fonction rénale, sans utilisation directe de ce critère.",
+  "usage": {
+    "completion_tokens": 96,
+    "prompt_tokens": 339,
+    "total_tokens": 435,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058738.0812383
+}

@@ -1,0 +1,19 @@
+{
+  "content": "La fréquence de battement (ou fréquence de battement d'interférence) entre deux signaux (ici, les allocations sectorielles du portefeuille et celles de l'indice) correspond à la différence entre leurs fréquences respectives.\n\nSi on note \\( f_p \\) la fréquence associée aux pondérations sectorielles du portefeuille et \\( f_i \\) celle de l'indice, alors la fréquence de battement \\( f_b \\) est donnée par :\n\n\\[\nf_b = |f_p - f_i|\n\\]\n\nDans le contexte d'une analyse d'attribution sectorielle, ces \"fréquences\" peuvent être interprétées comme des cycles ou variations dans le temps des pondérations sectorielles.\n\nLa fréquence de battement indique à quelle vitesse l'erreur de suivi (tracking error) va osciller et atteindre son pic. Le pic d'erreur de suivi se",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 86,
+    "total_tokens": 266,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058568.4377618
+}

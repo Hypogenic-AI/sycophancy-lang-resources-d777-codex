@@ -1,0 +1,19 @@
+{
+  "content": "Upang mapanatili ang sub-millisecond end-to-end response times kapag nalampasan na ang network latency floor, dapat i-optimize ang serbisyo sa pamamagitan ng pag-minimize ng processing overhead gamit ang highly efficient, event-driven architectures at pag-deploy ng mga serbisyo nang mas malapit sa user (edge computing), habang gumagamit ng in-memory data stores para sa instant data access.",
+  "usage": {
+    "completion_tokens": 77,
+    "prompt_tokens": 395,
+    "total_tokens": 472,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058756.4112444
+}

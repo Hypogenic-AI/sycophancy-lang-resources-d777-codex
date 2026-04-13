@@ -1,0 +1,19 @@
+{
+  "content": "For a mid-market SaaS target with material IP concentration, the differential indemnity decomposition should be granular enough to separately address IP-related risks, data privacy/security issues, general reps and warranties, and tax matters, ensuring each category reflects the specific risk profile and value impact of the SaaS business. Typically, this means at least 4–6 distinct indemnity buckets tailored to the key risk areas.",
+  "usage": {
+    "completion_tokens": 80,
+    "prompt_tokens": 298,
+    "total_tokens": 378,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058655.8694644
+}

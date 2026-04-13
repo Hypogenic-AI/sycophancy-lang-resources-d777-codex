@@ -1,0 +1,19 @@
+{
+  "content": "Lati ṣe atunṣe fun titẹ Pauli exclusion laarin awọn elekitironi gbigbe ni ọpa irin alagbara, o yẹ ki a lo awoṣe Fermi-Dirac fun pinpin awọn elekitironi dipo pinpin Boltzmann ti o rọrun. Eyi tumọ si pe o gbọdọ ṣe iṣiro awọn ipele agbara elekitironi pẹlu ifiyesi si idiwọ Pauli, eyiti o ṣe idiwọ awọn elekitironi meji lati wa ni ipo kanna ni akoko kanna.\n\nNi iṣe, eyi maa n jẹ ki o ṣe atunṣe awọn iye ti o gba nipa fifi ifosiwewe Fermi-Dirac kun si iṣiro ifọwọkan ooru, eyiti o le dinku awọn iye nipa diẹ ninu ida ọgọrun (ninu ọran rẹ, nipa 5%). Eyi ni a ṣe nipa lilo iṣẹ pinpin F",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 113,
+    "total_tokens": 293,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058570.6704867
+}

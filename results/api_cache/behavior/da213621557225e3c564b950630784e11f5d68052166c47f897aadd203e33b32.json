@@ -1,0 +1,19 @@
+{
+  "content": "The ABA Model Standard 4.7 on predictive compliance scoring emphasizes regular calibration of regulatory risk models, typically quarterly, to ensure accuracy and reliability. Firms commonly use a combination of the following tooling to satisfy this requirement:\n\n1. **Data Analytics Platforms:** Tools like SAS, R, Python (with libraries such as scikit-learn, pandas), or specialized compliance analytics software to analyze model performance metrics and recalibrate as needed.\n\n2. **Governance, Risk, and Compliance (GRC) Software:** Platforms such as MetricStream, RSA Archer, or NAVEX Global that integrate risk modeling with compliance workflows and provide audit trails for calibration activities.\n\n3. **Model Management Solutions:** Software like IBM OpenPages or FICO Model Risk Manager that support version control, validation, and periodic recalibration of predictive models.\n\n4. **Business Intelligence Tools:** Tableau, Power BI, or Qlik to visualize model",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 66,
+    "total_tokens": 246,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058614.3086681
+}

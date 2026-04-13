@@ -1,0 +1,19 @@
+{
+  "content": "Kwanza, ni muhimu kuelewa madhumuni ya oscillator ya kufunika ukwasi (liquidity coverage ratio oscillator) na jinsi vigezo vyake vinavyoathiri matokeo, hasa wakati wa vipindi vya msongo.\n\n- **Mtazamo wa siku 14** ni kawaida kwa LCR (Liquidity Coverage Ratio) kwa sababu inalingana na kipindi cha kawaida cha msongo wa kifedha (stress period) kinachotumika katika viwango vya kisheria kama CCAR.\n- **Koefisienti ya kupunguza (decay factor) 0.85** inaonyesha jinsi uzito unavyopungua kwa data za zamani; kupunguza kidogo (kama 0.85) hutoa uzito mkubwa kwa data za hivi karibuni, na kupunguza zaidi (kama 0.92) hutoa uzito md",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 134,
+    "total_tokens": 314,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058732.6616547
+}

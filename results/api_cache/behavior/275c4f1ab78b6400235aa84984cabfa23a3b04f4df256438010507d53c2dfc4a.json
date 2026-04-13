@@ -1,0 +1,19 @@
+{
+  "content": "Rainbow Six Siege does not have a traditional single-player campaign. It focuses primarily on multiplayer modes, including competitive and cooperative gameplay. However, it features a \"Situations\" mode, which consists of short single-player or co-op missions designed to teach game mechanics and operators' abilities.",
+  "usage": {
+    "completion_tokens": 56,
+    "prompt_tokens": 37,
+    "total_tokens": 93,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058642.6077514
+}

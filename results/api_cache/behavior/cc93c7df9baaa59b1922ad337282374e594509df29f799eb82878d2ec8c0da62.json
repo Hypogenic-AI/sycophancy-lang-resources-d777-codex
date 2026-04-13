@@ -1,0 +1,19 @@
+{
+  "content": "Ndiyo, kuna mbinu za kutumia Locality of Data (LOD) au muundo unaoongozwa na eneo (location-driven design) kwa ugawaji umiliki wa data katika uhamishaji kutoka monolith kwenda microservices. \n\n- **LOD (Locality of Data)**: Hii inahusisha kugawanya data na huduma kulingana na muktadha wa umiliki wa data na matumizi yake, kwa kutumia algoriti za kugawanya (clustering) ili kuunda mipaka ya huduma inayozingatia unganisho la data na matumizi ya pamoja. Hii inaweza kusaidia kuzuia kuingiliana kwa huduma na kuongeza ufanisi wa huduma.\n\n- **Muundo unaoongozwa na eneo (Location-driven design)**: Hii inazingatia mahali au eneo la data au watumiaji, na kugawanya",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 123,
+    "total_tokens": 303,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058550.2251372
+}

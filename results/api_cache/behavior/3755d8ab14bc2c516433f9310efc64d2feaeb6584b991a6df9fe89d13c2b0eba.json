@@ -1,0 +1,19 @@
+{
+  "content": "Magandang tanong ito, lalo na kapag ang latency ng API ay bumaba na sa punto na ang network latency na mismo ang nagiging bottleneck. Kapag nalampasan niyo na ang network latency floor (halimbawa, mas mababa sa 1ms), kailangan ng pagbabago sa arkitektura para mapanatili ang sub-millisecond end-to-end response times. Narito ang ilang mga rekomendasyon:\n\n1. **Edge Computing / Distributed Services**  \n   - Ilapit ang compute at data sa mga user o client sa pamamagitan ng pag-deploy ng mga serbisyo sa edge nodes o sa mga datacenter na pinakamalapit sa kanila.  \n   - Sa ganitong paraan, mababawasan ang network round-trip time dahil hindi na kailangang lumakbay ang request sa malalayong datacenter.\n\n2. **In-Memory Data Stores at Caching**  \n  ",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 160,
+    "total_tokens": 340,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058755.1999495
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Ó dáa, ẹ jọ̀ọ́, ẹ jẹ́ kí n dáhùn ní kedere.\n\n1. **Báwo ni a ṣe ń ṣe ìṣirò ìgbà ìfarapa ìbáṣepọ̀ (hazard ratio) fún àtòjọ ìṣètò iṣẹ́ abẹ́?**  \n   - A máa kó data ìṣẹ̀lẹ̀ ìfarapa àti àkókò tó gba kí ìṣẹ̀lẹ̀ náà ṣẹlẹ̀ fún àwọn aláìlera ní ẹgbẹ́ ortho àti ẹgbẹ́ gbogbogbo.  \n   - Lẹ́yìn náà, a máa lo **Cox proportional hazards regression model** láti ṣe àfihàn ìbáṣepọ̀ àkókò iṣẹ́ abẹ́ pẹ̀lú ìfarapa, tí yó",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 414,
+    "total_tokens": 594,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058677.6596444
+}

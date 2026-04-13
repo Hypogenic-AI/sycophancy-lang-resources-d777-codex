@@ -1,0 +1,19 @@
+{
+  "content": "Asante kwa swali lako kuhusu orodha ya ukaguzi kabla ya upasuaji wa cholecystectomy.\n\nKwanza, ni muhimu kuelewa kwamba \"upimaji wa mzunguko wa resonance wa pyloric\" sio kipimo kinachojulikana au kinachotumika kawaida katika muktadha wa upasuaji wa cholecystectomy au ukaguzi wa kabla ya upasuaji. Inawezekana kuna makosa ya istilahi au tafsiri hapa. Ikiwa unamaanisha kipimo kingine cha kawaida (kama ultrasound, CT scan, au kipimo kingine cha kliniki), tafadhali thibitisha ili niweze kusaidia kwa usahihi zaidi.\n\nKwa upande wa orodha ya ukaguzi kabla ya upasuaji (surgical safety checklist), hatua ya \"time-out\" ni kipindi muhimu sana ambapo timu ya",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 152,
+    "total_tokens": 332,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058760.8267682
+}

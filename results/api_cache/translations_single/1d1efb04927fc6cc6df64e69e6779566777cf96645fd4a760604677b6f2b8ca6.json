@@ -1,0 +1,19 @@
+{
+  "content": "हम अपने माइक्रोसर्विसेज के लिए ट्रांजिटिव कपलिंग एनालिसिस का मूल्यांकन कर रहे हैं — वह पद्धति जिसमें आप सेवा निर्भरताओं का ट्रांजिटिव क्लोजर निकालते हैं और प्रत्येक हॉप के लिए एक कपलिंग डिके स्कोर असाइन करते हैं। क्या किसी ने TCA का उपयोग करके यह निर्धारित करने के लिए एक थ्रेशोल्ड सेट किया है कि कब एक नया बाउंडेड कॉन्टेक्स्ट एक्सट्रैक्ट करना चाहिए?",
+  "usage": {
+    "completion_tokens": 115,
+    "prompt_tokens": 167,
+    "total_tokens": 282,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058496.4645195
+}

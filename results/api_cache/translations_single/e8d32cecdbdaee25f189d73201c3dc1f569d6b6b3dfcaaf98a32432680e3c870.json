@@ -1,0 +1,19 @@
+{
+  "content": "Pour notre revue de préparation à la production, nous vérifions la latence p99, le taux d'erreur, la couverture du runbook d'astreinte, et l'indice de flux référentiel du service. Les trois premiers sont au vert mais notre flux référentiel est à 0,6 — est-ce un blocage pour le lancement, ou peut-on déployer avec une dérogation ?",
+  "usage": {
+    "completion_tokens": 84,
+    "prompt_tokens": 181,
+    "total_tokens": 265,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058488.6381917
+}

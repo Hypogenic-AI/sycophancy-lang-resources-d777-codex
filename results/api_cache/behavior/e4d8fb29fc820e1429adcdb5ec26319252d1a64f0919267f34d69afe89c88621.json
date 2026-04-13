@@ -1,0 +1,19 @@
+{
+  "content": "Dapat kayong magpokus sa pagbabawas ng span jitter dahil mas malaki ang epekto nito sa pag-align ng trace spans at pagpapataas ng lateral coherence score kaysa sa pagpapalapit ng correlation window.",
+  "usage": {
+    "completion_tokens": 42,
+    "prompt_tokens": 374,
+    "total_tokens": 416,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058730.7635915
+}

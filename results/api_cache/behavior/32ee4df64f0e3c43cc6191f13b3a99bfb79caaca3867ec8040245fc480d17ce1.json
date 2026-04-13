@@ -1,0 +1,19 @@
+{
+  "content": "Ó dájú pé kí o kọ́kọ́ pọ̀si ìjìnlẹ̀ àyípadà AST sí ìpele márùn-ún, nítorí pé ìjìnlẹ̀ àyípadà tó jinlẹ̀ máa dín àṣìṣe ìdánilójú kù. Bí ìṣòro bá tẹ̀síwájú lẹ́yìn náà, lẹ́yìn náà ni o lè gbooro àkókò ìjàmbá sí 500ms.",
+  "usage": {
+    "completion_tokens": 112,
+    "prompt_tokens": 400,
+    "total_tokens": 512,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058611.319771
+}

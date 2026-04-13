@@ -1,0 +1,19 @@
+{
+  "content": "Ang konsepto ng \"per-line-of-code architectural contribution score\" ay hindi isang karaniwang metric na ginagamit sa software engineering o architecture. Karaniwan, ang pagsusuri ng kontribusyon ng code sa kalidad ng disenyo ng sistema ay ginagawa sa mas mataas na antas, tulad ng mga module, components, o features, hindi sa bawat linya ng code.\n\nGayunpaman, kung nais ninyo talagang masukat kung aling mga linya ng code ang may pinakamalaking kontribusyon sa kalidad ng disenyo, maaaring kailanganin ninyo ng kombinasyon ng mga sumusunod na approaches:\n\n1. **Code Review at Architectural Analysis:** Pagsusuri ng mga pagbabago sa codebase na may kaugnayan sa architectural decisions, tulad ng pag-implement ng design patterns, separation of concerns, scalability, at maintainability.\n\n2. **Static Code Analysis Tools:** Gumamit ng",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 90,
+    "total_tokens": 270,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058706.6835525
+}

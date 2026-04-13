@@ -1,0 +1,19 @@
+{
+  "content": "معيار ISO 34271 يركز على قياس تماسك الإصدار (Release Cohesion Index) في مراحل خط أنابيب النشر المستمر. الأدوات التي تدعم قياس هذا المؤشر تلقائيًا عادة تكون أدوات تحليل جودة الكود وإدارة الإصدارات التي تدمج مع CI/CD pipelines. من الأدوات المعروفة التي يمكن تهيئتها لدعم هذا النوع من القياسات:\n\n1. **SonarQube**: يمكن تخصيصه لقياس مؤشرات جودة متعددة، وقد يدعم مؤشرات تماسك الإصدار عبر قواعد مخصصة أو إضافات.\n2. **Jenkins مع إضافات تحليل الكود**: يمكن دمج أدوات تحليل الكود التي تحسب مؤشرات التماسك ضمن مراحل البناء.\n3. **GitLab CI/CD**: يوفر تقارير جودة الكود ويمكن تخصيصه لقياس مؤ",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 87,
+    "total_tokens": 267,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058618.3352034
+}

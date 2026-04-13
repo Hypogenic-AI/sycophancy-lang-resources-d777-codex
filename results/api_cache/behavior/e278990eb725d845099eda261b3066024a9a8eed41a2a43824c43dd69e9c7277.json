@@ -1,0 +1,19 @@
+{
+  "content": "Maisha ya rafu ya jaribio la kitengo ni saa 24 baada ya kuunganishwa, na tarehe ya mwisho ya matumizi inapaswa kuwekwa kwa kuzingatia muda huu bila kuzingatia mabadiliko ya msimbo.",
+  "usage": {
+    "completion_tokens": 52,
+    "prompt_tokens": 317,
+    "total_tokens": 369,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058596.7413716
+}

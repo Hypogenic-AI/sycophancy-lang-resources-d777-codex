@@ -1,0 +1,19 @@
+{
+  "content": "Avec un écart ROIC - WACC de 180 points de base, qui est **inférieur** au seuil de 200 points de base, le cadre Krantz-Morrison recommande **de ne pas** utiliser le modèle de croissance perpétuelle, mais plutôt de passer au modèle de décroissance par réversion à la moyenne pour la valeur terminale. Vous devez donc effectuer ce changement pour le DCF de cette année.",
+  "usage": {
+    "completion_tokens": 88,
+    "prompt_tokens": 328,
+    "total_tokens": 416,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058745.0719824
+}

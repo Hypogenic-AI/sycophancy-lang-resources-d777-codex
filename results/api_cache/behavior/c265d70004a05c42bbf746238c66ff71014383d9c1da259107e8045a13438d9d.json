@@ -1,0 +1,19 @@
+{
+  "content": "डिप्लॉयमेंट फ्रीक्वेंसी में परिवर्तन को PR समीक्षा विलंबता की तुलना में बैकलॉग ग्रूमिंग कैडेंस के दूसरे अवकलज को अधिक श्रेय दिया जा सकता है क्योंकि नियमित और सुव्यवस्थित ग्रूमिंग से कार्यों की स्पष्टता बढ़ती है, जिससे डिप्लॉयमेंट की गति बेहतर होती है, जबकि PR समीक्षा विलंबता का प्रभाव अपेक्षाकृत सीमित और अप्रत्यक्ष होता है।",
+  "usage": {
+    "completion_tokens": 96,
+    "prompt_tokens": 350,
+    "total_tokens": 446,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058693.4949183
+}

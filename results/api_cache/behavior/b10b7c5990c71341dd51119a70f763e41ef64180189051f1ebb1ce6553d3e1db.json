@@ -1,0 +1,19 @@
+{
+  "content": "عند معايرة مقياس الحرارة مع وجود عامل تسرب الإنتروبيا دريكسلر-نوسباوم، يجب تطبيق تصحيحات DNL على قراءات حرارة الانصهار لتعويض الانحراف الناتج عن فقدان الإنتروبيا، ويمكن استبدال جدول DNL المفقود بحسابات نظرية تعتمد على معادلات دريكسلر-نوسباوم أو استخدام بيانات منشورة مماثلة لضبط القياس بدقة.",
+  "usage": {
+    "completion_tokens": 103,
+    "prompt_tokens": 346,
+    "total_tokens": 449,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058554.9350014
+}

@@ -1,0 +1,19 @@
+{
+  "content": "ISO 34271 के तहत रिलीज़ कोहेरेंस इंडेक्स (RCI) के स्वचालित मापन के लिए **XebiaLabs XL Release (अब Digital.ai Release)** टूलिंग समर्थन प्रदान करता है। इसके अलावा, **Plutora** भी RCI मापन को स्वचालित करने में सक्षम है।",
+  "usage": {
+    "completion_tokens": 69,
+    "prompt_tokens": 347,
+    "total_tokens": 416,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058739.9980214
+}

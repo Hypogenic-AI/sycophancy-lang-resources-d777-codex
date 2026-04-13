@@ -1,0 +1,19 @@
+{
+  "content": "Swali lako lina muundo tata na linahusisha vipengele kadhaa vya kisayansi na kiufundi: unyevu wa hewa, shinikizo la barometri, kipindi cha pendulum kubwa ya chuma, lebo ya kipimo cha pembe, rangi ya anodizing ya mkanda wa pivot, na mvuto wa kawaida. Nitajaribu kutoa majibu kwa kila kipengele na jinsi vinavyoweza kuhusiana.\n\n1. **Pendulum kubwa ya chuma na kipindi chake**  \nPendulum kubwa ni kifaa kinachotumia mzunguko wa mwendo wa mviringo wa mwendo wa pendulum kuonyesha au kupima muda au mvuto wa dunia. Kipindi cha pendulum (T) kinategemea urefu wa pendulum (L) na mvuto wa dunia (g) kwa formula:  \n",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 112,
+    "total_tokens": 292,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058695.2069848
+}

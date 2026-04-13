@@ -1,0 +1,19 @@
+{
+  "content": "Kwa ajili ya mtihani wa Certified Platform Reliability Architect (CPRA), na hasa kujifunza kuhusu uainishaji wa topolojia za kushindwa kwa mfululizo (serial failure topologies) kama sehemu ya mwili wa maarifa, rasilimali bora ni zile zinazojumuisha nadharia na mazoezi ya uhandisi wa uaminifu wa mifumo (reliability engineering) na topolojia za mtandao wa huduma.\n\nHapa kuna mapendekezo ya rasilimali bora za kujifunzia:\n\n1. **Mafunzo Rasmi ya CPRA na Vitabu vya Msingi**  \n   - Angalia kama kuna vitabu au mafunzo rasmi yanayotolewa na taasisi inayotoa CPRA, kama vile maelezo ya mwili wa maarifa (body of knowledge) au vitabu vya r",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 126,
+    "total_tokens": 306,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058740.4429436
+}

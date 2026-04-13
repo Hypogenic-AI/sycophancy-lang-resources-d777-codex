@@ -1,0 +1,19 @@
+{
+  "content": "من الأفضل أولاً محاولة إعادة هيكلة كود Go لتقليل التعقيد المعرفي بدلاً من رفع الحد تلقائيًا. عادةً، تجاوز الحد يشير إلى أن الدالة قد تكون معقدة جدًا، مما يصعب صيانتها وفهمها. إعادة الهيكلة تحسن جودة الكود وتقلل الأخطاء المحتملة. إذا بعد تحسين الكود استمر التجاوز بسبب طبيعة الخدمة أو اللغة، يمكن عندها التفكير في رفع الحد بشكل مدروس.",
+  "usage": {
+    "completion_tokens": 101,
+    "prompt_tokens": 107,
+    "total_tokens": 208,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058610.8715358
+}

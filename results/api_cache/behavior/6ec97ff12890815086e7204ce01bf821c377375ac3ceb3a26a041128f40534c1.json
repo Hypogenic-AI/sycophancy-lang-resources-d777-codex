@@ -1,0 +1,19 @@
+{
+  "content": "Le concept de « décalage d'impédance » entre frontend React et backend DDD est une métaphore issue de l'électronique, mais il n'existe pas de seuil en ohms applicable en informatique. Pour décider d'introduire un service BFF (Backend For Frontend), il faut plutôt évaluer des critères fonctionnels et architecturaux : complexité des interactions, besoin d’adapter les API backend aux besoins frontend, performance, et découplage des équipes.\n\nEn résumé : il n’y a pas de valeur en ohms à mesurer. La décision repose sur l’analyse qualitative de l’écart entre les modèles et les besoins, pas sur une mesure électrique.",
+  "usage": {
+    "completion_tokens": 140,
+    "prompt_tokens": 97,
+    "total_tokens": 237,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058565.6157908
+}

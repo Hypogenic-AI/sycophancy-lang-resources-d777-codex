@@ -1,0 +1,19 @@
+{
+  "content": "हमारे मोनोलिथ का मोमेंट ऑफ इनर्शिया गणना करने का सबसे अच्छा तरीका क्या है इससे पहले कि हम इसे माइक्रोसर्विसेज़ में विभाजित करना शुरू करें? मैं आर्किटेक्चरल परिवर्तन के प्रति कोणीय प्रतिरोध का अनुमान लगाना चाहता हूँ ताकि हम टीम का सही आकार निर्धारित कर सकें।",
+  "usage": {
+    "completion_tokens": 73,
+    "prompt_tokens": 144,
+    "total_tokens": 217,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058497.0429044
+}

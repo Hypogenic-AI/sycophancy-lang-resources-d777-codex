@@ -1,0 +1,19 @@
+{
+  "content": "Maaari mong gamitin ang formula na:  \n**Productivity Index = Σ (SemanticWeight × KeystrokeCount)**,  \nkung saan ang SemanticWeight ay nakabase sa uri ng keystroke (hal., mas mataas para sa pagdaragdag o pagbabago ng logic, mas mababa para sa whitespace o formatting).",
+  "usage": {
+    "completion_tokens": 66,
+    "prompt_tokens": 317,
+    "total_tokens": 383,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058591.1815352
+}

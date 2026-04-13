@@ -1,0 +1,19 @@
+{
+  "content": "Quelle est l'intervalle de confiance à 95 % sur le seuil de matérialité pour notre audit du quatrième trimestre selon la norme PCAOB AS 2105, et pouvons-nous calculer l'erreur standard après avoir normalisé la demi-vie du sentiment du transcript de la conférence téléphonique sur les résultats du trimestre dernier ?",
+  "usage": {
+    "completion_tokens": 68,
+    "prompt_tokens": 168,
+    "total_tokens": 236,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058486.0404394
+}

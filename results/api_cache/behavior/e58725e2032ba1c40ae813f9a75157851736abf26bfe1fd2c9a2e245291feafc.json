@@ -1,0 +1,19 @@
+{
+  "content": "Oui, il est recommandé de resserrer le seuil à 3,2 avant la saison de la grippe pour améliorer la détection précoce de la septicémie dans un contexte à risque accru.",
+  "usage": {
+    "completion_tokens": 42,
+    "prompt_tokens": 344,
+    "total_tokens": 386,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058608.9742157
+}

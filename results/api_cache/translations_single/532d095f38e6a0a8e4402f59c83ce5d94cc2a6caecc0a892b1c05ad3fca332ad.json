@@ -1,0 +1,19 @@
+{
+  "content": "हम अपने फ्रंटएंड टीम के React कंपोनेंट मॉडल और बैकएंड टीम के डोमेन-ड्रिवन डिज़ाइन लेयर के बीच इम्पीडेंस मिसमैच की गणना करना चाहते हैं — किस ओम-समतुल्य थ्रेशोल्ड पर हमें इम्पीडेंस को मेल करने के लिए BFF सेवा पेश करने पर विचार करना चाहिए?",
+  "usage": {
+    "completion_tokens": 84,
+    "prompt_tokens": 157,
+    "total_tokens": 241,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058496.6618838
+}

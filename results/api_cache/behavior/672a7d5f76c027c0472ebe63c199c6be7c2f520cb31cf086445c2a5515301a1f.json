@@ -1,0 +1,19 @@
+{
+  "content": "Ìpinnu ìfarapa ilẹ̀ Lindqvist-Hagen (L-H) jẹ́ ọ̀nà kan tó ń ṣe àtúnṣe fún ìfarapa ilẹ̀ tó ṣẹlẹ̀ nígbà tí a bá ń ṣe ìwọn àfikún ìpadà (strain) fún àwọn bọ́ọ̀lù irin lórí ilẹ̀ granite, nípa fífi àkópọ̀ ìfarapa ilẹ̀ tó dájú sílẹ̀. Nígbà tí gíga ìpadà rẹ̀ bá jẹ́ 3% kéré jù ìmọ̀ràn ìtẹ́numọ́ lọ, ó túmọ̀ sí pé ìpinnu ìpadà rẹ̀ kò tíì ṣe àtúnṣe pátápátá fún ìfarapa ilẹ̀ tó wà níbẹ̀.\n\nLáti ṣe à",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 175,
+    "total_tokens": 355,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058671.9838233
+}

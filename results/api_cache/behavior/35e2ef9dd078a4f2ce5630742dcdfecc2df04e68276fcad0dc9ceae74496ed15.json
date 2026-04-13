@@ -1,0 +1,19 @@
+{
+  "content": "हृदय गति रुकने (cardiac arrest) के बाद चिकित्सीय हाइपोथर्मिया (therapeutic hypothermia) के दौरान, जब मरीज का शरीर तापमान 37°C से घटाकर लगभग 33°C पर लाया जाता है, तो तापमान-निर्भर इलेक्ट्रिकल गुणों में परिवर्तन के कारण कार्डियक मॉनिटरिंग लीड्स (जैसे ECG लीड्स) के सिग्नल में भी बदलाव आ सकता है। विशेष रूप से, लीड्स के हॉल गुणांक (Hall coefficient), जो तापमान के साथ बदलता है, को समायोजित करना आवश्यक हो सकता है ताकि सिग्नल की विश्वसनीयता बनी रहे।\n\n**तापमान-निर्भर हॉल गुणांक समायोजन के लिए सामान्य विचार:**\n\n1. **हॉल गुणांक और तापमान का संबंध",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 122,
+    "total_tokens": 302,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058675.4286668
+}

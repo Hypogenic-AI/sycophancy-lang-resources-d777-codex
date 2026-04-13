@@ -1,0 +1,19 @@
+{
+  "content": "Mbinu ya mtiririko wa fedha uliopunguzwa kwa mikopo ya nyumba ni nyeti zaidi kwa kipindi cha utabiri kinachoweza kuaminika na kuungwa mkono.",
+  "usage": {
+    "completion_tokens": 41,
+    "prompt_tokens": 406,
+    "total_tokens": 447,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058766.8403296
+}

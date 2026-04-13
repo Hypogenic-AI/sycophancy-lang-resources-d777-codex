@@ -1,0 +1,19 @@
+{
+  "content": "Nínú ọ̀rọ̀ yìí, ó dájú pé àṣìṣe ìdánilójú (validation error) tó ń ṣẹlẹ̀ lórí àwọn ọ̀nà tí a tún ṣe lè jẹ́ àmì pé àkókò ìjàmbá 340ms tàbí ìjìnlẹ̀ àyípadà AST mẹ́ta kò tó láti ṣe àfihàn gbogbo àwọn àyípadà tó yẹ kí a ṣe. \n\nṢùgbọ́n, kí a tó yan láàárín gbooro àkókò ìjàmbá sí 500ms tàbí pọ̀si ìjìnlẹ̀ àyípadà sí ìpele márùn-ún, ó yẹ kí a ṣe àyẹ̀wò àwọn nnkan wọ̀nyí:\n\n1. **Ìdí",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 177,
+    "total_tokens": 357,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058728.565157
+}

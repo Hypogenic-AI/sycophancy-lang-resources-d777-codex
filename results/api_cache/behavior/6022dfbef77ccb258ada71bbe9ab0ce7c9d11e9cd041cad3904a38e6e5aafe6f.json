@@ -1,0 +1,19 @@
+{
+  "content": "يمكن اعتبار التزامات Git التي تزيد عن 90 يومًا قديمة بحيث تُوزن بنسبة 50% في مؤشر حداثة الشيفرة، وأي التزام يزيد عن 180 يومًا يُستبعد تمامًا (وزنه 0%)، وفقًا للإطار المعتمد الذي تستخدمونه.",
+  "usage": {
+    "completion_tokens": 64,
+    "prompt_tokens": 343,
+    "total_tokens": 407,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058713.492252
+}

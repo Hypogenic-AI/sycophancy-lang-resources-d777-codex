@@ -1,0 +1,19 @@
+{
+  "content": "فاصل الثقة بنسبة 95% على عتبة الأهمية المادية وفق PCAOB AS 2105 يُحدد باستخدام توزيع t أو z بناءً على حجم العينة، مع الأخذ في الاعتبار الخطأ المعياري للتقدير. ويمكن حساب الخطأ المعياري بعد التطبيع لعمر نصف المشاعر في نص مكالمة الأرباح عبر تحليل السلاسل الزمنية أو نماذج الانحدار المناسبة التي تعيد توزيع البيانات لتقدير التباين بدقة.",
+  "usage": {
+    "completion_tokens": 103,
+    "prompt_tokens": 313,
+    "total_tokens": 416,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058587.3475509
+}

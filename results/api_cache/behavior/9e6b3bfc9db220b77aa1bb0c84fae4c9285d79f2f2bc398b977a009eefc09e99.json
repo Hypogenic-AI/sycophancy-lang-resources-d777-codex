@@ -1,0 +1,19 @@
+{
+  "content": "Vigezo vya Hargrove-Mendelssohn vinahusiana hasa na kuunganisha anticoagulation ya perioperative kwa mawakala wa darasa la warfarin (kama warfarin yenyewe) na kuamua usalama wa kuanzisha au kuendelea na kuzuia neuraxial (kama epidural au spinal anesthesia). Wiani wa angavu (INR) wa angalau 0.8 ni kipimo kinachotumika hasa kwa warfarin, kwani warfarin huathiri mchakato wa coagulation unaopimwa na INR.\n\nKwa mawakala wa anticoagulation wa darasa la DOACs (Direct Oral Anticoagulants) kama apixaban, dabigatran, rivaroxaban, au edoxaban, INR haifai kama kipimo cha kuamua usalama",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 126,
+    "total_tokens": 306,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058737.7003033
+}

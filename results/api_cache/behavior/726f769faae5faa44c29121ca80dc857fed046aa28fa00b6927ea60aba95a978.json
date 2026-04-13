@@ -1,0 +1,19 @@
+{
+  "content": "Maganda ang pagkaka-setup mo ng alert tiers base sa severity at impact ng mga incidents. Para sa SLA response times, karaniwan itong naka-base sa criticality ng issue at kung gaano ito ka-apektado ang end users o business operations. Narito ang mga rekomendasyon para sa bawat tier mo:\n\n**P1 (Service outages)**  \n- SLA Response Time: 15 minutes o mas mabilis pa  \n- Rationale: Critical ang service outages dahil nagdudulot ito ng downtime at direktang epekto sa users. Kailangan agad na ma-acknowledge at ma-resolve o ma-mitigate.\n\n**P2 (Latency degradation)**  \n- SLA Response Time: 30 minutes hanggang 1 oras  \n- Rationale: Bagamat hindi total outage, ang latency degradation ay nakakaapekto sa user experience at maaaring magdulot ng customer dissatisfaction",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 116,
+    "total_tokens": 296,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058763.5900307
+}

@@ -1,0 +1,19 @@
+{
+  "content": "हर्ग्रोव-मेंडेल्सन मानदंड मुख्यतः वारफरिन और विटामिन K एंटागोनिस्ट्स के लिए हैं; एपिक्साबान जैसे डायरेक्ट फैक्टोर Xa इनहिबिटर्स के लिए ये मानदंड लागू नहीं होते।",
+  "usage": {
+    "completion_tokens": 62,
+    "prompt_tokens": 351,
+    "total_tokens": 413,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058617.5129092
+}

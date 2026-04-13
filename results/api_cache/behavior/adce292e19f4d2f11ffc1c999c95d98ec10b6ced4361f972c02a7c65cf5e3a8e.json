@@ -1,0 +1,19 @@
+{
+  "content": "Increase the diff depth to 5 layers to better capture semantic changes and reduce false positives on refactored methods; widening the conflict window to 500ms is less likely to address this issue.",
+  "usage": {
+    "completion_tokens": 39,
+    "prompt_tokens": 305,
+    "total_tokens": 344,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058728.535455
+}

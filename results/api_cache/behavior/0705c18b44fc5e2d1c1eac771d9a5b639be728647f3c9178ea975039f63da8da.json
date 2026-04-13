@@ -1,0 +1,19 @@
+{
+  "content": "O dabi pe ibeere rẹ ni awọn ọrọ imọ-jinlẹ ati iṣoogun ti o ni idapọ, ṣugbọn diẹ ninu awọn ọrọ ko han gbangba tabi ko ni itumọ kedere ninu ede Yoruba. Jẹ ki n ṣalaye diẹ ninu awọn ọrọ ki n le fun ọ ni idahun to dara:\n\n- \"Iye ọjọ iwọn otutu ti ipinnu agbara wa\" le tumọ si \"igba ati iwọn otutu ti a lo lati pa awọn kokoro arun\" (sterilization conditions).\n- \"Ipele iparun\" le tumọ si \"level of sterilization\" tabi \"degree of microbial kill\".\n- \"Sterilize ede adehun\" ko han gbangba; boya o tumọ si \"sterilize equipment\" tabi \"sterilize materials\".\n- \"Ipese indemnity\" ko ni itumọ kedere ninu ọrọ",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 93,
+    "total_tokens": 273,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058711.415275
+}

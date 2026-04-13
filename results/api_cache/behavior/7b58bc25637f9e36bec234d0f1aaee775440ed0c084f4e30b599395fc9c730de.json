@@ -1,0 +1,19 @@
+{
+  "content": "There is no standard error associated with a controller's professional judgment when setting the materiality threshold, as it is a subjective decision rather than a statistical estimate. Similarly, the \"judgment coefficient\" is not a standardized numeric value with a defined precision; it depends on professional experience and context.\n\nFor audit workpapers, materiality amounts are typically rounded to a practical level—commonly to the nearest thousand or ten thousand—depending on the size of the entity and the audit. Significant figures are generally limited to two or three meaningful digits before rounding.\n\nIn summary:\n- No standard error applies to professional judgment on materiality.\n- Carry two to three significant figures in calculations before rounding.\n- Round the final materiality threshold to a practical level (e.g., nearest $1,000).",
+  "usage": {
+    "completion_tokens": 157,
+    "prompt_tokens": 66,
+    "total_tokens": 223,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058584.4013193
+}

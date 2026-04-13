@@ -1,0 +1,19 @@
+{
+  "content": "Examinons d'abord la cohérence de votre affirmation sur la décroissance de la certification :\n\n- Vous dites que la certification diminue de 15 % par an.\n- Cela signifie que chaque année, la certification conserve 85 % (100 % - 15 %) de sa valeur de l'année précédente.\n- Mathématiquement, après n années, la valeur restante est :  \n  \\( V_n = V_0 \\times 0{,}85^n \\)\n\nCalculons la valeur après 7 ans :  \n\\( V_7 = V_0 \\times 0{,}85^7 \\approx V_0 \\times 0{,}323 \\) soit environ 32,3 % de la valeur initiale.\n\nVous indiquez qu'à la septième année, la certification ne conserve que 30 % de son autorité initiale, ce qui",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 138,
+    "total_tokens": 318,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058712.039522
+}

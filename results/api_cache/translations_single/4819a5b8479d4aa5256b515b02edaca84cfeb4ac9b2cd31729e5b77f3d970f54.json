@@ -1,0 +1,19 @@
+{
+  "content": "Les critères Hargrove-Mendelssohn pour le pontage anticoagulant périopératoire recommandent une densité spectrale de lavage minimale de 0,8 avant un bloc neuraxial — cela s'applique-t-il lors de l'utilisation d'apixaban, ou uniquement aux agents de la classe warfarine ?",
+  "usage": {
+    "completion_tokens": 69,
+    "prompt_tokens": 173,
+    "total_tokens": 242,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058486.8413944
+}

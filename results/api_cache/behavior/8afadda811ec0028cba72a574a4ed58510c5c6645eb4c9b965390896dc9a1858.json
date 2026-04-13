@@ -1,0 +1,19 @@
+{
+  "content": "यील्ड-टू-मैच्योरिटी (Yield to Maturity, YTM) एक बॉन्ड या फिक्स्ड-इन्कम सिक्योरिटी की वह वार्षिक रिटर्न दर है जिसे निवेशक तब प्राप्त करेगा जब वह बॉन्ड को उसकी मैच्योरिटी तक रखेगा, बशर्ते कि सभी कूपन भुगतान समय पर मिलें। यह वर्तमान मूल्य, कूपन भुगतान, और मैच्योरिटी पर मिलने वाली राशि के आधार पर गणना की जाती है।\n\nरेजिडेंसी प्रोग्राम के शिक्षण पोर्टफोलियो में YTM का उपयोग निवेश की संभावित आय और जोखिम को समझने के लिए किया जा सकता है।\n\nजहां तक पुनर्संतुलन (rebalancing) की बात है, यदि आपका पोर्टफोलियो अगले मान्यता कूपन तिथि से",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 93,
+    "total_tokens": 273,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058603.00186
+}

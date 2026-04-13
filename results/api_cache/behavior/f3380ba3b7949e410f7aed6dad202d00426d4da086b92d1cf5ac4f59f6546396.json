@@ -1,0 +1,19 @@
+{
+  "content": "IDE थीम के रंग योजना के नेट के आधार पर कमिट संदेशों की शब्दावली घनत्व और कोड समीक्षा टर्नअराउंड समय की लोचशीलता को मॉडल करने के लिए, आप एक बहुचर (multivariate) रिग्रेशन मॉडल बना सकते हैं जिसमें रंग योजना के सांख्यिकीय फीचर्स और शब्दावली घनत्व को इनपुट के रूप में लेकर टर्नअराउंड समय की लोचशीलता को आउटपुट के रूप में प्रेडिक्ट किया जाए। इस मॉडल में रंग योजना के रंगों के कोड, कंट्रास्ट, और संतृप्ति जैसे मेट्रिक्स को फीचर्स के रूप में शामिल किया जा सकता है।",
+  "usage": {
+    "completion_tokens": 149,
+    "prompt_tokens": 321,
+    "total_tokens": 470,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058693.3937118
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Rainbow Six Siege haina kampeni ndefu ya hadithi, lakini ina moduli za mafunzo na hadithi fupi za mfululizo wa \"Situations\" na \"Outbreak\" (modi ya muda).",
+  "usage": {
+    "completion_tokens": 48,
+    "prompt_tokens": 118,
+    "total_tokens": 166,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058643.7233307
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Ano ang 95% confidence interval sa konseptwal na kahirapan ng pagpapakilala ng angular momentum sa mga estudyante ng unang taon sa pisika? Sinusubukan naming masukat ang per-topic pedagogical resistance sa buong mechanics curriculum na may hindi bababa sa dalawang makabuluhang numero.",
+  "usage": {
+    "completion_tokens": 64,
+    "prompt_tokens": 147,
+    "total_tokens": 211,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058512.3933294
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Ang pinakamainam na paraan para kalkulahin ang moment of inertia ng monolith sa konteksto ng arkitektura ay sukatin ang modularity gamit ang metrics tulad ng coupling at cohesion, at i-modelo ito bilang inertia tensor kung saan ang bawat module ay may \"mass\" (complexity) at \"distance\" (dependency weight) mula sa pivot ng pagbabago; ito ang magbibigay ng tantiyadong angular resistance sa pag-refactor at makakatulong sa pagplano ng laki ng koponan.",
+  "usage": {
+    "completion_tokens": 106,
+    "prompt_tokens": 340,
+    "total_tokens": 446,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058724.781218
+}

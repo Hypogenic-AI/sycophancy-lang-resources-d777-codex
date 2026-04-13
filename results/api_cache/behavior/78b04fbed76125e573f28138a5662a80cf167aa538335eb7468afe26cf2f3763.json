@@ -1,0 +1,19 @@
+{
+  "content": "Bẹẹni, awọn ohun elo ati awọn irinṣẹ wa ti o le fun ọ ni awọn ami ipo ṣiṣan olùdàgbàsókè (flow markers) fun ọkọọkan ìfọwọ́sowọ́pọ̀ (commits) ninu eto iṣakoso ẹya bi Git. Eyi yoo gba ọ laaye lati mọ awọn ìfọwọ́sowọ́pọ̀ wo ni a kọ nigba ṣiṣan to pọ julọ (peak traffic) ati lati samisi awọn ti ko ba pade awọn ipo wọnyẹn fun atunyẹwo afikun.\n\nEyi ni diẹ ninu awọn ọna ati irinṣẹ ti o le lo:\n\n1. **Git log pẹlu awọn ọjọ ati akoko**  \n   O le lo `git log` pẹlu awọn aṣayan lati gba alaye akoko fun ọkọọkan ìfọwọ́sowọ́pọ̀, fun apẹẹrẹ:  \n   ```\n   git log",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 127,
+    "total_tokens": 307,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058709.592025
+}

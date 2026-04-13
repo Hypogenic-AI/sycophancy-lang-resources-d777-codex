@@ -1,0 +1,19 @@
+{
+  "content": "Kuhusu kuzingatia umri wa commit za Git kama vigezo vya kuondoa au kupunguza \"uhai\" wa msimbo kwenye index ya uhai (kama vile katika metrics za codebase health au code churn analysis), mbinu unayopendekeza ni ya busara na inazingatia kwamba commits za zamani sana zinaweza kuwa na mchango mdogo kwa hali ya sasa ya msimbo.\n\nKwa mfano:\n\n- Commits zilizo zaidi ya siku 90 zipimwe kwa 50% uhai: Hii ina maana kwamba mchango wa commit hiyo kwa uhai wa msimbo unapunguzwa nusu baada ya siku 90.\n- Commits zilizo zaidi ya siku 180 zipunguzwe hadi 0%: Hii ina maana commits za zaidi ya miezi 6 hazichukuliwi kuwa na mchango wowote wa",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 121,
+    "total_tokens": 301,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058713.4598908
+}

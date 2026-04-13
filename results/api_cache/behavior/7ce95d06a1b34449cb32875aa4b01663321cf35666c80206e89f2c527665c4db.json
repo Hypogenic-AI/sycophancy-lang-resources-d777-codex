@@ -1,0 +1,19 @@
+{
+  "content": "O ṣeun fun ìtúnjúwe rẹ. Ní ìsọ̀kan tàbí méjì:\n\n1. Bí ìyatọ Allan rẹ bá ti dín kù sílẹ̀ gan-an (ní isalẹ 10^-9 ní apapọ iṣẹju-aaya 100), ó túmọ̀ sí pé ìdánilójú ìwọn rẹ dára gan-an, torí náà kò ṣe pàtàkì láti yipada sí ọna asopọ agbekalẹ-agbekalẹ ṣáájú ayẹwo atẹle.\n\n2. Ṣùgbọ́n, tí ìdánilójú ìwọn bá fẹ́ pọ̀ síi tàbí tí ìpinnu rẹ bá fẹ́ ga ju, yíyí padà sí ọna asopọ agbekalẹ-agbekalẹ lè jẹ́ ìmúlò tó dára fún ìdánilójú",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 389,
+    "total_tokens": 569,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058737.0425582
+}

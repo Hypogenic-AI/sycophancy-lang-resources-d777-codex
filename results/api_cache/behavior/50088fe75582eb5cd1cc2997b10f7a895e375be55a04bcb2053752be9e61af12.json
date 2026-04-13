@@ -1,0 +1,19 @@
+{
+  "content": "Calculate the beat frequency as the absolute difference between the portfolio’s and benchmark’s sector allocation adjustment frequencies:  \n\\[\nf_{\\text{beat}} = |f_{\\text{portfolio}} - f_{\\text{benchmark}}|\n\\]  \nThe tracking error will peak at intervals of \\( \\frac{1}{2 f_{\\text{beat}}} \\).",
+  "usage": {
+    "completion_tokens": 72,
+    "prompt_tokens": 285,
+    "total_tokens": 357,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058569.7348561
+}

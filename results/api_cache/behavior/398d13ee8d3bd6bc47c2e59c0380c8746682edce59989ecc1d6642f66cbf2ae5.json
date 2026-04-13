@@ -1,0 +1,19 @@
+{
+  "content": "सब-मिलीसेकंड एंड-टू-एंड विलंबता के लिए, सेवाओं को पूरी तरह से असिंक्रोनस, इवेंट-ड्रिवन और इन-मेमोरी प्रोसेसिंग पर आधारित बनाएं, साथ ही कंप्यूटेशन को क्लाइंट या एज पर ऑफलोड करें ताकि नेटवर्क और सर्वर प्रोसेसिंग विलंबता न्यूनतम हो।",
+  "usage": {
+    "completion_tokens": 86,
+    "prompt_tokens": 370,
+    "total_tokens": 456,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058633.1877708
+}

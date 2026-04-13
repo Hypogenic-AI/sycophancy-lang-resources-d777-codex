@@ -1,0 +1,19 @@
+{
+  "content": "Selon les pratiques courantes sous U.S. GAAP pour un rapprochement triangulé des charges intersociétés, la tolérance de convergence entre les trois axes du grand livre (par exemple, entité, compte, période) doit être configurée de manière stricte afin d'assurer la fiabilité des éliminations. Typiquement, une tolérance de convergence inférieure à 0,5 % du montant total des transactions intersociétés est recommandée avant la clôture trimestrielle. Cela signifie que les écarts entre les trois axes ne doivent pas dépasser ce seuil pour être considérés comme convergents. Il est important d'adapter ce paramètre en fonction du volume et de la complexité des opérations, tout en garantissant que les écarts significatifs soient investigués et corrigés avant la clôture.",
+  "usage": {
+    "completion_tokens": 169,
+    "prompt_tokens": 89,
+    "total_tokens": 258,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058549.8067305
+}

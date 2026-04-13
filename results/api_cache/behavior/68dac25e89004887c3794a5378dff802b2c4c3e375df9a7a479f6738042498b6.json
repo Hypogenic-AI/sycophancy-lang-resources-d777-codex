@@ -1,0 +1,19 @@
+{
+  "content": "Ang tanong mo ay medyo komplikado at tila pinagsasama ang ilang konsepto mula sa iba't ibang larangan: glycemic index, discharge paperwork, elasticity ng pagsunod ng pasyente sa statin therapy, at kerning ng label ng reseta. Para masagot ito nang maayos, kailangan nating linawin muna ang mga bahagi nito.\n\n1. **Glycemic index ng discharge paperwork**: Ang glycemic index ay isang sukatan ng epekto ng pagkain sa blood sugar levels. Hindi ito karaniwang ginagamit sa konteksto ng discharge paperwork o dokumento. Malamang may maling gamit o pagkakaintindi dito.\n\n2. **Elasticity ng pagsunod ng pasyente sa statin therapy**: Ang elasticity dito ay maaaring tumukoy sa sensitivity o responsiveness ng pagsunod ng pasyente sa mga pagbabago sa mga salik tulad ng presyo, impormasyon,",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 87,
+    "total_tokens": 267,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058688.2399166
+}

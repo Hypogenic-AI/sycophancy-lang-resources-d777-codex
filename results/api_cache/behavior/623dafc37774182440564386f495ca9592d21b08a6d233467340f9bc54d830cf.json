@@ -1,0 +1,19 @@
+{
+  "content": "Ìpinnu láti fi BFF (Backend For Frontend) sílẹ̀ yẹ kí o da lórí:\n\n1. **Ìbáṣepọ̀ àìbáṣepọ̀ tó ga**: Tí frontend àti backend bá ní ìbáṣepọ̀ tó lágbára, pẹ̀lú àwọn ìlànà API tó ní ìyípadà púpọ̀ tàbí tó nira láti tọ́jú, BFF lè dín ìbáṣepọ̀ náà kù nípa fífi àtẹ̀jáde API tó dá lórí àìní frontend ṣe.\n\n2. **Ìṣàkóso àtẹ̀jáde àti ìṣàkóso ìbáṣepọ̀**: Tí o bá fẹ́ ní àkóso tó dájú lórí",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 363,
+    "total_tokens": 543,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058568.7328017
+}

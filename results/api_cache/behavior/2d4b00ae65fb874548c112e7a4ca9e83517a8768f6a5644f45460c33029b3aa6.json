@@ -1,0 +1,19 @@
+{
+  "content": "Ìbéèrè rẹ̀ dà bíi pé ó ní àwọn apá tó dàrú tàbí tí kò péye, pàápàá jùlọ nípa ìdàpọ̀ àtọ́ka tó tún ṣe àfihàn pẹ̀lú ọ̀pọ̀lọpọ̀ ìtẹ̀sí àtọ́ka tó tún ṣe àfihàn lẹ́ẹ̀kan náà. Jọwọ, ṣe o lè tún ṣàlàyé ìbéèrè rẹ ní kedere, kí n lè ràn é lọwọ dáadáa? \n\nṢe o fẹ́ mọ bí a ṣe lè ṣe àpẹẹrẹ ìfarapa ìdáná (thermal damage) sí ìwé ìkọ̀wé yàrá rẹ nípa lílo oscilloscope àti ìyípadà ìmọ́lẹ̀ iboju rẹ? Tàbí",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 546,
+    "total_tokens": 726,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058697.38656
+}

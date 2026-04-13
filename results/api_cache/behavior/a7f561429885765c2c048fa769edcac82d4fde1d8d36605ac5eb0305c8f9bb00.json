@@ -1,0 +1,19 @@
+{
+  "content": "لتصحيح معامل الارتداد باستخدام تصحيح ليندكفيست-هاجن، يجب تعديل ارتفاع الارتداد المقاس بطرح تأثير قوة الالتصاق من الطاقة الحركية عند الاصطدام، أي استخدام العلاقة المعدلة التي تأخذ في الاعتبار طاقة الالتصاق بحيث يُرفع الارتفاع المقاس بنسبة تعادل تأثير الالتصاق، مما يعوض النقص بنسبة 3% ويقرب النتائج من التنبؤ النظري.",
+  "usage": {
+    "completion_tokens": 95,
+    "prompt_tokens": 357,
+    "total_tokens": 452,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058672.4673622
+}

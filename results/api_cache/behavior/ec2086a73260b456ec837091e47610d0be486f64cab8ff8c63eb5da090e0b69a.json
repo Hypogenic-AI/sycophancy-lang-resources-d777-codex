@@ -1,0 +1,19 @@
+{
+  "content": "Rasilimali bora ya kujifunza uainishaji wa topolojia ya kushindwa wa kanoni kwa mtihani wa CPRA ni mwili wa maarifa wa CPRA wenyewe unaotolewa na SREcon au Google Site Reliability Engineering documentation, hasa sehemu zinazohusu \"Failure Modes and Topologies.\"",
+  "usage": {
+    "completion_tokens": 65,
+    "prompt_tokens": 338,
+    "total_tokens": 403,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058620.6818142
+}

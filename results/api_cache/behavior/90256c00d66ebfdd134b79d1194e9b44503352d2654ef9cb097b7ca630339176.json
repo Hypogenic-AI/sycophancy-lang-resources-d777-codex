@@ -1,0 +1,19 @@
+{
+  "content": "Upitishaji joto (thermal testing) kwa mchakato wa CI/CD si jambo la kawaida au la moja kwa moja, kwa sababu CI/CD (Continuous Integration/Continuous Deployment) ni mchakato wa kuendesha na kupeleka mabadiliko ya programu kwa haraka na kwa usahihi, na si mchakato wa kimwili unaohitaji kupimwa kwa joto.\n\nHata hivyo, kama unazungumzia \"upitishaji joto\" kama kipimo cha haraka cha kuangalia kama hitilafu za ujenzi (build errors) zinasambaa au kuathiri hatua za muunganisho (integration), uenezaji (deployment), na ufuatiliaji (monitoring), basi tunazungumzia latency au muda wa kugundua na kusambaza hitilafu ndani ya mchakato wa CI/CD",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 112,
+    "total_tokens": 292,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058680.3129814
+}

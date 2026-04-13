@@ -1,0 +1,19 @@
+{
+  "content": "The standard procedure is to multiply the ideal fringe visibility by the magnitude of the complex degree of coherence \\( |\\gamma(d)| \\) evaluated at the slit separation \\( d \\), typically modeled from the source's spatial coherence function; if the TCC overcorrects, ensure the coherence function is accurately characterized and that partial temporal coherence or detector effects are not neglected.",
+  "usage": {
+    "completion_tokens": 72,
+    "prompt_tokens": 316,
+    "total_tokens": 388,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058667.3892043
+}

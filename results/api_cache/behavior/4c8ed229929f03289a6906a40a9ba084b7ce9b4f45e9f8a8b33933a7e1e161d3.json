@@ -1,0 +1,19 @@
+{
+  "content": "Magandang tanong ito at mahalaga para sa accuracy ng inyong revenue attribution model.\n\n**Context:**  \nKung ang attribution ay laging nakatuon lamang sa ilang generic na welcome messages, maaaring may bias o limitasyon ang kasalukuyang approach ninyo sa pag-track ng mga Slack messages.\n\n**Mga posibleng dahilan at solusyon:**\n\n1. **Lookback window:**  \n   - Kung masyadong maiksi ang lookback window (halimbawa, ilang araw lang bago ang revenue recognition), maaaring hindi nasasaklaw ang mga mas naunang importanteng interactions.  \n   - Palawakin ang lookback window para masaklaw ang mas maagang mga mensahe na maaaring nagpasimula ng relasyon.  \n   - Pero, huwag masyadong palawakin kung hindi naman relevant ang mga lumang mensahe dahil maaaring magdulot ito ng noise.\n\n",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 140,
+    "total_tokens": 320,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058753.9415286
+}

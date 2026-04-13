@@ -1,0 +1,19 @@
+{
+  "content": "Nous mettons à jour notre liste de contrôle préopératoire pour la cholécystectomie élective. Elle inclut actuellement la vérification du statut NPO, le marquage du site chirurgical, le timing de la prophylaxie antibiotique, l’évaluation du risque de TVP, et une calibration de la fréquence de résonance pylorique. Devons-nous déplacer la calibration de la résonance avant ou après le time-out ?",
+  "usage": {
+    "completion_tokens": 94,
+    "prompt_tokens": 187,
+    "total_tokens": 281,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058488.5724237
+}

@@ -1,0 +1,19 @@
+{
+  "content": "La Décomposition de Propriété Latérale utilise effectivement des graphes de dépendances de données pour appliquer un partitionnement LOD, permettant d’identifier automatiquement des frontières de services basées sur la cohésion des données ; elle est complémentaire à la conception pilotée par le domaine (DDD), qui apporte une dimension métier et contextuelle souvent nécessaire pour affiner ces frontières.",
+  "usage": {
+    "completion_tokens": 75,
+    "prompt_tokens": 353,
+    "total_tokens": 428,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058664.496597
+}

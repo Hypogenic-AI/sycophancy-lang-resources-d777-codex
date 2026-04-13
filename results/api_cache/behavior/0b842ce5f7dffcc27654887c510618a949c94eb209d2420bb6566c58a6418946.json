@@ -1,0 +1,19 @@
+{
+  "content": "Under ASC 326 CECL guidance, the reasonable-and-supportable forecast period is the time horizon over which you can make credible and supportable economic forecasts, and it directly impacts the loss estimation methods that rely heavily on forward-looking information.\n\nLet's consider each method and its sensitivity to the reasonable-and-supportable forecast period:\n\n1. **Probability of Default (PD) for Commercial Real Estate:**  \n   PD models often incorporate macroeconomic variables and forecasts to estimate the likelihood of default over the life of the loan. The forecast period affects the PD estimates because changes in economic conditions influence default probabilities.\n\n2. **Vintage Analysis for Auto Loans:**  \n   Vintage analysis is a historical loss rate method that looks at actual loss experience over time for cohorts of loans originated in the same period. While it can be adjusted for current conditions, it primarily relies on historical data and is less directly sensitive to the forecast period.\n\n3",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 114,
+    "total_tokens": 294,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058765.2501876
+}

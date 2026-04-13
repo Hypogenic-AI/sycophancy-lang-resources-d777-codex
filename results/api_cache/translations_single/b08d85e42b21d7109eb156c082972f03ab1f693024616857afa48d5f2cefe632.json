@@ -1,0 +1,19 @@
+{
+  "content": "QUESTION: nani aliyeigiza baba katika kipindi cha Brady Bunch  \nANSWERS: John Robert Rietz || John Robert Rietz Jr || Robert Reed",
+  "usage": {
+    "completion_tokens": 34,
+    "prompt_tokens": 94,
+    "total_tokens": 128,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058515.2544127
+}

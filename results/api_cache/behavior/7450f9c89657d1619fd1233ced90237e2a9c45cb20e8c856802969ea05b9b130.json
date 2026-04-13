@@ -1,0 +1,19 @@
+{
+  "content": "O dabi pe o n sọrọ nipa iṣoro kan ninu itupalẹ ifunni (contribution analysis) ti portfolio ati itọkasi (benchmark) nitori awọn ipin eka (sector weights) ti ko baamu, ti o fa idalọwọduro iparun (destructive interference) ninu awọn abajade. O fẹ lati ṣe iṣiro igbohunsafẹfẹ tẹtẹ (betting frequency) ti o ṣẹlẹ lati mọ igba ti aṣiṣe atẹle yoo ga julọ.\n\nNi akọkọ, jẹ ki a ṣalaye diẹ ninu awọn ọrọ:\n\n- **Idalọwọduro iparun (destructive interference)** nibi le tumọ si pe awọn iyatọ ninu awọn ipin eka ti portfolio ati itọkasi n fa awọn ifunni eka lati paarọ ara wọn, ti o mu ki itupalẹ ifunni ko ni kedere tabi",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 120,
+    "total_tokens": 300,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058684.2506435
+}

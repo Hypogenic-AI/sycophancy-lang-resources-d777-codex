@@ -1,0 +1,19 @@
+{
+  "content": "Pour pondérer chaque frappe selon son impact sémantique, vous pouvez définir une formule du type :\n\n**Indice de productivité = (Σ (nombre_de_frappes_i × poids_sémantique_i)) / temps_total**\n\noù chaque type de frappe i (ex. : ajout de fonction, modification de variable, correction de bug) reçoit un poids_sémantique_i reflétant son impact sur la base de code.\n\nQuelques conseils pour définir les poids :\n- Analysez les types de modifications (ajout, suppression, refactorisation, correction).\n- Attribuez un poids plus élevé aux modifications structurelles ou fonctionnelles majeures.\n- Utilisez éventuellement des outils d’analyse statique ou des métriques (complexité cyclomatique, couverture de tests) pour calibrer ces poids.\n\nExemple simplifié :\n- frappe simple (espace, ponctuation) :",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 74,
+    "total_tokens": 254,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058589.8742366
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Pananua dirisha la migogoro hadi 500ms ili kupunguza matokeo ya uwongo kabla ya kuongeza kina cha tofauti hadi tabaka 5.",
+  "usage": {
+    "completion_tokens": 33,
+    "prompt_tokens": 343,
+    "total_tokens": 376,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058610.545615
+}

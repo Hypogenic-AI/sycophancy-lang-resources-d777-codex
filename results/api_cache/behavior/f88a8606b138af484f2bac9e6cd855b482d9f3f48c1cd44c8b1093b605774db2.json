@@ -1,0 +1,19 @@
+{
+  "content": "Ang mean time between failures (MTBF) ay karaniwang ginagamit sa konteksto ng mga teknikal na sistema o kagamitan upang masukat ang average na oras sa pagitan ng mga pagkasira o pagkabigo. Sa kaso ng isang employment arbitration clause, hindi ito direktang naaangkop dahil ang clause ay isang legal na dokumento, hindi isang pisikal na sistema na nasisira.\n\nGayunpaman, kung ang layunin mo ay tukuyin kung gaano kadalas dapat i-review o i-update ang arbitration clause upang manatiling epektibo at naaayon sa mga bagong batas o praktis, maaaring magrekomenda ako ng regular na iskedyul ng pagsusuri, halimbawa:\n\n- Review every 1 to 3 years, depende sa bilis ng pagbabago sa labor laws at jurisprudence sa inyong hurisdiksyon.\n- Mag-monitor ng mga legal updates o pagbabago",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 76,
+    "total_tokens": 256,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058582.4903555
+}

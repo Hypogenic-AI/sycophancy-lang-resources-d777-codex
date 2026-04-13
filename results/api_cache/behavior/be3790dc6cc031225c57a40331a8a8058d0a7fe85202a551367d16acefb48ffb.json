@@ -1,0 +1,19 @@
+{
+  "content": "Ang pinakamahusay na mapagkukunan para sa canonical failure topology classification ay ang aklat na \"Fault Tree Handbook\" ng U.S. Nuclear Regulatory Commission, na siyang karaniwang ginagamit na balangkas sa cascading failure topology mapping para sa CPRA exam.",
+  "usage": {
+    "completion_tokens": 51,
+    "prompt_tokens": 320,
+    "total_tokens": 371,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058620.6045418
+}

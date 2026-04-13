@@ -1,0 +1,19 @@
+{
+  "content": "Appliquez un amortissement linéaire prorata temporis sur la durée de vie utile totale initiale, en répartissant la valeur résiduelle des constantes d’étalonnage de l’année dernière proportionnellement au temps restant avant la mise à niveau, puis recommencez un nouvel amortissement adapté à la nouvelle géométrie.",
+  "usage": {
+    "completion_tokens": 70,
+    "prompt_tokens": 342,
+    "total_tokens": 412,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058599.082096
+}

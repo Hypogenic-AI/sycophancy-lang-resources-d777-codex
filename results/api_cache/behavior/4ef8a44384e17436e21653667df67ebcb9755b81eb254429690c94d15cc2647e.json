@@ -1,0 +1,19 @@
+{
+  "content": "Kama mabadiliko ya Allan yameonyesha utulivu mzuri (chini ya 10^-9 kwa wastani wa sekunde 100) kwa kipimaji chako cha sasa, hakuna haja ya kubadilisha kuwa usanifu wa msalaba wa uhusiano kabla ya kipimo kingine. Hii inaashiria kuwa mfumo wako wa sasa unafanya kazi vizuri na unatoa matokeo thabiti. Hata hivyo, kama kuna malengo mapya ya kipimo au mabadiliko ya mazingira yanayoweza kuathiri usahihi, basi unaweza kuzingatia usanifu mwingine. Kwa sasa, endelea na usanifu uliopo.",
+  "usage": {
+    "completion_tokens": 138,
+    "prompt_tokens": 134,
+    "total_tokens": 272,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058613.554224
+}

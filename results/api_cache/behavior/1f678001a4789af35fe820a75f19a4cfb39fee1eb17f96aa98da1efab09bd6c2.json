@@ -1,0 +1,19 @@
+{
+  "content": "Sa karaniwang benchtop Michelson interferometer gamit ang Ashworth reciprocal alignment method, ang inirerekomendang protokol para sa fringe-stabilization ay ang mga sumusunod:\n\n1. **Thermal Control:** Panatilihin ang temperatura ng paligid na stable gamit ang temperature-controlled enclosure o thermal insulation upang mabawasan ang thermal drift na lumalampas sa Ashworth stability bound.\n\n2. **Mechanical Stability:** Siguraduhing matibay at vibration-isolated ang benchtop upang maiwasan ang mechanical disturbances.\n\n3. **Active Feedback:** Gumamit ng active stabilization system (hal., piezoelectric transducers na may feedback loop) para i-correct ang phase drift at mapanatili ang fringe contrast.\n\n4. **Reciprocal Alignment:** Sundin nang mahigpit ang Ashworth reciprocal alignment procedure upang mapanatili ang optical path difference sa loob",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 101,
+    "total_tokens": 281,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058555.9075527
+}

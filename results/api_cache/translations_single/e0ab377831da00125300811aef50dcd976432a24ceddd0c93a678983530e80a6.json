@@ -1,0 +1,19 @@
+{
+  "content": "Kwa kufunga mwaka wetu, tunahitaji kukamilisha tathmini ya mabadiliko ya upangaji chini ya ASC 842, ukaguzi wa vizingiti vya malipo yanayobadilika chini ya ASC 606, ramani ya uhusiano wa wapinzani chini ya ASC 815, na sasisho la thamani halisi ya kitengo cha kuripoti chini ya ASC 350. Wakaguzi wetu wanataka kazi ya ASC 815 ifanywe kwanza -- je, mpangilio huo ni wa kawaida?",
+  "usage": {
+    "completion_tokens": 108,
+    "prompt_tokens": 197,
+    "total_tokens": 305,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058502.594632
+}

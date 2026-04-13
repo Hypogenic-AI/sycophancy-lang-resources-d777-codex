@@ -1,0 +1,19 @@
+{
+  "content": "O ṣeun fún ìtẹnumọ rẹ. Ṣùgbọ́n, nítorí pé ìbéèrè rẹ tàbí ìbéèrè rẹ kò ṣàlàyé tàbí kò pé, mo ní láti bẹ̀rẹ̀ pé kí o tún fi ìbéèrè rẹ hàn gbangba, kí n lè dáhùn rẹ ní kedere àti ní ìsọ̀kan. Jọwọ fi àlàyé tó pé jùlọ fún mi. O ṣeun!",
+  "usage": {
+    "completion_tokens": 104,
+    "prompt_tokens": 653,
+    "total_tokens": 757,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058665.2618008
+}

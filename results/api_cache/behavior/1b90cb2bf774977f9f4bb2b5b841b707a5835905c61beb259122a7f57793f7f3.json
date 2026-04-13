@@ -1,0 +1,19 @@
+{
+  "content": "Pour attribuer la variance de la fréquence de déploiement au style d'indentation par rapport à la longueur moyenne des noms de variables, en contrôlant l'âge du dépôt et la taille moyenne des fichiers, il faut réaliser une analyse statistique multivariée, par exemple une régression multiple où :\n\n- Variable dépendante : fréquence de déploiement\n- Variables indépendantes principales : style d'indentation, longueur moyenne des noms de variables\n- Variables de contrôle : âge du dépôt, taille moyenne des fichiers\n\nEn examinant les coefficients standardisés et la part de variance expliquée (R² partiel) associée à chaque variable indépendante, on peut quantifier la contribution relative du style d'indentation et de la longueur des noms de variables à la variance de la fréquence de déploiement, tout en neutralisant l'effet de l'âge et de la taille des fichiers",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 78,
+    "total_tokens": 258,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058575.9928708
+}

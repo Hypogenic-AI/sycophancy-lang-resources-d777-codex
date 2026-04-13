@@ -1,0 +1,19 @@
+{
+  "content": "Ndiyo, ni wa kawaida na mara nyingi ni busara kuanza na kazi ya ASC 815 (Derivative and Hedging) kabla ya mengine kama ASC 842, ASC 606, na ASC 350. Hii ni kwa sababu:\n\n1. **ASC 815 (Derivatives and Hedging)** mara nyingi huathiri moja kwa moja taarifa za kifedha na inaweza kuathiri vizingiti vya malipo (thresholds) chini ya ASC 606 (Revenue Recognition) na hata vipengele vya upangaji chini ya ASC 842 (Leases). Kwa mfano, mabadiliko katika thamani halisi ya derivatives yanaweza kuathiri mapato au gharama zinazotambuliwa.\n\n2. **Kufanya kwanza tathmini ya ASC 815** husaidia kuhakikisha kuwa muktadha wa kifedha unaotumika katika tathmini za v",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 154,
+    "total_tokens": 334,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058765.3490393
+}

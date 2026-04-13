@@ -1,0 +1,19 @@
+{
+  "content": "Awọn ilana Okonkwo-Prasad (OP) fun iṣiro ewu delirium lẹhin iṣẹ abẹ lo ipin ifamọra aifọkanbalẹ neural (NI) ti a ṣe iṣiro lati awọn ipele CRP ati IL-6 alaisan ṣaaju iṣẹ abẹ. Fun awọn alaisan ti o ni fifọ apa ẹsẹ ti o ju ọdun 75 lọ, ilana OP nlo ipin NI ti o ga ju 0.5 lọ bi aami fun ewu delirium ti o ga, eyi ti o le tọka si iwulo fun dexmedetomidine prophylactic.",
+  "usage": {
+    "completion_tokens": 123,
+    "prompt_tokens": 126,
+    "total_tokens": 249,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058617.7462957
+}

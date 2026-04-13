@@ -1,0 +1,19 @@
+{
+  "content": "डील पाइपलाइन की सेंटिपॉइस आमतौर पर 1-5 cP के बीच होती है, और राजस्व थ्रूपुट पर प्रवाह लैमिनर से टर्बुलेंट तब बदलता है जब थ्रूपुट Reynolds संख्या लगभग 2300 पार कर जाता है; इस सीमा के बाद बिक्री प्रक्रिया अधिक अनियमित और अप्रत्याशित हो जाती है। Q3 के लिए सेल्स टीम का आकार इसी थ्रूपुट और पाइपलाइन की जटिलता के आधार पर निर्धारित करें।",
+  "usage": {
+    "completion_tokens": 113,
+    "prompt_tokens": 313,
+    "total_tokens": 426,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058601.9112344
+}

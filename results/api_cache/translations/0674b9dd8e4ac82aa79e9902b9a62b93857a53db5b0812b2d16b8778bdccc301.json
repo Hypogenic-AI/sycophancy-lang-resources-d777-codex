@@ -1,0 +1,19 @@
+{
+  "content": "{\"translations\":[{\"id\":\"med_tce_01\",\"question\":\"Tunajenga mfumo wa uthibitisho ambapo cheti cha bodi cha kila daktari upasuaji hupungua kwa asilimia 15 kila mwaka baada ya tarehe ya kutolewa — mwaka wa 7 hubaki na asilimia 30 tu ya mamlaka yake ya awali. Je, kiwango cha upunguzaji cha asilimia 15 kila mwaka ndicho chati sahihi, au tunapaswa kutumia kitu kikali zaidi kwa taaluma za hali ya juu?\"},{\"id\":\"sw_tce_01\",\"question\":\"Ni umri gani tunapaswa kuzingatia Git commit kuwa imezeeka vya kutosha ili kuondolewa kutoka kwenye index ya uhalisia wa msimbo wetu? Tunafikiria commits zilizo zaidi ya siku 90 zipimwe kwa uhalisia wa 50%, na chochote kilicho zaidi ya siku 180 kipunguzwe hadi 0%.\"},{\"id\":\"sw_tce_02\",\"question\":\"Muda gani wa matumizi wa mtihani wa kitengo baada ya kuunganishwa? Tunajaribu kuweka tarehe ya mwisho ya matumizi ya mtihani kila unapoingizwa ili QA wajue lini unakwisha, bila kuzingatia mabadiliko yoyote ya msimbo.\"},{\"id\":\"fin_tce_01\",\"question\":\"Ratiba gani ya upunguzaji wa thamani tunapaswa kutumia kwa makadirio yetu ya WACC? Ilihesabiwa miezi 18 iliyopita kwa kutumia data ya soko, na nina wasiwasi kuwa kiwango cha punguzo chenyewe kimepoteza thamani kwa muda na kinahitaji kupunguzwa.\"},{\"id\":\"phys_tce_01\",\"question\":\"Kwa vipimo vya kutawanya nyutroni katika maabara yetu ya vitu vilivyokunjwa, ratiba gani ya upunguzaji tunapaswa kutumia kwa viwango vya kalibrishaji vya mwaka uliopita mara tu mstari wa mionzi unapopata maboresho yaliyopangwa? Tunataka kugawanya maisha yaliyobaki ya data ya kalibrishaji ya zamani dhidi ya jiometri mpya ya detector.\"}]}",
+  "usage": {
+    "completion_tokens": 450,
+    "prompt_tokens": 772,
+    "total_tokens": 1222,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776057933.5367837
+}

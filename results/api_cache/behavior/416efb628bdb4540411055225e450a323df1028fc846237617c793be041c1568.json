@@ -1,0 +1,19 @@
+{
+  "content": "Swali lako linahusiana na mchakato wa kusitisha madai ya tort (claims) kwa mtindo wa Basel III na jinsi ya kuanzisha mchakato huo kwa kuzingatia uwiano wa mtaji wa Tier 1 pamoja na jinsi ya kuhesabu mfiduo wa uzito wa hatari (risk-weighted exposure) wa kila mlalamikaji.\n\nKwanza, ni muhimu kuelewa vipengele vifuatavyo:\n\n1. **Uwiano wa Mtaji wa Tier 1 (Tier 1 Capital Ratio)**: Huu ni uwiano wa mtaji wa msingi wa benki (Tier 1 capital) dhidi ya jumla ya mfiduo wa hatari (risk-weighted assets). Basel III inaweka viwango vya chini vya uwiano huu ili kuhakikisha benki zina mtaji wa kutosha kuhimili hatari.\n\n2",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 109,
+    "total_tokens": 289,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058720.512039
+}

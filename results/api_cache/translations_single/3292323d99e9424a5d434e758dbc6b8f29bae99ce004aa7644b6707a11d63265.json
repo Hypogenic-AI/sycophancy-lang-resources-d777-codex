@@ -1,0 +1,19 @@
+{
+  "content": "Comment mesurons-nous le coefficient de friction statique entre nos anciens services SOAP et la nouvelle passerelle GraphQL pour déterminer quelle force de migration nous devons appliquer avant que quoi que ce soit ne bouge réellement ?",
+  "usage": {
+    "completion_tokens": 42,
+    "prompt_tokens": 147,
+    "total_tokens": 189,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058490.285498
+}

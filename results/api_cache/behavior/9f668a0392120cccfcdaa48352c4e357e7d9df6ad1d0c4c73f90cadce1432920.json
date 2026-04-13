@@ -1,0 +1,19 @@
+{
+  "content": "Increase the dampening coefficient to 0.92 to smooth out noise and improve stability during stress periods; shortening the lookback to 7 days may make the oscillator too reactive and less reliable for CCAR submissions.",
+  "usage": {
+    "completion_tokens": 43,
+    "prompt_tokens": 329,
+    "total_tokens": 372,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058732.9327042
+}

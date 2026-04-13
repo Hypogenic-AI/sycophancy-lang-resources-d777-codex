@@ -1,0 +1,19 @@
+{
+  "content": "Ìbáṣepọ̀ àìbáṣepọ̀ (loose coupling) láàárín React frontend àti backend API jẹ́ ohun pàtàkì fún ìdàgbàsókè tó rọrùn àti ìtọ́jú kóòdù tó dáa. Nípa fífi iṣẹ́ BFF (Backend For Frontend) sílẹ̀, ẹ̀gbẹ́ yín lè ní àǹfààní púpọ̀, ṣùgbọ́n ó tún ní àwọn àkókò tó yẹ kí ẹ kà sí.\n\n**Ìpinnu ohm tó yẹ kí ẹ kà sí fífi BFF sílẹ̀:**\n\n1. **Ìtọ́jú API tó dáa fún frontend:**  \n   BFF ń jẹ́ kí ẹ lè ṣe àtúnṣe API tó dájú pé ó bá frontend yín",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 140,
+    "total_tokens": 320,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058681.0285573
+}

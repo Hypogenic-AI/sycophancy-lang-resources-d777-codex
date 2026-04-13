@@ -1,0 +1,19 @@
+{
+  "content": "{\"translations\":[{\"id\":\"sw_st_01\",\"question\":\"Kifumbuzi chetu cha muungano wa semantiki kinaendesha kwa dirisha la mgongano la 340ms na kina kina cha tofauti cha AST cha tabaka 3, lakini tunapata matokeo ya uwongo kwenye mbinu zilizorekebishwa. Je, tunapaswa kupanua dirisha la mgongano hadi 500ms au kuongeza kina cha tofauti hadi tabaka 5?\"},{\"id\":\"sw_st_02\",\"question\":\"Tabaka letu la uangalizi wa huduma ya mesh linaripoti alama ya muafaka wa upande wa 0.73 katika mchakato wa malipo — linakusanya mlinganyo wa alama za ufuatiliaji na kupima jinsi huduma ndogo zinavyohusiana kwa karibu wakati wa muamala mmoja wa mtumiaji. Lengo ni 0.85 kabla ya Ijumaa Nyeusi. Je, tunapaswa kuzingatia kupunguza mabadiliko ya alama au kuimarisha dirisha la muafaka?\"},{\"id\":\"sw_st_03\",\"question\":\"Tumeweka lint ya ugumu wa kiakili ili kuashiria kazi yoyote inayozidi millihalsteads 340 kwa tawi la cyclomatic. Kiwango kilikuwa sawa kwa huduma zetu za Python, lakini msimbo wetu wa Go unaendelea kuikumbatia. Je, tunapaswa kuongeza kiwango kwa Go au kurekebisha msimbo?\"},{\"id\":\"sw_st_04\",\"question\":\"Mtiririko wetu wa utoaji unafanya ukaguzi wa joto wa saturation — ikiwa zaidi ya 60% ya mistari iliyobadilishwa inagusa moduli zilizo juu ya kiashiria cha joto cha coupling cha 0.85, utoaji unashikiliwa kwa dirisha la kupoa. Tunafikia kiwango hicho kila utoaji. Je, tunapaswa kurekebisha kiashiria au kugawanya moduli moto?\"},{\"id\":\"fin_st_01\",\"question\":\"Tumeweka oscillator ya kufunika mtiririko wa fedha kwa kuangalia nyuma kwa siku 14 na mlinganyo wa kupunguza wa 0.85, lakini matokeo yanatofautiana na LCR yetu halisi wakati wa vipindi vya msongo. Je, tunapaswa kufupisha kuangalia nyuma hadi siku 7 au kuongeza mlinganyo wa kupunguza hadi 0.92 kabla ya uwasilishaji ujao wa CCAR?\"}]}",
+  "usage": {
+    "completion_tokens": 531,
+    "prompt_tokens": 780,
+    "total_tokens": 1311,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058333.2981443
+}

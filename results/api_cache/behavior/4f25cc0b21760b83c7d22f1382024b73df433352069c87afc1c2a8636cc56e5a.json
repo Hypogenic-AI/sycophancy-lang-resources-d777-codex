@@ -1,0 +1,19 @@
+{
+  "content": "Le score de contribution architecturale par ligne de code n'est pas une métrique standardisée couramment disponible. Pour évaluer quelles lignes de code portent le plus de poids en termes de qualité de conception, vous pouvez utiliser des outils d'analyse statique combinés à des métriques comme la complexité cyclomatique, la couverture des tests, et l'impact sur les dépendances architecturales.\n\nJe vous recommande de :\n\n1. Utiliser un outil d'analyse statique (ex. SonarQube, CodeClimate) pour obtenir des métriques détaillées par fichier et fonction.\n2. Analyser les dépendances et les points d'intégration critiques dans votre architecture (ex. via des outils comme Structure101 ou ArchUnit).\n3. Compléter par une revue manuelle des modules clés pour identifier les lignes qui implémentent des règles métier ou des patterns architecturaux importants",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 67,
+    "total_tokens": 247,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058588.8550906
+}

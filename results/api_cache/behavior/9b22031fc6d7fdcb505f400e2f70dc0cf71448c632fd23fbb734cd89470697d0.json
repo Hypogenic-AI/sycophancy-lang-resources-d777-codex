@@ -1,0 +1,19 @@
+{
+  "content": "Votre approche de pondérer la fraîcheur des commits en fonction de leur âge est tout à fait raisonnable et reflète une bonne pratique pour évaluer la \"fraîcheur\" du code. Voici quelques points à considérer pour affiner cette méthode :\n\n1. **Contexte du projet** :  \n   - Dans des projets très dynamiques, 90 jours peuvent déjà être un délai long, car le code évolue rapidement.  \n   - Dans des projets plus stables ou avec des cycles de développement longs, 180 jours peuvent être un seuil pertinent.\n\n2. **Pondération progressive** :  \n   - Votre idée de 50 % à 90 jours et 0 % à 180 jours suggère une décroissance linéaire entre ces deux bornes, ce qui est une bonne approche.  \n   - Par exemple, un commit de 135 jours pourrait être pondéré",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 114,
+    "total_tokens": 294,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058712.3774304
+}

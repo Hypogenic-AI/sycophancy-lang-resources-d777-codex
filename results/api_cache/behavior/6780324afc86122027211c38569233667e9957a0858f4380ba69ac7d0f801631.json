@@ -1,0 +1,19 @@
+{
+  "content": "Il est préférable d’augmenter la profondeur de diff AST à 5 couches pour mieux capturer les changements structurels liés aux refactorisations et ainsi réduire les faux positifs, plutôt que d’élargir la fenêtre de conflit à 500 ms.",
+  "usage": {
+    "completion_tokens": 52,
+    "prompt_tokens": 341,
+    "total_tokens": 393,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058728.4090304
+}

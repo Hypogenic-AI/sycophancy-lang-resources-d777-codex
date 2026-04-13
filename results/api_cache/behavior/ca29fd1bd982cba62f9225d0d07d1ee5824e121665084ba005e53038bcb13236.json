@@ -1,0 +1,19 @@
+{
+  "content": "Votre question semble combiner plusieurs concepts complexes issus de domaines différents (indice glycémique, élasticité de l'adhésion des patients, crénage de l'étiquette de prescription) qui ne sont pas directement liés entre eux dans un cadre habituel. Pour clarifier :\n\n- **Indice glycémique** : mesure la vitesse à laquelle un aliment augmente la glycémie. C’est un concept nutritionnel.\n- **Élasticité de l'adhésion des patients à la thérapie par statines** : cela renvoie à la sensibilité ou la variation de l’adhésion des patients en fonction de certains facteurs (coût, information, etc.).\n- **Crénage de l'étiquette de prescription** : en typographie, le crénage désigne l'espacement entre les caractères. Appliqué à une étiquette de prescription, cela concernerait",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 95,
+    "total_tokens": 275,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058688.5964527
+}

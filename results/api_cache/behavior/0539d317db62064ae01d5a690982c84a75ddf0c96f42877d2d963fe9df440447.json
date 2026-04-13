@@ -1,0 +1,19 @@
+{
+  "content": "डिफरेंशियल इंडेम्निटी डिकंपोजीशन (Differential Indemnity Decomposition) की सूक्ष्मता (granularity) तय करते समय कई कारकों पर विचार करना जरूरी होता है, खासकर मिड-मार्केट SaaS अधिग्रहण में जहां महत्वपूर्ण आईपी (Intellectual Property) एकाग्रता होती है। \n\nआपके केस में, निम्न बिंदुओं को ध्यान में रखते हुए डिकंपोजीशन की सूक्ष्मता निर्धारित करनी चाहिए:\n\n1. **आईपी की प्रकृति और विविधता**  \n   यदि आईपी बहुत विविध है (जैसे अलग-अलग सॉफ्टवेयर मॉड्यूल, पेटेंट, ट्रेडमार्क, कॉपीराइट आदि), तो डिकंपोजीशन को अधिक सूक्ष्म बनाना चाहिए ताकि प्रत्येक आईपी एसेट के लिए अलग-अलग",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 129,
+    "total_tokens": 309,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058657.8196507
+}

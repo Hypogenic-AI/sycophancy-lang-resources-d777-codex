@@ -1,0 +1,19 @@
+{
+  "content": "Swali lako linahusu kiwango cha uvumilivu (tolerance level) katika milliempathies kinachopaswa kuwekwa kwa mabadiliko ya huruma (compassion shifts) miongoni mwa wauguzi wa huduma za palliative wakati wa zamu za saa 12 mfululizo, na pia kiwango cha kikomo kinachopaswa kuweka katika agizo la mzunguko (rotation order).\n\nKwanza, ni muhimu kuelewa baadhi ya dhana:\n\n- **Milliempathies**: Hii ni kipimo cha huruma au hisia za huruma zinazopimwa kwa kiwango kidogo sana (milli = elfu moja ya moja). Hii ni dhana isiyo ya kawaida katika muktadha wa huduma za afya, na haijulikani kama kipimo rasmi kinachotumika katika usimamizi",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 114,
+    "total_tokens": 294,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058698.9441972
+}

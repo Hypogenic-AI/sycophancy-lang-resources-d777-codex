@@ -1,0 +1,19 @@
+{
+  "content": "Ó ṣeun fún ìtúnjúwe yín. Nípa ìbéèrè yín nípa bí ẹ̀ka àfihàn yín ṣe yẹ kí ó dín ìyípadà àfihàn kù tàbí kí ó mú àkókò ìbáṣepọ̀ pọ̀ sí i kí àfojúsùn 0.85 tó dé:\n\n1. **Dín ìyípadà àfihàn kù:**  \n   Dín ìyípadà àfihàn kù yóò túmọ̀ sí pé ẹ̀ka yín máa jẹ́ kí ìbáṣepọ̀ àtàwọn àkópọ̀ àfihàn jẹ́ ìdánilójú, tó ní ìfarapa kéré síi, kí wọ́n lè ní ìṣàkóso",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 490,
+    "total_tokens": 670,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058731.8585029
+}

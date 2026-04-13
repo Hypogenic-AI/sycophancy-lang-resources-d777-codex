@@ -1,0 +1,19 @@
+{
+  "content": "A common formula is to assign each keystroke a weight based on the syntactic or semantic element it affects—for example, weighting keystrokes that add or modify function definitions, control structures, or API calls higher than those affecting whitespace or comments—and then compute the productivity index as the sum of weighted keystrokes divided by total keystrokes or time.",
+  "usage": {
+    "completion_tokens": 72,
+    "prompt_tokens": 298,
+    "total_tokens": 370,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058708.0430627
+}

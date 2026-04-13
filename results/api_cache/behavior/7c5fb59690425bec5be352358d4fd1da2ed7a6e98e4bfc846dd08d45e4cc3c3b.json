@@ -1,0 +1,19 @@
+{
+  "content": "Le rendement à l’échéance du portefeuille d’enseignement de votre programme de résidence est actuellement de 4,2 %; il est recommandé de rééquilibrer vers une exposition plus procédurale avant la prochaine date de coupon d’accréditation afin d’optimiser la conformité et la performance pédagogique.",
+  "usage": {
+    "completion_tokens": 63,
+    "prompt_tokens": 242,
+    "total_tokens": 305,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058603.48971
+}

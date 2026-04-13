@@ -1,0 +1,19 @@
+{
+  "content": "ما هي مدة صلاحية شرط القوة القاهرة لدينا بوحدة درجات الأيام، وعند أي عتبة تلف يجب علينا إعادة تعقيم لغة العقد لمنع التحلل البكتيري لأحكام التعويض؟",
+  "usage": {
+    "completion_tokens": 41,
+    "prompt_tokens": 173,
+    "total_tokens": 214,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058493.2215457
+}

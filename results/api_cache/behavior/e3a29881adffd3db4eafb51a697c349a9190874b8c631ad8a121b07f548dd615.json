@@ -1,0 +1,19 @@
+{
+  "content": "हर्ग्रोव-मेंडेल्सन मानदंड मुख्य रूप से वारफरिन और अन्य विटामिन K एंटागोनिस्ट के लिए हैं; एपिक्साबान जैसे डायरेक्ट ओरल एंटीकोआगुलेंट्स के लिए ये मानदंड सीधे लागू नहीं होते।",
+  "usage": {
+    "completion_tokens": 65,
+    "prompt_tokens": 368,
+    "total_tokens": 433,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058738.6024323
+}

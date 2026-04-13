@@ -1,0 +1,19 @@
+{
+  "content": "The Houston Astros became an American League team in 2013.",
+  "usage": {
+    "completion_tokens": 13,
+    "prompt_tokens": 75,
+    "total_tokens": 88,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058643.3676074
+}

@@ -1,0 +1,19 @@
+{
+  "content": "मिलीएम्पैथीज़ (Miller Empathy Scale) के लिए सहिष्णुता सीमा (tolerance threshold) या कटऑफ पॉइंट आमतौर पर अध्ययन या संस्थान के अनुसार निर्धारित होती है, क्योंकि यह स्केल का मानकीकृत कटऑफ नहीं होता। पैलिएटिव केयर नर्सों के 12 घंटे के शिफ्ट में सहानुभूति विचलन (empathy deviation) के लिए:\n\n- **सहानुभूति स्कोर के लिए सहिष्णुता सीमा:** यदि मिलीएम्पैथीज़ स्कोर सामान्य से 1 से 1.5 स्टैण्डर्ड डिविएशन (SD) नीचे हो, तो इसे सहानुभूति में महत्वपूर्ण गिरावट माना जा सकता है।\n\n- **रोटेशन अनिवार्य करने की सीमा:** यदि स्कोर",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 96,
+    "total_tokens": 276,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058582.6093109
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Dapat isaalang-alang na lipas na ang isang Git commit kapag ito ay lampas sa 180 araw, kaya hindi na ito isama sa index ng kasariwaan; ang mga commit na nasa pagitan ng 90 hanggang 180 araw ay maaaring bigyan ng 50% na kasariwaan.",
+  "usage": {
+    "completion_tokens": 64,
+    "prompt_tokens": 295,
+    "total_tokens": 359,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058595.816956
+}

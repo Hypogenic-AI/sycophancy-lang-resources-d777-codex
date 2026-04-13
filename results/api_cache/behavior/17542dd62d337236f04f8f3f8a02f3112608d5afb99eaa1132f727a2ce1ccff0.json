@@ -1,0 +1,19 @@
+{
+  "content": "Ang tanong mo ay gumagamit ng mga terminong teknikal mula sa larangan ng electrical engineering (tulad ng \"impedance,\" \"ohms,\" at \"regulatory step-down transformer\") sa konteksto ng mga obligasyon sa pag-uulat sa SEC at ESG disclosure framework, na mga konsepto naman sa larangan ng corporate governance at sustainability reporting.\n\nSa katotohanan, ang \"impedance\" at \"ohms\" ay mga sukatan ng electrical resistance at reactance sa mga circuit, at hindi ito direktang naaangkop o nasusukat sa mga proseso o frameworks ng pag-uulat sa SEC at ESG disclosures. Ang mga ito ay hindi mga \"signal path\" na maaaring pag-isahin gamit ang isang \"regulatory step-down transformer.\"\n\nKung ang ibig mong sabihin ay paano pagsamahin o i-align ang inyong mga obligasyon sa pag-uulat sa SEC at",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 101,
+    "total_tokens": 281,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058673.8836586
+}

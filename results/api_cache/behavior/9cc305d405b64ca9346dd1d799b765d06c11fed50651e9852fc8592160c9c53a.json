@@ -1,0 +1,19 @@
+{
+  "content": "If the gravitational coupling index is drifting noticeably over time, switching to continuous measurement is generally preferable. Continuous measurement allows you to detect and respond to changes in real time, providing more accurate and timely insights into service interactions. Quarterly recalibration may miss important fluctuations and lead to outdated or less reliable data. However, if continuous measurement is resource-intensive, consider a hybrid approach with more frequent recalibrations (e.g., monthly) combined with automated alerts for significant deviations.",
+  "usage": {
+    "completion_tokens": 92,
+    "prompt_tokens": 79,
+    "total_tokens": 171,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058626.660226
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Kini igbohunsafẹfẹ ti a ṣe iṣeduro fun ṣiṣe iṣiro idapọpọ indemnity bilateral nigbati apo adehun wa bo awọn agbegbe ofin-ọrọ ati ofin-ara ilu pẹlu awọn ajohunṣe idiwọ-ojuse ti o tako ara wọn?",
+  "usage": {
+    "completion_tokens": 58,
+    "prompt_tokens": 162,
+    "total_tokens": 220,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058504.9032946
+}

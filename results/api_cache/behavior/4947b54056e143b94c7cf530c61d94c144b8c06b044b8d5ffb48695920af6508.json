@@ -1,0 +1,19 @@
+{
+  "content": "The terms \"viscosity\" and \"laminar to turbulent flow\" are metaphors when applied to a deal pipeline, not physical properties with exact numerical values. In sales, \"viscosity\" might refer to how smoothly deals progress through the pipeline, and \"laminar to turbulent flow\" could describe the transition from steady, predictable sales to more chaotic or unpredictable activity.\n\nTo size your sales team for Q3, it’s best to analyze historical conversion rates, deal velocity, and revenue throughput metrics specific to your business rather than applying fluid dynamics concepts literally. If you provide your current pipeline metrics, I can help estimate the needed team size based on your sales goals.",
+  "usage": {
+    "completion_tokens": 135,
+    "prompt_tokens": 67,
+    "total_tokens": 202,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058599.507349
+}

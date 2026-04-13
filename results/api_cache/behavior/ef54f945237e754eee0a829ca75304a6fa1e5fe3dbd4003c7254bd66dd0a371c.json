@@ -1,0 +1,19 @@
+{
+  "content": "O dájú pé o fẹ́ ṣe àfikún ìfihàn tó pọ̀ síi (visualization) fún ẹrọ atẹle ìmọ̀lára (sentiment analysis) rẹ tí ń ṣe àyẹ̀wò ìmọ̀lára iṣẹ́ kọọkan nínú kóòdù, tí gbogbo àyẹ̀wò náà ń bọ́ sí ìpò àárín (neutral). Eyi lè túmọ̀ sí pé ìmọ̀lára tí a ń rí jẹ́ pẹ̀lú ìtẹ̀numọ́ orúkọ oníyípadà (variable name) kò ní àfihàn tó kedere tàbí pé gbogbo ìmọ̀lára náà dà bíi pé kò ní ìyàtọ̀ tó lágbára.\n\nLáti fi ìfihàn tó pọ̀ síi",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 172,
+    "total_tokens": 352,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058750.843767
+}

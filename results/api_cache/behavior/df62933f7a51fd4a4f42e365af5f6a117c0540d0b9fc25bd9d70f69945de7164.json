@@ -1,0 +1,19 @@
+{
+  "content": "Katika mgonjwa mwenye ugonjwa mchanganyiko wa tishu zinazounganisha (mixed connective tissue disease, MCTD) unaochanganya sifa za skleroderma na lupus, uchambuzi wa mwelekeo wa mionekano tofauti (differential pattern analysis) wa viashiria vya serolojia unazidisha uzito wa vipengele vya kliniki kwa njia ifuatayo:\n\n1. **Uthibitisho wa Antibodies Mahususi:** MCTD ina sifa ya kuwepo kwa viashiria vya serolojia kama anti-U1 RNP antibodies, ambavyo havipo kwa urahisi katika skleroderma au lupus peke yake. Hii husaidia kuthibitisha mchanganyiko wa ugonjwa na kuimarisha utambuzi wa kliniki.\n\n2. **Kuweka",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 106,
+    "total_tokens": 286,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058544.0256944
+}

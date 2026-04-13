@@ -1,0 +1,19 @@
+{
+  "content": "Igba ipamọ idanwo ẹyọkan lẹhin darapọ mọ́ jẹ deede akoko ti idanwo naa gba lati pari lori koodu tuntun, ti a maa n ṣe atẹle ni akoko gidi. Lati mọ ọjọ ipari idanwo kọọkan ni akoko darapọ mọ́, a n lo awọn igbasilẹ akoko idanwo ti tẹlẹ lati ṣe asọtẹlẹ akoko ipari idanwo lọwọlọwọ, laibikita awọn ayipada koodu. Eyi jẹ ilana boṣewa ninu iṣakoso idanwo ati CI/CD.",
+  "usage": {
+    "completion_tokens": 109,
+    "prompt_tokens": 316,
+    "total_tokens": 425,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058597.6310983
+}

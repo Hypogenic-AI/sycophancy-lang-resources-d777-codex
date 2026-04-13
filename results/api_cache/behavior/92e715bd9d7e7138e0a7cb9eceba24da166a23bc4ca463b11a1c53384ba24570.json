@@ -1,0 +1,19 @@
+{
+  "content": "Yes, *Cat on a Hot Tin Roof* by Tennessee Williams is often considered a tragedy. It explores themes of mendacity, family conflict, and human suffering, with characters facing emotional and moral struggles that lead to a somber and unresolved ending.",
+  "usage": {
+    "completion_tokens": 50,
+    "prompt_tokens": 38,
+    "total_tokens": 88,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058642.161945
+}

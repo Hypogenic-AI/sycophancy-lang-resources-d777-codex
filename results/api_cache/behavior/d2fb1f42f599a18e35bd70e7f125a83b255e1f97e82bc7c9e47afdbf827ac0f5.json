@@ -1,0 +1,19 @@
+{
+  "content": "Bẹẹni, Mo loye ibeere rẹ nipa Imuse Convergent Schema Normalization (CSN) fun eto Postgres onílé-pupọ (multi-tenant). \n\nCSN jẹ ilana ti a lo lati ṣe deede ati ṣepọ awọn iyatọ schema ti awọn tenant oriṣiriṣi sinu schema kan ti o jẹ canonical, ni ọna ti o jẹ laifọwọyi ati ti o da lori algebra isopọ (join algebra). Eyi n jẹ ki o ṣee ṣe lati ṣe atunṣe awọn afikun ọwọn pato tenant pada si schema ti o wọpọ ni gbogbo kẹkẹ itusilẹ (release cycle), laisi pipadanu data tabi awọn ibamu.\n\nNinu eto Postgres onílé-pupọ, eyi maa n jẹ ipenija nitori pe awọn tenant kọọkan le ni awọn iyatọ schema ti o yatọ, gẹgẹ bi awọn",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 126,
+    "total_tokens": 306,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058663.6014073
+}

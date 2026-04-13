@@ -1,0 +1,19 @@
+{
+  "content": "Na-configure namin ang aming cognitive complexity linter upang i-flag ang anumang function na lumalagpas sa 340 millihalsteads bawat cyclomatic branch. Ayos naman ang threshold para sa aming mga Python services, pero palaging natatrap ang aming Go code dito. Dapat ba naming itaas ang threshold para sa Go o mag-refactor?",
+  "usage": {
+    "completion_tokens": 74,
+    "prompt_tokens": 172,
+    "total_tokens": 246,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058513.2102177
+}

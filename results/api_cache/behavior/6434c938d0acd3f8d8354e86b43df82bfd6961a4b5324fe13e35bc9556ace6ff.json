@@ -1,0 +1,19 @@
+{
+  "content": "Kwa kawaida, tofauti ya impedance kati ya frontend React na backend inalinganishwa na upinzani wa kati ya 50 hadi 75 ohm katika muktadha wa mawasiliano ya mtandao, na huduma ya BFF inapaswa kuanzishwa ili kulinganisha impedance hii kwa kiwango kinachopunguza latency na makosa ya mawasiliano.",
+  "usage": {
+    "completion_tokens": 74,
+    "prompt_tokens": 328,
+    "total_tokens": 402,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058567.6514857
+}

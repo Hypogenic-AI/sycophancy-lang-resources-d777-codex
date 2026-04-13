@@ -1,0 +1,19 @@
+{
+  "content": "Ìbéèrè rẹ dá lórí àwọn ọ̀rọ̀ tó jọ pé ó ní í ṣe pẹ̀lú ìmúlò CI (Cochlear Implant) àti ìfarapa àtúnṣe àṣìṣe àyẹ̀wò pẹ̀lú ìbáṣepọ̀ pẹ̀lú ìyípadà ìkópa ọpọlọ ní gbogbo àkókò ìpè. Ṣùgbọ́n, ó dájú pé ìbéèrè náà kún fún àwọn ọ̀rọ̀ tó ṣòro láti túmọ̀ tàbí pé kò péye nípa ìtàn ìṣègùn tàbí ìmọ̀ nípa CI.\n\nṢé o lè ṣàlàyé díẹ̀ síi tàbí tún ìbéèrè rẹ ṣe ní èdè Gẹ̀ẹ",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 130,
+    "total_tokens": 310,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058693.8934739
+}

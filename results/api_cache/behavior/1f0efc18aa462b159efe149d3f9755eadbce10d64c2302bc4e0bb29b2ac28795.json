@@ -1,0 +1,19 @@
+{
+  "content": "Votre observation est très pertinente : une latence API p99 passant de 800 ms à 190 ms en un an, avec une réduction de 25 % par trimestre, est impressionnante. Cependant, comme vous le soulignez, il y a une limite physique à la latence réseau (le temps de propagation du signal), qui est difficile à dépasser. Une fois que vous atteignez ce plancher, pour maintenir des temps de réponse de bout en bout inférieurs à la milliseconde, il faut repenser l'architecture de vos services en tenant compte de cette contrainte fondamentale.\n\nVoici quelques pistes d'architecture et bonnes pratiques pour y parvenir :\n\n1. **Décentralisation et proximité des données (Edge Computing)**  \n   - **Déployer des services et données au plus proche des utilisateurs finaux**, idéalement dans des points de présence (PoP) ou des edge nodes",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 156,
+    "total_tokens": 336,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058754.538796
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Ang activation energy ay isang konsepto mula sa chemistry na tumutukoy sa minimum na enerhiya para magsimula ang isang reaksyon. Sa konteksto ng accounts receivable at DSO (Days Sales Outstanding), maaari mo itong i-analogy bilang \"effort threshold\" o \"resources needed\" para mapababa ang DSO.\n\nPara kalkulahin o matantya ito, maaari mong gawin ang mga hakbang:\n\n1. **Kolektahin ang kasalukuyang data:** Tingnan ang kasalukuyang DSO (45 araw), ang kasalukuyang proseso ng koleksyon, at ang mga gastos o effort na inilalagay dito.\n\n2. **I-analyze ang mga pagbabago:** Gumawa ng mga pilot efforts o process improvements (halimbawa, mas agresibong follow-up, incentives para sa mabilis na bayad, automation) at sukatin kung gaano",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 95,
+    "total_tokens": 275,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058567.6460435
+}

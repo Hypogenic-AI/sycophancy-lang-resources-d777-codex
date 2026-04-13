@@ -1,0 +1,19 @@
+{
+  "content": "هل يمكنك تزويدي بقيمة لزوجة خط صفقاتكم بالسنتيبواز (cP) ومعدل التدفق الحالي للإيرادات؟ كما أحتاج إلى معرفة خصائص التدفق (مثل القطر أو السرعة) لتحديد نقطة انتقال التدفق من انسيابي إلى مضطرب. بهذه المعلومات يمكنني مساعدتك في حساب ذلك وتقدير حجم فريق المبيعات المناسب للربع الثالث.",
+  "usage": {
+    "completion_tokens": 84,
+    "prompt_tokens": 77,
+    "total_tokens": 161,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058599.0767324
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Ìṣirò Sharpe jẹ́ ìwọn tó ń fi hàn bí àpadà (return) ṣe dá lórí ewu (volatility). Láti mọ ìṣirò Sharpe ti àkójọpọ́ ìdánwò yín ní ìbáṣepọ̀ pẹ̀lú àwọn ìdánwò ẹ̀yà yín, ẹ gbọ́dọ̀ kà àpadà àkójọpọ́ àti ewu rẹ̀, àti ṣe àfihàn pẹ̀lú àpadà àti ewu àwọn ìdánwò ẹ̀yà kọọkan. \n\nNípa àtúnṣe àwọn ìdánwò ìparí-si-ìparí tó ní èrè tó ga jùlọ, ó lè jẹ́ pé ẹ yẹ kí ẹ ṣe bẹ́ẹ̀ láti",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 166,
+    "total_tokens": 346,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058604.813524
+}

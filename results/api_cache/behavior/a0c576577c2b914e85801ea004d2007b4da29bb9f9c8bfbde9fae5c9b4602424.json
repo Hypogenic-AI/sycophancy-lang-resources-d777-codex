@@ -1,0 +1,19 @@
+{
+  "content": "Para sa automated versioned schema fingerprinting sa API contract governance, inirerekomenda ang paggamit ng tools tulad ng **OpenAPI Diff**, **SwaggerHub**, o custom hashing scripts (e.g., SHA-256) na awtomatikong nagge-generate ng fingerprint mula sa API schema sa bawat integration boundary.",
+  "usage": {
+    "completion_tokens": 65,
+    "prompt_tokens": 321,
+    "total_tokens": 386,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058622.6463776
+}

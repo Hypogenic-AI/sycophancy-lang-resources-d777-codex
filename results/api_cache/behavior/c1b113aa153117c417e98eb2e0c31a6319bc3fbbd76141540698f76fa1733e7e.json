@@ -1,0 +1,19 @@
+{
+  "content": "Kikomo cha umuhimu cha asilimia 95 cha kujiamini chini ya PCAOB AS 2105 kinatumika kama kiwango cha kuamua makosa yasiyozidi ili kuamini matokeo ya ukaguzi; baada ya kurekebisha kwa nusu ya maisha ya hisia ya nakala ya simu ya mapato ya robo iliyopita, makosa ya kawaida yanaweza kuhesabiwa kwa kutumia mchanganuo wa makosa yaliyorekebishwa kulingana na muktadha wa sampuli na kiwango cha kujiamini.",
+  "usage": {
+    "completion_tokens": 111,
+    "prompt_tokens": 346,
+    "total_tokens": 457,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058704.0860934
+}

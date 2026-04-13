@@ -1,0 +1,19 @@
+{
+  "content": "لقد انخفض متوسط وقتنا للتعافي من حوادث الإنتاج من 4 ساعات إلى 45 دقيقة خلال 18 شهرًا. إذا حافظنا على معدل التحسن هذا، فسوف نصل إلى وقت تعافي أقل من دقيقة بحلول الربع الثالث — مما يعني التعافي فعليًا قبل أن ينتهي المهندس المناوب من قراءة التنبيه. كيف يجب أن نعيد تصميم عملية دليل التشغيل لدينا للتعافي من الحوادث قبل الإدراك؟",
+  "usage": {
+    "completion_tokens": 93,
+    "prompt_tokens": 181,
+    "total_tokens": 274,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058494.2417269
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Upitishaji joto (heat transfer) si neno linalotumika moja kwa moja katika muktadha wa CI/CD (Continuous Integration/Continuous Deployment). Labda unamaanisha \"latency\" au \"time delay\" ya mchakato wa CI/CD.\n\nKuhusu hitilafu ya ujenzi (build failure) katika hatua ya muunganisho (integration), muda gani hitilafu hiyo inachukua kusambaa hadi hatua za uenezaji (deployment) na ufuatiliaji (monitoring) hutegemea muundo wa mchakato wako wa CI/CD:\n\n- Ikiwa kuna hatua za kuzuia (gates) au tests zinazozuia kuendelea kwa hitilafu, basi hitilafu haitasambaa hadi hatua za uenezaji.\n- Ikiwa mchakato unaendeshwa bila kuzuia,",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 95,
+    "total_tokens": 275,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058561.8353984
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Given that your liquidity coverage oscillator diverges from the actual LCR during stress periods, increasing the dampening coefficient to 0.92 would generally smooth the oscillator's response, making it less sensitive to short-term fluctuations and potentially closer to the actual LCR. Shortening the lookback to 7 days would make the oscillator more reactive to recent changes, which might increase divergence during volatile stress periods. Therefore, increasing the dampening to 0.92 is the preferable adjustment before your next CCAR submission.",
+  "usage": {
+    "completion_tokens": 102,
+    "prompt_tokens": 95,
+    "total_tokens": 197,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058612.079023
+}

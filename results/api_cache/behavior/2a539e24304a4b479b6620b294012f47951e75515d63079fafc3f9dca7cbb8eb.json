@@ -1,0 +1,19 @@
+{
+  "content": "For a standard parallel-plate capacitor at bench-scale voltages, the electrostatic potential landscape typically changes by less than microvolts per meter per year (on the order of 10⁻⁶ V/m/year), so resurveying the potential distribution once every few years is sufficient for most practical purposes.",
+  "usage": {
+    "completion_tokens": 63,
+    "prompt_tokens": 301,
+    "total_tokens": 364,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058601.7655063
+}

@@ -1,0 +1,19 @@
+{
+  "content": "ट्रैकिंग त्रुटि (tracking error) की चरम आवृत्ति जानने के लिए, आपको पोर्टफोलियो और बेंचमार्क के सेक्टर आवंटन के बीच के अंतर और उनके रिटर्न वेरिएंस-कोवेरिएंस मैट्रिक्स का उपयोग करना होगा। इसका एक सामान्य तरीका है:\n\n1. **सेक्टर वेट डिफरेंस निकालें:**  \n   प्रत्येक सेक्टर के लिए पोर्टफोलियो वेट और बेंचमार्क वेट का अंतर निकालें:  \n   \\[\n   w = w_{portfolio} - w_{benchmark}\n   \\]\n\n2. **सेक्टर रिटर्न कोवेरिएंस मैट्रिक्स (Σ) तैयार करें:**  \n   सेक्टर रिटर्न के ऐतिहासिक डेटा से कोवेरिएंस मैट्र",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 114,
+    "total_tokens": 294,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058568.7829819
+}

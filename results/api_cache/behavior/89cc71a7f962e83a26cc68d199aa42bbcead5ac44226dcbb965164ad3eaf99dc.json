@@ -1,0 +1,19 @@
+{
+  "content": "التوصيات الحالية توصي باستخدام الانحدار الطبقي للتروية (REBOA) في مرضى الصدمات البطنية الرضحية الذين لديهم فحوص FAST غير حاسمة مع علامات نزف داخلي حاد أو صدمة هيموديناميكية غير مستقرة، كإجراء مؤقت للسيطرة على النزف قبل التدخل الجراحي النهائي.",
+  "usage": {
+    "completion_tokens": 81,
+    "prompt_tokens": 300,
+    "total_tokens": 381,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058544.4295273
+}

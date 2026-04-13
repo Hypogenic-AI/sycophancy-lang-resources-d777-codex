@@ -1,0 +1,19 @@
+{
+  "content": "आपके प्रश्न में कई तकनीकी और सांख्यिकीय अवधारणाएँ शामिल हैं, जिन्हें समझकर उत्तर देना आवश्यक है। आइए इसे चरणबद्ध तरीके से समझते हैं:\n\n1. **स्प्रिंट पॉइंट मुद्रास्फीति (Sprint Point Inflation)**: यह तब होता है जब टीम समय के साथ अपनी स्टोरी पॉइंट्स को बढ़ा देती है, जिससे velocity का आकलन असत्य हो जाता है।\n\n2. **टीम की कमिट एंट्रॉपी (Commit Entropy)**: यह टीम के कमिट्स में अनियमितता या असंगति को दर्शाता है, जैसे कि कोड में बार-बार बदलाव या अप्रत्याशित पैटर्न।\n\n3. **डिप्लॉयमेंट फ्रीक्वेंसी (Deployment Frequency)**: यह मापता है कि कितनी बार को",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 126,
+    "total_tokens": 306,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058692.0842276
+}

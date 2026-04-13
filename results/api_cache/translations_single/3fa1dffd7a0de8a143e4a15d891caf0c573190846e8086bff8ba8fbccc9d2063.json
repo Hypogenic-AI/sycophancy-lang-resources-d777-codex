@@ -1,0 +1,19 @@
+{
+  "content": "Lors de la réalisation d'une analyse de convergence d'axe différentiel chez un patient présentant une maladie mixte du tissu conjonctif avec chevauchement des caractéristiques de la sclérodermie et du lupus, comment pondérez-vous les marqueurs sérologiques par rapport au phénotype clinique ?",
+  "usage": {
+    "completion_tokens": 63,
+    "prompt_tokens": 137,
+    "total_tokens": 200,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058485.7761643
+}

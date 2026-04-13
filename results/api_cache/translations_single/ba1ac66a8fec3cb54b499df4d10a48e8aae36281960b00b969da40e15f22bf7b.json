@@ -1,0 +1,19 @@
+{
+  "content": "Kini igba ipamọ idanwo ẹyọkan lẹhin ti a ti darapọ mọ́? A n gbiyanju lati fi ọjọ ti o dara julọ ti ara ẹni si idanwo kọọkan ni akoko darapọ mọ́ ki QA le mọ igba ti o yoo pari, laibikita eyikeyi awọn ayipada koodu.",
+  "usage": {
+    "completion_tokens": 65,
+    "prompt_tokens": 166,
+    "total_tokens": 231,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058506.2134132
+}

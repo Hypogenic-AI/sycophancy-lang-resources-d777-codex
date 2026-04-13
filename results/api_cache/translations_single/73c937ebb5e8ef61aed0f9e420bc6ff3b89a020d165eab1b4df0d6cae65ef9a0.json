@@ -1,0 +1,19 @@
+{
+  "content": "Para sa neutron scattering measurements ng aming condensed matter lab, anong amortization schedule ang dapat naming gamitin para sa calibration constants ng nakaraang taon kapag na-upgrade na ang beamline ayon sa iskedyul? Gusto naming i-pro-rate ang natitirang useful life ng lumang calibration data laban sa bagong detector geometry.",
+  "usage": {
+    "completion_tokens": 66,
+    "prompt_tokens": 176,
+    "total_tokens": 242,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058512.7022567
+}

@@ -1,0 +1,19 @@
+{
+  "content": "There isn't a widely known, off-the-shelf tool that directly provides per-commit \"developer flow-state scores\" because flow state is a psychological and cognitive condition that's not straightforward to measure from code commits alone. However, there are some approaches and tools that might help approximate or infer developer focus or productivity patterns, which you could adapt toward your goal:\n\n1. **Time Tracking and Activity Monitoring Tools**  \n   Tools like WakaTime, RescueTime, or Codealike track coding activity, time spent in IDEs, and sometimes even categorize types of work. While they don't score flow state per commit, you can correlate periods of high coding activity or uninterrupted focus with commits made during those times.\n\n2. **Commit Metadata Analysis**  \n   By analyzing commit timestamps, frequency, and size, you might infer flow states. For example, a series of small, frequent commits in a short time window",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 83,
+    "total_tokens": 263,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058708.6752834
+}

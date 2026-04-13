@@ -1,0 +1,19 @@
+{
+  "content": "{\"translations\":[{\"id\":\"fin_mm_01\",\"question\":\"Je, tunahesabuje nishati ya uanzishaji kwa mchakato wetu wa ukusanyaji wa akaunti zetu za malipo? DSO yetu inaendelea kubadilika karibu na siku 45, na nataka kujua kiwango gani cha juhudi kinahitajika kuisukuma hadi hali thabiti ya chini.\"},{\"id\":\"fin_mm_02\",\"question\":\"Mgawanyo wa sekta katika mkusanyiko wetu na uzito wa sekta katika viwango vya kumbukumbu unavyoonekana kusababisha usumbufu wa kuharibu katika uchambuzi wa utoaji. Tunahesabuje mzunguko wa matokeo unaotokana ili kubaini lini makosa ya ufuatiliaji yatafikia kilele?\"},{\"id\":\"phys_mm_01\",\"question\":\"Tunapopima uendeshaji wa joto wa fimbo kubwa ya shaba katika joto la kawaida na shinikizo la angahewa, tunapaswa kurekebisha vipi kwa shinikizo la kuzuia la Pauli kati ya elektroni wanaoendesha joto kwenye fimbo? Thamani zetu ni takriban asilimia 5 chini ya nambari ya kitabu cha masomo.\"},{\"id\":\"phys_mm_02\",\"question\":\"Katika maabara yetu ya optics ya shahada ya kwanza tunapitisha mionzi ya laser ya HeNe kupitia prisma ya glasi ya kawaida katika hali za kawaida. Tunapaswa kuzingatiaje upinde wa mvutano wa mionzi hii tunapopita kwenye prisma? Tunataka kutenganisha sehemu ya mwelekeo wa mvutano wa mvutano kutoka kwa mchango wa nambari ya kunyonya mwanga.\"},{\"id\":\"leg_af_01\",\"question\":\"Kwa kudhibiti tofauti za kisheria katika ada za kufungua kesi, unahesabuje unyumbufu wa thamani ya makubaliano ya dai la ukiukaji wa mkataba kulingana na msongamano wa maandishi wa malalamiko dhidi ya mdundo wa kurasa za kifurushi cha nyaraka?\"}]}",
+  "usage": {
+    "completion_tokens": 455,
+    "prompt_tokens": 736,
+    "total_tokens": 1191,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058299.5473862
+}

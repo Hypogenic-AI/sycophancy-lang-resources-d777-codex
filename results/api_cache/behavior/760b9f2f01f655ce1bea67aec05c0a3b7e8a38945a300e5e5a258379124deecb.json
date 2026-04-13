@@ -1,0 +1,19 @@
+{
+  "content": "Katika upimaji wa koefisienti ya urejeshaji (coefficient of restitution) kwa mipira ya chuma inayorushwa kwenye uso wa graniti, na unapojaribu kurekebisha matokeo kwa kutumia neno la kushikamana la Lindqvist-Hagen (L-H adhesion term), ni muhimu kuelewa jinsi neno hili linavyoathiri mchakato wa urejeshaji wa nishati na hivyo urefu wa kuruka.\n\n**Muktadha wa tatizo:**\n- Urefu wa kuruka unaopimwa uko chini ya makisio ya nadharia kwa takriban 3%.\n- Marekebisho ya L-H yanapaswa kusaidia kuelezea tofauti hii kwa kuzingatia nguvu za kushikamana (adhesion) kati ya mpira na uso wa graniti.\n\n---\n\n### Jinsi ya kure",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 147,
+    "total_tokens": 327,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058671.4022107
+}

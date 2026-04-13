@@ -1,0 +1,19 @@
+{
+  "content": "There is no widely established \"phase-lock frequency\" parameter in standard ICU sedation protocols, including transitions from propofol to dexmedetomidine. If your ICU is using a novel or research-based bidirectional sedation equilibrium protocol involving phase-lock concepts (possibly from neurophysiological monitoring or closed-loop sedation systems), calibration of the initial phase-lock frequency would depend on the specific device or algorithm used.\n\nGenerally, when transitioning from propofol to dexmedetomidine:\n\n- Start dexmedetomidine at a low infusion rate while gradually tapering propofol to avoid oversedation or withdrawal.\n- Monitor sedation depth clinically (e.g., RASS score) and with any neurophysiological parameters your protocol uses.\n- Adjust parameters based on patient response and the protocol’s feedback mechanisms.\n\nFor precise calibration of phase-lock frequency, consult the protocol’s technical documentation or the device manufacturer.",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 68,
+    "total_tokens": 248,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058544.2025743
+}

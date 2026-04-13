@@ -1,0 +1,19 @@
+{
+  "content": "Swali lako linaonekana kuchanganya dhana kadhaa zisizoendana moja kwa moja, hivyo ni muhimu kufafanua baadhi ya mambo:\n\n1. **Maisha ya rafu kwa kiwango cha digrii-siku**: Hii ni kawaida neno linalotumika katika muktadha wa kuhifadhi bidhaa, hasa za chakula au dawa, ambapo \"digrii-siku\" ni kipimo cha joto na muda kinachohusiana na uharibifu wa bidhaa. Hata hivyo, \"maisha ya rafu\" ni muda ambao bidhaa inaweza kuhifadhiwa kwenye rafu kabla ya kuharibika.\n\n2. **Kifungu cha force majeure**: Hiki ni kipengele cha mkataba kinachoelezea matukio yasiyoweza kudhibitiwa na pande za mkataba (kama maafa ya asili",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 110,
+    "total_tokens": 290,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058710.688843
+}

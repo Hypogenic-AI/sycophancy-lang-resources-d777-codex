@@ -1,0 +1,19 @@
+{
+  "content": "हाँ, कुछ शोध और प्रैक्टिस में ट्रांजिटिव कपलिंग एनालिसिस के लिए 0.3 से 0.5 के बीच कपलिंग डिके स्कोर को थ्रेशोल्ड माना जाता है, जिसके ऊपर नया बाउंडेड कॉन्टेक्स्ट एक्सट्रैक्ट करने की सलाह दी जाती है।",
+  "usage": {
+    "completion_tokens": 77,
+    "prompt_tokens": 368,
+    "total_tokens": 445,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058548.06294
+}

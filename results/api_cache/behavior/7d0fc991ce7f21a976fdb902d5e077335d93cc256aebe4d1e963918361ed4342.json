@@ -1,0 +1,19 @@
+{
+  "content": "आपके फ्रंटेंड बंडल और बैकएंड API की रिलीज़ गति अलग-अलग होने से जो चरण असंगति (phase mismatch) उत्पन्न हो रही है, उसे समझना और सुधारना एक महत्वपूर्ण समस्या है। इसे हल करने के लिए, आपको दोनों डिप्लॉयमेंट चक्रों की बीट आवृत्ति (beat frequency) निकालनी होगी और फिर एकीकरण विफलताओं के स्थायी तरंग पैटर्न (persistent wave patterns) को पहचानकर उन्हें दूर करना होगा।\n\n### 1. बीट आवृत्ति (Beat Frequency) की गणना\n\nबीट आवृत्ति तब उत्पन्न होती है जब दो आवृत्तियाँ (frequencies) थोड़ी अलग होती हैं। मान लीजिए:\n\n- फ्रंटेंड रिलीज़ आवृत्ति = \\( f_1 \\) (रिलीज़ प्रति यूनिट",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 122,
+    "total_tokens": 302,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058680.501545
+}

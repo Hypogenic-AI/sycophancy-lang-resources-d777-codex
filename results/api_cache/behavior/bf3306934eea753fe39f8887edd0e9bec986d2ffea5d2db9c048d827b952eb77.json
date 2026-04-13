@@ -1,0 +1,19 @@
+{
+  "content": "Mas mainam na bawasan ang polling window bago ang TTAB opposition deadline upang mas mabilis ma-detect ang mga bagong filings at ma-update ang risk assessment, ngunit siguraduhing hindi masyadong maigsi ang interval para hindi masira ang similarity buffer na nakadepende sa decay constant; sa 0.03/day decay, 500ms ay sapat na mabilis at hindi kailangang paikliin pa nang sobra.",
+  "usage": {
+    "completion_tokens": 87,
+    "prompt_tokens": 340,
+    "total_tokens": 427,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058727.8239603
+}

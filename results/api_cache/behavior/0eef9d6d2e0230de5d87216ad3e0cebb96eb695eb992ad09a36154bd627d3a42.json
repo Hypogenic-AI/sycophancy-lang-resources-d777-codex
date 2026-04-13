@@ -1,0 +1,19 @@
+{
+  "content": "Kwa hali hii, inapendelewa kubadilisha faharasa ya mvutano wa mvuto kati ya microservices kuwa kipimo cha kuendelea badala ya kurekebisha tu kila robo mwaka. Hapa ni sababu:\n\n1. **Mabadiliko ya Haraka**: Microservices mara nyingi hubadilika mara kwa mara kutokana na mabadiliko ya biashara, mabadiliko ya trafiki, au maboresho ya huduma. Kipimo cha kuendelea kinakuwezesha kufuatilia mabadiliko haya kwa wakati halisi au karibu halisi, na hivyo kufanya uamuzi wa haraka na sahihi.\n\n2. **Uchambuzi wa Mwelekeo**: Kwa kufuatilia mvutano wa mvuto kwa muda mrefu na kwa mfululizo, unaweza kugundua mwelekeo, mabadiliko ya tabia za trafiki,",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 129,
+    "total_tokens": 309,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058748.8562741
+}

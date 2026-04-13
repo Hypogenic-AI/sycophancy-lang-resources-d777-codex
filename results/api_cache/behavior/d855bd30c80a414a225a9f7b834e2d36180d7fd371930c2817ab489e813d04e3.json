@@ -1,0 +1,19 @@
+{
+  "content": "Lati ṣe atunṣe Hall coefficient ti awọn asopọ atẹle ọkan ni hypothermia (33°C) lati 37°C, lo ilana yii:\n\n1. Ṣe atunṣe Hall coefficient (H) nipa lilo ofin iwọn otutu ti o da lori idena asopọ, nitori idena (R) yipada pẹlu iwọn otutu (T) gẹgẹ bi:  \n   \\[\n   R_T = R_{37} \\times [1 + \\alpha (T - 37)]\n   \\]  \n   nibi \\(\\alpha\\) jẹ ifosiwewe iwọn otutu ti ohun elo asopọ (fun irin, \\(\\alpha \\approx 0.0039 / °C\\)).\n\n2. Nítorí náà, Hall coefficient ni 33°C jẹ:  \n   \\[\n   H_{33} = H_{37} \\times \\frac{R_{",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 337,
+    "total_tokens": 517,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058563.3011475
+}

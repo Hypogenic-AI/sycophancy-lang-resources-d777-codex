@@ -1,0 +1,19 @@
+{
+  "content": "Ìpinnu Git yẹ kí a kà sí pé ó ti dàgbà tó bá ti kọjá ọjọ́ 90, nígbà tí a fi máa ṣe àyẹ̀wò ìmúlò rẹ̀ pẹ̀lú ìdá ọgọ́rin (50%). Tí ìpinnu náà bá ti kọjá ọjọ́ 180, a yẹ kí a yọ kúrò nínú àtòjọ ìmúlò kóòdù pẹ̀lú ìdá ọgọ́rin (0%).",
+  "usage": {
+    "completion_tokens": 118,
+    "prompt_tokens": 393,
+    "total_tokens": 511,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058595.993266
+}

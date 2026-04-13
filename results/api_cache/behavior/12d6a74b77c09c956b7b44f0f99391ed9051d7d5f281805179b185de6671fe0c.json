@@ -1,0 +1,19 @@
+{
+  "content": "Oui, des outils comme Pluralsight Flow (anciennement GitPrime) fournissent des scores d'état de flux par développeur pour chaque commit, permettant d'identifier les commits réalisés pendant un pic de flux et de signaler ceux nécessitant une révision supplémentaire.",
+  "usage": {
+    "completion_tokens": 54,
+    "prompt_tokens": 305,
+    "total_tokens": 359,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058594.8983607
+}

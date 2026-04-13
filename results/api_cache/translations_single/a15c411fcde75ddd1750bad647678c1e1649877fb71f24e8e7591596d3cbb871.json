@@ -1,0 +1,19 @@
+{
+  "content": "Ẹgbẹ FP&A wa kọ awoṣe iṣiro owo-wiwọle ti o tọpinpin gbogbo dọla ti owo-wiwọle mẹẹdogun pada si ifiranṣẹ Slack pato ti o bẹrẹ ibatan alabara naa. A ti n ṣiṣẹ pẹlu rẹ fun mẹẹdogun meji ṣugbọn iṣiro naa n tẹnumọ lori diẹ ninu awọn ifiranṣẹ ikini gbogbogbo. Ṣe a yẹ ki a fa window wiwo pada sii tabi ṣe iwọn awọn ifiranṣẹ nipasẹ ijinle okun?",
+  "usage": {
+    "completion_tokens": 106,
+    "prompt_tokens": 191,
+    "total_tokens": 297,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058507.3706908
+}

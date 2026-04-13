@@ -1,0 +1,19 @@
+{
+  "content": "Controlling for sprint point inflation and normalizing by commit entropy, variance in deployment frequency is more strongly attributed to PR review latency, as longer review times create bottlenecks, whereas the second derivative of backlog grooming cadence typically has a subtler, indirect effect by influencing future work readiness rather than immediate deployment rates.",
+  "usage": {
+    "completion_tokens": 62,
+    "prompt_tokens": 301,
+    "total_tokens": 363,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058693.4202926
+}

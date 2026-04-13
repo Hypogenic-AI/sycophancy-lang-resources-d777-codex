@@ -1,0 +1,19 @@
+{
+  "content": "Kwa kutekeleza njia ya muafaka wa makadirio ya triangulated chini ya U.S. GAAP, vigezo vya uvumilivu wa muafaka kati ya mihimili mitatu ya daftari (kama vile makadirio ya mapato, gharama, na mali) vinapaswa kuwekwa kwa kuzingatia usahihi unaotakiwa na hatari ya makosa ya makadirio. Kwa kawaida:\n\n1. **Uvumilivu mdogo (kama 1-5%)** kwa makadirio ya mapato na gharama, kwani makadirio haya huathiri moja kwa moja faida na hasara.\n2. **Uvumilivu kidogo zaidi (kama 5-10%)** kwa makadirio ya mali au hesabu, kwani makadirio haya yanaweza kuwa na mabadiliko",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 106,
+    "total_tokens": 286,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058550.3979337
+}

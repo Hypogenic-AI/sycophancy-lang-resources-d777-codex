@@ -1,0 +1,12 @@
+# Exclude dataset payloads by default
+*
+
+# Keep documentation and small samples
+!.gitignore
+!README.md
+!**/README.md
+!**/samples.json
+!**/*.sample.json
+!**/*_sample.csv
+!**/download.sh
+!**/download_instructions.txt

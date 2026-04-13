@@ -1,0 +1,19 @@
+{
+  "content": "Ina-adopt namin ang Causal Dependency Fingerprinting para sa aming mga incident postmortem — hinahash mo ang causal graph ng bawat insidente para maging fingerprint at ginagamit ang similarity matching para matukoy ang mga paulit-ulit na failure modes. Mature na ba ang CDF para sa isang 20-service na platform, o mas mabuti pa bang manatili kami sa manual tagging?",
+  "usage": {
+    "completion_tokens": 79,
+    "prompt_tokens": 174,
+    "total_tokens": 253,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058511.8648329
+}

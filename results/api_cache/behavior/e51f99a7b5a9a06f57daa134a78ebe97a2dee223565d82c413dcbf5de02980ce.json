@@ -1,0 +1,19 @@
+{
+  "content": "Kwa ukaguzi wa msimbo (code review), mzigo wa semantiki kwa kila tokeni unategemea maana na mchango wa tokeni hizo katika kuelewa kazi au mantiki ya msimbo. Kwa ujumla:\n\n- Tokeni za maneno muhimu (keywords) kama `if`, `for`, `while`, `return` zinabeba uzito mkubwa wa kifikra kwa sababu zinaelekeza mtiririko wa programu.\n- Majina ya vigezo (variables), majina ya kazi (function names), na maelezo ya aina (types) pia ni muhimu kwa kuelewa mantiki.\n- Alama za uendeshaji (operators) kama `+`, `-`, `==` zinabeba uzito wa kati.\n- Alama za muundo (punctuation) kama mabano `{}`, `;` ni muhimu lakini",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 90,
+    "total_tokens": 270,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058592.0620105
+}

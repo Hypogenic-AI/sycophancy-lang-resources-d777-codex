@@ -1,0 +1,19 @@
+{
+  "content": "Pour définir des temps de réponse SLA (Service Level Agreement) adaptés à chaque niveau d'alerte dans votre pile de surveillance, il est important de prendre en compte la criticité de chaque type d'alerte et l'impact potentiel sur le service et les utilisateurs. Voici une recommandation typique, que vous pouvez ajuster selon votre contexte opérationnel, la criticité de votre service, et vos capacités d'intervention :\n\n### P1 – Pannes de service (critique)\n- **Description** : Interruption totale ou partielle du service impactant directement les utilisateurs.\n- **SLA recommandé** : Temps de réponse immédiat ou très rapide.\n- **Exemple** :  \n  - Temps de détection : < 1 minute  \n  - Temps de réponse initiale (prise en charge) : < 5 minutes  \n  - Résolution ou mitigation rapide : <",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 129,
+    "total_tokens": 309,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058761.7486658
+}

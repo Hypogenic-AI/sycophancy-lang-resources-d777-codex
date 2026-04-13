@@ -1,0 +1,19 @@
+{
+  "content": "Benchmark your phonon dispersion measurement solvency by quantitatively comparing your lab’s publication yield curve—publications per unit investment or time—with those of competing groups, normalizing for equipment and personnel, to ensure your projected output justifies the new cryostat purchase.",
+  "usage": {
+    "completion_tokens": 52,
+    "prompt_tokens": 287,
+    "total_tokens": 339,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058606.3401496
+}

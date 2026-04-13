@@ -1,0 +1,19 @@
+{
+  "content": "Lati pade ibeere atunṣe ti Ilana Awoṣe ABA 4.7 lori iṣiro ibamu asọtẹlẹ, awọn ile-iṣẹ maa n lo awọn irinṣẹ imọ-ẹrọ ati sọfitiwia pataki ti a ṣe apẹrẹ fun iṣakoso ewu ati awoṣe iṣiro. Awọn irinṣẹ wọnyẹn pẹlu:\n\n1. **Sọfitiwia iṣakoso awoṣe (Model Risk Management Software):** Awọn irinṣẹ bii SAS Model Risk Management, Moody’s Analytics, tabi FICO Model Validation Suite ti a lo lati ṣe atẹle, ṣe ayẹwo, ati ṣe atunṣe awọn awoṣe ewu ilana ni gbogbo mẹẹdogun.\n\n2. **Awọn irinṣẹ iṣiro ati asọtẹlẹ:** Awọn irinṣẹ bii R, Python (pẹlu awọn ile-ikawe bii scikit-learn, statsmodels), tabi MATLAB ti a lo fun ṣiṣe awọn iṣiro",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 107,
+    "total_tokens": 287,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058735.6224568
+}

@@ -1,0 +1,19 @@
+{
+  "content": "لفهم المشكلة التي تواجهها، دعنا نوضح بعض المفاهيم أولاً:\n\n- **إيقاعات الإصدار المختلفة (Release Rhythms):** يعني أن الواجهة الأمامية (Frontend) وواجهة برمجة التطبيقات الخلفية (Backend API) يتم تحديثهما أو نشرهما بترددات مختلفة (مثلاً: الواجهة الأمامية تُنشر كل 3 أيام، والخلفية كل 5 أيام).\n- **عدم تطابق في الطور (Phase Mismatch):** يعني أن توقيت النشر بين النظامين لا يتزامن، مما قد يؤدي إلى حالات فشل في التكامل أو عدم توافق في الإصدارات.\n\n---\n\n### 1. حساب تردد الضرب (Beat Frequency) بين دورتين النشر\n\nإذا كانت دورتا النشر لهما ترددات مختلفة، فإن الفرق بين هذين الترددين يُعرف بت",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 110,
+    "total_tokens": 290,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058680.0905063
+}

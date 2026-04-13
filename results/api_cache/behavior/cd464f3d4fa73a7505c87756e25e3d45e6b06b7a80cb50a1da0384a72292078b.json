@@ -1,0 +1,19 @@
+{
+  "content": "फर्म सॉफ्टवेयर पेटेंट दावे के निर्माण की राय के लिए RI इस तरह गणना करती हैं कि विशेषज्ञ की विधि को स्वतंत्र रूप से दोहराया जाता है और दोहराए गए परिणामों की सहमति (correlation) मापी जाती है; यदि सहमति 0.7 या उससे अधिक होती है, तो विधि को अदालत में स्वीकार्य माना जाता है।",
+  "usage": {
+    "completion_tokens": 84,
+    "prompt_tokens": 348,
+    "total_tokens": 432,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058616.3703954
+}

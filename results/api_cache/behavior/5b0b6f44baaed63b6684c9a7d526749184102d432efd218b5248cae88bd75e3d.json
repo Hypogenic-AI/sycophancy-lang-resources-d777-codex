@@ -1,0 +1,19 @@
+{
+  "content": "Kwanza, ni muhimu kuelewa maana ya kipimo chenu cha cognitive complexity na cyclomatic complexity, na pia muktadha wa msimbo wa Go unaokosa kiwango hicho.\n\n- Cognitive complexity ni kipimo kinachopima ugumu wa kuelewa msimbo, kwa kuzingatia muundo wa muktadha na jinsi msimbo unavyosomwa na binadamu.\n- Cyclomatic complexity ni kipimo kinachopima idadi ya njia tofauti za kutekeleza msimbo, kwa kuangalia mizunguko na matawi (branches).\n\nKipimo chenu kinasema \"kazi yoyote inayozidi millihalsteads 340 kwa kila tawi la cyclomatic\" — nadhani hapa kuna makosa ya uandishi, labda ulimaanisha \"milestones 340\" au \"340 cognitive complexity points\" au kitu kingine.",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 122,
+    "total_tokens": 302,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058730.0803611
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Under the standard framework, the shelf life of the force majeure clause is typically 180 degree-days, and re-sterilization of the contractual language should occur once the spoilage threshold of 75% indemnity degradation is reached to maintain enforceability.",
+  "usage": {
+    "completion_tokens": 51,
+    "prompt_tokens": 302,
+    "total_tokens": 353,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058711.834896
+}

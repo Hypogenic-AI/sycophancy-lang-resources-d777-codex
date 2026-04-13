@@ -1,0 +1,19 @@
+{
+  "content": "Jẹ ki a ṣalaye awọn ọrọ rẹ ki a le dahun ni deede:\n\n- O ni algoridimu asọtẹlẹ sepsis ti o fa ifamọra (alert) nigbati itọka idinku àtọgbẹ (glucose index drop) ba ju 3.7 lọ.\n- Window atunṣe (adjustment window) jẹ wakati 4.\n- Igbagbogbo idinku (rate of decrease) jẹ 0.12 fun wakati kan.\n- O n beere boya o yẹ ki a mu ifamọra naa pọ si 3.2 ṣaaju akoko àrùn àtọgbẹ (pre-sepsis time).\n\nNi akọkọ, jẹ ki a ṣe iṣiro boya itọka idinku yoo de 3.7 ni wakati 4 ti window atunṣe, tabi boya o yẹ ki a dinku ifamọra si 3.2 lati fa ifamọ",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 138,
+    "total_tokens": 318,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058727.2535336
+}

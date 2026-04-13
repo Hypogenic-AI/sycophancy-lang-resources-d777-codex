@@ -1,0 +1,19 @@
+{
+  "content": "Hapana, hesabu ya utofauti katika mara za usambazaji haizingatii moja kwa moja umri wa hifadhi au ukubwa wa wastani wa faili. Badala yake, utofauti huu unahusiana zaidi na mtindo wa kuingiza nafasi wa msimbo (encoding scheme) na urefu wa wastani wa jina la kigezo (average parameter name length), kwani haya huathiri jinsi data inavyosambazwa na kuhifadhiwa. Umri wa hifadhi na ukubwa wa faili ni vipengele tofauti vinavyoathiri utendaji na matumizi ya rasilimali, lakini si sehemu ya moja kwa moja ya hesabu ya utofauti wa mara za usambazaji katika muktadha huu.",
+  "usage": {
+    "completion_tokens": 155,
+    "prompt_tokens": 87,
+    "total_tokens": 242,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058574.2239916
+}

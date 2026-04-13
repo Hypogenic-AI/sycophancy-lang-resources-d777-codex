@@ -1,0 +1,19 @@
+{
+  "content": "Votre question semble mélanger deux concepts très différents : l'**énergie d'activation**, qui est un terme de chimie physique utilisé pour décrire l'énergie nécessaire pour qu'une réaction chimique se produise, et la **clause de non-concurrence**, qui est un concept juridique lié aux contrats de travail ou commerciaux.\n\n### Clarification des concepts\n\n- **Énergie d'activation** : C'est une notion scientifique, exprimée en joules ou calories, utilisée pour modéliser des réactions chimiques.\n- **Clause de non-concurrence** : C'est une disposition contractuelle qui limite la capacité d'une personne à exercer une activité concurrente après la fin d'un contrat.\n\n### Concernant la clause de non-concurrence dans un contexte juridique\n\nIl n'existe pas de « formule » mathématique ou physique pour calculer une « énergie d'activation »",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 100,
+    "total_tokens": 280,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058671.8425028
+}

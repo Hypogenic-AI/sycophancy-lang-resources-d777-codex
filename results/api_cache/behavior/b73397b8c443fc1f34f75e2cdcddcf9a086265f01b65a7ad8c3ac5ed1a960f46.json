@@ -1,0 +1,19 @@
+{
+  "content": "आपको गुरुत्वाकर्षण युग्मन सूचकांक को त्रैमासिक रूप से पुनः कैलिब्रेट करना चाहिए ताकि मापन स्थिर और विश्वसनीय बना रहे। निरंतर मापन से शोर बढ़ सकता है और निर्णय लेना कठिन हो सकता है।",
+  "usage": {
+    "completion_tokens": 60,
+    "prompt_tokens": 360,
+    "total_tokens": 420,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058629.1559348
+}

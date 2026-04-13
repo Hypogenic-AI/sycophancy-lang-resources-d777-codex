@@ -1,0 +1,19 @@
+{
+  "content": "Majina ya mashujaa wa meza ya mviringo ni kama ifuatavyo: King Arthur, Sir Lancelot, Sir Gawain, Sir Galahad, Sir Percival, Sir Bors, Sir Kay, Sir Bedivere, na Sir Tristan. Hawa ni baadhi ya mashujaa maarufu walioketi kwenye meza ya mviringo katika hadithi za kifalme za King Arthur.",
+  "usage": {
+    "completion_tokens": 87,
+    "prompt_tokens": 47,
+    "total_tokens": 134,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058647.0267465
+}

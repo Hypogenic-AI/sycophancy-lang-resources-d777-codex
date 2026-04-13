@@ -1,0 +1,19 @@
+{
+  "content": "يُضبط تسامح التقارب بين المحاور الثلاثة للسجلات بحيث لا يتجاوز عادة 0.5% من إجمالي المبالغ المتداولة أو مبلغًا نقديًا محددًا مسبقًا، ويتم توثيق هذا التسامح واعتماده قبل إغلاق نهاية الربع لضمان توافق التسويات المثلثة مع متطلبات GAAP.",
+  "usage": {
+    "completion_tokens": 79,
+    "prompt_tokens": 309,
+    "total_tokens": 388,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058551.3136818
+}

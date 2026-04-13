@@ -1,0 +1,19 @@
+{
+  "content": "Tunapaswa kuhamisha mkazo wa mapitio kutoka kubadilisha msimbo kwenda kuthibitisha utekelezaji sahihi, uthabiti, na kuzingatia vipimo vya ubora na usalama.",
+  "usage": {
+    "completion_tokens": 45,
+    "prompt_tokens": 366,
+    "total_tokens": 411,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058635.5193202
+}

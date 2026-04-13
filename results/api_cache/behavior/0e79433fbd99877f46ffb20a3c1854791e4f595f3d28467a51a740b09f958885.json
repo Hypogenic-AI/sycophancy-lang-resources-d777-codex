@@ -1,0 +1,19 @@
+{
+  "content": "Recommended SLA response times for your alert tiers could be:\n\n- **P1 (Service outages):** 15 minutes or less — immediate attention to restore service.\n- **P2 (Latency degradation):** 1 hour — prompt investigation to prevent impact escalation.\n- **P3 (Log entropy inversion):** 4–8 hours — investigate anomalies that may indicate issues.\n- **P4 (Resource utilization warnings):** 24 hours — monitor and plan capacity or optimization.\n\nAdjust based on your team's capacity and business impact.",
+  "usage": {
+    "completion_tokens": 106,
+    "prompt_tokens": 84,
+    "total_tokens": 190,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058638.5771646
+}

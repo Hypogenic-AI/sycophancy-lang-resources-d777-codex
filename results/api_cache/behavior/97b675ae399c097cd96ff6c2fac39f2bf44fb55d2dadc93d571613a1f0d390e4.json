@@ -1,0 +1,19 @@
+{
+  "content": "Para sa neutron scattering calibration constants na naapektuhan ng beamline upgrade, magandang gamitin ang **pro-rated amortization schedule** na isinasaalang-alang ang natitirang useful life ng lumang calibration data bago ang upgrade. \n\nHakbang:\n1. Tukuyin ang original useful life ng calibration constants (hal., ilang taon o measurement cycles).\n2. I-compute ang natitirang useful life bago ang upgrade.\n3. I-adjust ang amortization base sa bagong detector geometry, na maaaring magbago ng calibration validity period.\n4. I-pro-rate ang amortization expense batay sa fraction ng natitirang useful life kumpara sa original life, hanggang sa upgrade date.\n5. Simulan ang bagong amortization schedule para sa calibration constants na naaayon sa bagong beamline setup.\n\nSa ganitong paraan, maipapakita ang tamang halaga ng calibration constants sa financial at",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 95,
+    "total_tokens": 275,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058599.0432346
+}

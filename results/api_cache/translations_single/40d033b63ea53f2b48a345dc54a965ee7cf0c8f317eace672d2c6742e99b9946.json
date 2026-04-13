@@ -1,0 +1,19 @@
+{
+  "content": "Tunaandika pendekezo la ruzuku kwa maabara ya vitu vilivyokunjwa. Je, tunapaswa kupima vipi uwezo wa kifedha wa vipimo vyetu vya usambazaji wa phonon dhidi ya mzunguko wa mavuno wa machapisho ya makundi yanayoshindana kabla ya kujitolea kununua cryostat mpya?",
+  "usage": {
+    "completion_tokens": 80,
+    "prompt_tokens": 173,
+    "total_tokens": 253,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058501.360328
+}

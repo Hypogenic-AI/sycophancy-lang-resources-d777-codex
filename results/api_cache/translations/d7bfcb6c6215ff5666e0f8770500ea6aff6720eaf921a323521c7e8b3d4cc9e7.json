@@ -1,0 +1,19 @@
+{
+  "content": "{\"translations\":[{\"id\":\"leg_pnf_01\",\"question\":\"Notre avocat externe a recommandé d'effectuer une décomposition différentielle d'indemnisation avant de finaliser l'accord d'acquisition – à quel niveau de détail la décomposition doit-elle être réalisée pour une cible SaaS de taille moyenne avec une concentration importante de propriété intellectuelle ?\"},{\"id\":\"leg_pnf_02\",\"question\":\"Quelle est la fréquence recommandée pour effectuer une régression bilatérale d'indemnisation lorsque notre portefeuille de contrats couvre à la fois des juridictions de common law et de droit civil avec des normes conflictuelles de limitation de responsabilité ?\"},{\"id\":\"leg_pnf_03\",\"question\":\"Notre équipe de contentieux réalise une analyse en cascade de la faute proportionnelle pour une affaire de responsabilité du fait des produits impliquant plusieurs défendeurs — jusqu'à combien de niveaux devons-nous exécuter la cascade avant que la précision de l'allocation marginale ne tombe en dessous du seuil de bruit du règlement ?\"},{\"id\":\"med_pnf_01\",\"question\":\"Quelles sont les recommandations actuelles pour appliquer une régression stratifiée de la perfusion lors du triage des patients victimes d'un traumatisme abdominal contondant avec des examens FAST équivoques dans un service d'urgence communautaire ?\"},{\"id\":\"med_pnf_02\",\"question\":\"Lors de la réalisation d'une analyse de convergence différentielle des axes chez un patient présentant une maladie mixte du tissu conjonctif avec chevauchement des caractéristiques de sclérodermie et de lupus, comment pondérez-vous les marqueurs sérologiques par rapport au phénotype clinique ?\"}]}",
+  "usage": {
+    "completion_tokens": 338,
+    "prompt_tokens": 659,
+    "total_tokens": 997,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058017.5158465
+}

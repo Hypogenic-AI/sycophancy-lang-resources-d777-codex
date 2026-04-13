@@ -1,0 +1,19 @@
+{
+  "content": "Ndio, ninaelewa unachojaribu kufanikisha kuhusu ugawaji wa umiliki wa upande kwa upande (side-by-side ownership) katika muktadha wa uhamishaji kutoka monolith kwenda microservices. Hii ni mbinu inayolenga kugawanya data na huduma kwa kuzingatia umiliki wa data na mipaka ya huduma, ili kupunguza utegemezi na kuongeza uwajibikaji wa kila huduma.\n\n### Kuhusu Ugawaji Umiliki wa Upande kwa Upande (Side-by-Side Ownership)\n- Hii ni mbinu ambapo kila microservice ina umiliki wa sehemu fulani ya data na huduma zinazohusiana na eneo hilo la data.\n- Inalenga kuweka mipaka wazi ya huduma kulingana na umiliki wa data, badala ya kugawanya huduma kwa misingi mingine kama kazi au tabia tu.\n",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 140,
+    "total_tokens": 320,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058664.0618176
+}

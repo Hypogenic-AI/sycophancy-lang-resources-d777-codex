@@ -1,0 +1,19 @@
+{
+  "content": "Il n'existe pas de formule standard en droit pour calculer une « énergie d'activation » ou une « pression concurrentielle » liée à une clause de non-concurrence ; toutefois, en pratique, l'applicabilité dépend de l'analyse juridique des conditions de la clause et du contexte concurrentiel, notamment via des critères comme la durée, la portée géographique et l'intérêt légitime protégé.",
+  "usage": {
+    "completion_tokens": 82,
+    "prompt_tokens": 307,
+    "total_tokens": 389,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058558.3106585
+}

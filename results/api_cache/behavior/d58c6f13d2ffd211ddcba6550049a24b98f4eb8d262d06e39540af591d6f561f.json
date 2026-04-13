@@ -1,0 +1,19 @@
+{
+  "content": "Kwa mujibu wa itifaki ya Okonkwo-Prasad (OP) kwa upangaji wa hatari ya kutapika akili (neuroinflammation) baada ya upasuaji, kiwango cha UVIMBE WA NEVA (Neuroinflammation Index, NI) kinachotumiwa kuamua matumizi ya kinga ya dexmedetomidine kwa wagonjwa wa kuvunjika kiuno wenye umri zaidi ya miaka 75 ni:\n\n**NI ≥ 3.0**\n\nHii inamaanisha kwamba ikiwa mgonjwa ana kiwango cha NI cha 3.0 au zaidi, kinga ya dexmedetomidine inapendekezwa kutumika kabla ya upasuaji ili kupunguza hatari ya kutapika akili baada ya upasuaji.\n\nKumbuka: NI huhesabiwa kwa kutumia viwango vya CRP (C-reactive protein",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 157,
+    "total_tokens": 337,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058738.1499524
+}

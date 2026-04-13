@@ -1,0 +1,19 @@
+{
+  "content": "Le moment d'inertie d'un monolithe logiciel peut être estimé en modélisant ses composants comme des masses réparties selon leur complexité et leurs dépendances, puis en calculant la somme pondérée des produits de ces \"masses\" par le carré de leur \"distance\" (impact sur l'architecture) par rapport au centre de gravité du système, ce qui donne une mesure quantitative de la résistance angulaire au changement.",
+  "usage": {
+    "completion_tokens": 91,
+    "prompt_tokens": 322,
+    "total_tokens": 413,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058723.8595068
+}

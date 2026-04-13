@@ -1,0 +1,19 @@
+{
+  "content": "Atteindre un taux d'acceptation de 100 % des suggestions de complétion de code par l'IA est une perspective intéressante, mais cela soulève plusieurs questions importantes sur la qualité, la responsabilité et la collaboration dans le processus de revue de code. Voici quelques pistes pour restructurer la revue de code dans ce contexte :\n\n1. **Recentrer la revue sur des aspects plus larges que la simple correction syntaxique ou stylistique**  \n   Si les suggestions de l'IA sont acceptées telles quelles, la revue humaine peut se concentrer davantage sur :  \n   - La logique métier et la pertinence fonctionnelle du code  \n   - La conception globale et l'architecture  \n   - La maintenabilité, la lisibilité et la documentation  \n   - La sécurité et la conformité aux normes internes ou réglementaires  \n   - Les impacts sur la performance et la scal",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 135,
+    "total_tokens": 315,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058756.948863
+}

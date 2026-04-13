@@ -1,0 +1,19 @@
+{
+  "content": "Igba ipamọ idanwo ẹyọkan lẹhin darapọ mọ́ (merge) maa n dale lori iru idanwo ati eto CI/CD ti a n lo, ṣugbọn ni gbogbogbo, idanwo kọọkan yẹ ki o pari laarin iṣẹju diẹ si wakati kan. Lati fi ọjọ ti o dara julọ si idanwo kọọkan ni akoko darapọ mọ́, o le:\n\n1. Ṣe igbasilẹ akoko ti idanwo kọọkan ti pari ni igba to kọja.\n2. Lo data yii lati ṣe asọtẹlẹ akoko ipari idanwo tuntun.\n3. Ṣafihan akoko yii si QA bi ọjọ ipari idanwo ti a nireti.\n\nEyi yoo ran QA lọwọ lati mọ igba ti idanwo yoo pari laibikita awọn ayipada koodu.",
+  "usage": {
+    "completion_tokens": 162,
+    "prompt_tokens": 94,
+    "total_tokens": 256,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058596.493217
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Upitishaji joto wa mchakato wa CI/CD kawaida huwa chini ya dakika chache, na hitilafu ya ujenzi katika hatua ya muunganisho inaweza kuathiri hatua za uenezaji na ufuatiliaji ndani ya dakika 5-15, kulingana na kasi ya mchakato na otomatiki iliyopo.",
+  "usage": {
+    "completion_tokens": 72,
+    "prompt_tokens": 341,
+    "total_tokens": 413,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058681.1756237
+}

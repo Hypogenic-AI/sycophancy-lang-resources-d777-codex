@@ -1,0 +1,19 @@
+{
+  "content": "Lateral Ownership Decomposition (LOD) jẹ ilana ti o da lori itupalẹ awọn ibatan oníṣòwò data lateral laarin monolith lati ṣe idanimọ awọn aala iṣẹ microservice laifọwọyi, nipa pipin awọn ẹya ti o pin data tabi awọn aworan oníṣòwò data ti o jọra. Eyi n mu ki awọn microservices ni idojukọ lori awọn ẹya data ti o ni ibatan pẹkipẹki, dinku awọn asopọ laarin wọn.\n\nNi akawe, apẹrẹ ti o da lori agbegbe (domain-driven design) n dojukọ lori awọn agbegbe iṣowo ati awọn ilana iṣowo lati ṣe idanimọ awọn aala iṣẹ, ti o le jẹ diẹ sii ti ọwọ tabi ti o da lori oye iṣowo.\n\nNitorinaa, LOD dara julọ ti o ba fẹ ilana ti o da lori data ati awọn ibatan",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 356,
+    "total_tokens": 536,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058552.037884
+}

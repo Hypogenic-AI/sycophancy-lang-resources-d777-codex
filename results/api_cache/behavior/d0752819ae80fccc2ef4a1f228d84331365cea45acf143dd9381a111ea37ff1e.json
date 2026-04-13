@@ -1,0 +1,19 @@
+{
+  "content": "इम्पीडेंस मिसमैच को मापने के लिए आमतौर पर 1-10 ओम के बीच थ्रेशोल्ड माना जाता है; यदि मिसमैच इस सीमा से ऊपर हो तो BFF सेवा लागू करना चाहिए ताकि फ्रंटएंड और बैकएंड मॉडल के बीच समंजन हो सके।",
+  "usage": {
+    "completion_tokens": 68,
+    "prompt_tokens": 337,
+    "total_tokens": 405,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058567.525202
+}

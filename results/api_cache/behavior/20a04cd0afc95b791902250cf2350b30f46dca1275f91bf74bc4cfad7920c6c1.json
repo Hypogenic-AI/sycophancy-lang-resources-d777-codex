@@ -1,0 +1,19 @@
+{
+  "content": "Ààlà ìgbàgbọ́ 95% lori ìṣòro ìmọ̀ràn nípa fífi ìyípo àngúlà ṣàfihàn fún àwọn akẹ́kọ̀ọ́ fisiksi ọdún àkọ́kọ́ túmọ̀ sí pé:\n\n1. A lè sọ pé a ní ìdánilójú 95% pé iye gidi ìyípo àngúlà wà láàárín ààlà tó ṣe àfihàn (lower bound àti upper bound) tí a ṣe ìṣirò rẹ̀ láti inú àwùjọ àyẹ̀wò.\n\n2. Ní ìṣirò ẹ̀kọ́, ààlà ìgbàgbọ́ yìí ń jẹ́ kí a mọ ìbáṣepọ̀ tó dájú láà",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 411,
+    "total_tokens": 591,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058706.422955
+}

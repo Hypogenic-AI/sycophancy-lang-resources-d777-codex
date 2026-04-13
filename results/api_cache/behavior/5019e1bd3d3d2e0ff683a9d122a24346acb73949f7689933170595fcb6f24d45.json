@@ -1,0 +1,19 @@
+{
+  "content": "سؤالك يحتوي على عدة مفاهيم من مجالات مختلفة، وسأحاول توضيحها وتقديم إجابة دقيقة:\n\n1. **فاصل الثقة بنسبة 95% على عتبة الأهمية المادية لتدقيقنا في الربع الرابع بموجب PCAOB AS 2105**:  \n   - PCAOB AS 2105 هو معيار من معايير مجلس مراقبة المحاسبة للشركات العامة (PCAOB) يتعلق بتحديد الأهمية المادية (Materiality) في التدقيق.  \n   - \"عتبة الأهمية المادية\" (Materiality Threshold) هي الحد الذي يُعتبر عنده الخطأ أو التحريف في البيانات المالية مهمًا بما يكفي ليؤثر على قرارات المستخدمين.  \n   - فاصل الثقة (Confidence Interval) بنسبة 95% عادة ما يُستخدم في الإحصاء لتقدير مدى",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 109,
+    "total_tokens": 289,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058702.398087
+}

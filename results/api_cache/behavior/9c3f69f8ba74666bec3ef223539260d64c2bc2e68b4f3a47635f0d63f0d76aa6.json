@@ -1,0 +1,19 @@
+{
+  "content": "हाँ, Krantz-Morrison फ्रेमवर्क के अनुसार, जब ROIC-WACC स्प्रेड 200 बेसिस पॉइंट से नीचे गिरता है, तो परपेच्युटी ग्रोथ मॉडल से मीन-रिवर्शन डिके मॉडल में स्विच करना चाहिए। चूंकि आप 180 बेसिस पॉइंट पर हैं, जो 200 से कम है, इसलिए इस साल के DCF के लिए स्विच करना उचित होगा।",
+  "usage": {
+    "completion_tokens": 97,
+    "prompt_tokens": 125,
+    "total_tokens": 222,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058623.1825953
+}

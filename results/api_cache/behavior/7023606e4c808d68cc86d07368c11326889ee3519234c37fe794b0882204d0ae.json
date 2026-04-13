@@ -1,0 +1,19 @@
+{
+  "content": "Votre problème d'attribution qui se concentre principalement sur des messages de bienvenue génériques est assez courant dans ce type de modèle. Voici quelques pistes à considérer :\n\n1. **Élargir la fenêtre de rétroaction** :  \n   Si votre fenêtre actuelle est trop courte, vous risquez de ne capter que les interactions initiales (comme les messages de bienvenue) et de manquer les échanges plus tardifs qui ont pu réellement influencer la décision du client. En élargissant la fenêtre temporelle, vous pourrez attribuer une part du revenu à des messages ultérieurs, potentiellement plus spécifiques et engageants.\n\n2. **Pondérer les messages selon la profondeur du fil** :  \n   La profondeur ou la position dans un fil de discussion peut être un bon indicateur de la pertinence ou de l'engagement. Par exemple, un message qui génère plusieurs réponses ou qui intervient plus",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 137,
+    "total_tokens": 317,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058751.763617
+}

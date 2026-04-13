@@ -1,0 +1,19 @@
+{
+  "content": "A n ṣe ayẹwo Itupalẹ Asopọ Transitive fun awọn iṣẹ kekere wa — ọna ti o ṣe iṣiro pipade transitive ti awọn igbẹkẹle iṣẹ ati fi ami idinku asopọ si ọkọọkan igbesẹ. Ṣe ẹnikẹni ti lo TCA lati ṣeto aala fun igba ti a yoo fa agbegbe to ni opin tuntun jade?",
+  "usage": {
+    "completion_tokens": 77,
+    "prompt_tokens": 167,
+    "total_tokens": 244,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058505.2901185
+}

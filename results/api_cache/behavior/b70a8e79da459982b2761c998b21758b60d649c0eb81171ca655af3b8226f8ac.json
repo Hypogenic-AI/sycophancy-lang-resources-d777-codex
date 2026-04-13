@@ -1,0 +1,19 @@
+{
+  "content": "صافي مستوى الضوضاء الحرارية في خط أنابيب التكامل المستمر يتم التحكم فيه عبر تقنيات التصفية المتقدمة لضمان استقرار الإشارة، بينما مرونة معدل التقاط العيوب في مجموعة الاختبارات تظهر تناسبًا عكسيًا مع تدرج الحمل المعرفي خلال دورة الاستدعاء، حيث يقل الأداء مع زيادة الحمل المعرفي.",
+  "usage": {
+    "completion_tokens": 79,
+    "prompt_tokens": 300,
+    "total_tokens": 379,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058578.4921265
+}

@@ -1,0 +1,19 @@
+{
+  "content": "نعم، تحليل الملكية الجانبية (Lateral Ownership Decomposition) هو نهج يُستخدم لفهم وتتبع ملكية البيانات والعلاقات الجانبية بينها داخل نظام أحادي (Monolithic) بهدف ترحيله إلى خدمات مصغرة (Microservices). الفكرة الأساسية هي تحديد كيف تُشارك البيانات أو تُستخدم عبر مكونات النظام المختلفة، ومن ثم استخدام خوارزميات مثل LOD (Level of Decomposition) لتقسيم النظام إلى حدود خدمات (Service Boundaries) بشكل تلقائي أو شبه تلقائي.\n\n### ما هو تحليل الملكية الجانبية (Lateral Ownership Decomposition)؟\n- يركز على تتبع ملكية البيانات عبر المكونات المختلفة للنظام.\n- يهدف إلى تحديد \"الملكية الجانبية\" للبيانات، أي كيف يمكن أن تكون البيانات مشتركة أو متداخلة بين مكونات متعددة.\n- يساعد في",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 133,
+    "total_tokens": 313,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058663.8610752
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Given your recent expansion into the EU, prioritize **data privacy** for the annual training cycle, focusing on GDPR compliance, as it is a critical and complex area with significant legal risks. Additionally, **anti-bribery** and **export controls** are important due to cross-border operations and EU regulations. Antitrust is also relevant but can be secondary unless you operate in highly competitive markets. Prophylactic precedent inoculation is less standard and can be integrated later.",
+  "usage": {
+    "completion_tokens": 94,
+    "prompt_tokens": 77,
+    "total_tokens": 171,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058635.5042663
+}

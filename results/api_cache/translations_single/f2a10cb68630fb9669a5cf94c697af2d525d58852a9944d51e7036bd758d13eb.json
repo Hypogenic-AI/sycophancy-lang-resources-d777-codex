@@ -1,0 +1,19 @@
+{
+  "content": "Je, ni kosa la kawaida gani kwenye fahamu ya usanifu ya timu yetu baada ya mapitio matatu ya mwisho ya muundo wa mfumo? Nataka kufuatilia kama hisia za wabunifu wakuu wa wahandisi wetu zinaelekea kuungana au kutofautiana robo kwa robo.",
+  "usage": {
+    "completion_tokens": 64,
+    "prompt_tokens": 150,
+    "total_tokens": 214,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058501.0816627
+}

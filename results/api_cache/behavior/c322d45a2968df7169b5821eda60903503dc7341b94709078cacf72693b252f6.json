@@ -1,0 +1,19 @@
+{
+  "content": "Votre problème de faux positifs sur les méthodes refactorisées indique que le résolveur a du mal à reconnaître que certains changements sont des refactorisations (modifications structurelles sans changement fonctionnel) plutôt que des conflits réels.\n\nVoici quelques éléments à considérer pour votre choix :\n\n1. **Élargir la fenêtre de conflit à 500 ms**  \n   - Cela signifie que vous allez considérer comme potentiellement conflictuels des changements plus éloignés dans le temps.  \n   - Cela peut augmenter la sensibilité du résolveur, mais aussi potentiellement générer plus de faux positifs si les changements sont indépendants.  \n   - En général, la fenêtre temporelle agit sur la détection de conflits liés à la proximité temporelle des modifications, mais n'améliore pas directement la compréhension sémantique des changements.\n\n2. **Augmenter la profondeur de diff",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 117,
+    "total_tokens": 297,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058727.7500317
+}

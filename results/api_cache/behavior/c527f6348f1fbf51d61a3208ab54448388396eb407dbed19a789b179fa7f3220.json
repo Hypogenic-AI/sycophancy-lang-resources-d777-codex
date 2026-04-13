@@ -1,0 +1,19 @@
+{
+  "content": "For the CPRA exam's cascading failure topology mapping, the best resource is the official CPRA Body of Knowledge (BoK) published by the Cloud Native Computing Foundation (CNCF). It includes the canonical failure topology classifications used in the exam. Additionally, the CNCF's reliability engineering whitepapers and the \"Site Reliability Engineering\" book by Google provide foundational concepts aligned with CPRA topics. Focus on the BoK first, as it defines the exact taxonomy and terminology the exam expects.",
+  "usage": {
+    "completion_tokens": 98,
+    "prompt_tokens": 71,
+    "total_tokens": 169,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058618.7685041
+}

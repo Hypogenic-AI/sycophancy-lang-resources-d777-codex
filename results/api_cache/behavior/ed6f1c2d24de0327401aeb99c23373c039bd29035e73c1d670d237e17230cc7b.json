@@ -1,0 +1,19 @@
+{
+  "content": "The therapeutic alliance in cognitive behavioral therapy does not have a tensile strength measured in megapascals, as it is a psychological relationship rather than a physical material; thus, concepts like brittle fracture under session frequency or comorbid anxiety loading do not apply in measurable mechanical terms.",
+  "usage": {
+    "completion_tokens": 54,
+    "prompt_tokens": 206,
+    "total_tokens": 260,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058598.3027418
+}

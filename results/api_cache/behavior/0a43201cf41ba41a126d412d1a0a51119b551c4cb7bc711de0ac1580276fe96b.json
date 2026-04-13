@@ -1,0 +1,19 @@
+{
+  "content": "There is no recognized or standard formula to calculate an \"activation energy\" for non-compete clauses or to quantify competitive pressure causing their failure; enforceability in Nevada depends on legal criteria such as reasonableness in scope, duration, and geographic area, assessed case-by-case rather than by a formula.",
+  "usage": {
+    "completion_tokens": 60,
+    "prompt_tokens": 305,
+    "total_tokens": 365,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058673.3205233
+}

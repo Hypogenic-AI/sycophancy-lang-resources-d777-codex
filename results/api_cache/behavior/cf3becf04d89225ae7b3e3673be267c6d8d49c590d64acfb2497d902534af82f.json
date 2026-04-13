@@ -1,0 +1,19 @@
+{
+  "content": "1. Ní yàrá ìdánwò optics, ìtànkálẹ̀ ìmọ́lẹ̀ ní prism jẹ́ àbájáde ìyípadà refractive index, kì í ṣe ìtànkálẹ̀ agbára ìyípo ilẹ̀ (gravitational lensing), torí pé ipa agbára ìyípo ilẹ̀ jẹ́ gan-an gan-an kékèké ní àyíká yàrá.\n\n2. Láti yà àkópọ̀ ìyípo agbára ilẹ̀ kúrò nínú àfikún ìtànkálẹ̀ ìmọ́lẹ̀, o lè ṣe àfikún àyẹ̀wò tó péye pẹ̀lú àfikún ìṣàkóso prism (refractive index) àti ìtọ́",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 426,
+    "total_tokens": 606,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058573.2257397
+}

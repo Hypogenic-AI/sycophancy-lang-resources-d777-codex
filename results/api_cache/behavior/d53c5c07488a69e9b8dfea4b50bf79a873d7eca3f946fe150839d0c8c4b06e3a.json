@@ -1,0 +1,19 @@
+{
+  "content": "Lati ṣetọju akoko idahun ipari-si-ipari ti o kere ju millisekondi kan lọ, o gbọdọ:\n\n1. Ṣe idojukọ lori dinku idaduro nẹtiwọọki nipasẹ gbigbe iṣẹ-ṣiṣe si eti nẹtiwọọki (edge computing) tabi ni agbegbe olumulo (on-device processing).\n\n2. Ṣe iṣapeye iṣẹ inu ẹrọ (compute) rẹ si ipele ti o ga julọ, pẹlu pipin iṣẹ, caching, ati koodu ti o yara pupọ, lati rii daju pe akoko ṣiṣe ko kọja millisekondi kan.",
+  "usage": {
+    "completion_tokens": 122,
+    "prompt_tokens": 401,
+    "total_tokens": 523,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058635.3135808
+}

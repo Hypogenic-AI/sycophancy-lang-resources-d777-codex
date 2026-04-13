@@ -1,0 +1,19 @@
+{
+  "content": "Je prépare nos services pour l'audit de conformité ISO 32170 sur la gouvernance des contrats API. La norme exige un empreinte de schéma versionnée à chaque frontière d'intégration — quel outil recommandez-vous pour la génération automatisée des empreintes ?",
+  "usage": {
+    "completion_tokens": 54,
+    "prompt_tokens": 135,
+    "total_tokens": 189,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058486.9509149
+}

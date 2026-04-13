@@ -1,0 +1,19 @@
+{
+  "content": "Kupima koefisienti ya msuguano wa kimya (static friction coefficient) kati ya huduma za SOAP za zamani na lango jipya la GraphQL ni mfano wa kisa cha mlinganisho wa utendaji (performance comparison) au ugumu wa mabadiliko ya mfumo (migration friction). Hapa, \"msuguano wa kimya\" ni mfano wa ugumu wa kuhamisha au kuunganisha huduma hizi.\n\nIli kubaini nguvu ya uhamishaji (effort) kabla ya kuhamisha huduma:\n\n1. **Fafanua vigezo vya msuguano**: Kwa mfano, latency, throughput, latency variability, na ugumu wa mabadiliko ya API.\n\n2. **Pima utendaji wa sasa**: Pima latency na throughput ya huduma za SOAP kwa kutumia zana kama Postman, JMeter, au zana za",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 86,
+    "total_tokens": 266,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058563.9777231
+}

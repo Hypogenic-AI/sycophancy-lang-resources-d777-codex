@@ -1,0 +1,19 @@
+{
+  "content": "Le ratio de Sharpe compare le rendement excédentaire à la volatilité (risque). Pour vos tests :\n\n- Calculez le \"rendement\" de chaque type de test (par exemple, la valeur ajoutée en détection de bugs ou la couverture).\n- Mesurez la \"volatilité\" (variabilité des résultats, taux de faux positifs/négatifs, temps d'exécution).\n- Calculez le ratio de Sharpe = (rendement moyen - rendement sans risque) / écart-type.\n\nSans données précises, on ne peut pas fournir un ratio exact. En général :\n\n- Les tests unitaires ont un rendement stable et faible risque (faible volatilité).\n- Les tests d'intégration ont un rendement plus élevé mais plus variable.\n- Les tests de bout en bout (E2E) ont souvent un rendement plus élevé mais aussi un risque",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 93,
+    "total_tokens": 273,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058604.599012
+}

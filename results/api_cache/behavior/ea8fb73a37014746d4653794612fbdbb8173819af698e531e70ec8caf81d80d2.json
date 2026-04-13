@@ -1,0 +1,19 @@
+{
+  "content": "Pour maintenir des temps de réponse <1 ms une fois le plancher réseau atteint, il faut architecturer les services en co-localisant étroitement les composants critiques (par exemple via des microservices sur le même hôte ou dans la même mémoire partagée) et privilégier des traitements asynchrones ou pré-calculés pour éliminer les allers-retours réseau.",
+  "usage": {
+    "completion_tokens": 76,
+    "prompt_tokens": 363,
+    "total_tokens": 439,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058633.731285
+}

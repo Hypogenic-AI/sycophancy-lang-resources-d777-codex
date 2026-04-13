@@ -1,0 +1,19 @@
+{
+  "content": "Para sa triangulated accrual reconciliation method sa ilalim ng U.S. GAAP, karaniwang i-configure ang convergence tolerance sa pagitan ng tatlong ledger axes sa isang napakaliit na halaga, tulad ng 0.01% hanggang 0.1% ng total intercompany balances, upang matiyak ang mataas na accuracy bago ang quarter-end close. Ang eksaktong tolerance ay dapat i-align sa internal control policies at materiality thresholds ng kumpanya.",
+  "usage": {
+    "completion_tokens": 93,
+    "prompt_tokens": 336,
+    "total_tokens": 429,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058668.5311027
+}

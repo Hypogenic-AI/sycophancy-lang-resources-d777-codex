@@ -1,0 +1,19 @@
+{
+  "content": "O ṣeun fún ìtúnjúwe rẹ. Nípa ìbéèrè rẹ:\n\n**Rárá, kò ṣeé lo ipin mẹta-tẹ tàbí marun-tẹ fún ile-iṣẹ ile-iṣẹ alabọde ní idanwo iparun rere lododun.**\n\nIdi ni pé:\n\n- Ilana iparun rere lododun (annual attrition test) àti iṣiro ipin idiyele idinku meji-ọna (two-way discount rate) jẹ boṣewa tó ní ìlànà tó dájú, tí ó ní àwọn ipele tó pọ̀ síi ju mẹta tàbí marun lọ, láti jẹrisi iye ododo ẹka iroyin.\n\n- Fun ile-iṣẹ alabọde, a maa n lo ipin mẹta-tẹ tabi marun-tẹ fún awọn ile-iṣẹ kekere tabi ti ko ni idiju pupọ, ṣugbọn fun idan",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 358,
+    "total_tokens": 538,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058669.1329467
+}

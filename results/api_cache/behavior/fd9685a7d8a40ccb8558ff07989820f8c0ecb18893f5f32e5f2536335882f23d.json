@@ -1,0 +1,19 @@
+{
+  "content": "Salamat sa paglalarawan ng inyong setup. Sa inyong sitwasyon, kung saan ang photodetector ay nagpapakita ng malinis na spectral peaks ngunit ang mga sukat ng valence ay maingay, ang problema ay maaaring hindi sa spectral detection mismo kundi sa sensitivity at stability ng signal na nauugnay sa emosyonal na valence measurement.\n\nNarito ang ilang konsiderasyon:\n\n1. **Cooled Sensor**  \n   - Ang pag-cool ng sensor ay karaniwang nakakatulong upang mabawasan ang thermal noise sa photodetector, lalo na sa mga infrared o low-light na aplikasyon.  \n   - Kung ang noise na nararanasan ninyo ay dahil sa thermal fluctuations ng sensor, makakatulong ang cooled sensor upang mapabuti ang signal-to-noise ratio (SNR).  \n   - Gayunpaman, kung ang noise ay hindi galing",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 153,
+    "total_tokens": 333,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058753.9604163
+}

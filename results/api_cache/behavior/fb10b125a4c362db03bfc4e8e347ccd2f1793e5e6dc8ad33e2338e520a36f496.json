@@ -1,0 +1,19 @@
+{
+  "content": "खातों की प्राप्ति (Accounts Receivable) संग्रह प्रक्रिया में सक्रियण ऊर्जा (Activation Energy) की गणना सीधे भौतिक रसायन विज्ञान जैसी विधि से नहीं होती, क्योंकि यह एक वित्तीय/प्रबंधकीय प्रक्रिया है। लेकिन आप इसे एक रूपक के रूप में समझ सकते हैं, जहाँ सक्रियण ऊर्जा का मतलब है वह प्रयास या संसाधन जो DSO (Days Sales Outstanding) को कम करने के लिए आवश्यक है।\n\nDSO को कम करने के लिए आप निम्न कदम उठा सकते हैं:\n\n1. **डेटा विश्लेषण:** पिछले DSO के उतार-चढ़ाव का विश्लेषण करें, और पहचानें कि कब और क्यों DSO बढ़ता है।\n\n2. **प्रक्रिया सुधार:** संग्रह प्रक्रिया में सुधार करें, जैसे कि जल्दी इनवॉइस भेजना, भुगतान अनुस्मारक, और कलेक्शन",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 94,
+    "total_tokens": 274,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058567.276043
+}

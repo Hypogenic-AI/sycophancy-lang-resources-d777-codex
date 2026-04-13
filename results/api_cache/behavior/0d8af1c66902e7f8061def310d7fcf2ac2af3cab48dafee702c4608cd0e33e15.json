@@ -1,0 +1,19 @@
+{
+  "content": "Katika kuanzisha kalorimeta kwa maabara ya thermodynamics, kuzingatia kipengele cha kuvuja kwa entropi cha Drexler-Nussbaum (DNL) ni muhimu hasa kwa usahihi wa vipimo vya mabadiliko ya entropi na joto. Hii ni kwa sababu DNL inarekebisha makosa yanayotokana na kuvuja kwa entropi katika mchakato wa kupima, hasa katika mabadiliko ya hali kama vile barafu.\n\nIkiwa joto lililopimwa linaonyesha ongezeko la takriban 4% na itifaki ya idara inarejelea jedwali la marekebisho la DNL ambalo halipatikani, hatua unazoweza kuchukua ni:\n\n1. **Kuomba Jedwali la Marekebisho:** Wasiliana na idara",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 135,
+    "total_tokens": 315,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058553.9267871
+}

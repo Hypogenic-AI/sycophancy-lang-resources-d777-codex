@@ -1,0 +1,19 @@
+{
+  "content": "Mlinzi wa rangi ya waridi katika Power Rangers ni kawaida mchezaji wa rangi ya pinki (Pink Ranger). Katika mfululizo wa awali wa Power Rangers, mlinzi wa rangi ya waridi ni Kimberly Hart, aliyeigizwa na Amy Jo Johnson.",
+  "usage": {
+    "completion_tokens": 61,
+    "prompt_tokens": 48,
+    "total_tokens": 109,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058650.4773571
+}

@@ -1,0 +1,19 @@
+{
+  "content": "تبلغ طبقة مراقبة شبكة الخدمة لدينا درجة التماسك الجانبي 0.73 عبر تدفق الدفع — حيث تجمع محاذاة تتبع الفترات وتقيس مدى ارتباط الخدمات المصغرة ببعضها البعض خلال معاملة مستخدم واحدة. الهدف هو 0.85 قبل الجمعة السوداء. هل يجب أن نركز على تقليل تذبذب الفترات أم تضييق نافذة الارتباط؟",
+  "usage": {
+    "completion_tokens": 87,
+    "prompt_tokens": 183,
+    "total_tokens": 270,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058493.696411
+}

@@ -1,0 +1,19 @@
+{
+  "content": "السؤال يطلب كيفية نسب التباين في تكرار النشر (commit frequency variance) إلى عاملين محددين هما:\n\n1. أسلوب التراجع في قاعدة الشيفرة (code rollback style)\n2. متوسط طول أسماء المتغيرات (average variable name length)\n\nمع التحكم في عمر المستودع (repository age) ومتوسط حجم الملف (average file size).\n\n---\n\n### توضيح المفاهيم:\n\n- **تكرار النشر (commit frequency):** عدد مرات التزام التغييرات في فترة زمنية معينة.\n- **التباين في تكرار النشر:** مدى تغير هذا التكرار عبر الزمن أو عبر أجزاء مختلفة من المشروع.\n- **أسلوب التراجع (rollback style):** كيف يتعامل المطورون مع التراجع عن تغييرات الشيفرة، مثلاً هل يستخدمون revert commits، أو يعيدون كتابة التاريخ (",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 88,
+    "total_tokens": 268,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058689.336311
+}

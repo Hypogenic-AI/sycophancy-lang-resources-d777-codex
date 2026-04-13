@@ -1,0 +1,19 @@
+{
+  "content": "स्थैतिक घर्षण गुणांक को मापने के लिए, आप माइग्रेशन प्रक्रिया में SOAP और GraphQL के बीच डेटा ट्रांसफर के दौरान आवश्यक \"शुरुआती बल\" यानी न्यूनतम संसाधन या अनुरोध थ्रेशोल्ड माप सकते हैं, जो सिस्टम को स्थिर से गतिशील अवस्था में लाने के लिए आवश्यक होता है। इसे मापन के लिए, आप दोनों सेवाओं के बीच प्रतिक्रिया विलंब और संसाधन उपयोग के प्रारंभिक बिंदु का विश्लेषण कर सकते हैं।",
+  "usage": {
+    "completion_tokens": 116,
+    "prompt_tokens": 309,
+    "total_tokens": 425,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058564.9406369
+}

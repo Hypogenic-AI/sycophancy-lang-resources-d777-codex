@@ -1,0 +1,19 @@
+{
+  "content": "O ṣeun fún ìtúnjú rẹ. Nípa ìbéèrè rẹ̀ nípa eto amortization fún constants calibration lẹ́yìn imudojuiwọn beamline neutron scattering:\n\n**Idahun kedere:**\n\n1. **Lo eto amortization ti o da lori \"recalibration\" tabi \"re-normalization\" constants calibration:** Eyi tumọ si pe constants calibration atijọ gbọdọ jẹ atunṣe (scaled) ni ibamu pẹlu iyipada jiometiri detector tuntun, kii ṣe pin akoko nikan. Eyi jẹ boṣewa ninu aaye neutron scattering lati rii daju pe data atijọ jẹ ibamu pẹlu eto tuntun.\n\n2. **Ma ṣe lo amortization akoko lasan:** Nítorí pé iyipada beamline ati jiometiri detector ni ipa taara lori awọn constants calibration, pinpin akoko nikan ko to. O yẹ ki a ṣe atunṣe",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 369,
+    "total_tokens": 549,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058718.5582085
+}

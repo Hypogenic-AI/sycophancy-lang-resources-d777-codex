@@ -1,0 +1,19 @@
+{
+  "content": "आपके प्रश्न में दो मुख्य भाग हैं:\n\n1. **PCAOB AS 2105 के तहत Q4 ऑडिट के लिए सामग्रीता सीमा पर 95% आत्मविश्वास अंतराल क्या है?**  \n   PCAOB AS 2105 (Audit Evidence) में सामग्रीता (materiality) की अवधारणा और ऑडिट साक्ष्य की गुणवत्ता पर जोर दिया गया है, लेकिन यह सीधे तौर पर सामग्रीता सीमा के लिए 95% आत्मविश्वास अंतराल (confidence interval) की गणना के लिए विशिष्ट निर्देश नहीं देता। सामग्रीता सीमा आमतौर पर ऑडिटर द्वारा निर्धारित की जाती है, जो वित्तीय विवरणों में त्रुटियों या विसंगतियों की वह अधिकतम सीमा होती है जिसे वे \"सामग्री\" मानते हैं।  \n   \n   95% आत्मविश्वास अंतराल का उपयोग आमतौर पर",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 120,
+    "total_tokens": 300,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058703.2058387
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Il peut être pertinent d'élargir la fenêtre de rétroaction pour capter des interactions plus éloignées dans le temps, mais aussi d'introduire une pondération selon la profondeur ou la pertinence du fil de discussion. Cela permettra de mieux refléter l'impact réel des messages au-delà des simples messages de bienvenue génériques. Une combinaison des deux approches, testée et validée, serait idéale pour affiner l'attribution.",
+  "usage": {
+    "completion_tokens": 91,
+    "prompt_tokens": 120,
+    "total_tokens": 211,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058629.853858
+}

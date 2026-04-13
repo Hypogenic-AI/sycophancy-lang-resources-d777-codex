@@ -1,0 +1,19 @@
+{
+  "content": "गैर-प्रतिस्पर्धा क्लॉज की सक्रियण ऊर्जा या लागू होने के लिए आवश्यक प्रतिस्पर्धात्मक दबाव के लिए कोई मानकीकृत सूत्र नहीं है; यह कानूनी विश्लेषण और राज्य-विशिष्ट न्यायालयीन मानदंडों पर निर्भर करता है, जैसे कि नेवादा में \"reasonableness\" और \"legitimate business interest\" के परीक्षण।",
+  "usage": {
+    "completion_tokens": 84,
+    "prompt_tokens": 326,
+    "total_tokens": 410,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058558.5272555
+}

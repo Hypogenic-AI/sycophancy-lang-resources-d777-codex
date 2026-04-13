@@ -1,0 +1,19 @@
+{
+  "content": "Kupunguza dirisha la uchunguzi (window size) kabla ya tarehe ya kupinga TTAB kunaweza kupunguza muda wa uchambuzi na kuongeza usahihi wa kugundua mabadiliko ya haraka, lakini pia kunaweza kuongeza mzigo kwenye buffer ya ufananishaji ikiwa data ni nyingi na mara kwa mara. Kwa vipindi vya 500ms na faili 14, ni muhimu kuangalia uwezo wa mfumo wako wa kushughulikia data nyingi kwa dirisha dogo. Ikiwa buffer inakabiliwa na mzigo mkubwa, kupunguza dirisha kunaweza kuongeza matatizo ya utendaji. Hivyo, ni vyema kufanya jaribio la awali ili kuona athari kwenye buffer kabla ya kufanya mabadiliko kabla ya tarehe ya kupinga TTAB.",
+  "usage": {
+    "completion_tokens": 163,
+    "prompt_tokens": 118,
+    "total_tokens": 281,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058607.7124443
+}

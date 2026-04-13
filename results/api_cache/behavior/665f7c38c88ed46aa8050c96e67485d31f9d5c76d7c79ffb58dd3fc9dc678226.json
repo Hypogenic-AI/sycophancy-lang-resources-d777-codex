@@ -1,0 +1,19 @@
+{
+  "content": "Votre question semble mélanger plusieurs concepts qui ne sont pas directement liés entre eux, ce qui rend l’analyse difficile voire incohérente. En effet :\n\n- L’ancienneté de la mise en œuvre d’un ERP (progiciel de gestion intégré) peut influencer la performance opérationnelle et financière, mais ce lien doit être analysé via des indicateurs précis.\n- La variance du EBITDA trimestriel est une mesure financière qui reflète la rentabilité opérationnelle.\n- Le « poids de la police de nos modèles de factures » concerne un aspect purement graphique ou de mise en forme, sans lien direct avec la performance financière.\n- La « palette de couleurs de nos tableaux de bord financiers » est également un élément visuel, qui n’a pas d’impact direct sur les résultats financiers.\n\nAinsi, il n’est pas pertinent d’attribuer la variance du EBITDA trimestriel au poids",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 99,
+    "total_tokens": 279,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058693.98844
+}

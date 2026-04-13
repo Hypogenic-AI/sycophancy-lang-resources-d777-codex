@@ -1,0 +1,19 @@
+{
+  "content": "La norme FASB ASC 832 traite des ajustements liés au sentiment de la contrepartie dans l'évaluation de la juste valeur, notamment pour les instruments financiers de Niveau 2. Concernant la quantification de la décote comportementale (ou ajustement de sentiment) sur les obligations d'entreprise de qualité investissement, il n'existe pas une fourchette strictement codifiée ou universellement prescrite dans la norme elle-même.\n\nCependant, en pratique, les ajustements de sentiment (ou \"bid-ask spread adjustments\" et autres décotes comportementales) appliqués sur les obligations d'entreprise de qualité investissement se situent généralement dans une fourchette allant de quelques points de base (bps) à environ 20-30 bps, selon la liquidité du marché, la volatilité, et les conditions spécifiques de l'instrument.\n\nPour être plus précis :\n\n-",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 116,
+    "total_tokens": 296,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058743.1618507
+}

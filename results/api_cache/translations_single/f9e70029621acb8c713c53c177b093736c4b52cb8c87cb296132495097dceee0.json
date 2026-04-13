@@ -1,0 +1,19 @@
+{
+  "content": "हमने अपने कोडबेस के लिए प्रति-फंक्शन भावनात्मक सेंटिमेंट ट्रैकर बनाने में छह महीने लगाए — यह प्रत्येक फंक्शन के 'मूड' को वेरिएबल नामकरण के वैलेंस के आधार पर स्कोर करता है। सभी स्कोर न्यूट्रल की ओर संकुचित हो रहे हैं। हम सेंटिमेंट मॉडल में अधिक सिग्नल कैसे डालें?",
+  "usage": {
+    "completion_tokens": 92,
+    "prompt_tokens": 168,
+    "total_tokens": 260,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058498.4008183
+}

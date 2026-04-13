@@ -1,0 +1,19 @@
+{
+  "content": "O ṣeun fun atunṣe rẹ. Lati tun ṣe apẹrẹ ilana iwe-iṣẹ fun imularada iṣẹlẹ ṣaaju imọ-inu ni ọna ti o munadoko, ni pataki lati dinku MTTR si isalẹ iṣẹju kan, a le ṣe atẹle yii:\n\n1. **Ṣe adaṣe ati iṣapeye awọn ilana imularada iṣẹlẹ ṣaaju imọ-inu:**\n   - Ṣe agbekalẹ awọn iwe-iṣẹ ti o ni awọn igbesẹ kedere, ti a ṣe deede fun awọn iṣẹlẹ ti o wọpọ julọ, pẹlu awọn iṣe ti o le ṣe ni kiakia lati dinku ipa iṣẹlẹ naa.\n   - Ṣe idaniloju pe awọn iwe-iṣẹ wọnyi jẹ adaṣe nigbagbogbo nipasẹ awọn onimọ-ẹrọ lati mu iyara ati iṣedede ṣiṣẹ.\n\n2. **Ṣepọ awọn irinṣẹ iṣakoso iṣẹlẹ pẹlu awọn",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 397,
+    "total_tokens": 577,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058759.721098
+}

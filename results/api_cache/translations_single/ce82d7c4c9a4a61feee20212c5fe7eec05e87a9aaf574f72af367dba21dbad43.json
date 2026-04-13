@@ -1,0 +1,19 @@
+{
+  "content": "Kwa interferometer ya kawaida ya Michelson ya benchtop katika hali za kawaida za hewa, ni itifaki gani inayopendekezwa ya kuimarisha miale chini ya mbinu ya upangaji wa Ashworth wa kurudiana? Tunapoteza utofauti baada ya takriban dakika 20 na tunashuku mabadiliko ya joto yanazidi kikomo cha utulivu cha Ashworth.",
+  "usage": {
+    "completion_tokens": 90,
+    "prompt_tokens": 152,
+    "total_tokens": 242,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058500.379849
+}

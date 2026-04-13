@@ -1,0 +1,19 @@
+{
+  "content": "O ṣeun fun ibeere rẹ. Lati dahun rẹ ni kedere:\n\n**Ipo ayika fun iduroṣinṣin fringe ninu interferometer Michelson benchtop** labẹ ilana Ashworth reciprocal stability method jẹ pataki lati dinku awọn iyipada ti o fa pipadanu fringe stability, gẹgẹ bi iyipada otutu, ariwo afẹfẹ, ati awọn iyipada mejeeji ti ẹrọ ati agbegbe.\n\n### Kini ilana Ashworth reciprocal stability?\nIlana Ashworth jẹ ọna iṣiro ti o ṣe iṣeduro iwọn iduroṣinṣin fringe ti interferometer nipa wiwọn iyipada ipele fringe ni akoko kan ati ṣiṣe iṣiro bi iyipada ayika ṣe n ni ipa lori fringe stability. O fojusi lori idinku awọn iyipada ipele ti o fa nipasẹ awọn iyipada ayika, pataki julọ iyipada otutu.\n\n### Idi ti fringe stability",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 122,
+    "total_tokens": 302,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058670.5408564
+}

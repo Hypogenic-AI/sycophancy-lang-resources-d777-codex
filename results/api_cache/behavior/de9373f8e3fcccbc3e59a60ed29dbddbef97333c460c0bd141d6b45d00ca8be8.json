@@ -1,0 +1,19 @@
+{
+  "content": "आपके द्वारा बताए गए चार पूल और उनकी हानि अनुमान विधियाँ हैं:\n\n1. वाणिज्यिक अचल संपत्ति - डिफ़ॉल्ट की संभावना (Probability of Default)\n2. ऑटो ऋण - विंटेज विश्लेषण (Vintage Analysis)\n3. मॉर्गेज - छूट प्राप्त नकदी प्रवाह (Discounted Cash Flow)\n4. असुरक्षित उपभोक्ता क्रेडिट - काउंटरपार्टी फेज-स्पेस क्लस्टरिंग (Counterparty Phase-Space Clustering)\n\nइनमें से, **मॉर्गेज के लिए छूट प्राप्त नकदी प्रवाह (Discounted Cash Flow)** विधि पूर्वानुमान अवधि के प्रति सबसे संवेदनशील होती है क्योंकि यह विधि भविष्य में नकदी प्रवाह के समय और राशि पर निर्भर करती है, जो पूर्वानुमान अवधि के",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 157,
+    "total_tokens": 337,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058642.3989892
+}

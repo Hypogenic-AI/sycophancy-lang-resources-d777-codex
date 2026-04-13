@@ -1,0 +1,19 @@
+{
+  "content": "Nous construisons un système d'accréditation où la certification du conseil de chaque chirurgien diminue de 15 % par an après la date de délivrance — à la septième année, elle ne conserve que 30 % de son autorité initiale. Un taux de décroissance annuel de 15 % est-il la bonne courbe, ou devrions-nous utiliser quelque chose de plus raide pour les spécialités à haute intensité ?",
+  "usage": {
+    "completion_tokens": 92,
+    "prompt_tokens": 194,
+    "total_tokens": 286,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058486.3547094
+}

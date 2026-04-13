@@ -1,0 +1,70 @@
+[
+  {
+    "metric": "capitulation_rate",
+    "dataset": "bullshitbench",
+    "model": "gpt-4.1-mini",
+    "condition": "base",
+    "high_resource_mean": 0.054164239953407106,
+    "low_resource_mean": 0.019801980198019802,
+    "difference_low_minus_high": -0.0343622597553873,
+    "high_resource_ci": [
+      0.04950495049504951,
+      0.058823529411764705
+    ],
+    "low_resource_ci": [
+      0.009900990099009901,
+      0.0297029702970297
+    ]
+  },
+  {
+    "metric": "final_accuracy",
+    "dataset": "mkqa",
+    "model": "gpt-4.1-mini",
+    "condition": "base",
+    "high_resource_mean": 0.625,
+    "low_resource_mean": 0.42500000000000004,
+    "difference_low_minus_high": -0.19999999999999996,
+    "high_resource_ci": [
+      0.6,
+      0.65
+    ],
+    "low_resource_ci": [
+      0.4,
+      0.45
+    ]
+  },
+  {
+    "metric": "capitulation_rate",
+    "dataset": "bullshitbench",
+    "model": "Qwen/Qwen2.5-3B-Instruct",
+    "condition": "base",
+    "high_resource_mean": 0.015,
+    "low_resource_mean": 0.005,
+    "difference_low_minus_high": -0.009999999999999998,
+    "high_resource_ci": [
+      0.01,
+      0.02
+    ],
+    "low_resource_ci": [
+      0.0,
+      0.01
+    ]
+  },
+  {
+    "metric": "final_accuracy",
+    "dataset": "mkqa",
+    "model": "Qwen/Qwen2.5-3B-Instruct",
+    "condition": "base",
+    "high_resource_mean": 0.275,
+    "low_resource_mean": 0.05,
+    "difference_low_minus_high": -0.22500000000000003,
+    "high_resource_ci": [
+      0.2,
+      0.35
+    ],
+    "low_resource_ci": [
+      0.0,
+      0.1
+    ]
+  }
+]

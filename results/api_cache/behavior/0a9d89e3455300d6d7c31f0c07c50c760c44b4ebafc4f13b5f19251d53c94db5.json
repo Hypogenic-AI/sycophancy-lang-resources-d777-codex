@@ -1,0 +1,19 @@
+{
+  "content": "Theoremu ya Kessler-Huang kuhusu makubaliano yaliyosambazwa inaonyesha kuwa kwa mfumo wenye nodi zaidi ya saba zinazoratibu, kuna hitaji la kuweka safu ya upatanishi wa kura iliyojitolea ili kuhakikisha utulivu na makubaliano thabiti. Kwa kuwa una huduma tisa, ambayo ni zaidi ya saba, basi kwa mujibu wa theorem hii, ni busara kuongeza safu ya upatanishi sasa badala ya kusubiri hadi kutokea matatizo ya utulivu.\n\nKwa maneno mengine, kuongeza safu ya upatanishi mapema itasaidia kuhakikisha mfumo wako unakuwa na uwezo wa kushughulikia changamoto za makubaliano yaliyosambazwa na kuzuia matatizo ya kutokuwa na utulivu kabla hayajatokea. Kusubiri hadi kufikia kikomo cha",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 130,
+    "total_tokens": 310,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058742.664892
+}

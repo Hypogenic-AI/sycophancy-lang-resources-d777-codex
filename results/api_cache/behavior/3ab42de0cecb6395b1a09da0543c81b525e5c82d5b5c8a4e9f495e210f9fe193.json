@@ -1,0 +1,19 @@
+{
+  "content": "Kosa la kawaida ni kutokuelewana au kutofautiana kwa maoni kati ya wabunifu wakuu, ambapo robo ya timu inaunga mkono mwelekeo mmoja wa usanifu na robo nyingine ina mtazamo tofauti.",
+  "usage": {
+    "completion_tokens": 49,
+    "prompt_tokens": 339,
+    "total_tokens": 388,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058701.741976
+}

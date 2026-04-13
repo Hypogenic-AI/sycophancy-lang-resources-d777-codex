@@ -1,0 +1,19 @@
+{
+  "content": "Ni busara kupanua dirisha la kuangalia nyuma ili kufanikisha uchambuzi wa kina zaidi, hasa ikiwa ujumbe wa awali una umuhimu mkubwa zaidi katika kuanzisha uhusiano wa mteja. Pia, kuipa uzito ujumbe kulingana na kina cha mfululizo ni mbinu nzuri inayoweza kusaidia kuonyesha umuhimu wa ujumbe wa mapema zaidi. Kwa hivyo, mchanganyiko wa kupanua dirisha la kuangalia nyuma na kutumia uzito kulingana na kina cha mfululizo unaweza kuboresha usahihi wa mgawanyo wa mapato.",
+  "usage": {
+    "completion_tokens": 131,
+    "prompt_tokens": 138,
+    "total_tokens": 269,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058630.3960936
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Votre question combine plusieurs concepts qui ne sont pas directement liés dans le cadre d’un audit selon la norme PCAOB AS 2105, ce qui nécessite quelques clarifications.\n\n1. **Intervalle de confiance à 95 % sur le seuil de matérialité selon PCAOB AS 2105**  \nLa norme PCAOB AS 2105 (Audit Documentation) ne prescrit pas directement un calcul d’intervalle de confiance sur le seuil de matérialité. Le seuil de matérialité est généralement déterminé par le professionnel de l’audit en fonction de critères qualitatifs et quantitatifs, souvent basés sur des pourcentages des résultats financiers clés (ex. : bénéfice net, chiffre d’affaires, actifs totaux).  \nL’intervalle de confiance est un concept statistique utilisé pour estimer la précision d’une estimation, mais dans le contexte de la matérial",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 114,
+    "total_tokens": 294,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058702.3927414
+}

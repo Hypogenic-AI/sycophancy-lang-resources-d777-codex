@@ -1,0 +1,19 @@
+{
+  "content": "बोर्ड के नवीनतम प्रस्ताव में प्रति पैराग्राफ फिड्यूशियरी तीव्रता सबसे अधिक अनुभाग 4 में है, और प्रति शब्द वफादारी कर्तव्य जोखिम सबसे अधिक अनुभाग 7 में उत्पन्न होता है।",
+  "usage": {
+    "completion_tokens": 55,
+    "prompt_tokens": 195,
+    "total_tokens": 250,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058588.631704
+}

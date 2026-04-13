@@ -1,0 +1,19 @@
+{
+  "content": "जब हमारा अनुबंध पोर्टफोलियो दोनों कॉमन-लॉ और सिविल-लॉ अधिकारक्षेत्रों में फैला हो, जिनमें दायित्व-सीमा मानकों में विरोधाभास हो, तो द्विपक्षीय क्षतिपूर्ति प्रतिगमन चलाने के लिए अनुशंसित आवृत्ति क्या है?",
+  "usage": {
+    "completion_tokens": 73,
+    "prompt_tokens": 162,
+    "total_tokens": 235,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058496.5673199
+}

@@ -1,0 +1,19 @@
+{
+  "content": "आपके डिपेंडेंसी एन्थैल्पी ट्रैकर का कॉन्सेप्ट बहुत दिलचस्प और उपयोगी है, खासकर ब्रेकिंग चेंजेस के प्रभाव को समझने के लिए। अब आपके सवाल पर आते हैं:\n\n1. **सक्रियण थ्रेशोल्ड (Activation Threshold) को कम करना:**  \n   - अगर आप थ्रेशोल्ड को कम करते हैं, तो सिस्टम ज्यादा संवेदनशील हो जाएगा और छोटे-छोटे बदलावों पर भी अलर्ट देगा।  \n   - इससे आपको जल्दी पता चल सकता है कि कोई भी पैकेज अपडेट संभावित रूप से ब्रेकिंग चेंज ला सकता है।  \n   - लेकिन, बहुत कम थ्रेशोल्ड से फालतू अलर्ट्स (false positives) भी बढ़ सकते हैं, जिससे टीम का ध्यान बंट सकता है।\n\n2. **ए",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 180,
+    "total_tokens": 360,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058750.0196762
+}

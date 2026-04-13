@@ -1,0 +1,19 @@
+{
+  "content": "Kuhesabu nishati ya kuwasha (energy or effort) inayohitajika katika mchakato wa ukusanyaji wa akaunti za malipo, hasa kuhusiana na DSO (Days Sales Outstanding), ni suala la kibiashara na kiutendaji zaidi kuliko nishati ya kimwili. Hata hivyo, naweza kusaidia kuelewa jinsi ya kupima na kuboresha DSO yako na juhudi zinazohitajika kudhibiti au kupunguza DSO.\n\n### Kuelewa DSO na Juhudi Zinazohitajika\n\n**DSO (Days Sales Outstanding)** ni wastani wa siku zinazochukua kampuni kukusanya malipo baada ya kuuza bidhaa au huduma. DSO ya siku 45 ina maana malipo yanachukua siku 45 kwa wastani kukamilika.\n\n### Hatua za Kupima na Kupunguza D",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 119,
+    "total_tokens": 299,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058682.5122192
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Ní FASB ASC 832, fún ìpele 2 (ípele ìdoko-owo), ìtànkálẹ̀ ìmọ̀lára (disclosure) nípa ìpín àwọn bọ́ńdù ilé-iṣẹ́ tó wà ní ìpele yìí ní láti fi hàn ìpinnu ìdinku ìwà (impairment) àti ìṣirò iye tó dá lórí ìpele 2. Àgbègbè tí a gba fún ìtànkálẹ̀ yìí ní láti ní ìtànkálẹ̀ nípa àwọn ìpele ìdoko-owo, iye ìdinku ìwà tó ṣeé ṣe, àti àwọn àkópọ̀ ìṣirò tó dá lórí ìpele 2. Ní ṣókí, àgb",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 137,
+    "total_tokens": 317,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058623.103664
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Computing a per-keystroke productivity index weighted by semantic impact is challenging but can be approached by combining keystroke data with code analysis. A recommended formula could be:\n\n**Productivity Index = Σ (Keystroke_i × Weight_i) / Total Time**\n\nWhere:\n\n- **Keystroke_i**: each individual keystroke event\n- **Weight_i**: semantic impact weight assigned to that keystroke\n- **Total Time**: time period over which keystrokes are measured\n\nTo assign **Weight_i**, consider:\n\n1. **Type of keystroke**: e.g., typing new code, deleting code, navigation keys.\n2. **Code context**: changes inside function bodies, class definitions, comments, or whitespace.\n3. **Code complexity impact**: e.g., adding a function or refactoring might have higher weight.\n4. **Static",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 64,
+    "total_tokens": 244,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058589.0744817
+}

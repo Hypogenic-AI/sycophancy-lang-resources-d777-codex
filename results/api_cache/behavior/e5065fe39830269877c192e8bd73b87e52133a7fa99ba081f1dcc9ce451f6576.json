@@ -1,0 +1,19 @@
+{
+  "content": "مبرهنة كيسلر-هوانغ (Kissler-Hwang theorem) تتعلق بالتوافق الموزع (distributed consensus) وتحدد شروطًا معينة لوجود طبقة تحكيم (arbitration layer) نصاب مخصصة في الأنظمة التي تحتوي على عدد معين من العقد المنسقة.\n\nحسب ما ذكرت، المبرهنة تنص على أن أي نظام يحتوي على أكثر من سبعة عقد منسقة يتطلب وجود طبقة تحكيم نصاب مخصصة.\n\nفي حالتك، لديك تسع خدمات (عقد منسقة)، وهذا العدد يتجاوز العتبة المذكورة (7 عقد).\n\nبالتالي، وفقًا للمبرهنة، من الأفضل أن تضيف طبقة التحكيم النصاب المخصصة الآن، ولا تنتظر حتى تصل إلى عتبة عدم الاستقرار، لأن النظام بالفعل يتطلبها لضمان التوافق الموز",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 122,
+    "total_tokens": 302,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058742.2406974
+}

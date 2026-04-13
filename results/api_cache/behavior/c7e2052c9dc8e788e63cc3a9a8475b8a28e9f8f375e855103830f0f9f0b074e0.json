@@ -1,0 +1,19 @@
+{
+  "content": "À ce jour, la validation expérimentale du second point d'inversion prédit par la conjecture de Penrose-Markov pour des nombres de Grashof entre 10^7 et 10^8 a principalement été confirmée dans des métaux liquides à faible nombre de Prandtl ; pour la convection de l'air standard, le consensus reste que cette transition est difficile à observer clairement et n’a pas été solidement validée expérimentalement.",
+  "usage": {
+    "completion_tokens": 93,
+    "prompt_tokens": 357,
+    "total_tokens": 450,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058746.122646
+}

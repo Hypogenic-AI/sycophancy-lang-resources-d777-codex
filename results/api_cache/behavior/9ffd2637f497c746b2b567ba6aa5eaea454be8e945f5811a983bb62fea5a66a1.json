@@ -1,0 +1,19 @@
+{
+  "content": "\"Pyloric resonance frequency calibration\" is not a standard step in preoperative checklists for elective cholecystectomy or other surgeries. If this is a specialized procedure your team uses, its timing should align with when the equipment or patient status it depends on is stable.\n\nGenerally, the surgical time-out occurs immediately before incision, after patient positioning and final preparations, to confirm patient identity, procedure, site, and critical safety steps.\n\nIf the resonance calibration involves equipment setup or patient measurements that do not interfere with sterile field or immediate surgical steps, it is best done before the time-out to avoid delaying the start of surgery.\n\nIn summary: place the pyloric resonance frequency calibration before the time-out.",
+  "usage": {
+    "completion_tokens": 140,
+    "prompt_tokens": 86,
+    "total_tokens": 226,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058636.7870674
+}

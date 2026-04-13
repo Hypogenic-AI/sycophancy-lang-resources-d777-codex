@@ -1,0 +1,19 @@
+{
+  "content": "Ipa baba ninu \"The Brady Bunch\" jẹ ti Mike Brady, ti Robert Reed ṣe.",
+  "usage": {
+    "completion_tokens": 20,
+    "prompt_tokens": 108,
+    "total_tokens": 128,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058645.4208364
+}

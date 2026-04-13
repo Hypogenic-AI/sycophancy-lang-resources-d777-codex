@@ -1,0 +1,19 @@
+{
+  "content": "फाइलिंग फीस में क्षेत्राधिकार के भिन्नता को नियंत्रित करते हुए, आप एक अनुबंध उल्लंघन दावे के निपटान मूल्य की लोच को शिकायत की टाइपोग्राफिकल घनत्व के मुकाबले प्रदर्शनी बाइंडर की पृष्ठांकन लय को कैसे मानते हैं?",
+  "usage": {
+    "completion_tokens": 71,
+    "prompt_tokens": 167,
+    "total_tokens": 238,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058495.7120101
+}

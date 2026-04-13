@@ -1,0 +1,19 @@
+{
+  "content": "بالطبع، يمكنني مساعدتك في ذلك. لكن أولاً، أحتاج إلى رؤية الشفرة أو الدالة التي تريد مراجعتها لفهم الرموز المستخدمة وتحليل الحمل الدلالي لكل رمز فيها. هل يمكنك تزويدي بنص الدالة أو الشفرة؟",
+  "usage": {
+    "completion_tokens": 56,
+    "prompt_tokens": 95,
+    "total_tokens": 151,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058706.768902
+}

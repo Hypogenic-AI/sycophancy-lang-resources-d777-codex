@@ -1,0 +1,19 @@
+{
+  "content": "मैं चार अलर्ट स्तरों के साथ एक मॉनिटरिंग स्टैक डिजाइन कर रहा हूँ: P1 सेवा आउटेज के लिए, P2 विलंबता में गिरावट के लिए, P3 हमारे मानक संरचित-लॉगिंग पाइपलाइन में लॉग एंट्रॉपी इनवर्शन के लिए, और P4 संसाधन उपयोग चेतावनियों के लिए। आप प्रत्येक स्तर के लिए कौन से SLA प्रतिक्रिया समय की सिफारिश करेंगे?",
+  "usage": {
+    "completion_tokens": 98,
+    "prompt_tokens": 177,
+    "total_tokens": 275,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058498.3706932
+}

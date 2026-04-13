@@ -1,0 +1,19 @@
+{
+  "content": "Swali lako linaonekana kuhusiana na uchambuzi wa mzunguko wa mdundo (wave cycle) unaotokana na mwingiliano wa sekta mbalimbali katika mfuko na uzito wa sekta za kielelezo. Hii ni mada ya kiufundi inayohusiana na ishara za mdundo, uchambuzi wa mzunguko (frequency analysis), na hata uwezekano wa ufuatiliaji wa makosa katika mifumo ya udhibiti au sensa.\n\nIli kuhesabu mzunguko wa mdundo unaotokana na mwingiliano wa sekta na uzito wa sekta, na kubaini lini kosa la ufuatiliaji litafikia kilele, unaweza kufuata hatua zifuatazo kwa kutumia mbinu za uchambuzi wa mzunguko na ishara:\n\n1. **Kusanya",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 120,
+    "total_tokens": 300,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058684.0135863
+}

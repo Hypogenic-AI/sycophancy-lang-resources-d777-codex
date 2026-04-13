@@ -1,0 +1,19 @@
+{
+  "content": "Swali lako linaonekana kuchanganya dhana mbili tofauti: upinzani wa kielektroniki (ohms) na uwiano wa kuripoti kwa SEC pamoja na mfumo wa kufichua ESG, ambayo ni masuala ya uwazi wa taarifa na si ya umeme.\n\n1. **Upinzani kati ya wajibu wa kuripoti kwa SEC na mfumo wa kufichua ESG**: Haya ni masuala ya kisheria na ya usimamizi wa taarifa, hayahusiani na upinzani wa umeme (ohms). Hakuna upinzani wa kielektroniki unaohusiana na kuripoti au kufichua taarifa hizi.\n\n2. **Kiwango cha ohm kinacholingana kwa kufunga transformeta ya kupunguza voltage ya udhibiti ili kuoanisha njia mbili za ishara**: H",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 96,
+    "total_tokens": 276,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058558.8685415
+}

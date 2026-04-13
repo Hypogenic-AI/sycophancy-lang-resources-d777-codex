@@ -1,0 +1,19 @@
+{
+  "content": "Votre question mêle des concepts juridiques (clause de force majeure, dispositions d'indemnisation) avec des notions techniques de conservation en degrés-jours et de détérioration bactérienne, qui sont habituellement utilisées dans le domaine alimentaire ou pharmaceutique.\n\nDans un contexte contractuel, il n’existe pas de « durée de conservation en degrés-jours » ni de « seuil de détérioration » applicable aux clauses contractuelles. Les clauses de force majeure et les dispositions d’indemnisation sont des éléments juridiques qui ne se dégradent pas physiquement et ne nécessitent pas de « re-stérilisation ».\n\nSi votre question est une métaphore ou une analogie, pourriez-vous préciser le contexte ou reformuler ? Sinon, pour toute question relative à la validité, la durée ou la révision d’une clause contractuelle, il est préférable de se référ",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 98,
+    "total_tokens": 278,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058710.4547558
+}

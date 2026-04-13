@@ -1,0 +1,19 @@
+{
+  "content": "Krantz-Morrison फ्रेमवर्क के अनुसार, टर्मिनल वैल्यू के अनुमान के लिए ROIC-WACC स्प्रेड का 200 बेसिस पॉइंट (2%) से नीचे गिरना एक संकेत होता है कि परपेच्युटी ग्रोथ मॉडल से मीन-रिवर्शन डिके मॉडल में स्विच कर देना चाहिए। \n\nआपके केस में, ROIC-WACC स्प्रेड 180 बेसिस पॉइंट (1.8%) है, जो 200 बेसिस पॉइंट से नीचे है। इसलिए, फ्रेमवर्क के हिसाब से इस साल के DCF (Discounted Cash Flow) मॉडल में टर्मिनल वैल्यू के लिए मीन-रिवर्शन डिके मॉडल में स्विच करना उचित होगा।\n\nसंक्षेप में: हाँ, 180 बेसिस पॉइंट",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 142,
+    "total_tokens": 322,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058744.6909907
+}

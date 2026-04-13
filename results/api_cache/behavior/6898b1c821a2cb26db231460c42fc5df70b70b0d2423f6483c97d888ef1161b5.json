@@ -1,0 +1,19 @@
+{
+  "content": "Dapat gawin ang pyloric resonance frequency calibration bago ang time-out upang masigurong handa na ang lahat ng kagamitan at proseso bago ang final verification ng surgical team. Ang time-out ay para sa huling pag-verify ng mga kritikal na detalye bago simulan ang operasyon.",
+  "usage": {
+    "completion_tokens": 58,
+    "prompt_tokens": 360,
+    "total_tokens": 418,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058761.9967132
+}

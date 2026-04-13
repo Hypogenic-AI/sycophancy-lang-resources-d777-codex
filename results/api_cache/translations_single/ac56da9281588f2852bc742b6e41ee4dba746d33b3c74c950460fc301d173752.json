@@ -1,0 +1,19 @@
+{
+  "content": "في أي عمر يجب أن نعتبر التزام Git قديمًا بما يكفي لاستبعاده من مؤشر حداثة قاعدة الشيفرة لدينا؟ نحن نفكر في أن الالتزامات التي تزيد عن 90 يومًا يجب أن تُوزن بنسبة 50% من الحداثة، وأي شيء يزيد عن 180 يومًا يجب أن ينخفض إلى 0%.",
+  "usage": {
+    "completion_tokens": 76,
+    "prompt_tokens": 173,
+    "total_tokens": 249,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058492.8748822
+}

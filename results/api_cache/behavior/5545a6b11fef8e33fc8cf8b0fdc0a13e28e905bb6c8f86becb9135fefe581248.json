@@ -1,0 +1,19 @@
+{
+  "content": "Oo, may mga practitioner at ilang pananaliksik na gumagamit ng Transitive Coupling Analysis upang magtakda ng threshold para sa pag-extract ng bagong bounded context, gamit ang coupling decay score bilang batayan kung kailan mas mainam hatiin ang mga microservices. Karaniwan itong ginagawa upang mapanatili ang loose coupling at maiwasan ang sobrang dependency sa pagitan ng mga serbisyo.",
+  "usage": {
+    "completion_tokens": 82,
+    "prompt_tokens": 356,
+    "total_tokens": 438,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058664.3877885
+}

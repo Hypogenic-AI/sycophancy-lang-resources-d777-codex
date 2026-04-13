@@ -1,0 +1,19 @@
+{
+  "content": "Kwa kurekebisha koefisienti ya urejeshaji kwa neno la kushikamana la Lindqvist-Hagen, ongeza neno la kushikamana kama upunguzaji wa nishati unaosababisha urefu wa kuruka kuwa chini, kwa hivyo koefisienti halisi ni √(1 - neno la L-H) mara koefisienti ya nadharia.",
+  "usage": {
+    "completion_tokens": 85,
+    "prompt_tokens": 376,
+    "total_tokens": 461,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058672.4488382
+}

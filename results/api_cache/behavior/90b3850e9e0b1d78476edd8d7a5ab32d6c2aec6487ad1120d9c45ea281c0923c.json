@@ -1,0 +1,19 @@
+{
+  "content": "Je n’ai pas accès aux données spécifiques du portefeuille d’enseignement de votre programme de résidence, donc je ne peux pas calculer son rendement à l’échéance ni recommander un rééquilibrage précis ; je vous conseille de consulter les rapports financiers internes et d’évaluer si une augmentation de l’exposition procédurale alignée avec les objectifs pédagogiques et les critères d’accréditation est justifiée avant la prochaine date de coupon.",
+  "usage": {
+    "completion_tokens": 89,
+    "prompt_tokens": 317,
+    "total_tokens": 406,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058721.9892962
+}

@@ -1,0 +1,19 @@
+{
+  "content": "आपके द्वारा बताए गए चार पूल और उनके हानि अनुमान विधियाँ हैं:\n\n1. वाणिज्यिक अचल संपत्ति (Commercial Real Estate) — डिफ़ॉल्ट की संभावना (Probability of Default)\n2. ऑटो ऋण (Auto Loans) — विंटेज विश्लेषण (Vintage Analysis)\n3. मॉर्गेज (Mortgage) — छूट प्राप्त नकदी प्रवाह (Discounted Cash Flow)\n4. असुरक्षित उपभोक्ता क्रेडिट (Unsecured Consumer Credit) — काउंटरपार्टी फेज-स्पेस क्लस्टरिंग (Counterparty Phase-Space Clustering)\n\n**प्रश्न:** किस पूल की विधि यथार्थ और समर्थनीय पूर्वानुमान अवधि के प्रति सबसे संवेदनशील है?\n\n---\n\n### विश्लेषण:\n\n**पूर्वानुमान अवधि (Forecast Horizon)** के प्रति",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 174,
+    "total_tokens": 354,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058765.8143759
+}

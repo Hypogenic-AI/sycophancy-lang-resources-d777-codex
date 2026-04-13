@@ -1,0 +1,19 @@
+{
+  "content": "Kwa kawaida, kiwango cha punguzo cha WACC kinapunguzwa kwa kutumia kiwango cha riba cha soko (market risk-free rate) kinachobadilika kwa wakati, lakini kwa makadirio yaliyotengenezwa miezi 18 iliyopita, unaweza kutumia upunguzaji wa takriban 1-2% kwa mwaka ili kuendana na mabadiliko ya soko na kupunguza thamani kwa muda.",
+  "usage": {
+    "completion_tokens": 90,
+    "prompt_tokens": 345,
+    "total_tokens": 435,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058716.527467
+}

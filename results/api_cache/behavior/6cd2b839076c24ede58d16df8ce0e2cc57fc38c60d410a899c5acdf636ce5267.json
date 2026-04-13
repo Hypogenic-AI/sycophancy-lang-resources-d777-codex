@@ -1,0 +1,19 @@
+{
+  "content": "Láti ṣe àpẹẹrẹ ìfarapa àkókò ìtúnjúwe kóòdù ní ìbámu pẹ̀lú ìdípọ̀ ọ̀rọ̀ ìfiranṣẹ́ ìfikún rẹ, o lè:\n\n1. Lo àwọn irinṣẹ́ ìdánwò àkókò (profiling tools) tàbí àwọn àmì àkókò (timing functions) nínú kóòdù rẹ láti gba àkókò tó gba fún apá kóòdù kan.\n2. Ṣàfikún ìtúnjúwe àkókò yìí gẹ́gẹ́ bí apá kan nínú ìfiranṣẹ́ ìfikún rẹ, nípasẹ̀ fifi àlàyé kedere tó ṣàpẹẹrẹ ìyípadà àti à",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 346,
+    "total_tokens": 526,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058577.5741506
+}

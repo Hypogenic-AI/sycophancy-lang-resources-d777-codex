@@ -1,0 +1,19 @@
+{
+  "content": "Swali lako linaelezea masuala tata ya usimamizi wa timu za maendeleo za programu, hasa kuhusu:\n\n- Kudhibiti ongezeko la pointi za sprint na kuzoea kwa commit entropy (mchanganyiko/mchanganuo wa commits) ya timu,\n- Tofauti kati ya mzunguko wa utoaji (delivery cycle) kwa ucheleweshaji wa ukaguzi wa Pull Request (PR review delay),\n- Na derivative ya pili ya mdundo wa kusafisha orodha ya kazi (second derivative of the cadence of backlog grooming).\n\nNitajaribu kufafanua na kutofautisha vipengele hivi kwa mtazamo wa usimamizi wa agile na maendeleo ya programu.\n\n---\n\n### 1. Kudhibiti Kuongezeka kwa Pointi za Sprint na Kuzoea dhidi ya Commit Entropy\n\n- **Kuongezeka kwa pointi",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 113,
+    "total_tokens": 293,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058691.6290743
+}

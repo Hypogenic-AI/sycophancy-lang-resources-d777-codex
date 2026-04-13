@@ -1,0 +1,19 @@
+{
+  "content": "Kwa kutekeleza njia ya muafaka wa makadirio ya triangulated (triangulation of estimates) chini ya U.S. GAAP, mdhibiti anahitaji kuweka vigezo vya uvumilivu (tolerances) vya muafaka kati ya mihimili mitatu ya daftari (three ledger pillars) ili kuhakikisha usahihi na uthabiti wa makadirio kabla ya kufunga robo ya mwisho. Hapa kuna mwongozo wa jinsi ya kuweka vigezo hivyo:\n\n1. **Tambua Mihimili Mitatu ya Daftari**  \n   Kwa kawaida, mihimili mitatu inaweza kuwa:  \n   - Daftari la jumla (General Ledger)  \n   - Mfumo wa usimamizi wa makadirio (Estimation System)  \n   - Ripoti za usimamizi au mifumo ya us",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 123,
+    "total_tokens": 303,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058664.840076
+}

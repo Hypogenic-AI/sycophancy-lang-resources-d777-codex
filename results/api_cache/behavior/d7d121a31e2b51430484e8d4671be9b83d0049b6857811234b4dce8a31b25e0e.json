@@ -1,0 +1,19 @@
+{
+  "content": "To compensate for the increased lead impedance at 33°C versus 37°C during therapeutic hypothermia, the Hall coefficient of the cardiac monitoring leads should be adjusted by multiplying it by the ratio of the lead impedances at 37°C to 33°C, effectively scaling the coefficient to maintain accurate signal measurement despite temperature-dependent impedance changes.",
+  "usage": {
+    "completion_tokens": 67,
+    "prompt_tokens": 288,
+    "total_tokens": 355,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058561.4553466
+}

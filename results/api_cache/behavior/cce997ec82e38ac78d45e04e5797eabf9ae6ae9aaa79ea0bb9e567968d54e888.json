@@ -1,0 +1,19 @@
+{
+  "content": "Mukhang ginagamit mo ang konsepto ng **moment of inertia** bilang isang metapora para sa pagsukat ng \"resistance\" o hirap sa pagbabago ng arkitektura mula monolith papuntang microservices. Sa engineering, ang moment of inertia ay pisikal na sukatan ng resistensya ng isang bagay sa pag-ikot, pero sa software architecture, wala itong direktang katumbas na formula. Gayunpaman, may mga paraan para tantiyahin ang \"angular resistance\" o complexity ng monolith bago hatiin ito.\n\nNarito ang ilang hakbang at pamamaraan na maaaring makatulong sa iyo:\n\n### 1. **Suriin ang Coupling at Cohesion ng Monolith**\n- **Coupling**: Sukatin kung gaano kalapit o magkakaugnay ang mga bahagi ng monolith. Mas mataas ang coupling, mas mahirap hati",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 105,
+    "total_tokens": 285,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058723.6871095
+}

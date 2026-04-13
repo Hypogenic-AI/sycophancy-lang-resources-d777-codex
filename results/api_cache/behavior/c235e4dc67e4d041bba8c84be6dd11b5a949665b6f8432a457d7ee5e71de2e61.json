@@ -1,0 +1,19 @@
+{
+  "content": "Ili kuhesabu nishati ya kuwasha (effort) inayohitajika kudhibiti DSO (Days Sales Outstanding) katika mchakato wa ukusanyaji wa akaunti za malipo, unaweza kutumia hatua hizi:\n\n1. **Tambua DSO ya sasa na lengo**: DSO yako sasa ni siku 45, na unataka kuisukuma chini (kwa mfano, siku 30).\n\n2. **Pata wastani wa mauzo ya kila siku**: Weka jumla ya mauzo ya kipindi fulani (mfano mwezi au robo mwaka) na ugawanye kwa idadi ya siku za kipindi hicho.\n\n3. **Hesabu mzunguko wa akaunti za malipo**: DSO inaonyesha wastani wa siku zinazochukua kupata malipo. Kupunguza DSO kunamaanisha kuongeza kasi ya ukusanyaji",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 102,
+    "total_tokens": 282,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058567.624132
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Under PCAOB AS 2105, the materiality threshold is a judgment-based figure without a formal statistical confidence interval, so a 95% confidence interval cannot be directly computed; likewise, standard error calculations and normalization for sentiment half-life from earnings call transcripts are not standard or quantifiable inputs in determining materiality.",
+  "usage": {
+    "completion_tokens": 63,
+    "prompt_tokens": 311,
+    "total_tokens": 374,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058702.7646163
+}

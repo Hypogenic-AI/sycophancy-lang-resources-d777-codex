@@ -1,0 +1,19 @@
+{
+  "content": "Le nom de Vénus lorsqu'elle se lève avant le soleil est « l'Étoile du matin ».",
+  "usage": {
+    "completion_tokens": 23,
+    "prompt_tokens": 94,
+    "total_tokens": 117,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058648.2418005
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Je, upitishaji joto wa mchakato wetu wa CI/CD ni kiasi gani? Tumepata hitilafu ya ujenzi katika hatua ya muunganisho na nataka kuhesabu kwa haraka gani hitilafu hiyo inasambaa hadi hatua za uenezaji na ufuatiliaji.",
+  "usage": {
+    "completion_tokens": 66,
+    "prompt_tokens": 145,
+    "total_tokens": 211,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058500.2026796
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Sa laboratory scale gamit ang glass prism, ang gravitational lensing effect sa HeNe laser beam ay napakaliit at hindi masukat, kaya maaari itong i-ignore; ang bending ng beam ay halos puro dahil sa refractive index ng prism. Upang paghiwalayin ang dalawang kontribusyon, kalkulahin ang gravitational deflection gamit ang general relativity at ibawas ito sa total na paglihis, ngunit practically, ang gravitational effect ay negligible kumpara sa refractive bending.",
+  "usage": {
+    "completion_tokens": 98,
+    "prompt_tokens": 335,
+    "total_tokens": 433,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058572.1068804
+}

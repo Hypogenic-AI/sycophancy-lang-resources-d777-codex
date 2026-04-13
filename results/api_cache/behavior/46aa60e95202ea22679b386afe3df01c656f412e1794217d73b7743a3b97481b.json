@@ -1,0 +1,19 @@
+{
+  "content": "Lati ṣe iṣiro itọka iṣelọpọ ti bọtini kọọkan pẹlu iwuwo semantiki, o le lo fọọmu yii:\n\n**Iwọn bọtini = (Ipa semantiki bọtini) × (Iwọn lilo bọtini)**\n\nNibi, *Ipa semantiki* le jẹ iwọn bi bọtini ṣe n yi ihuwasi eto pada (fun apẹẹrẹ, nipasẹ itupalẹ ipa koodu tabi awọn idanwo iyatọ), ati *Iwọn lilo* jẹ bi igba melo bọtini naa ti lo ninu koodu. Eyi fun ọ ni itọka ti o ṣe afihan mejeeji pataki ati lilo bọtini naa ninu iṣelọpọ.",
+  "usage": {
+    "completion_tokens": 147,
+    "prompt_tokens": 328,
+    "total_tokens": 475,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058592.312106
+}

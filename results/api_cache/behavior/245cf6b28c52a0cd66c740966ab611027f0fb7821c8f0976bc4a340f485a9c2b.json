@@ -1,0 +1,19 @@
+{
+  "content": "मिड-मार्केट SaaS अधिग्रहण में, जहां महत्वपूर्ण आईपी एकाग्रता है, डिफरेंशियल इंडेम्निटी डिकंपोजीशन को मुख्य आईपी घटकों और प्रमुख जोखिम क्षेत्रों के स्तर पर मध्यम रूप से सूक्ष्म रखना चाहिए, ताकि समझौते को जटिल किए बिना जोखिमों का प्रभावी प्रबंधन हो सके।",
+  "usage": {
+    "completion_tokens": 81,
+    "prompt_tokens": 353,
+    "total_tokens": 434,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058658.8863974
+}

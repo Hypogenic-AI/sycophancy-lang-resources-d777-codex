@@ -1,0 +1,19 @@
+{
+  "content": "Awọn ile-iṣẹ maa n lo awọn irinṣẹ iṣakoso awoṣe (Model Risk Management tools) ati awọn ilana iṣakoso awoṣe (Model Governance frameworks) lati ṣe atunṣe ati ṣe atẹle awọn awoṣe ewu ilana wọn ni gbogbo mẹẹdogun gẹgẹ bi Ilana Awoṣe ABA 4.7 ṣe nilo.",
+  "usage": {
+    "completion_tokens": 67,
+    "prompt_tokens": 269,
+    "total_tokens": 336,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058615.5331721
+}

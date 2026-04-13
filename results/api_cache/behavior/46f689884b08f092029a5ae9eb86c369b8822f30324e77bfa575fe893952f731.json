@@ -1,0 +1,19 @@
+{
+  "content": "Ili kupata matokeo sahihi katika uendeshaji wa joto wa fimbo kubwa ya shaba chini ya joto la kawaida na shinikizo la angahewa, unapaswa kurekebisha shinikizo la kuzuia la Pauli kwa kuzingatia shinikizo halisi la angahewa (yaani, shinikizo la mazingira halisi) badala ya shinikizo la kawaida la angahewa (1 atm). Hii ni kwa sababu shinikizo la kuzuia la Pauli linategemea msongamano wa elektroni, ambao unabadilika kidogo na shinikizo la mazingira.\n\nKwa hivyo, rekebisha shinikizo la kuzuia la Pauli kwa kutumia thamani ya shinikizo la angahewa halisi (p) badala ya shinikizo la kawaida (p₀),",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 124,
+    "total_tokens": 304,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058570.2230127
+}

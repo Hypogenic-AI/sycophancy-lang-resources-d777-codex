@@ -1,0 +1,19 @@
+{
+  "content": "Kampuni zinaweza kuhesabu kiwango cha kurudiwa (Reliability Index, RI) kwa maoni ya ujenzi wa madai ya hati miliki za programu kwa hatua zifuatazo:\n\n1. **Kusanya data ya majaribio au tathmini**: Fanya tathmini za mbinu za ujenzi wa madai (claim construction) kwa kutumia sampuli za kesi za hati miliki za programu, ukizingatia matokeo ya maoni ya wataalamu.\n\n2. **Tambua matokeo sahihi na yasiyo sahihi**: Kagua maoni ya wataalamu na ulinganishe na uamuzi wa mahakama au muktadha wa kisheria ili kubaini ni maoni gani yalikuwa sahihi (true positives) na yasiyo sahihi (false positives/negatives).\n\n3. **Hesabu uwiano wa kur",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 129,
+    "total_tokens": 309,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058615.5371542
+}

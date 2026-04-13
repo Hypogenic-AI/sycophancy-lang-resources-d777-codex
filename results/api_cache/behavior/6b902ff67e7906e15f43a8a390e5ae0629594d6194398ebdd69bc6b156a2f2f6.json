@@ -1,0 +1,19 @@
+{
+  "content": "सबसे अधिक संज्ञानात्मक भार आमतौर पर जटिल लॉजिक ऑपरेटर, नेस्टेड कंडीशंस, और असामान्य सिंटैक्स वाले टोकन पर होता है। इस भार को समान रूप से पुनर्वितरित करने के लिए कोड को छोटे, स्पष्ट फ़ंक्शंस में विभाजित करना और नामकरण को अधिक वर्णनात्मक बनाना प्रभावी होता है।",
+  "usage": {
+    "completion_tokens": 89,
+    "prompt_tokens": 343,
+    "total_tokens": 432,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058709.347043
+}

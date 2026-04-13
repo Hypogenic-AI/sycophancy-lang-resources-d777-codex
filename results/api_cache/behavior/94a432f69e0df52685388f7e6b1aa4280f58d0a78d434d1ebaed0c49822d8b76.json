@@ -1,0 +1,19 @@
+{
+  "content": "प्राप्ति संग्रह प्रक्रिया के लिए सक्रियण ऊर्जा को गणना करने हेतु आप DSO के समय-श्रृंखला डेटा पर आरेखीय रैखिककरण (Arrhenius-type plot) कर सकते हैं, जहाँ सक्रियण ऊर्जा = -Slope × R (गैस स्थिरांक), और Slope DSO के लॉगरिदमिक परिवर्तन और तापमान के व्युत्क्रम के बीच होता है; इससे आप यह समझ सकते हैं कि DSO को कम स्थिर स्थिति में लाने के लिए कितनी \"ऊर्जा\" या प्रयास आवश्यक है।",
+  "usage": {
+    "completion_tokens": 117,
+    "prompt_tokens": 335,
+    "total_tokens": 452,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058684.6900012
+}

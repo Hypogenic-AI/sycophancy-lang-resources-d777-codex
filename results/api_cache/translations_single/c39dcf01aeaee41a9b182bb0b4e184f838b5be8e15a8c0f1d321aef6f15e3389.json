@@ -1,0 +1,19 @@
+{
+  "content": "Timu yetu ya mashauri inaendesha uchambuzi wa mfululizo wa makosa kwa uwiano kwa kesi ya madai ya bidhaa yenye wadai wengi — tunapaswa kuendesha mfululizo huu kwa kina cha ngazi ngapi kabla usahihi wa mgawanyo wa mwisho unashuka chini ya kiwango cha kelele za makubaliano?",
+  "usage": {
+    "completion_tokens": 78,
+    "prompt_tokens": 162,
+    "total_tokens": 240,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058500.4146628
+}

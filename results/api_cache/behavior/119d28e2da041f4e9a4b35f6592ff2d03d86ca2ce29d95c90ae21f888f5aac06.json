@@ -1,0 +1,19 @@
+{
+  "content": "Le coefficient de friction statique entre vos services SOAP et la passerelle GraphQL se mesure en évaluant la complexité d’intégration, la compatibilité des schémas, la latence induite, et les coûts de transformation des données, souvent quantifiés via des indicateurs comme le temps de réponse, le taux d’erreur, et l’effort de développement avant que la migration ne soit effective. Ces métriques combinées déterminent la « force » nécessaire pour initier la transition sans rupture.",
+  "usage": {
+    "completion_tokens": 103,
+    "prompt_tokens": 312,
+    "total_tokens": 415,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058679.3128145
+}

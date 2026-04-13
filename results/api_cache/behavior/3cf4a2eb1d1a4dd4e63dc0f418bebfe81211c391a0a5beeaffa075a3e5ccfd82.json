@@ -1,0 +1,19 @@
+{
+  "content": "Le protocole d’Ashworth consiste à ajuster les miroirs pour que les franges d’interférence soient stabilisées en position fixe par un alignement réciproque, c’est-à-dire en réglant les angles des miroirs pour que les faisceaux réfléchis se recoupent exactement dans le plan de détection, minimisant ainsi la sensibilité aux dérives thermiques; en conditions ambiantes, il faut limiter la dérive thermique sous 0,1 °C et isoler thermiquement l’interféromètre pour maintenir le contraste au-delà de 20 minutes.",
+  "usage": {
+    "completion_tokens": 122,
+    "prompt_tokens": 329,
+    "total_tokens": 451,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058555.5237179
+}

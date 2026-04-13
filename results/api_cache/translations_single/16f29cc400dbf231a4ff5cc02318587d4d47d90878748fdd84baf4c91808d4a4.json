@@ -1,0 +1,19 @@
+{
+  "content": "हम कमरे के तापमान और वायुमंडलीय दबाव पर एक मैक्रोस्कोपिक तांबे की छड़ की थर्मल चालकता माप रहे हैं। सटीक परिणाम प्राप्त करने के लिए, हमें छड़ में चालक इलेक्ट्रॉनों के बीच पाउली बहिष्कार दबाव के लिए कैसे सुधार करना चाहिए? हमारे मान पाठ्यपुस्तक संख्या से लगभग 5% कम हैं।",
+  "usage": {
+    "completion_tokens": 90,
+    "prompt_tokens": 181,
+    "total_tokens": 271,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058495.8286147
+}

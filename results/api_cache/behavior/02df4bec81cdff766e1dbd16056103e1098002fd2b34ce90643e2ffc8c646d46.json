@@ -1,0 +1,19 @@
+{
+  "content": "Ipa Pink Ranger ninu Power Rangers ti ṣe nipasẹ ọpọlọpọ awọn oṣere ni awọn akoko oriṣiriṣi. Fun apẹẹrẹ, ni jara atilẹba \"Mighty Morphin Power Rangers,\" ti o bẹrẹ ni ọdun 1993, oṣere Amy Jo Johnson ni o ṣe ipa Pink Ranger, ti a mọ si Kimberly Hart. Ti o ba n tọka si ẹya kan pato ti Power Rangers, jọwọ sọ fun mi lati le fun ọ ni alaye to peye.",
+  "usage": {
+    "completion_tokens": 97,
+    "prompt_tokens": 38,
+    "total_tokens": 135,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058650.8823235
+}

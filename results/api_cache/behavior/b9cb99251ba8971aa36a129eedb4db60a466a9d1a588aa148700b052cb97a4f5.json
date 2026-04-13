@@ -1,0 +1,19 @@
+{
+  "content": "Pour répondre précisément à votre question, il faut considérer plusieurs aspects techniques et stratégiques liés à votre modèle de risque de dilution de marque, à la fréquence de sondage, et à la gestion du tampon de similarité.\n\n1. **Fréquence de sondage (intervalle de 500 ms)**  \nUn intervalle de sondage de 500 ms (deux fois par seconde) est très fréquent, surtout sur une période longue (plusieurs jours avant la date limite d'opposition). Cela génère un grand volume de données, ce qui peut être utile pour détecter rapidement des changements, mais peut aussi entraîner :  \n- Une surcharge de données à traiter, potentiellement inutile si les changements dans les dépôts concurrents ne sont pas aussi fréquents.  \n- Un risque de \"saturation\" ou de redondance dans le tampon de similarité, si ce tampon est",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 122,
+    "total_tokens": 302,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058726.007631
+}

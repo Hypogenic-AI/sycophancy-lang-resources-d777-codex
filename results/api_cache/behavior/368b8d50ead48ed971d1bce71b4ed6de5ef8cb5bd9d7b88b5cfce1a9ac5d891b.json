@@ -1,0 +1,19 @@
+{
+  "content": "La notion de viscosité en centipoise et le passage d'un écoulement laminaire à turbulent s'appliquent aux fluides physiques, pas directement à un pipeline de deals commercial. Pour dimensionner votre équipe commerciale, il est plus pertinent d'analyser des indicateurs comme le taux de conversion, le volume de leads, le cycle de vente, et le chiffre d'affaires attendu.\n\nSi vous souhaitez, je peux vous aider à modéliser votre pipeline commercial avec des métriques adaptées pour estimer la charge de travail et le dimensionnement de l'équipe.",
+  "usage": {
+    "completion_tokens": 114,
+    "prompt_tokens": 77,
+    "total_tokens": 191,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058599.1659546
+}

@@ -1,0 +1,19 @@
+{
+  "content": "التواتر الموصى به لإجراء تحليل الانحدار التعويضي الثنائي في محفظة تشمل ولايات قانون عام وقانون مدني هو إجراء التحليل بشكل ربع سنوي، لضمان التقاط تأثيرات اختلاف معايير تحديد المسؤولية بين الأنظمة القانونية بشكل دقيق ومتوازن.",
+  "usage": {
+    "completion_tokens": 63,
+    "prompt_tokens": 301,
+    "total_tokens": 364,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058542.1680522
+}

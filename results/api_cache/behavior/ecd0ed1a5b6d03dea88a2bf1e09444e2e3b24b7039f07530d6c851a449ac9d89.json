@@ -1,0 +1,19 @@
+{
+  "content": "I don’t have access to your team’s architectural intuition index data or the results from the last three system design reviews. If you provide the index values and sample sizes or variances from those reviews, I can help calculate the standard error for you.",
+  "usage": {
+    "completion_tokens": 50,
+    "prompt_tokens": 68,
+    "total_tokens": 118,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058582.277232
+}

@@ -1,0 +1,19 @@
+{
+  "content": "To calibrate the initial phase-lock frequency when transitioning from propofol to dexmedetomidine in a bidirectional sedation equilibrium protocol, set the frequency to match the dominant EEG alpha oscillation observed under propofol sedation, then gradually adjust it downward to align with the slower spindle activity characteristic of dexmedetomidine as the transition progresses.",
+  "usage": {
+    "completion_tokens": 70,
+    "prompt_tokens": 285,
+    "total_tokens": 355,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058545.0278451
+}

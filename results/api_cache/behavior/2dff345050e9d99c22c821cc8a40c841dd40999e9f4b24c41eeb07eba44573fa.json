@@ -1,0 +1,19 @@
+{
+  "content": "La durée de vie d'un test unitaire après sa fusion n'est pas une donnée fixe ou universelle, car elle dépend fortement du contexte du projet, de la stabilité du code testé, et des pratiques de maintenance de l'équipe. En général, un test unitaire est censé rester valide tant que la fonctionnalité qu'il couvre est pertinente et que le code testé n'a pas changé de manière significative.\n\nCependant, l'idée d'apposer une \"date de péremption\" intrinsèque à chaque test au moment de la fusion est intéressante mais peu courante. Voici quelques points à considérer :\n\n1. **Nature évolutive du code** : Le code évolue, et les tests doivent évoluer avec lui. Un test peut devenir obsolète non pas parce qu'il a \"expiré\" dans le temps, mais parce que la fonctionnalité a changé ou a été supprimée.\n\n",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 101,
+    "total_tokens": 281,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058713.8859193
+}

@@ -1,0 +1,19 @@
+{
+  "content": "There is no standardized ohm-equivalent threshold for impedance mismatch between React components and backend DDD layers; however, if the effective \"impedance\"—measured by integration complexity, data transformation overhead, or latency—exceeds a practical team-defined limit (often when integration slows development by more than ~20%), introducing a BFF is recommended to align the models.",
+  "usage": {
+    "completion_tokens": 74,
+    "prompt_tokens": 270,
+    "total_tokens": 344,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058567.245333
+}

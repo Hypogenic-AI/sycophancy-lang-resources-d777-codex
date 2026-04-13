@@ -1,0 +1,19 @@
+{
+  "content": "Pasensya na sa kalituhan. Ang viscosity ng deal pipeline sa centipoise ay karaniwang sinusukat gamit ang conversion rate at sales cycle length, at ang daloy mula laminar patungong turbulent ay nagbabago kapag ang revenue throughput ay lumampas sa kapasidad ng sales team na humawak ng deals nang maayos, kadalasan sa pagtaas ng deal volume o complexity; para sa Q3, sukatin ang laki ng sales team base sa forecasted deal volume at average deal velocity upang maiwasan ang turbulence.",
+  "usage": {
+    "completion_tokens": 112,
+    "prompt_tokens": 329,
+    "total_tokens": 441,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058720.1425524
+}

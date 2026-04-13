@@ -1,0 +1,19 @@
+{
+  "content": "The concept of a \"shelf life\" or \"best-before date\" for a unit test after it's merged is not a standard practice, and there isn't a universally accepted expiration period for unit tests. However, I can provide some guidance on the idea and its implications:\n\n1. **Unit Tests Are Meant to Be Evergreen:**  \n   Ideally, unit tests should remain valid and useful as long as the code they cover is relevant. They serve as a safety net to catch regressions and verify behavior. If the underlying code or requirements change, tests should be updated or removed accordingly.\n\n2. **Why Consider a \"Best-Before Date\"?**  \n   - If your product or codebase evolves rapidly, some tests might become obsolete or misleading over time.  \n   - A \"best-before date\" could signal to QA or developers that a test needs review to ensure it still reflects current requirements.",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 86,
+    "total_tokens": 266,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058713.6365407
+}

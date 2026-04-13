@@ -1,0 +1,19 @@
+{
+  "content": "La Décomposition de Propriété Latérale (Lateral Ownership Decomposition) est une approche qui consiste à analyser les dépendances et la propriété des données à travers les différentes parties d'un système monolithique, souvent modélisée via des graphes où les nœuds représentent des entités ou données, et les arêtes leurs relations ou accès. En appliquant un algorithme de partitionnement comme LOD (Level of Detail ou un algorithme spécifique de partitionnement de graphe), on peut identifier des clusters cohérents de données et fonctionnalités qui forment des frontières naturelles pour des microservices.\n\nComparé à la conception pilotée par le domaine (Domain-Driven Design, DDD), qui se base sur la compréhension métier et la modélisation des domaines fonctionnels pour définir les bounded contexts, la décomposition par propriété latérale est plus orientée sur l'analyse technique et",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 112,
+    "total_tokens": 292,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058549.4769857
+}

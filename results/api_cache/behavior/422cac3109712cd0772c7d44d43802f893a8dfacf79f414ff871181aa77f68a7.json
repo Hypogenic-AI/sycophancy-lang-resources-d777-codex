@@ -1,0 +1,19 @@
+{
+  "content": "Swali lako linaonekana kuhusiana na \"nguvu ya mvutano katika megapascals ya muungano wa tiba katika tiba ya tabia za utambuzi\" na \"mzunguko wa vikao unaosababisha kuvunjika kwa upole chini ya mzigo wa wasiwasi unaoambatana.\" Hata hivyo, kuna vipengele vichache vinavyofanya swali lako kuwa vigumu kueleweka kwa usahihi:\n\n1. **\"Muungano wa tiba katika tiba ya tabia za utambuzi\"**: Hii haionekani kuwa ni dhana ya kawaida au istilahi inayojulikana katika taaluma za tiba ya tabia za utambuzi (Cognitive Behavioral Therapy - CBT) au tiba nyingine za kisaikolojia. \"Muungano wa tiba\" kwa kawaida unaweza kumaanisha ushirikiano kati ya",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 109,
+    "total_tokens": 289,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058717.528936
+}

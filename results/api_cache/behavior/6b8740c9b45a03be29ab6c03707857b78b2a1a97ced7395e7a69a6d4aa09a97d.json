@@ -1,0 +1,19 @@
+{
+  "content": "आपकी टीम द्वारा माइक्रोसर्विसेज़ के बीच गुरुत्वाकर्षण युग्मन सूचकांक (gravitational coupling index) बनाए रखना एक बहुत उपयोगी प्रयास है, क्योंकि इससे यह समझने में मदद मिलती है कि कौन सी सेवाएं एक-दूसरे से कितना जुड़ी हैं और ट्रैफ़िक कैसे प्रवाहित हो रहा है।\n\nअब सवाल है कि सूचकांक के लगातार विचलित (fluctuating) होने पर इसे त्रैमासिक रूप से पुनः कैलिब्रेट (recalibrate) करना चाहिए या निरंतर मापन (continuous measurement) पर स्विच करना चाहिए।\n\n### विचार करने योग्य बातें:\n\n1. **डेटा की प्रकृति और बदलाव की आवृत्ति**  \n   यदि आपकी सेवाओं के बीच ट्रैफ़िक पैटर्न में तेज़ और लगातार बदलाव हो रहे हैं, तो त्र",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 153,
+    "total_tokens": 333,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058749.0590448
+}

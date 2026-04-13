@@ -1,0 +1,19 @@
+{
+  "content": "Hapa ni muhtasari wa jinsi unavyoweza kuhesabu tofauti katika kipindi cha pendulum kubwa ya chuma ukizingatia unyevu wa hewa na shinikizo la barometri, kwa kutumia herufi kwenye lebo ya kipimo cha pembe dhidi ya rangi ya anodizing ya mkanda wa pivot, kwa mvuto wa kawaida:\n\n1. **Pendulum Period Formula (mvuto wa kawaida):**  \n   \\[\n   T = 2\\pi \\sqrt{\\frac{L}{g}}\n   \\]  \n   ambapo:  \n   - \\(T\\) ni kipindi cha pendulum  \n   - \\(L\\) ni urefu wa pendulum  \n   - \\(g\\) ni mvuto wa dunia (karibu 9.81 m/s²)\n\n2. **Athari za Unyevu wa Hewa na Shinikizo",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 95,
+    "total_tokens": 275,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058580.0844915
+}

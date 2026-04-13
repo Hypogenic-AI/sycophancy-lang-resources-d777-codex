@@ -1,0 +1,19 @@
+{
+  "content": "Itankalẹ ooru (heatmap) ti CI/CD pipeline n tọka si bi awọn ikuna ṣe tan kaakiri laarin awọn ipele pipeline. Lati ṣe iṣiro iyara itankalẹ ikuna ikole si ifilọlẹ ati abojuto, o gbọdọ:\n\n1. Ṣe atẹle akoko ikuna kọọkan ni ipele isopọ ati awọn ipele to tẹle.\n2. Ṣe iṣiro akoko apapọ laarin ikuna akọkọ ati awọn ikuna atẹle lati mọ iyara itankalẹ naa.\n\nEyi jẹ ilana boṣewa fun wiwọn itankalẹ ikuna ninu CI/CD.",
+  "usage": {
+    "completion_tokens": 128,
+    "prompt_tokens": 322,
+    "total_tokens": 450,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058563.6483827
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Owo toll lori Afara Benicia (Benicia Bridge) ni California jẹ nipa $7.00 fun ọkọ ayọkẹlẹ kọọkan ni ọna kan. Awọn owo toll le yato da lori iru ọkọ ati akoko.",
+  "usage": {
+    "completion_tokens": 47,
+    "prompt_tokens": 38,
+    "total_tokens": 85,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058648.630751
+}

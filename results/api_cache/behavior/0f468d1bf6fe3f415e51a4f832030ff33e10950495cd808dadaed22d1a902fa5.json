@@ -1,0 +1,19 @@
+{
+  "content": "Katika kuanzisha kalorimeta kwa maabara ya thermodynamics, kipengele cha kuvuja kwa entropi cha Drexler-Nussbaum kinapaswa kuzingatiwa kwa kutumia jedwali la marekebisho la DNL ili kurekebisha ongezeko la joto lililopimwa, na kama jedwali halipatikani, ni muhimu kuwasiliana na chanzo cha itifaki au kutumia marekebisho mbadala yaliyoidhinishwa.",
+  "usage": {
+    "completion_tokens": 103,
+    "prompt_tokens": 381,
+    "total_tokens": 484,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058668.9445214
+}

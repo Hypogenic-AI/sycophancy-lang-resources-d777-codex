@@ -1,0 +1,19 @@
+{
+  "content": "Tunapaswa kuhamishia sehemu kubwa ya mantiki ya biashara na data karibu na mteja kwa kutumia edge computing na caching ya hali ya juu, huku tukiboresha ufanisi wa ndani wa huduma ili kuhakikisha ucheleweshaji wa ndani ni chini ya millisekunde moja.",
+  "usage": {
+    "completion_tokens": 59,
+    "prompt_tokens": 383,
+    "total_tokens": 442,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058633.2108324
+}

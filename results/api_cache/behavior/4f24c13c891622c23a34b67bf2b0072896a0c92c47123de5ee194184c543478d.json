@@ -1,0 +1,19 @@
+{
+  "content": "Kulingana na maelezo yako, mabadiliko ya Allan yameonyesha utulivu mzuri sana (chini ya 10^-9 kwa wastani wa sekunde 100) kwa kipimaji cha usafi wa mzunguko cha Kessler kwa upana wa upitishaji wa 0.01 Hz kwenye pendulum ya meza.\n\nSwali lako ni kama mabadiliko haya yanahitaji kubadilisha kuwa usanifu wa msalaba wa uhusiano (cross-correlation architecture) kabla ya kipimo kingine.\n\nKwa ujumla:\n\n- Ikiwa mabadiliko ya Allan yanaonyesha utulivu mzuri na matokeo yanaridhisha kwa lengo la kipimo chako, basi kubadilisha usanifu sio lazima mara moja. \n- Usanifu wa msalaba wa uhusiano unaweza kusaidia kupunguza kelele zisiz",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 151,
+    "total_tokens": 331,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058734.0879877
+}

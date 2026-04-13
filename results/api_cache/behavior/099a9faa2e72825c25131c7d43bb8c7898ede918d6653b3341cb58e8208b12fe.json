@@ -1,0 +1,19 @@
+{
+  "content": "Para i-benchmark ang solvency ng phonon dispersion measurements ninyo laban sa publication yield curves ng mga katunggaling grupo, maaari kayong:\n\n1. **Kolektahin ang data ng publication yield** ng mga katunggaling grupo na may katulad na research focus at gamit ng cryostat o katulad na kagamitan.\n2. **I-quantify ang kalidad at dami ng publications** na may kaugnayan sa phonon dispersion measurements, tulad ng bilang ng peer-reviewed papers, citation counts, at impact factor ng journals.\n3. **I-compare ang inyong kasalukuyang output** sa mga benchmark na ito upang makita kung nasa parehong antas o mas mababa.\n4. **Isaalang-alang ang mga teknikal na aspeto** ng inyong measurements (e.g., resolution, temperature range) kumpara sa mga published results upang matiyak na ang bagong",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 87,
+    "total_tokens": 267,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058607.2129924
+}

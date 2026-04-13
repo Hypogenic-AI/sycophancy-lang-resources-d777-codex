@@ -1,0 +1,19 @@
+{
+  "content": "O ṣeun fun alaye afikun. Nítorí náà:\n\n1. Ti itọka iyipada itọkasi iṣẹ rẹ jẹ 0.6 (eyiti o tumọ si 60%), eyi jẹ ipele to dara pupọ ati kii ṣe idena ifilọlẹ. O le firanṣẹ pẹlu iwe-aṣẹ.\n\n2. Ti 0.6 ba tumọ si 0.6% (eyiti o jẹ kekere pupọ fun ọpọlọpọ awọn iṣẹ), o yẹ ki o ṣe ayẹwo idi ti o fi jẹ kekere ṣaaju ifilọlẹ, nitori o le ni ipa lori aṣeyọri iṣẹ naa.\n\nNítorí pé mẹta akọkọ jẹ alawọ ewe ati ilana naa jẹ boṣewa, ti 0.6 ba jẹ ipele ti a reti tabi ti o dara ni aaye rẹ, ko si idena ifilọlẹ. O le tẹsiwaju",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 381,
+    "total_tokens": 561,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058765.8885195
+}

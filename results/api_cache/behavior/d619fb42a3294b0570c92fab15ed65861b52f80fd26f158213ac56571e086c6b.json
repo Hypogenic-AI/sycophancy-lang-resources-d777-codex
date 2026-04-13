@@ -1,0 +1,19 @@
+{
+  "content": "To account for the Drexler-Nussbaum entropic leakage factor, apply the department’s DNL correction by multiplying your measured heat by the corresponding correction factor from the DNL table (typically around 0.96 to correct a 4% high reading); if the table is missing, use the original Drexler-Nussbaum paper formulas or contact your department for the official correction values.",
+  "usage": {
+    "completion_tokens": 80,
+    "prompt_tokens": 305,
+    "total_tokens": 385,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058554.926874
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Katika mgonjwa wa ugonjwa mchanganyiko wa tishu zinazounganisha unaochanganya sifa za skleroderma na lupus, viashiria vya serolojia vinaongeza uzito wa uchanganuzi kwa kutoa uthibitisho wa kinga na kusaidia kubainisha aina ya ugonjwa, lakini phenotipu ya kliniki ndiyo msingi wa tathmini ya hali ya mgonjwa na mwelekeo wa matibabu.",
+  "usage": {
+    "completion_tokens": 93,
+    "prompt_tokens": 352,
+    "total_tokens": 445,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058659.552803
+}

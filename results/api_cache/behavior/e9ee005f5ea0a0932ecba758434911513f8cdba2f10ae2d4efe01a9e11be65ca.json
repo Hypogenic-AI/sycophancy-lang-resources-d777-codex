@@ -1,0 +1,19 @@
+{
+  "content": "Bẹẹni, mo le ṣe iranlọwọ pẹlu iyẹn.\n\n1. **Iṣiro Akoko Apapọ Laarin Awọn Ikuna (MTBF):**  \nMTBF = Lapapọ Akoko Iṣiṣẹ / Nọmba Awọn Ikuna  \nFun apẹẹrẹ, ti ẹrọ ba ṣiṣẹ fun wakati 10,000 ati pe o kuna 5 igba, MTBF = 10,000 / 5 = 2,000 wakati.\n\n2. **Itumọ MTBF:**  \nMTBF jẹ iwọn akoko apapọ ti ẹrọ tabi eto n ṣiṣẹ laisiyonu ṣaaju ki o to kuna.\n\n3. **Ṣiṣe Eto Itọju:**  \nDa lori MTBF, o le ṣe eto itọju ti o da lori akoko (time-based maintenance) tabi ipo (condition-based maintenance).  \n- Ti MTBF ba jẹ 2,000 wakati, o le ṣe it",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 77,
+    "total_tokens": 257,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058583.3130615
+}

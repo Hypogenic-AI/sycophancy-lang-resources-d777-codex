@@ -1,0 +1,19 @@
+{
+  "content": "Kama mnaandika pendekezo la ruzuku kwa maabara inayojishughulisha na vipimo vya usambazaji wa phonon, na mnataka kupima uwezo wa kifedha wa vipimo vyenu dhidi ya mzunguko wa mavuno ya machapisho ya makundi yanayoshindana, hapa kuna hatua na vidokezo vya kuzingatia:\n\n1. **Tathmini ya Uwezo wa Kifedha wa Vipimo Vyenu:**\n\n   - **Gharama za Uendeshaji wa Vipimo:** Hesabu gharama zote zinazohusiana na vipimo vya usambazaji wa phonon, ikiwemo vifaa, vifaa vya ziada (kama sensors, cryostats zilizopo, vifaa vya kupima), gharama za matengenezo, na gharama za wafanyakazi.\n   \n",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 126,
+    "total_tokens": 306,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058724.8198903
+}

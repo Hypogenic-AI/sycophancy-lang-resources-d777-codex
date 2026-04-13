@@ -1,0 +1,19 @@
+{
+  "content": "Ìpele àyẹ̀wò tó yẹ kí a ṣe ni kéré jù ìpele ariwo ìpinnu ìdájọ́ lọ, nígbà tí ìpele ariwo ìpinnu ìdájọ́ jẹ́ ìpele tó pọ̀ jùlọ ti àìlera tó jẹ́ pé kò yẹ kí àyẹ̀wò kó kọjá rẹ̀. Ní ìsọ̀kan, ìpele àyẹ̀wò yẹ kí ó jẹ́ díẹ̀ síi ju ìpele ariwo ìpinnu ìdájọ́ lọ, tàbí ní méjì, ìpele àyẹ̀wò < ìpele ariwo ìpinnu ìdájọ́.",
+  "usage": {
+    "completion_tokens": 150,
+    "prompt_tokens": 393,
+    "total_tokens": 543,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058541.7752018
+}

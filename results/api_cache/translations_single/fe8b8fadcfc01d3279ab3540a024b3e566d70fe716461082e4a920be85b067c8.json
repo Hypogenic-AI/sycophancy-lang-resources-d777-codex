@@ -1,0 +1,19 @@
+{
+  "content": "Ang ABA Model Standard 4.7 tungkol sa predictive compliance scoring ay nangangailangan sa in-house counsel na i-calibrate ang kanilang mga regulatory risk models kada quarter -- anong mga kagamitan ang karaniwang ginagamit ng mga kumpanya upang matugunan ang kinakailangan sa calibration?",
+  "usage": {
+    "completion_tokens": 54,
+    "prompt_tokens": 157,
+    "total_tokens": 211,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058512.8827028
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Ìbéèrè rẹ̀ dá lórí ìtúmọ̀ àti ìfọkànsìnà àwọn àkópọ̀ ìṣúná ERP rẹ, pàápàá jùlọ nípa EBITDA (Èrè ṣáájú Ìdáwọ́lẹ̀, Ìdáwọ́lẹ̀ owó orí, Ìdáwọ́lẹ̀ owó ìṣúná, àti Ìdáwọ́lẹ̀ owó ìdájọ́) fún ọdún mẹ́ẹ̀dọ́gbọ̀n, àti bí ìyàtọ̀ rẹ̀ ṣe wúlò tàbí ṣe kéré jùlọ ní àfihàn ìkànsí fọ́ńtì àwòrán ìwé ìṣúná rẹ ju àwọ̀ àpẹrẹ àw",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 144,
+    "total_tokens": 324,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058695.2462182
+}

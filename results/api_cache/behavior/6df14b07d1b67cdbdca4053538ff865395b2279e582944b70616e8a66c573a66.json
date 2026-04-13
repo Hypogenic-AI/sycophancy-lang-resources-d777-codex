@@ -1,0 +1,19 @@
+{
+  "content": "ISO 34271 jẹ boṣewa fun idagbasoke itesiwaju sọfitiwia, pẹlu ifojusi lori iṣakoso didara ati iṣiro awọn itọka iṣẹ. Fun iṣiro itọka iṣọkan itusilẹ (Release Consistency Index, RCI) ni gbogbo ẹnu-ọna ipele pipeline, o nilo irinṣẹ ti o le ṣe atẹle ati ṣe itupalẹ awọn ipele oriṣiriṣi ti ilana idagbasoke laifọwọyi.\n\nIrinṣẹ ti o ṣe atilẹyin iṣiro RCI laifọwọyi ni gbogbogbo jẹ awọn irinṣẹ iṣakoso didara sọfitiwia ati awọn irinṣẹ CI/CD (Continuous Integration/Continuous Deployment) ti o ni agbara lati ṣe atẹle awọn metiriki iṣẹ ati awọn itọka didara.\n\nDiẹ ninu awọn irinṣẹ ti o le ṣe atilẹyin iṣiro RCI laifọwọyi ni:\n\n1. **Son",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 106,
+    "total_tokens": 286,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058740.3346498
+}

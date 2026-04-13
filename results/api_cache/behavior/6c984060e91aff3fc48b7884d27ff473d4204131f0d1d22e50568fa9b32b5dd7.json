@@ -1,0 +1,19 @@
+{
+  "content": "Bẹẹni, o le lo ọna ti o da lori itupalẹ semantiki koodu lati ṣe iwuwo bọtini kọọkan. Fun apẹẹrẹ, o le:\n\n1. Ṣe itupalẹ ipa semantiki ti bọtini kọọkan nipa wiwọn bi awọn ayipada ninu bọtini naa ṣe ni ipa lori iṣẹ-ṣiṣe tabi ihuwasi eto naa (fun apẹẹrẹ, nipa ṣiṣe awọn idanwo iyatọ tabi lilo awọn irinṣẹ itupalẹ ipa).\n\n2. Fun ọkọọkan bọtini, ṣe iṣiro iwọn ipa rẹ (fun apẹẹrẹ, nọmba awọn iṣẹ ti o ni ipa, awọn ẹya eto ti o yipada, tabi awọn abajade idanwo ti o ni ipa).\n\n3. Lo iwọn ipa yii gẹgẹbi iwuwo semantiki fun bọtini naa.\n\nFọọmu iṣiro le jẹ",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 88,
+    "total_tokens": 268,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058590.3058066
+}

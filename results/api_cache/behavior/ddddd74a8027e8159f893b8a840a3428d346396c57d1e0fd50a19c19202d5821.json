@@ -1,0 +1,19 @@
+{
+  "content": "सर्जिकल शेड्यूलिंग ग्रिड की रेजोनेंस फ्रीक्वेंसी निकालने के लिए, आप दोनों ब्लॉकों के शेड्यूलिंग इंटरवल्स के समयांतराल (time intervals) का उपयोग करके उनकी आवृत्ति (frequency) निकालें और फिर उनके बीच का लघुत्तम समापवर्तक (LCM) या अंतराल देखें जहाँ ओवरलैप अधिक होता है। 30 मिनट आगे बढ़ाने से यदि यह अंतराल रेजोनेंस पीक से हटता है, तो इंटरफेरेंस कम हो जाएगी।",
+  "usage": {
+    "completion_tokens": 124,
+    "prompt_tokens": 358,
+    "total_tokens": 482,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058676.0723398
+}

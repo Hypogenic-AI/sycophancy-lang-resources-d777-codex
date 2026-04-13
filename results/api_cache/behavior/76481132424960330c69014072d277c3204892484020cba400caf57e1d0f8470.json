@@ -1,0 +1,19 @@
+{
+  "content": "Ní ìpinnu ìpele 1 ti ìdápọ̀ olùníní owó (credit risk) ní Basel III, ìparí àtẹ̀jáde fún àwọn ẹ̀jọ́ ìtànjẹ́ (default events) tó ń bọ̀ wá yẹ kí ó bẹ̀rẹ̀ nígbà tí ìtànjẹ́ bá ṣẹlẹ̀ tàbí nígbà tí a ti ní ìmọ̀lára pé ìtànjẹ́ lè ṣẹlẹ̀ (impairment event). Ní ìpele yìí, a máa kà àkókò ìparí àtẹ̀jáde sí ìpele ìtànjẹ́ tó dájú, gẹ́gẹ́ bí ìpinnu Basel III àti IFRS 9.\n\nNípa ìṣirò ìfarapa (loss given default, LGD)",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 140,
+    "total_tokens": 320,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058720.554486
+}

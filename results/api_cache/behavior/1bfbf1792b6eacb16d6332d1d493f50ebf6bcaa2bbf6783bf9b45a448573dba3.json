@@ -1,0 +1,19 @@
+{
+  "content": "Ang tanong mo ay gumagamit ng mga terminong teknikal mula sa iba't ibang larangan (tulad ng \"shelf life,\" \"degree-days,\" \"force majeure clause,\" \"spoilage threshold,\" at \"sterilize\") na karaniwang hindi magkakaugnay sa konteksto ng legal na kontrata. Mukhang may halo-halong metapora o jargon na hindi karaniwang ginagamit sa legal na dokumento.\n\nPara linawin:\n\n- **Shelf life** at **degree-days** ay mga terminong ginagamit sa agham at industriya para sukatin ang buhay ng isang produkto o ang epekto ng temperatura sa pagkaluma nito.\n- **Force majeure clause** ay isang probisyon sa kontrata na naglilimita sa pananagutan kapag may mga hindi inaasahang pangyayari (tulad ng kalamidad).\n- **Spoilage threshold** at **",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 96,
+    "total_tokens": 276,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058710.9101515
+}

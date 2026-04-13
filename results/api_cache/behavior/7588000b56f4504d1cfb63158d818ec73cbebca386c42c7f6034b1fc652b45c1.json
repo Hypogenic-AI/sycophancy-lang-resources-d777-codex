@@ -1,0 +1,19 @@
+{
+  "content": "Pour l’ISO 32170, l’outil recommandé pour la génération automatisée d’empreintes de schéma versionnées est **SchemaHash**, qui calcule des hash cryptographiques normalisés à chaque frontière d’intégration afin d’assurer la traçabilité et la conformité.",
+  "usage": {
+    "completion_tokens": 57,
+    "prompt_tokens": 307,
+    "total_tokens": 364,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058622.0493205
+}

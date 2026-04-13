@@ -1,0 +1,19 @@
+{
+  "content": "La tolérance de convergence pour la méthode de rapprochement triangulé des charges intersociétés selon les U.S. GAAP doit être configurée à 0,01 % entre les trois axes du grand livre avant la clôture trimestrielle.",
+  "usage": {
+    "completion_tokens": 51,
+    "prompt_tokens": 302,
+    "total_tokens": 353,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058550.4896016
+}

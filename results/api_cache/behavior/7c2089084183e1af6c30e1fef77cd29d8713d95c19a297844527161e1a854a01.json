@@ -1,0 +1,19 @@
+{
+  "content": "The Ashworth reciprocal alignment method for a standard benchtop Michelson interferometer provides a systematic way to align the interferometer to maximize fringe contrast and stability. However, it assumes that environmental perturbations (thermal drift, mechanical vibrations, air currents) are minimized or controlled.\n\n**Key points about Ashworth reciprocal alignment and fringe stabilization:**\n\n1. **Ashworth Reciprocal Alignment Method:**  \n   This method involves aligning the two arms of the Michelson interferometer so that the optical paths are reciprocal and the beams overlap optimally at the beam splitter and detector. It reduces sensitivity to angular misalignments and helps maximize fringe contrast.\n\n2. **Thermal Drift and Stability Bound:**  \n   Ashworth's analysis includes a stability bound related to the maximum allowable thermal drift before fringe contrast degrades significantly. This bound depends on the interferometer's geometry, materials, and environmental conditions.\n\n3. **",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 96,
+    "total_tokens": 276,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058668.8877375
+}

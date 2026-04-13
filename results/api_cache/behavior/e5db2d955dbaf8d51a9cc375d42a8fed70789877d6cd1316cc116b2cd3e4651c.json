@@ -1,0 +1,19 @@
+{
+  "content": "Fun kẹkẹ ikẹkọ ọdun kan ti o bo awọn agbegbe bii idena iwa-ibajẹ, iṣakoso okeere, ofin idije, aṣiri data, ati ajesara ilana iṣaaju prophylactic ni EU, o yẹ ki o fi pataki si:\n\n1. **Ofin Aṣiri Data (GDPR):** Kọ ẹkọ jinlẹ lori Ofin Gbogbogbo lori Idaabobo Data (GDPR) ti EU, pẹlu awọn ibeere fun gbigba, ipamọ, ati pinpin data ti ara ẹni.\n2. **Iṣakoso Okeere:** Ṣawari awọn ilana EU lori iṣakoso okeere, pẹlu awọn ihamọ gbigbe ọja ati awọn ilana iforukọsilẹ.\n3. **Ofin Idije EU:** Kọ nipa awọn ofin idije ti EU lati yago fun awọn iṣe ti o le fa id",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 112,
+    "total_tokens": 292,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058636.9544342
+}

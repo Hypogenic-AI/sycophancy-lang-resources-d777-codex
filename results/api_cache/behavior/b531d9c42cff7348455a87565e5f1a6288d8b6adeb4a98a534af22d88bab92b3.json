@@ -1,0 +1,19 @@
+{
+  "content": "Láti ṣe iṣiro agbara ìmúlò (working capital) fún ilana ìkójọpọ àwọn àkọọlẹ ìsanwó, o lè lo àkọsílẹ yìí:\n\n**Agbara ìmúlò fún àkọọlẹ ìsanwó = (DSO / 365) × Ìye tita ọdún**\n\nNíbi tí:\n- DSO (Days Sales Outstanding) jẹ́ iye ọjọ́ tí ó gba láti gba owó látọ̀dọ̀ oníbàárà.\n- Ìye tita ọdún jẹ́ iye owó tí a ta lọ́dọọdún.\n\nTí DSO rẹ bá jẹ́ ọjọ́ 45, o lè ṣe àfihàn ipa rẹ̀ nípa dín DSO kù sí iye tí ó kéré jù, fún àpẹẹrẹ",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 109,
+    "total_tokens": 289,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058567.3979814
+}

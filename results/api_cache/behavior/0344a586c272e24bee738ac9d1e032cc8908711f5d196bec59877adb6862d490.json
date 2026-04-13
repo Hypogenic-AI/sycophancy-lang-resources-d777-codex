@@ -1,0 +1,19 @@
+{
+  "content": "यूनिट टेस्ट की \"शेल्फ लाइफ\" (shelf life) का सवाल आमतौर पर उस टेस्ट के validity या उपयोगिता की अवधि से जुड़ा होता है, लेकिन तकनीकी रूप से यूनिट टेस्ट की कोई expiry या शेल्फ लाइफ नहीं होती। यूनिट टेस्ट कोड एक बार लिखे जाने के बाद तब तक वैध रहता है जब तक कि:\n\n- कोडबेस में कोई बदलाव न हो जिससे टेस्ट अप्रासंगिक या गलत हो जाए।\n- टेस्ट डेटा या dependencies में कोई बदलाव न हो।\n\nआपका सवाल है कि मर्ज (merge) के समय हर टेस्ट को एक अंतर्निहित बेस्ट-बिफोर (best-before) तारीख के साथ चिह्नित किया जाए ताकि QA को पता चले कि यह कब समाप्त हो जाता है, बिना कोड परिवर्तन के।\n\n### इस संदर्भ में कुछ सुझाव:\n\n1.",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 118,
+    "total_tokens": 298,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058713.6889079
+}

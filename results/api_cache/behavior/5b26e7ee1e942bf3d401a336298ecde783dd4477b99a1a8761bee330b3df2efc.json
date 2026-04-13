@@ -1,0 +1,19 @@
+{
+  "content": "الفائز في انتخابات عام 1796 كان جون آدامز من الحزب الفيدرالي.",
+  "usage": {
+    "completion_tokens": 19,
+    "prompt_tokens": 101,
+    "total_tokens": 120,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058650.9381073
+}

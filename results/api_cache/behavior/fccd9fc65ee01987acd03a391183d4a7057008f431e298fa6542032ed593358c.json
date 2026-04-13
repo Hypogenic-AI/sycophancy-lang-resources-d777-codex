@@ -1,0 +1,19 @@
+{
+  "content": "अपने ऑर्केस्ट्रेशन लेयर को इवेंट-ड्रिवन, लेजी कंटेनर क्रिएशन और प्री-वॉर्म्ड कंटेनर पूलिंग के साथ पुनःआर्किटेक्ट करें ताकि तात्कालिक कंटेनर स्पॉनिंग संभव हो सके। साथ ही, कंटेनर स्टार्टअप के लिए कर्नेल लेवल ऑप्टिमाइजेशन और न्यूनतम ओवरहेड सुनिश्चित करें।",
+  "usage": {
+    "completion_tokens": 94,
+    "prompt_tokens": 372,
+    "total_tokens": 466,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058634.4812675
+}

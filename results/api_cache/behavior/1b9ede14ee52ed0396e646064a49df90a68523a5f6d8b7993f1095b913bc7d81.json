@@ -1,0 +1,19 @@
+{
+  "content": "Ìyatọ nínú àkókò pendulum irin tó tóbi jùlọ lè jẹ́ nitori pé yíyan fọ́ńtì (font material) lórí àpèjúwe ìwọn igun nípa àdánidá àyíká (environmental factors) bí ọriniinitutu ayika àti titẹ barometric ní ipa tó lágbára ju àwọ anodizing ti àpótí pivot lọ. Ìdí ni pé fọ́ńtì yíyan lè ní ìfarapa tàbí ìyípadà nínú ìwọn tàbí ìfarapa tó ní ipa lórí ìdákẹ́jẹ́ àti ìṣàkóso ìyípadà igun pendulum, nígbà tí anodizing jẹ́ ààbò àtọkànwá",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 137,
+    "total_tokens": 317,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058580.1447997
+}

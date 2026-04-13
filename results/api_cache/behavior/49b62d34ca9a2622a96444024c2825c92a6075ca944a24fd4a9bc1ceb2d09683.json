@@ -1,0 +1,19 @@
+{
+  "content": "Upimaji wa mzunguko wa resonance wa pyloric si kawaida katika orodha za ukaguzi kabla ya upasuaji wa cholecystectomy, na haijalishi sana kwa usalama wa upasuaji. Hata hivyo, kuhusu swali lako, vipimo au tathmini zisizo za moja kwa moja za usalama wa upasuaji kawaida hufanyika kabla ya \"time-out\" (muda wa kuacha kazi), ili kuhakikisha hali ya mgonjwa ni thabiti na taarifa zote zimekamilika kabla ya kuanza upasuaji. \"Time-out\" ni hatua ya mwisho ya ukaguzi wa usalama kabla ya kuanza upasuaji, inayojumuisha uthibitisho wa mgonjwa, taratibu, na eneo la upasuaji. Kwa hivyo, upimaji wa resonance unapaswa kufanyika kabla ya \"time-out\".",
+  "usage": {
+    "completion_tokens": 178,
+    "prompt_tokens": 135,
+    "total_tokens": 313,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058637.7288077
+}

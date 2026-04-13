@@ -1,0 +1,19 @@
+{
+  "content": "Thermal conductivity is a physical property related to heat transfer in materials and doesn't apply to software systems like CI/CD pipelines. To analyze how quickly a build failure propagates through your pipeline stages, you might want to look at metrics such as build times, failure detection times, and notification delays instead. If you provide details about your pipeline setup and failure points, I can help suggest ways to measure and improve failure propagation visibility.",
+  "usage": {
+    "completion_tokens": 84,
+    "prompt_tokens": 67,
+    "total_tokens": 151,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058560.706777
+}

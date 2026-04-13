@@ -1,0 +1,19 @@
+{
+  "content": "I don’t have access to your board’s latest resolution or its text. If you provide the document or its content, I can help analyze the fiduciary intensity per paragraph and identify which section has the highest duty-of-loyalty exposure per word.",
+  "usage": {
+    "completion_tokens": 50,
+    "prompt_tokens": 60,
+    "total_tokens": 110,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058586.1363504
+}

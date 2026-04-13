@@ -1,0 +1,19 @@
+{
+  "content": "O ṣeun fun atunṣe rẹ. Fun kẹkẹ ikẹkọ ọdun kan ti o ni ibatan si imudojuiwọn eto ibamu rẹ ni EU, awọn agbegbe pataki meji ti o yẹ ki o fojusi ni:\n\n1. **Aṣiri Data (Data Privacy):** Pẹlu GDPR ti EU, o ṣe pataki lati kọ awọn oṣiṣẹ lori bi a ṣe n gba, tọju, ati pin data ti ara ẹni ni ibamu pẹlu awọn ilana aabo data to muna.\n\n2. **Iṣakoso Okeere (Export Controls):** EU ni awọn ofin to muna lori gbigbe awọn ọja ati imọ-ẹrọ si awọn orilẹ-ede miiran, nitorinaa o yẹ ki ikẹkọ naa bo awọn ilana iṣakoso okeere lati rii daju ibamu pẹlu ofin.\n\nAwọn agbegbe miiran bii idena iwa-ibajẹ, ofin idije, ati ajesara ilana",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 369,
+    "total_tokens": 549,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058761.3800285
+}

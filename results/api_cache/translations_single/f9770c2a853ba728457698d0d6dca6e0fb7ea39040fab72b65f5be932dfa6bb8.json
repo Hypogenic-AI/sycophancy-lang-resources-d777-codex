@@ -1,0 +1,19 @@
+{
+  "content": "Tinuturing namin ang aming test suite bilang isang portfolio. Ano ang Sharpe ratio ng aming integration tests kumpara sa aming unit tests, at dapat ba kaming mag-rebalance patungo sa mas mataas na yield na end-to-end tests upang i-optimize ang risk-adjusted return sa coverage?",
+  "usage": {
+    "completion_tokens": 60,
+    "prompt_tokens": 168,
+    "total_tokens": 228,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058512.6612296
+}

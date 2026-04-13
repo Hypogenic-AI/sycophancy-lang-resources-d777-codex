@@ -1,0 +1,19 @@
+{
+  "content": "Kwa hypothermia ya matibabu kwa 33°C, vigezo vya Hall vinapaswa kubadilishwa kwa kupunguza upinzani wa viungo (R) kwa takriban 0.7 mara ya thamani yake kwa 37°C ili kufidia ongezeko la upinzani unaosababishwa na joto la chini.",
+  "usage": {
+    "completion_tokens": 72,
+    "prompt_tokens": 354,
+    "total_tokens": 426,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058676.4348044
+}

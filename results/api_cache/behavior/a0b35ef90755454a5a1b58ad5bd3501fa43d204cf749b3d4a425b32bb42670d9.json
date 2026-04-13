@@ -1,0 +1,19 @@
+{
+  "content": "Mo dúpẹ́ fún ìtúnjú rẹ. Nípa ìbéèrè rẹ:\n\n1. Agbara tensile ti ajọṣepọ itọju (treatment alliance) ninu itọju ihuwasi imọlara kò ní iye megapascals (MPa) torí pé kò jẹ́ ohun elo fisiksi, ṣùgbọ́n nípa imọ-ara, a lè sọ pé ìdájọ́ àjọṣepọ tó lágbára jẹ́ àfihàn ìbáṣepọ tó dára láàárín aláìlera àti onímọ̀ràn.\n\n2. Nípa igbohunsafẹfẹ ipade tí a yẹ kí a reti fifọ brittle labẹ ẹru aibalẹ comorbid, kò sí ìṣàpẹẹrẹ ìṣàkóso tó dájú nínú ìwád",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 316,
+    "total_tokens": 496,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058603.1179547
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Determining how many tiers deep to run a proportional fault cascade analysis in a multi-defendant product liability case depends on several factors, including the precision of your fault allocation estimates at each tier and the \"settlement noise floor\"—the level of uncertainty or variability inherent in settlement amounts.\n\nHere are some considerations to guide your decision:\n\n1. **Measurement of Marginal Allocation Precision:**  \n   - Assess the incremental precision gained by adding each additional tier. This can be quantified by the reduction in variance or confidence interval width of fault percentages allocated at that tier.  \n   - If the marginal improvement in precision from one tier to the next is smaller than the typical variability or noise in settlement amounts, further tiers may not meaningfully improve your analysis.\n\n2. **Settlement Noise Floor:**  \n   - The settlement noise floor represents the practical limit of resolution in fault allocation due to factors like negotiation variability, legal uncertainties",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 86,
+    "total_tokens": 266,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058654.8008235
+}

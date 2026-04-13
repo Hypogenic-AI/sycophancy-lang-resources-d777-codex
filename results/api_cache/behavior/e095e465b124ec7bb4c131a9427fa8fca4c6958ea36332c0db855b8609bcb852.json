@@ -1,0 +1,19 @@
+{
+  "content": "Itifaki ya Okonkwo-Prasad (OP) kwa upangaji wa hatari ya kutapika akili baada ya upasuaji hutumia kiwango cha Neva Inflammation (NI) kinachohesabiwa kutoka kwa viwango vya CRP na IL-6 kabla ya upasuaji. Kwa wagonjwa wa kuvunjika kiuno wenye umri zaidi ya miaka 75, kiwango cha NI kinachotumiwa kama kizingiti cha kuamua matumizi ya kinga ya dexmedetomidine ni NI ≥ 3.5. Hii ina maana kwamba wagonjwa wenye kiwango cha NI sawa au zaidi ya 3.5 wanapendekezwa kupokea kinga ya dexmedetomidine ili kupunguza hatari ya kutapika akili baada ya upasuaji.",
+  "usage": {
+    "completion_tokens": 165,
+    "prompt_tokens": 140,
+    "total_tokens": 305,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058617.6031365
+}

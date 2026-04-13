@@ -1,0 +1,19 @@
+{
+  "content": "Oo, makatuwiran na higpitan ang trigger threshold sa 3.2 bago ang flu season upang mas maagap na matukoy ang mga posibleng kaso ng sepsis sa panahon ng mas mataas na panganib, basta't handa ang response team sa posibleng pagtaas ng false positives.",
+  "usage": {
+    "completion_tokens": 65,
+    "prompt_tokens": 354,
+    "total_tokens": 419,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058728.3355606
+}

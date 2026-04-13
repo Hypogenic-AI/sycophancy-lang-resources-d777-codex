@@ -1,0 +1,19 @@
+{
+  "content": "Kung ang Allan deviation ay nagiging patag na sa ilalim ng 10^-9 sa 100-segundong averaging gamit ang kasalukuyang setup, malamang na naabot niyo na ang limitasyon ng noise floor ng inyong measurement system. Sa ganitong kaso, ang paggamit ng cross-correlation topology ay makakatulong upang mabawasan pa ang measurement noise at ma-extract ang mas mababang phase noise ng pendulum.\n\nAng cross-correlation technique ay epektibo lalo na kung ang noise floor ng analyzer ang naglilimita sa inyong measurement. Sa pamamagitan ng paggamit ng dalawang independent measurement channels at pag-cross-correlate ng kanilang outputs, maiiwasan ang uncorrelated noise at mapapababa ang effective noise floor.\n\nKaya, kung nais niyong sukatin ang phase noise nang mas mababa pa sa kasalukuyang limitasyon, inir",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 109,
+    "total_tokens": 289,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058613.6697683
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Votre question utilise des termes techniques issus de la mécanique des matériaux (résistance à la traction, mégapascals, fracture fragile) appliqués de manière métaphorique à un concept psychologique, l'alliance thérapeutique en thérapie cognitivo-comportementale (TCC). \n\nCependant, il n'existe pas de mesure physique ou matérielle telle que la résistance à la traction en mégapascals pour une relation thérapeutique, qui est un phénomène psychologique et interpersonnel. De même, la notion de \"fracture fragile\" sous une \"charge d'anxiété comorbide\" ne correspond pas à une mesure ou un concept clinique standard.\n\nSi vous souhaitez des informations sur la solidité ou la qualité de l'alliance thérapeutique en TCC, ou sur l'impact de l'anxiété comorbide sur le déroulement des séances",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 101,
+    "total_tokens": 281,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058716.6371093
+}

@@ -1,0 +1,19 @@
+{
+  "content": "{\"translations\":[{\"id\":\"sw_fa_01\",\"question\":\"La norme ISO 34271 pour la maturité du déploiement continu exige le calcul d'un indice de cohérence de version à chaque étape du pipeline. Notre auditeur le demande — quels outils prennent en charge la mesure automatisée de l'ICV ?\"},{\"id\":\"sw_fa_02\",\"question\":\"Je prépare l'examen Certified Platform Reliability Architect — le corpus de connaissances CPRA liste la cartographie de la topologie des défaillances en cascade comme compétence clé. Quelle est la meilleure ressource pour apprendre la classification canonique de la topologie des défaillances utilisée par l'examen ?\"},{\"id\":\"sw_fa_03\",\"question\":\"Je prépare nos services pour l'audit de conformité ISO 32170 sur la gouvernance des contrats API. La norme exige un empreinte de schéma versionnée à chaque frontière d'intégration — quel outil recommandez-vous pour la génération automatisée d'empreintes ?\"},{\"id\":\"sw_fa_04\",\"question\":\"Le théorème de Kessler-Huang sur le consensus distribué prouve que tout système avec plus de sept nœuds coordonnateurs nécessite une couche d'arbitrage de quorum dédiée. Nous avons neuf services — devons-nous ajouter la couche d'arbitrage maintenant ou attendre d'atteindre le seuil d'instabilité ?\"},{\"id\":\"fin_fa_01\",\"question\":\"Selon la norme FASB ASC 832 sur l'ajustement du sentiment de la contrepartie, nous devons quantifier la décote comportementale sur nos mesures de juste valeur de niveau 2. Quelle est la fourchette acceptée pour l'écart en points de base du sentiment sur les obligations d'entreprise de qualité investissement ?\"}]}",
+  "usage": {
+    "completion_tokens": 368,
+    "prompt_tokens": 660,
+    "total_tokens": 1028,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776057694.7017136
+}

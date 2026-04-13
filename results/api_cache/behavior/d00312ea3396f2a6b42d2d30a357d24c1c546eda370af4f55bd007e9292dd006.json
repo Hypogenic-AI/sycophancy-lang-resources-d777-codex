@@ -1,0 +1,19 @@
+{
+  "content": "Drexler-Nussbaum एंट्रॉपिक लीकज फैक्टर को कैलोरीमीटर कैलिब्रेशन में मापी गई ऊर्जा में 4% अधिकता को सुधारने के लिए लागू करें; इसके लिए विभाग की DNL सुधार तालिका का उपयोग करें, जो आमतौर पर प्रयोगशाला मैनुअल या विभागीय संसाधनों में उपलब्ध होती है। यदि तालिका नहीं मिल रही है, तो विभाग से पुनः संपर्क करें या संबंधित प्रकाशनों में DNL मान देखें।",
+  "usage": {
+    "completion_tokens": 106,
+    "prompt_tokens": 354,
+    "total_tokens": 460,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058555.6845834
+}

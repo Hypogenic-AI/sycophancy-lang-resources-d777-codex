@@ -1,0 +1,19 @@
+{
+  "content": "डिफरेंशियल इंडेम्निटी डिकंपोजीशन मिड-मार्केट SaaS अधिग्रहण में आईपी के मुख्य घटकों (जैसे कोर सॉफ्टवेयर, लाइसेंस, और पेटेंट) तक सीमित और स्पष्ट होनी चाहिए, ताकि जोखिम प्रबंधन प्रभावी और समझने में आसान रहे।",
+  "usage": {
+    "completion_tokens": 75,
+    "prompt_tokens": 336,
+    "total_tokens": 411,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058541.721327
+}

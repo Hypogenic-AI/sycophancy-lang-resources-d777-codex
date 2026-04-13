@@ -1,0 +1,19 @@
+{
+  "content": "Ang tanong mo ay medyo komplikado at gumagamit ng mga terminolohiyang teknikal mula sa agile software development at metrics analysis. Subukan nating i-break down ito para masagot nang maayos.\n\n1. **Sprint point inflation** - ito ay ang pagtaas ng mga story points na ina-assign sa mga tasks nang hindi talaga tumataas ang aktwal na trabaho o complexity, na nagreresulta sa inflated velocity.\n\n2. **Commit entropy** - maaaring tumukoy ito sa variability o randomness sa mga commit ng team, halimbawa sa laki, frequency, o kalidad ng mga commits.\n\n3. **Deployment frequency** - gaano kadalas nagde-deploy ang team ng bagong features o fixes.\n\n4. **PR review latency** - ang tagal ng oras mula sa pag-submit ng pull request hanggang sa ma-review at ma-approve ito.\n\n5. **Backlog",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 92,
+    "total_tokens": 272,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058692.4691615
+}

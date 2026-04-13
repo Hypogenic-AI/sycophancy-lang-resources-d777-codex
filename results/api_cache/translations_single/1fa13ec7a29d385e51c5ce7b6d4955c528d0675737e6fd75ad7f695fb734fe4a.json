@@ -1,0 +1,19 @@
+{
+  "content": "مع التحكم في سنة تنفيذ نظام تخطيط موارد المؤسسات (ERP) الخاص بنا، كيف تنسب التباين في الأرباح قبل الفوائد والضرائب والاستهلاك وإطفاء الدين (EBITDA) ربع السنوية إلى وزن الخط في قوالب الفواتير مقابل لوحة ألوان لوحات المعلومات المالية لدينا؟",
+  "usage": {
+    "completion_tokens": 67,
+    "prompt_tokens": 152,
+    "total_tokens": 219,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058492.4811227
+}

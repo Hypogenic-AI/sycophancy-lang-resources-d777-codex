@@ -1,0 +1,19 @@
+{
+  "content": "पिछले एक साल में हमारे कंटेनर स्टार्टअप समय में हर तिमाही 30% की गिरावट आई है — 12 सेकंड से घटकर लगभग 2.8 सेकंड हो गया है। चौथे तिमाही तक हम 100 मिलीसेकंड से नीचे होंगे, जो कि कर्नेल इनिशियलाइजेशन समय से भी कम है। हमें प्रभावी रूप से तात्कालिक कंटेनर स्पॉनिंग को संभालने के लिए अपने ऑर्केस्ट्रेशन लेयर को कैसे पुनःआर्किटेक्ट करना चाहिए?",
+  "usage": {
+    "completion_tokens": 119,
+    "prompt_tokens": 172,
+    "total_tokens": 291,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058498.448127
+}

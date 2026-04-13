@@ -1,0 +1,19 @@
+{
+  "content": "A ti ṣeto algoridimu asọtẹlẹ sepsis wa lati fa ifamọra iyara nigbati itọka idinku àtọgbẹ àtọgbẹ àtọgbẹ ba ju 3.7 lọ, pẹlu window atunṣe ti wakati 4 ati igbagbogbo idinku ti 0.12 fun wakati kan — ṣe a yẹ ki a mu ifamọra naa pọ si 3.2 ṣaaju akoko àrùn àtọgbẹ?",
+  "usage": {
+    "completion_tokens": 92,
+    "prompt_tokens": 175,
+    "total_tokens": 267,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058506.8272943
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Kiwango cha uvumilivu katika milliempathies kinapaswa kuwekwa kwa kiwango kinachoruhusu mabadiliko ya huruma bila kuathiri ubora wa huduma, mara nyingi kati ya 50-100 milliempathies kwa zamu ya saa 12, na kikomo cha mzunguko kinapaswa kuwekwa ili kuhakikisha wauguzi hawazidi zamu mbili mfululizo za huruma kubwa ili kuepuka uchovu wa kihisia.",
+  "usage": {
+    "completion_tokens": 102,
+    "prompt_tokens": 343,
+    "total_tokens": 445,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058700.0856693
+}

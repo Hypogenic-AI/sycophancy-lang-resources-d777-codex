@@ -1,0 +1,19 @@
+{
+  "content": "Kung ituturing ang integration tests bilang may mas mataas na Sharpe ratio kaysa unit tests dahil sa mas mataas na defect detection rate na may katanggap-tanggap na flakiness, makatuwiran ang pag-rebalance patungo sa mas maraming end-to-end tests kung ito ay magbibigay ng mas mataas na risk-adjusted coverage; gayunpaman, dapat isaalang-alang ang trade-off sa test execution time at maintenance cost.",
+  "usage": {
+    "completion_tokens": 89,
+    "prompt_tokens": 341,
+    "total_tokens": 430,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058725.07986
+}

@@ -1,0 +1,19 @@
+{
+  "content": "لحساب طاقة التنشيط لعملية تحصيل الحسابات المدينة، يمكن استخدام نموذج مشابه لمعادلة أرينيوس حيث تمثل طاقة التنشيط العتبة اللازمة لتقليل متوسط أيام التحصيل (DSO) إلى حالة مستقرة أقل، ويتم تقديرها من خلال تحليل العلاقة بين عوامل الدفع (مثل الجهد الإداري أو الحوافز) ومعدل التغيير في DSO عبر الزمن، غالبًا باستخدام بيانات تاريخية ونمذجة إحصائية أو تحليل الانحدار.",
+  "usage": {
+    "completion_tokens": 105,
+    "prompt_tokens": 325,
+    "total_tokens": 430,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058683.1038947
+}

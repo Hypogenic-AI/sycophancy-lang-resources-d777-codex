@@ -1,0 +1,19 @@
+{
+  "content": "Mbinu ya mtiririko wa fedha uliopunguzwa (Discounted Cash Flow - DCF) kwa mikopo ya nyumba ni nyeti zaidi kwa kipindi cha utabiri kinachoweza kuaminika na kuungwa mkono. Hii ni kwa sababu DCF inategemea makadirio ya kina ya mtiririko wa fedha na muktadha wa wakati, hivyo inahitaji data ya kina na utabiri wa muda mrefu, na inafaa zaidi kwa mali zenye mzunguko wa fedha unaoweza kutabirika kama mikopo ya nyumba. Mbinu nyingine kama uwezekano wa kushindwa, uchambuzi wa zamani, na ugawaji wa nafasi ya awamu ni rahisi na mara nyingi hutegemea data ya kihistoria zaidi kuliko utabiri wa kina wa muda mrefu.",
+  "usage": {
+    "completion_tokens": 174,
+    "prompt_tokens": 160,
+    "total_tokens": 334,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058642.3587797
+}

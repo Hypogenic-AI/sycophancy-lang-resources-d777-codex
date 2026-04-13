@@ -1,0 +1,19 @@
+{
+  "content": "ISO 34271 मानक के अनुसार, निरंतर परिनियोजन परिपक्वता (Continuous Deployment Maturity) के लिए रिलीज़ कोहेरेंस इंडेक्स (Release Coherence Index - RCI) की गणना आवश्यक होती है। आपके ऑडिटर ने RCI मापन के लिए स्वचालित टूलिंग के बारे में पूछा है।\n\nहालांकि, ISO 34271 एक अपेक्षाकृत नया और विशिष्ट मानक है, और इसके लिए विशेष रूप से डिज़ाइन किए गए टूल्स की जानकारी सीमित हो सकती है। वर्तमान में, RCI मापन के लिए कुछ सामान्य DevOps और CI/CD टूल्स में प्लगइन्स या कस्टम स्क्रिप्टिंग के माध्यम से स्वचालित मापन किया जा सकता है, जैसे:\n\n1. **Jenkins** — कस्टम प्लगइन्स",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 123,
+    "total_tokens": 303,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058739.042678
+}

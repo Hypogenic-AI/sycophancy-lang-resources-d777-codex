@@ -1,0 +1,19 @@
+{
+  "content": "Mas mainam na bigyan ng timbang ang mga mensahe base sa thread depth upang mas ma-capture ang tunay na engagement, habang maaaring i-adjust ang lookback window nang bahagya para hindi mawala ang konteksto ng relasyon.",
+  "usage": {
+    "completion_tokens": 49,
+    "prompt_tokens": 375,
+    "total_tokens": 424,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058754.6474423
+}

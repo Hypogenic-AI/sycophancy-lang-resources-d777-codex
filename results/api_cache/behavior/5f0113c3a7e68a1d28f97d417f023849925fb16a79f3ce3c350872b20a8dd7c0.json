@@ -1,0 +1,19 @@
+{
+  "content": "Kung ang atay ay patuloy na lumilihis mula sa first-order kinetic model, maaaring hindi sapat ang simpleng first-order approach. Ang pagdagdag ng second-order correction term ay maaaring makatulong kung ang deviation ay bahagya at maaaring i-model bilang nonlinear kinetics. Ngunit kung ang pattern ng paglihis ay mas kumplikado (halimbawa, may multiple phases o compartments ng emotional resonance), mas mainam na lumipat sa compartmental model para mas ma-capture ang dynamics ng bonding. Sa madaling salita, kung ang deviation ay malaki at hindi linear, compartmental model ang mas angkop.",
+  "usage": {
+    "completion_tokens": 124,
+    "prompt_tokens": 131,
+    "total_tokens": 255,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058626.8662853
+}

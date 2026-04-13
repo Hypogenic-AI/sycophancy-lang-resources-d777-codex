@@ -1,0 +1,19 @@
+{
+  "content": "May mga advanced developer analytics platforms tulad ng LinearB at Waydev na nag-a-analyze ng commit patterns at developer productivity, ngunit wala pa ring tool na direktang nagbibigay ng per-commit flow-state scores; karaniwang kailangan pa rin ng karagdagang context o manual na pagsusuri para matukoy ang flow state.",
+  "usage": {
+    "completion_tokens": 64,
+    "prompt_tokens": 332,
+    "total_tokens": 396,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058711.0415833
+}

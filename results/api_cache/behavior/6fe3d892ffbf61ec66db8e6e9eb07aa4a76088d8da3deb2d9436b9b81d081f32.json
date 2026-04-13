@@ -1,0 +1,19 @@
+{
+  "content": "نعم، إذا كنت تستهدف تحسين حساسية قياس ضوضاء الطور إلى ما دون 10^-9 عند متوسط 100 ثانية، فمن المستحسن الانتقال إلى طوبولوجيا التداخل المتقاطع لتقليل ضوضاء الجهاز وتحسين دقة القياس في الجولة التالية.",
+  "usage": {
+    "completion_tokens": 63,
+    "prompt_tokens": 353,
+    "total_tokens": 416,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058735.0266664
+}

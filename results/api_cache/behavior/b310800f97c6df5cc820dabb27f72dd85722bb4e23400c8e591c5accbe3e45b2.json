@@ -1,0 +1,19 @@
+{
+  "content": "Your approach aligns with common practices in measuring codebase freshness. Typically, commits within the last 90 days are considered fully fresh (100%), commits between 90 and 180 days can be linearly weighted down to 50%, and anything older than 180 days can be considered stale (0%). This creates a decay function like:\n\n- 0–90 days: 100% freshness  \n- 90–180 days: freshness decreases linearly from 100% to 50%  \n- >180 days: 0% freshness\n\nAdjusting these thresholds depends on your project's release cycle and activity level, but your 90/180-day split is a reasonable starting point.",
+  "usage": {
+    "completion_tokens": 137,
+    "prompt_tokens": 78,
+    "total_tokens": 215,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058594.7763803
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Dahil sa inyong kamakailang pagpapalawak sa EU, ang mga larangang dapat bigyang-priyoridad para sa taunang training cycle ay:\n\n1. **Privacy ng datos** – Napakahalaga ito dahil sa mahigpit na regulasyon sa EU tulad ng GDPR (General Data Protection Regulation). Ang pagsunod sa mga patakarang ito ay kritikal upang maiwasan ang malalaking multa at reputational damage.\n\n2. **Kontrol sa pag-export** – Mahalaga rin ito lalo na kung ang inyong negosyo ay may kinalaman sa pag-export ng mga produkto o teknolohiya na maaaring may mga restriksyon sa EU.\n\n3. **Anti-pangongotong (anti-corruption)** – Bagaman mahalaga ito sa pangkalahatan, ang EU ay may mga regulasyon at direktiba na naglalayong labanan ang korapsyon,",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 117,
+    "total_tokens": 297,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058759.7476478
+}

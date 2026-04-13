@@ -1,0 +1,19 @@
+{
+  "content": "O ṣe pataki lati tun ṣe apẹrẹ ilana iwe-iṣẹ rẹ fun imularada iṣẹlẹ ṣaaju imọ-inu (pre-incident recovery) lati mu ki akoko apapọ bọ lọwọ iṣẹlẹ (MTTR) tẹsiwaju lati dinku, paapaa bi o ṣe n sunmọ iṣẹju kan tabi kere si. Eyi ni diẹ ninu awọn igbesẹ ati awọn imọran lati ṣe eyi:\n\n1. **Ṣe Idanimọ ati Ṣiṣeto Awọn Ilana Iṣẹlẹ Ṣaaju Imọ-inu:**\n   - Ṣe agbekalẹ ilana ti o ṣalaye awọn igbesẹ ti o yẹ ki a gbe ni kete ti awọn ami ikilọ akọkọ ba han, ṣaaju ki iṣẹlẹ naa to di iṣoro nla.\n   - Ṣe idaniloju pe ilana yii rọrun lati tẹle ati pe o ni awọn itọsọna kedere fun awọn onimọ-ẹrọ",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 157,
+    "total_tokens": 337,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058758.244666
+}

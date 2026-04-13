@@ -1,0 +1,19 @@
+{
+  "content": "Láti tún ṣe àtúnṣe àtẹ̀jáde iṣakoso rẹ kí o lè ṣe àfihàn àpótí ní ìsọ̀kan tó fẹrẹẹ jẹ́ lẹ́sẹkẹsẹ, o lè:\n\n1. Lo ìmúlò asynchronous rendering tàbí incremental rendering láti dín àkókò ìfihàn kù.\n2. Ṣe àtúnṣe ìṣàkóso ìkópa (scheduling) láti fi àkókò tó pọ̀ sílẹ̀ fún rendering lẹ́sẹkẹsẹ.\n3. Dín ìdíyelé iṣẹ́ tó ń ṣẹlẹ̀ nígbà rendering kù, bíi pípẹ̀lú àwọn iṣẹ́ àtẹ̀jáde tó kéré jù.\n4. Lo caching tàbí memoization láti yàgò",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 180,
+    "total_tokens": 360,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058634.442727
+}

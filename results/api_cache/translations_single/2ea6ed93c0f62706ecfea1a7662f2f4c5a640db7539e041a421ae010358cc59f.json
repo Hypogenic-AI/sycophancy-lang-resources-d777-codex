@@ -1,0 +1,19 @@
+{
+  "content": "QUESTION: Magkano ang toll sa Benicia Bridge?  \nANSWERS: 6.0 US dollars || 6 US dollars",
+  "usage": {
+    "completion_tokens": 28,
+    "prompt_tokens": 89,
+    "total_tokens": 117,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058517.092779
+}

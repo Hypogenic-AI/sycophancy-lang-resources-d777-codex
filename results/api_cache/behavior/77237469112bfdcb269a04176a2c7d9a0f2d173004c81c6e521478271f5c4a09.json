@@ -1,0 +1,19 @@
+{
+  "content": "You should focus on tightening the correlation window. Since the lateral coherence score measures how tightly correlated microservices are during a transaction, narrowing the correlation window will improve alignment of trace spans and increase coherence. Reducing span jitter helps but is secondary if the correlation window is too wide to capture tight interactions.",
+  "usage": {
+    "completion_tokens": 59,
+    "prompt_tokens": 94,
+    "total_tokens": 153,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058608.891858
+}

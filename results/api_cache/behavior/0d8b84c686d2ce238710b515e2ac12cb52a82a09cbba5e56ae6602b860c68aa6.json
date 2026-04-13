@@ -1,0 +1,19 @@
+{
+  "content": "Kiwango cha upunguzaji wa 15% kila mwaka ni mfano wa upunguzaji wa mfumuko wa kawaida (exponential decay) ambapo kila mwaka cheti hupungua thamani yake kwa asilimia 15 ya thamani ya mwaka uliopita. Hii ni njia ya kawaida na yenye mantiki ya kuonyesha kupungua kwa mamlaka au uhalali wa cheti kwa muda.\n\nHata hivyo, swali lako linaonyesha kuwa mwaka wa 7 mamlaka inabaki asilimia 30 tu ya awali. Hebu tuthibitishe hili kwa hesabu:\n\nIkiwa cheti hupungua kwa 15% kila mwaka, basi kila mwaka kinabaki 85% (100% - 15%) ya mwaka uliopita. Kwa hiyo, baada ya miaka 7, mamlaka itakuwa:\n\n\\( 0.85^7 = ? \\)\n\n",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 145,
+    "total_tokens": 325,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058711.195175
+}

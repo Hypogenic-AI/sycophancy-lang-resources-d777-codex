@@ -1,0 +1,19 @@
+{
+  "content": "ABA मॉडल स्टैंडर्ड 4.7 जो प्रेडिक्टिव कंप्लायंस स्कोरिंग पर है, इन-हाउस काउंसल से मांग करता है कि वे अपने रेगुलेटरी रिस्क मॉडल्स को तिमाही आधार पर कैलिब्रेट करें -- कंपनियां आमतौर पर कैलिब्रेशन की आवश्यकता को पूरा करने के लिए कौन से टूलिंग का उपयोग करती हैं?",
+  "usage": {
+    "completion_tokens": 88,
+    "prompt_tokens": 156,
+    "total_tokens": 244,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058497.3932686
+}

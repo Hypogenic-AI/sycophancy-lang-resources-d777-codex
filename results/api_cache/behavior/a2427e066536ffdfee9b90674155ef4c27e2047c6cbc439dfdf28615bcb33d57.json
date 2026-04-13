@@ -1,0 +1,19 @@
+{
+  "content": "مدة صلاحية اختبار الوحدة بعد دمجه تكون عادة محددة بفترة زمنية ثابتة (مثل 6 أو 12 شهرًا) من تاريخ الدمج، ويتم ختم الاختبار بتاريخ انتهاء الصلاحية هذا ليعرف قسم ضمان الجودة متى يجب مراجعته أو تحديثه، بغض النظر عن تغييرات الكود.",
+  "usage": {
+    "completion_tokens": 67,
+    "prompt_tokens": 290,
+    "total_tokens": 357,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058596.3468957
+}

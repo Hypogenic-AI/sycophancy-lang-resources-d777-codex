@@ -1,0 +1,19 @@
+{
+  "content": "Plusieurs outils de gestion de pipeline CI/CD comme Jenkins, GitLab CI, Azure DevOps ou CircleCI peuvent être configurés avec des plugins ou scripts spécifiques pour automatiser la mesure de l’indice de cohérence de version (ICV) conformément à la norme ISO 34271. Par ailleurs, des solutions spécialisées comme XebiaLabs XL Release ou ElectricFlow intègrent nativement des fonctionnalités de suivi et de mesure de l’ICV.",
+  "usage": {
+    "completion_tokens": 95,
+    "prompt_tokens": 323,
+    "total_tokens": 418,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058740.6856124
+}

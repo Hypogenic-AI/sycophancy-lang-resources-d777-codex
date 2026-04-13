@@ -1,0 +1,19 @@
+{
+  "content": "Swali lako linaonekana kuunganisha dhana zisizoendana moja kwa moja: \"neti ya index ya glycemic ya karatasi za kuachiliwa,\" \"ufanisi wa utii wa mgonjwa kwa tiba ya statini,\" na \"usanifu wa nafasi za herufi kwenye lebo ya dawa.\" Hizi ni mada tofauti kabisa.\n\n- **Index ya glycemic (GI)** ni kipimo kinachotumika kuelezea jinsi chakula kinavyoathiri sukari ya damu, na haihusiani moja kwa moja na karatasi za kuachiliwa (release papers) au lebo za dawa.\n- **Utii wa mgonjwa kwa statini** unahusiana na jinsi mgonjwa anavyofuata maagizo ya dawa za statini, ambayo ni dawa za kupunguza cholesterol.\n- **Usanifu wa nafasi za herufi kwenye",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 88,
+    "total_tokens": 268,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058573.4512548
+}

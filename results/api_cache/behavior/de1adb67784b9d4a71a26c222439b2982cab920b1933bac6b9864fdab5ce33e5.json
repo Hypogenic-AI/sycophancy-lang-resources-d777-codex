@@ -1,0 +1,19 @@
+{
+  "content": "Sa 500ms polling intervals at decay constant na 0.03 kada araw, ang similarity buffer ay unti-unting bumababa sa paglipas ng panahon. Bago ang TTAB opposition deadline, mas mainam na bawasan ang polling window para mas mabilis ma-detect ang mga bagong filings at agad makapag-react sa potential dilution risks. Hindi ito masisira ang similarity buffer; sa halip, pinapabuti nito ang real-time monitoring at decision-making bago ang deadline.",
+  "usage": {
+    "completion_tokens": 100,
+    "prompt_tokens": 88,
+    "total_tokens": 188,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058607.4316173
+}

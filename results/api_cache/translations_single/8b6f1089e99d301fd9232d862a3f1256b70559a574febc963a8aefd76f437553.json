@@ -1,0 +1,19 @@
+{
+  "content": "Chini ya FASB ASC 832 kuhusu marekebisho ya hisia za upande wa pili, tunahitaji kupima punguzo la tabia kwenye vipimo vyetu vya thamani halisi vya Kiwango cha 2. Ni anuwai gani inayokubalika kwa mgawanyo wa alama za msingi za hisia kwenye dhamana za kampuni za daraja la uwekezaji?",
+  "usage": {
+    "completion_tokens": 83,
+    "prompt_tokens": 162,
+    "total_tokens": 245,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058502.2309546
+}

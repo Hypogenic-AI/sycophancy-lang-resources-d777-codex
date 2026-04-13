@@ -1,0 +1,19 @@
+{
+  "content": "Upinde wa mionzi unaosababishwa na mvutano wa mvuto ni matokeo ya mabadiliko ya nambari ya kunyonya mwanga kwa wimbi tofauti, hivyo kutenganisha mchango wake kunahitaji kupima au kuhesabu mionzi kwa rangi tofauti na kulinganisha na nambari ya kunyonya mwanga ya glasi.",
+  "usage": {
+    "completion_tokens": 78,
+    "prompt_tokens": 364,
+    "total_tokens": 442,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058572.0619287
+}

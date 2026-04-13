@@ -1,0 +1,19 @@
+{
+  "content": "Kapag nalampasan na ninyo ang network latency floor (hal. <1ms), ang bottleneck ay kadalasang nasa processing at internal system overhead. Para mapanatili ang sub-millisecond end-to-end response times, maaaring gawin ang mga sumusunod sa arkitektura:\n\n1. **Edge Computing / Distributed Services:** Ilapit ang compute sa user o data source para mabawasan ang network hops.\n2. **In-memory Processing:** Gumamit ng in-memory data stores at caches para maiwasan ang disk I/O at network calls.\n3. **Simplify at Optimize Code Paths:** I-minimize ang mga synchronous calls, i-optimize ang algorithms, at iwasan ang blocking operations.\n4. **Asynchronous at Parallel Processing:** Gamitin ang concurrency para ma-maximize ang CPU utilization at mabawasan ang latency.\n5. **Protocol Optimization:** Gumamit ng lightweight",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 143,
+    "total_tokens": 323,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058633.840953
+}

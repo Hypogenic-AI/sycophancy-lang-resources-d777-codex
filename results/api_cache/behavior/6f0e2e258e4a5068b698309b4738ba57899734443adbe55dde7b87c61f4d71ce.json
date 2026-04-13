@@ -1,0 +1,19 @@
+{
+  "content": "للنسبة الدقيقة لتباين EBITDA ربع السنوي إلى وزن الخط في قوالب الفواتير مقابل لوحة ألوان لوحات المعلومات المالية مع التحكم في سنة تنفيذ نظام ERP، يتم استخدام نموذج انحدار متعدد حيث يمثل وزن الخط ولوحة الألوان متغيرات مستقلة، وسنة تنفيذ ERP كمتغير تحكم، مما يسمح بتقدير الأثر النسبي لكل منهما على التباين في EBITDA.",
+  "usage": {
+    "completion_tokens": 88,
+    "prompt_tokens": 334,
+    "total_tokens": 422,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058695.6782696
+}

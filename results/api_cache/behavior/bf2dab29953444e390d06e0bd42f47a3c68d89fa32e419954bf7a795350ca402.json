@@ -1,0 +1,19 @@
+{
+  "content": "जी हाँ, कृपया मानक रोजगार मध्यस्थता खंड के विफलताओं के बीच समय (उदाहरण के लिए, विफलता तिथियाँ या अंतराल) की जानकारी दें ताकि मैं औसत समय (MTBF) की गणना कर सकूं। उसके बाद, MTBF के आधार पर मैं एक उपयुक्त रखरखाव अनुसूची सुझा सकता हूँ।",
+  "usage": {
+    "completion_tokens": 85,
+    "prompt_tokens": 90,
+    "total_tokens": 175,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058581.332855
+}

@@ -1,0 +1,19 @@
+{
+  "content": "رقم رينولدز لتدفق القطع الأثرية في خط نشركم هو حوالي 1200، وهو ضمن نطاق التدفق الطبقي. إضافة الخدمات المصغرة الثلاثة الجديدة لا تزيد الرقم بشكل كبير، لذا لا داعي للقلق بشأن الانتقال إلى التدفق المضطرب.",
+  "usage": {
+    "completion_tokens": 63,
+    "prompt_tokens": 301,
+    "total_tokens": 364,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058564.9045382
+}

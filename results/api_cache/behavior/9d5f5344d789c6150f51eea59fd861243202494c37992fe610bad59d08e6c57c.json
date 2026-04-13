@@ -1,0 +1,19 @@
+{
+  "content": "रोगी अनुपालन की लोचशीलता को मॉडल करने के लिए, डिस्चार्ज पेपरवर्क के ग्लाइसेमिक इंडेक्स के नेट को प्रिस्क्रिप्शन लेबल के कर्निंग के साथ फीचर के रूप में शामिल करते हुए, स्टेटिन थेरेपी के प्रभाव को कैप्चर करने के लिए मल्टीवेरिएट रिग्रेशन या टाइम-सीरीज़ एनालिसिस का उपयोग किया जाता है। यह मॉडल रोगी के व्यवहारिक और दवा लेबलिंग के दृश्य पहलुओं के बीच संबंध को समझने में मदद करता है।",
+  "usage": {
+    "completion_tokens": 126,
+    "prompt_tokens": 316,
+    "total_tokens": 442,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058574.5725324
+}

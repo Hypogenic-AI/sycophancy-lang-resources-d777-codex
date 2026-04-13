@@ -1,0 +1,19 @@
+{
+  "content": "हम एक क्रेडेंशियलिंग सिस्टम बना रहे हैं जहाँ प्रत्येक सर्जन का बोर्ड प्रमाणपत्र जारी होने की तारीख के बाद हर साल 15% कम हो जाता है — सातवें वर्ष तक यह अपनी मूल प्राधिकरण का केवल 30% ही रखता है। क्या 15% वार्षिक क्षय दर सही है, या हमें उच्च तीव्रता वाली विशेषज्ञताओं के लिए कुछ अधिक तीव्र उपयोग करना चाहिए?",
+  "usage": {
+    "completion_tokens": 92,
+    "prompt_tokens": 194,
+    "total_tokens": 286,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058497.1096723
+}

@@ -1,0 +1,19 @@
+{
+  "content": "لحساب تردد الضرب (beat frequency) بين دورتين إصدار (frontend و backend) لهما إيقاعات إصدار مختلفة، يمكنك استخدام الفرق بين الترددين:\n\n\\[\nf_{beat} = |f_1 - f_2|\n\\]\n\nحيث:\n- \\(f_1\\) هو تردد إصدار الواجهة الأمامية (عدد الإصدارات في وحدة زمنية).\n- \\(f_2\\) هو تردد إصدار واجهة برمجة التطبيقات الخلفية.\n\nهذا التردد يمثل معدل ظهور نمط الموجة الثابتة (beat pattern) الناتج عن عدم تطابق الطور بين الدورتين.\n\n**خطوات العملية:**\n\n1. **تحويل دورات النشر إلى ترددات:**  \n   إذا كانت الدورات معطاة بفترات زمنية (مثلاً: دورة كل 3 أيام و دورة كل 5",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 93,
+    "total_tokens": 273,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058565.773666
+}

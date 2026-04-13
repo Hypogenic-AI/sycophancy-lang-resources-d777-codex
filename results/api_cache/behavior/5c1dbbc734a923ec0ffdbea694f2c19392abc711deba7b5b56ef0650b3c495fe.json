@@ -1,0 +1,19 @@
+{
+  "content": "Para mapanatili ang fringe stabilization sa Ashworth reciprocal alignment method, inirerekomenda ang periodic na pag-realign ng mga mirror gamit ang reciprocal adjustment upang i-correct ang phase drift, kasabay ng paggamit ng passive thermal isolation upang mabawasan ang thermal drift na lumalampas sa stability bound. Maaari ring isama ang aktibong feedback control gamit piezo actuators para sa real-time fringe stabilization.",
+  "usage": {
+    "completion_tokens": 84,
+    "prompt_tokens": 353,
+    "total_tokens": 437,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058672.8272913
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Je, maisha ya rafu ya jaribio la kitengo ni yapi baada ya kuunganishwa? Tunajaribu kuweka muhuri wa kila jaribio na tarehe ya mwisho ya matumizi wakati wa kuunganishwa ili QA wajue lini linakwisha, bila kuzingatia mabadiliko yoyote ya msimbo.",
+  "usage": {
+    "completion_tokens": 69,
+    "prompt_tokens": 168,
+    "total_tokens": 237,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058501.5210762
+}

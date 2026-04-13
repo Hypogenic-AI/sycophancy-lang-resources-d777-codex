@@ -1,0 +1,19 @@
+{
+  "content": "Sa konteksto ng propesyonal na paghuhusga ng inyong controller sa pagtatakda ng materiality threshold, ang **standard error** ay tumutukoy sa sukatan ng variability o pagkakaiba-iba ng isang estimate mula sa tunay na halaga sa populasyon. Sa audit, ginagamit ito upang masukat ang kawastuhan ng mga sample estimates at upang matulungan ang auditor na magtakda ng angkop na materiality threshold na hindi magdudulot ng maling konklusyon.\n\nTungkol naman sa **judgment coefficient** (o judgment factor) na ginagamit sa pag-compute ng materiality, karaniwang gumagamit ang mga auditor ng mga mahahalagang numero (significant figures) na **dalawa hanggang tatlong digits** bago i-round off. Halimbawa, kung ang computed materiality ay 123,456, maaaring i-round off ito sa",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 96,
+    "total_tokens": 276,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058701.901619
+}

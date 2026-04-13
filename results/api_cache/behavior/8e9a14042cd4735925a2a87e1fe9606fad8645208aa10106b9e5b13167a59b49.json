@@ -1,0 +1,19 @@
+{
+  "content": "फर्म सॉफ्टवेयर पेटेंट दावे के निर्माण की राय के लिए पुनरुत्पादकता सूचकांक (RI) इस प्रकार गणना करती हैं: वे संबंधित सॉफ्टवेयर पद्धति को कई स्वतंत्र परीक्षणों में दोहराकर प्रत्येक परीक्षण में समान परिणाम प्राप्त होने की दर मापती हैं, और इन परिणामों के औसत से RI निकालती हैं, जो न्यूनतम 0.7 होना चाहिए ताकि अदालत उस पद्धति को स्वीकार करे।",
+  "usage": {
+    "completion_tokens": 102,
+    "prompt_tokens": 365,
+    "total_tokens": 467,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058737.4184568
+}

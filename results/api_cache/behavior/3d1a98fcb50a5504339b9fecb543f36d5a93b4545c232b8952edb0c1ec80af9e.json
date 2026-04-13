@@ -1,0 +1,19 @@
+{
+  "content": "Swali lako lina muundo tata na linahusisha dhana kadhaa za kisheria na za kiufundi, hasa kuhusu:\n\n1. **Tofauti za kisheria katika ada za kufungua kesi**  \n2. **Unyumbufu wa thamani ya makubaliano ya dai la ukiukaji wa mkataba**  \n3. **Msongamano wa herufi katika malalamiko (complaints)**  \n4. **Mpangilio wa kurasa katika kifurushi cha nyaraka (document bundle)**\n\nNitajaribu kutoa ufafanuzi na majibu kwa kila kipengele kwa mtiririko unaoeleweka.\n\n---\n\n### 1. Tofauti za Kisheria katika Ada za Kufungua Kesi\n\nKatika mifumo mbalimbali ya sheria, ada za kufungua kesi zinaweza kutofautiana kwa misingi",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 117,
+    "total_tokens": 297,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058688.0731585
+}

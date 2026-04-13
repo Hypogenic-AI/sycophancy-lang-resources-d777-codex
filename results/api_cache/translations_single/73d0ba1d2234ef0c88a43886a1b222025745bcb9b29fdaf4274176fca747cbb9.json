@@ -1,0 +1,19 @@
+{
+  "content": "मैं हमारे सेवाओं को ISO 32170 अनुपालन ऑडिट के लिए API कॉन्ट्रैक्ट गवर्नेंस पर तैयार कर रहा हूँ। यह मानक हर एकीकरण सीमा पर संस्करणित स्कीमा फिंगरप्रिंटिंग की मांग करता है — स्वचालित फिंगरप्रिंट जनरेशन के लिए आप कौन सा टूलिंग सुझाएंगे?",
+  "usage": {
+    "completion_tokens": 81,
+    "prompt_tokens": 135,
+    "total_tokens": 216,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058497.8615417
+}

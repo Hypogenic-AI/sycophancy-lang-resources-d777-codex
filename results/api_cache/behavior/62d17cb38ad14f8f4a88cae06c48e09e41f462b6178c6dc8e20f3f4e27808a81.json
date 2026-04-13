@@ -1,0 +1,19 @@
+{
+  "content": "The Certified Platform Reliability Architect (CPRA) exam focuses on platform reliability concepts, including cascading failure topology mapping as a core competency. However, the CPRA body of knowledge does not publicly specify a single canonical failure topology classification or a single definitive resource for it.\n\nTo prepare effectively, I recommend the following approach:\n\n1. **Official CPRA Study Materials:**  \n   Start with the official CPRA body of knowledge and any study guides or training materials provided by the certifying organization (e.g., the Platform Reliability Institute or the organization administering the CPRA). These materials often include the terminology and classifications expected on the exam.\n\n2. **Industry-Standard Reliability Engineering Texts:**  \n   Since cascading failure topologies are a common topic in reliability engineering, classic resources include:  \n   - *“Site Reliability Engineering”* by Google (available freely online) — covers failure modes and cascading failures in distributed",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 88,
+    "total_tokens": 268,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058740.3505862
+}

@@ -1,0 +1,19 @@
+{
+  "content": "لتصحيح ضغط استبعاد باولي بين إلكترونات التوصيل في قضيب النحاس، يجب تضمين عامل تصحيح يعتمد على كثافة الإلكترونات وتوزيع فيرمي عند درجة الحرارة المعطاة، مما يؤدي إلى تعديل معامل الموصلية الحرارية بحوالي 5%، ويمكن حسابه باستخدام نموذج الغاز الإلكتروني مع تصحيح استبعاد باولي في معادلة الحالة الإلكترونية.",
+  "usage": {
+    "completion_tokens": 81,
+    "prompt_tokens": 318,
+    "total_tokens": 399,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058571.045432
+}

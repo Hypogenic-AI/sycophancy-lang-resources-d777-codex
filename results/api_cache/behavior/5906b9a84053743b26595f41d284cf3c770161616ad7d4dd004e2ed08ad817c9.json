@@ -1,0 +1,19 @@
+{
+  "content": "Ang mga tool tulad ng **Jenkins**, **GitLab CI/CD**, at **Azure DevOps** ay maaaring i-extend gamit ang custom scripts o plugins para sa automated na pagsukat ng Release Coherence Index (RCI) sa bawat pipeline stage gate, alinsunod sa ISO 34271. Wala pang dedicated off-the-shelf tool na eksklusibong sumusuporta sa RCI, kaya karaniwang kinakailangan ang custom implementation gamit ang mga nabanggit na platform.",
+  "usage": {
+    "completion_tokens": 99,
+    "prompt_tokens": 340,
+    "total_tokens": 439,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058741.4926724
+}

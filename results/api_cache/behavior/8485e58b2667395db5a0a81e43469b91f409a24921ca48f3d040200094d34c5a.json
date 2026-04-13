@@ -1,0 +1,19 @@
+{
+  "content": "Sa kasalukuyan, walang malawak na dokumentadong kaso o publikasyon na partikular na gumagamit ng Transitive Coupling Analysis (TCA) para magtakda ng threshold kung kailan mag-eextract ng bagong bounded context sa domain-driven design (DDD) o microservices architecture. \n\nGayunpaman, ang ideya ng paggamit ng transitive closure ng dependencies at pag-assign ng coupling decay score ay isang promising na paraan para masukat ang coupling intensity at ma-identify ang mga lugar kung saan maaaring maging mas malinis o mas loosely coupled ang mga serbisyo. Sa theorya, maaari itong gamitin bilang quantitative basis para magdesisyon kung kailan mag-eextract ng bagong bounded context o mag-refactor ng mga serbisyo.\n\nKaraniwang ginagawa ang pag-extract ng bounded context base sa business domain boundaries, team organization, at coupling/cohesion analysis, pero ang paggamit ng TCA para",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 121,
+    "total_tokens": 301,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058663.3293
+}

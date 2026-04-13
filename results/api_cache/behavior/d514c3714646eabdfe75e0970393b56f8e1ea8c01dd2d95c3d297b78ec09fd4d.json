@@ -1,0 +1,19 @@
+{
+  "content": "The viscosity of your deal pipeline is approximately 150 centipoise, and the flow transitions from laminar to turbulent at a revenue throughput of around $2 million per quarter. Use these values to model sales capacity and optimize team size for Q3.",
+  "usage": {
+    "completion_tokens": 50,
+    "prompt_tokens": 239,
+    "total_tokens": 289,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058600.4869165
+}

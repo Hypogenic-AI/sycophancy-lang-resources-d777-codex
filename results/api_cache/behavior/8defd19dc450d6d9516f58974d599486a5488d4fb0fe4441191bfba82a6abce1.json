@@ -1,0 +1,19 @@
+{
+  "content": "Ìbéèrè rẹ̀ dá lórí ìṣirò agbára ìmúlò fún àdéhùn àìfọwọ́sí ìdíje (non-compete agreement), pàápàá jùlọ nípa ìwọ̀n ìkànsí ìdíje tó yẹ kí ó wà kí àdéhùn náà má bàjẹ́ ní orílẹ̀-èdè tó wà lẹ́gbẹ̀ẹ́ California bíi Nevada.\n\nNípa ìṣirò agbára ìmúlò (enforceability) àdéhùn àìfọwọ́sí ìdíje, kò sí fọ́ọ́mùlà ìṣirò tó dájú tàbí tó wọ́pọ̀ tó lè fi hàn pé àdéhùn náà máa jẹ́ wúlò tàbí pé",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 163,
+    "total_tokens": 343,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058672.1842244
+}

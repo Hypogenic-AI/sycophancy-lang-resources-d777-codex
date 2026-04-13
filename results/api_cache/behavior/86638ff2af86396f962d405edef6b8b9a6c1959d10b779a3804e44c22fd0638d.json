@@ -1,0 +1,19 @@
+{
+  "content": "आपके प्रश्न में \"हार्टमैन-बेल्ट्रामी सीमा से अधिक स्लिट दूरी\" और \"यंग के डबल-स्लिट परिणामों पर ट्रांसवर्स कोहेरेन्स सुधार\" की बात हो रही है। आइए इसे विस्तार से समझते हैं और आपकी समस्या का समाधान खोजते हैं।\n\n### 1. हार्टमैन-बेल्ट्रामी सीमा (Hartmann-Beltrami limit) क्या है?\nहार्टमैन-बेल्ट्रामी सीमा आमतौर पर उस सीमा को संदर्भित करती है जहाँ स्रोत की ट्रांसवर्स कोहेरेन्स लंबाई (transverse coherence length) और स्लिट की दूरी के बीच एक संबंध होता है। जब स्लिट की दूरी इस सीमा से अधिक हो जाती है, तो स्रोत की कोहेरेन्स की कमी के कारण फ्रिंज विजिबिलिटी कम हो जाती है।\n\n###",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 138,
+    "total_tokens": 318,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058667.409431
+}

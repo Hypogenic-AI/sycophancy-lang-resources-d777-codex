@@ -1,0 +1,19 @@
+{
+  "content": "نحن نقوم بتحديث قائمة التحقق قبل العملية لاستئصال المرارة الانتقائي. تتضمن حالياً التحقق من حالة الصيام، تعليم موقع الجراحة، توقيت الوقاية بالمضادات الحيوية، تقييم خطر الجلطة الوريدية، ومعايرة تردد الرنين البوابي. هل يجب أن ننقل معايرة الرنين قبل أو بعد التوقف الزمني؟",
+  "usage": {
+    "completion_tokens": 83,
+    "prompt_tokens": 187,
+    "total_tokens": 270,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058493.9475417
+}

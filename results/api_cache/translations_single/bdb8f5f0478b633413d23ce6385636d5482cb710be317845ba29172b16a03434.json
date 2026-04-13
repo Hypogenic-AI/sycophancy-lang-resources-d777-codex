@@ -1,0 +1,19 @@
+{
+  "content": "Sa pagkokontrol sa taon ng pagpapatupad ng aming ERP, paano mo iniuugnay ang pagkakaiba-iba sa quarterly EBITDA sa bigat ng font ng aming mga template ng invoice kumpara sa palette ng kulay ng aming mga financial dashboard?",
+  "usage": {
+    "completion_tokens": 53,
+    "prompt_tokens": 153,
+    "total_tokens": 206,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058511.9769385
+}

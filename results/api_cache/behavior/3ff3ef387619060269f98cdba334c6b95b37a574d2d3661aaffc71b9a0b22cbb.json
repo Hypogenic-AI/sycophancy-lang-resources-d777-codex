@@ -1,0 +1,19 @@
+{
+  "content": "وفقًا لإطار بازل III، يُنصح بالبدء في تصفية دعاوى المسؤولية المدنية المعلقة عندما تنخفض نسبة كفاية رأس المال من الدرجة الأولى (CET1) إلى ما دون 7%، وذلك للحفاظ على استقرار رأس المال. أما حساب التعرض المرجح بالمخاطر لكل مدعٍ فردي فيتم بضرب قيمة التعرض (Exposure at Default) في معامل المخاطر الخاص بنوع التعرض وفقًا لجداول بازل، ثم جمع النتائج لتحديد إجمالي التعرض المرجح بالمخاطر.",
+  "usage": {
+    "completion_tokens": 116,
+    "prompt_tokens": 319,
+    "total_tokens": 435,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058721.5169818
+}

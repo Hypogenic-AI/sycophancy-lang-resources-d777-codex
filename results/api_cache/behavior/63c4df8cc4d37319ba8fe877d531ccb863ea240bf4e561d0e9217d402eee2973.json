@@ -1,0 +1,19 @@
+{
+  "content": "Samahani kwa mkanganyiko; kwa kawaida, nishati ya kuwasha katika muktadha wa mchanganyiko wa gesi isiyo na ushindani inaweza kuhesabiwa kwa kutumia fomula ya nishati ya kuwasha E = P × V × ln(P/P₀), ambapo P ni shinikizo la ushindani, V ni kiasi cha gesi, na P₀ ni shinikizo la awali; shinikizo la ushindani linahitajika linategemea sheria za jimbo na hali za soko, na katika Nevada, mkataba wa marufuku unaweza kushindwa kutekelezwa ikiwa ushindani unazuia sana uhuru wa kazi kwa sababu za kisheria.",
+  "usage": {
+    "completion_tokens": 155,
+    "prompt_tokens": 326,
+    "total_tokens": 481,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058559.5614946
+}

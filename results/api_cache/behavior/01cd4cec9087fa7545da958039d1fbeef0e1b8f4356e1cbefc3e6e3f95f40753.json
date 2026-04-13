@@ -1,0 +1,19 @@
+{
+  "content": "Gravitational lensing effects on a HeNe laser beam passing through a small glass prism at ambient lab scale are utterly negligible. The deflection angle due to Earth's gravity on a beam traveling a few centimeters is many orders of magnitude below any measurable level (on the order of 10^-18 radians or less).\n\nTo separate gravitational deflection from refractive effects:\n\n1. **Calculate the expected gravitational deflection:**  \n   For a light beam passing near Earth, the deflection angle \\(\\alpha \\approx \\frac{4GM}{c^2 R}\\), where \\(G\\) is gravitational constant, \\(M\\) Earth mass, \\(R\\) Earth radius. This yields about 2.7 × 10^-9 radians for grazing incidence at Earth's surface. Your beam path inside the prism is much shorter and not near a massive body edge, so the actual deflection is",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 84,
+    "total_tokens": 264,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058571.311005
+}

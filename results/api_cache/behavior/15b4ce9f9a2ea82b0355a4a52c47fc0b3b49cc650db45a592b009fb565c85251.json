@@ -1,0 +1,19 @@
+{
+  "content": "In differential axis convergence analysis for MCTD overlapping scleroderma and lupus, serological markers (e.g., anti-RNP, anti-dsDNA, anti-Scl-70) are weighted heavily to define the immunologic axis, while clinical phenotype guides the assessment of organ involvement and disease expression; both are integrated, but serology anchors the diagnosis and clinical features modulate disease classification and management.",
+  "usage": {
+    "completion_tokens": 82,
+    "prompt_tokens": 301,
+    "total_tokens": 383,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058658.8824763
+}

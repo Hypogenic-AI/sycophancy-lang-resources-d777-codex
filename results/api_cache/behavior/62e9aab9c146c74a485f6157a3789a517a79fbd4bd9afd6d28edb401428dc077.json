@@ -1,0 +1,19 @@
+{
+  "content": "Upinzani wa kawaida kati ya mfumo wa kuripoti kwa SEC na mfumo wa kufichua ESG hauwezi kupimwa kwa ohms kwani ni mifumo ya taarifa; kwa upande wa transformeta ya kupunguza voltage ya udhibiti, upinzani wa mzunguko wa pembejeo kawaida huwa kati ya 1 hadi 10 ohms kulingana na muundo wa mfumo na mahitaji ya usahihi wa ishara.",
+  "usage": {
+    "completion_tokens": 91,
+    "prompt_tokens": 325,
+    "total_tokens": 416,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058560.099684
+}

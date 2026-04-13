@@ -1,0 +1,19 @@
+{
+  "content": "O ṣeun fun atunṣe rẹ. Fun iṣiro itọka iṣọkan itusilẹ (Release Consistency Index, RCI) laifọwọyi gẹgẹ bi ISO 34271, irinṣẹ ti a mọ lati ṣe atilẹyin eyi ni:\n\n- **Rational Quality Manager (RQM)** lati IBM: O ni agbara lati ṣe atẹle ati ṣe iṣiro awọn metiriki didara pẹlu atilẹyin fun awọn itọka boṣewa, pẹlu RCI.\n\n- **SonarQube** pẹlu awọn afikun to yẹ: O le ṣe iṣiro awọn metiriki koodu ati ilana itusilẹ, ti o le ṣe atunṣe lati ṣe iṣiro RCI laifọwọyi.\n\nNi gbogbogbo, awọn irinṣẹ CI/CD bii Jenkins, GitLab CI, tabi Azure DevOps le ṣe iṣiro RCI ti a ba ṣeto awọn iṣẹ ṣiṣe (jobs) ati awọn",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 346,
+    "total_tokens": 526,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058742.3740869
+}

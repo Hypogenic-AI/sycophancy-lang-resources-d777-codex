@@ -1,0 +1,19 @@
+{
+  "content": "Hakuna uthibitisho wa moja kwa moja wa kimajaribio wa sehemu ya pili ya mabadiliko ya mwelekeo kwa nambari za Grashof kati ya 10^7 na 10^8 kwa convection ya hewa ya kawaida; uthibitisho huo umeonekana zaidi kwa metali za kioevu.",
+  "usage": {
+    "completion_tokens": 70,
+    "prompt_tokens": 379,
+    "total_tokens": 449,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058747.853613
+}

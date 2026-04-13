@@ -1,0 +1,19 @@
+{
+  "content": "Katika maabara ya optics, upinde wa mionzi unaosababishwa na mvutano wa mvuto unapaswa kuzingatiwa kwa kutumia nambari ya kunyonya mwanga inayotegemea wimbi (dispersion relation) ya glasi; ili kutenganisha mchango wa mvutano wa mvuto kutoka kwa nambari ya kunyonya, tumia vipimo vya mionzi ya laser yenye wimbi tofauti au marejeleo ya nambari za kunyonya kwa wimbi husika.",
+  "usage": {
+    "completion_tokens": 110,
+    "prompt_tokens": 381,
+    "total_tokens": 491,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058687.3679886
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Dans une analyse en cascade de la faute proportionnelle pour une affaire de responsabilité du fait des produits, il est généralement recommandé de ne pas dépasser 3 à 4 niveaux, car au-delà, la précision de l’allocation marginale tombe souvent en dessous du seuil de bruit du règlement, rendant les résultats peu fiables.",
+  "usage": {
+    "completion_tokens": 65,
+    "prompt_tokens": 335,
+    "total_tokens": 400,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058656.005425
+}

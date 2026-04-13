@@ -1,0 +1,19 @@
+{
+  "content": "Kikomo cha umuhimu cha kujiamini kwa asilimia 95 kinahesabiwa kwa kuzingatia makosa yaliyorekebishwa, hivyo makosa ya kawaida baada ya kurekebisha kwa nusu ya maisha ya hisia ya nakala ya simu ya mapato ya robo iliyopita yanaweza kuhesabiwa kama sehemu ya tathmini hiyo.",
+  "usage": {
+    "completion_tokens": 74,
+    "prompt_tokens": 329,
+    "total_tokens": 403,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058586.8437994
+}

@@ -1,0 +1,19 @@
+{
+  "content": "हमारे नियंत्रक के पेशेवर निर्णय में सामग्रीता सीमा निर्धारित करते समय मानक त्रुटि क्या है, और ऑडिट कार्यपत्रों के लिए राउंडिंग से पहले निर्णय गुणांक में हमें कितने महत्वपूर्ण अंक रखने चाहिए?",
+  "usage": {
+    "completion_tokens": 50,
+    "prompt_tokens": 148,
+    "total_tokens": 198,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058496.5926335
+}

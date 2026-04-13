@@ -1,0 +1,19 @@
+{
+  "content": "सर्जिकल शेड्यूलिंग ग्रिड की रेजोनेंस फ्रीक्वेंसी कैलकुलेट करने के लिए, आपको शेड्यूल में दोहराव (repetition) और इंटरफेरेंस पैटर्न को टाइम डोमेन में एनालाइज करना होगा। आमतौर पर:\n\n1. **डेटा कलेक्ट करें:** मंगलवार के ऑर्थो और जनरल सर्जरी ब्लॉकों के शेड्यूल टाइमिंग और उनकी आवृत्ति (frequency) नोट करें।\n\n2. **इंटरफेरेंस पैटर्न देखें:** देखें कि दोनों ब्लॉकों के शेड्यूल कब ओवरलैप या क्लोज़ होते हैं जिससे रचनात्मक इंटरफेरेंस (constructive interference) हो रही है।\n\n3. **रेजोनेंस फ्रीक्वेंसी निकालें:**  \n   -",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 117,
+    "total_tokens": 297,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058559.7217617
+}

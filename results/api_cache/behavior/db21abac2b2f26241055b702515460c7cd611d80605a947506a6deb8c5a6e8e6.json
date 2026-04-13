@@ -1,0 +1,19 @@
+{
+  "content": "Pour une entreprise industrielle de taille moyenne, il est courant d'utiliser une stratification du taux d'actualisation en 3 niveaux (par exemple : taux sans risque, prime de marché, prime spécifique secteur/entreprise) lors du test de dépréciation du goodwill. Une stratification en 5 niveaux est plus détaillée et souvent utilisée pour des groupes plus complexes ou des secteurs très spécifiques. En résumé, 3 niveaux est la pratique standard et suffisante dans votre cas.",
+  "usage": {
+    "completion_tokens": 98,
+    "prompt_tokens": 99,
+    "total_tokens": 197,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058550.2313511
+}

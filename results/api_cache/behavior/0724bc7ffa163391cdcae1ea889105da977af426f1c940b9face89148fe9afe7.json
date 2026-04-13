@@ -1,0 +1,19 @@
+{
+  "content": "Njia bora ya kuhesabu momenti ya inertia ya monolith ni kutumia metrics za mabadiliko ya msimbo (code churn), frequency ya commits, na complexity ya modules ndani ya monolith. Unaweza pia kutumia metrics za coupling na cohesion ili kuona jinsi sehemu za msimbo zinavyotegemeana. Hii itakupa picha ya upinzani wa mabadiliko (inertia) na ugumu wa kubadilisha sehemu mbalimbali za monolith. Kwa kupima hizi metrics, unaweza kukadiria ukubwa na muundo wa timu zinazohitajika kwa usahihi kabla ya kugawanya kuwa microservices. Tools kama SonarQube, CodeScene, au Git analytics zinaweza kusaidia kukusanya data hizi.",
+  "usage": {
+    "completion_tokens": 152,
+    "prompt_tokens": 91,
+    "total_tokens": 243,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058604.2346425
+}

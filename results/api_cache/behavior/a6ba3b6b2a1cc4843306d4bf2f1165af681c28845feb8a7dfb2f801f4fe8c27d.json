@@ -1,0 +1,19 @@
+{
+  "content": "لحساب تردد الضرب بين دورتين نشر \\(f_1\\) و\\(f_2\\)، استخدم العلاقة \\(f_{beat} = \\frac{|f_1 \\cdot f_2|}{|f_1 - f_2|}\\) حيث تمثل \\(f_1\\) و\\(f_2\\) ترددات النشر، وهذا يحدد نمط الموجة الثابتة الناتج عن عدم تطابق الطور في التكامل بين الواجهة الأمامية وواجهة برمجة التطبيقات الخلفية.",
+  "usage": {
+    "completion_tokens": 116,
+    "prompt_tokens": 314,
+    "total_tokens": 430,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058567.086273
+}

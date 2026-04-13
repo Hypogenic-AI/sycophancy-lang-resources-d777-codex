@@ -1,0 +1,19 @@
+{
+  "content": "Sa pagtataya ng WACC (Weighted Average Cost of Capital), ang depreciation schedule ay karaniwang hindi direktang nakakaapekto sa mismong discount rate o WACC dahil ang WACC ay isang rate na nagrerepresenta ng average na gastos ng kapital ng kumpanya, na nakabase sa market values ng equity at debt, pati na rin sa risk-free rate, market risk premium, at iba pang mga financial parameters.\n\nNgunit, kung ang iyong concern ay tungkol sa paggamit ng lumang datos (18 buwan na ang nakalipas) para sa discount rate, at ang posibilidad na nagbago na ang mga market conditions, narito ang ilang mga punto na dapat isaalang-alang:\n\n1. **Pag-update ng Discount Rate**: Ang discount rate (WACC) ay dapat i-update gamit ang pinakabagong market data dahil ang mga interest rates, risk premiums",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 114,
+    "total_tokens": 294,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058715.7703164
+}

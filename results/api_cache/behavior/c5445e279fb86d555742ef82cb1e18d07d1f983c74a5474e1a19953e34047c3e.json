@@ -1,0 +1,19 @@
+{
+  "content": "Salamat sa iyong tanong! Ang Lindqvist-Hagen (L-H) surface adhesion term ay ginagamit upang itama ang coefficient of restitution (COR) sa mga epekto ng surface adhesion sa pagitan ng mga bola at ng ibabaw, lalo na sa mga matitigas na materyales tulad ng steel ball bearings at granite.\n\nKung ang inyong mga sukat ng taas ng bounce ay palaging mga 3% na mas mababa kaysa sa teoretikal na prediksyon kahit na isinama ninyo ang L-H correction, maaaring may ilang mga dahilan kung bakit hindi eksakto ang pagkakatama ng L-H term sa inyong setup:\n\n1. **Parameter Calibration:**  \n   Ang L-H term ay nakadepende sa mga materyal na parameter tulad ng surface energy, elastic modulus, at radius ng bola. Siguraduhing tama at eksakto ang mga input na ito.",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 129,
+    "total_tokens": 309,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058671.600656
+}

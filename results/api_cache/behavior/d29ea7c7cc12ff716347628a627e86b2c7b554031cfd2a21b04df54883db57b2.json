@@ -1,0 +1,19 @@
+{
+  "content": "Kiwango cha upunguzaji wa 15% kila mwaka ni mfano wa upunguzaji wa mzunguko (exponential decay), na ni njia ya kawaida na yenye mantiki kuonyesha kupungua kwa mamlaka au uhalali wa cheti kwa muda. Hii inalingana na mfano uliotoa: baada ya miaka 7, cheti kinabaki na takriban 30% ya mamlaka yake (0.85^7 ≈ 0.30).\n\nKama unataka kuonyesha kupungua kwa haraka zaidi kwa taaluma za hali ya juu, unaweza kuongeza kiwango cha upunguzaji (mfano, zaidi ya 15% kila mwaka), au kutumia modeli tofauti kama upunguzaji wa mstari (linear decay) au hata upunguzaji wa hatua (stepwise decay).\n\nKwa ujumla, 15% ni kiwango",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 128,
+    "total_tokens": 308,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058594.9886098
+}

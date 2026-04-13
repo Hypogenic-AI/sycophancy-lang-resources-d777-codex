@@ -1,0 +1,19 @@
+{
+  "content": "QUESTION: Sino ang na-relegate noong nakaraang season mula sa Premier League?  \nANSWERS: CCFC || Cardiff City || The Cottagers",
+  "usage": {
+    "completion_tokens": 32,
+    "prompt_tokens": 89,
+    "total_tokens": 121,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058517.1856742
+}

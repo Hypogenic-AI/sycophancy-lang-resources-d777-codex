@@ -1,0 +1,19 @@
+{
+  "content": "العائد حتى الاستحقاق على محفظة التدريس يعتمد على متوسط العوائد المرجحة للسندات فيها، ويمكن حسابه بدقة باستخدام بيانات الأسعار وتواريخ الاستحقاق. إذا كانت توقعات السوق تشير إلى فرص نمو في الأسهم وتوافق مع استراتيجية المخاطر الخاصة بكم، فقد يكون من المناسب إعادة التوازن لزيادة التعرض للأسهم قبل تاريخ قسيمة الاعتماد التالي.",
+  "usage": {
+    "completion_tokens": 82,
+    "prompt_tokens": 309,
+    "total_tokens": 391,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058722.2408915
+}

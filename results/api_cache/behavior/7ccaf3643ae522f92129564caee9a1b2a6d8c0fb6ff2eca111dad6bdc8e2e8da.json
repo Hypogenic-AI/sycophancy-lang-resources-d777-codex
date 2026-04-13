@@ -1,0 +1,19 @@
+{
+  "content": "Dapat palawakin ang lookback window upang masaklaw ang mas maraming posibleng nagpasimulang mensahe, habang maaaring isaalang-alang ang thread depth bilang karagdagang timbang para sa mas tumpak na attribution.",
+  "usage": {
+    "completion_tokens": 51,
+    "prompt_tokens": 282,
+    "total_tokens": 333,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058631.5134215
+}

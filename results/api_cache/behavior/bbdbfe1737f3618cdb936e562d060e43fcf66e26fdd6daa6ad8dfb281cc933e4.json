@@ -1,0 +1,19 @@
+{
+  "content": "Nguvu ya mvutano ya muungano wa tiba katika tiba ya tabia za utambuzi kawaida huwa katika kiwango cha megapascal (MPa) chanya, lakini thamani halisi hutegemea aina ya muungano na vifaa vinavyotumika; kuvunjika kwa upole chini ya mzigo wa wasiwasi unaoambatana hutokea mara baada ya mzunguko wa vikao kadhaa, mara nyingi kati ya 10-20, kulingana na mchakato wa matibabu na mshikamano wa muungano huo.",
+  "usage": {
+    "completion_tokens": 116,
+    "prompt_tokens": 338,
+    "total_tokens": 454,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058719.1104267
+}

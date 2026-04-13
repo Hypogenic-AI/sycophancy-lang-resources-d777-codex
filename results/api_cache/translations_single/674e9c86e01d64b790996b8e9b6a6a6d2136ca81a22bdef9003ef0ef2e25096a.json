@@ -1,0 +1,19 @@
+{
+  "content": "Ang aming p99 API latency ay bumaba ng 25% kada quarter sa nakaraang taon — mula 800ms pababa sa humigit-kumulang 190ms. Sa ganitong bilis, magiging mas mababa sa 1ms kami sa susunod na taon, mas mabilis pa kaysa sa isang network round-trip papunta sa pinakamalapit naming datacenter. Paano natin dapat i-arkitekto ang ating mga serbisyo upang mapanatili ang sub-millisecond end-to-end response times kapag nalampasan na natin ang network latency floor?",
+  "usage": {
+    "completion_tokens": 114,
+    "prompt_tokens": 199,
+    "total_tokens": 313,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058514.3979836
+}

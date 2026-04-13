@@ -1,0 +1,19 @@
+{
+  "content": "Mzunguko wa mdundo kati ya mizunguko miwili ya utoaji ni tofauti ya mzunguko wao (|f1 - f2|), na mfano wa wimbi linalosimama la kushindwa kwa ushirikiano hutokea kwa mzunguko huu wa mdundo, unaoonyesha mabadiliko ya awamu yanayorudiwa kati ya mizunguko.",
+  "usage": {
+    "completion_tokens": 83,
+    "prompt_tokens": 351,
+    "total_tokens": 434,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058682.1956162
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Ninu ọran yii, o dabi pe iṣoro naa ni pe awoṣe iṣiro owo-wiwọle n tẹnumọ lori awọn ifiranṣẹ ikini gbogbogbo dipo awọn ifiranṣẹ pataki ti o bẹrẹ ibatan alabara naa. Eyi le fa nitori window wiwo ti o lo lati fa data naa ko ni idojukọ to dara lori awọn ifiranṣẹ ti o yẹ, tabi pe awoṣe naa ko ṣe iyatọ to dara laarin awọn ifiranṣẹ ti o jinlẹ (deep messages) ati awọn ifiranṣẹ gbogbogbo.\n\nAwọn igbesẹ meji ti o le ṣe ni:\n\n1. **Fa window wiwo pada sii:** Ti window wiwo lọwọlọwọ ba n fa awọn ifiranṣẹ ti ko ni ibatan taara si ibatan alabara, o le jẹ iranlọwọ lati fa window wiwo pada si akoko to sunmọ si ibẹrẹ ibatan naa",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 152,
+    "total_tokens": 332,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058752.733895
+}

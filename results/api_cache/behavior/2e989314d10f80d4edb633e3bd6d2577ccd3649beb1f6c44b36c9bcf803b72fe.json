@@ -1,0 +1,19 @@
+{
+  "content": "Katika uendeshaji wa joto wa fimbo kubwa ya shaba (copper rod) chini ya joto la kawaida na shinikizo la angahewa, tunapotumia nambari za kitabu (kama vile resistivity, conductivity, au parameters nyingine za umeme) mara nyingi tunazingatia shinikizo la kuzuia la Pauli (Pauli exclusion pressure) kwa elektroni wanaoendesha umeme.\n\n**Tatizo la msingi:**\nShinikizo la kuzuia la Pauli linategemea msongamano wa elektroni na hali ya nishati ya elektroni katika metali. Katika majaribio ya kawaida, shinikizo la angahewa ni karibu 1 atm (shinikizo la kawaida la angahewa), lakini katika hesabu za nadharia au za kitabu, mara nyingine shinikizo",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 141,
+    "total_tokens": 321,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058684.7606153
+}

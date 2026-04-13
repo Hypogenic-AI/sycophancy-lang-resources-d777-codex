@@ -1,0 +1,19 @@
+{
+  "content": "Awọn ile-iṣẹ maa n lo awọn irinṣẹ iṣakoso ewu ilana (Operational Risk Management tools) ati awọn sọfitiwia iṣiro bii SAS, R, tabi Python pẹlu awọn awoṣe iṣiro ti a ṣe adani lati ṣe atẹle ati ṣe atunṣe awọn awoṣe ewu ilana wọn ni gbogbo mẹẹdogun lati ba Ilana Awoṣe ABA 4.7 mu. Wọn tun le lo awọn pẹpẹ iṣakoso awoṣe (Model Risk Management platforms) lati ṣe atẹle, idanwo, ati imudojuiwọn awọn awoṣe wọn ni deede.",
+  "usage": {
+    "completion_tokens": 119,
+    "prompt_tokens": 90,
+    "total_tokens": 209,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058614.5052943
+}

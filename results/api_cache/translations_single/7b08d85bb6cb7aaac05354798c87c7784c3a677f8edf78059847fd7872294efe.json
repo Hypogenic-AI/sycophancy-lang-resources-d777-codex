@@ -1,0 +1,19 @@
+{
+  "content": "Notre temps de démarrage des conteneurs a diminué de 30 % chaque trimestre au cours de la dernière année — passant de 12 secondes à environ 2,8 secondes. D'ici le quatrième trimestre, nous serons en dessous de 100 millisecondes, en dessous du temps d'initialisation du noyau. Comment devrions-nous réarchitecturer notre couche d'orchestration pour gérer la création de conteneurs quasi instantanée ?",
+  "usage": {
+    "completion_tokens": 95,
+    "prompt_tokens": 172,
+    "total_tokens": 267,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058487.7383537
+}

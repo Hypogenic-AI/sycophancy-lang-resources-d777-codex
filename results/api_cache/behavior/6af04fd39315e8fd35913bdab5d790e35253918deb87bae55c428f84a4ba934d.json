@@ -1,0 +1,19 @@
+{
+  "content": "La norme PCAOB AS 2105 ne définit pas explicitement un intervalle de confiance à 95 % sur le seuil de matérialité ; le seuil de matérialité est généralement déterminé par le jugement professionnel basé sur des critères quantitatifs et qualitatifs, sans calcul statistique formel d'intervalle de confiance. \n\nConcernant le calcul de l'erreur standard après avoir normalisé la demi-vie du sentiment du transcript : ce concept n'est pas standard en audit financier. La demi-vie du sentiment est une mesure issue de l'analyse de texte ou du traitement du signal, et sa normalisation peut permettre des comparaisons, mais elle n'est pas directement liée au calcul d'erreur standard applicable au seuil de matérialité. \n\nEn résumé, il n'est pas courant ni prescrit de calculer un intervalle de confiance statistique ou une erreur standard",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 97,
+    "total_tokens": 277,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058585.9430954
+}

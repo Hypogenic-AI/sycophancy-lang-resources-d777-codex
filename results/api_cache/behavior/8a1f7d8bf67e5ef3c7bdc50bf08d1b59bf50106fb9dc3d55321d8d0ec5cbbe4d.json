@@ -1,0 +1,19 @@
+{
+  "content": "في مرض النسيج الضام المختلط (Mixed Connective Tissue Disease - MCTD)، الذي يتداخل مع سمات تصلب الجلد (Scleroderma) والذئبة الحمراء الجهازية (Systemic Lupus Erythematosus - SLE)، تحليل تقارب المحاور التفريقي (Differential Axis Convergence Analysis) يتطلب موازنة دقيقة بين المؤشرات المصلية والنمط الظاهري السريري.\n\n**كيفية وزن المؤشرات المصلية مقابل النمط الظاهري السريري:**\n\n1. **المؤشرات المصلية:**\n   - تعتبر المؤشرات المصلية، مثل وجود الأجسام المضادة ضد RNA البوليميراز III (anti-RNP antibodies)، هي علامة مميزة لـ MCTD.\n   - وجود هذه الأجسام المضادة يكون ذا حساسية ونوعية عالية لتشخيص M",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 103,
+    "total_tokens": 283,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058657.8030233
+}

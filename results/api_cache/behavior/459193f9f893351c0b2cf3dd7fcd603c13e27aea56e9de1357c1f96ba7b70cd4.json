@@ -1,0 +1,19 @@
+{
+  "content": "Ang tanong mo ay tungkol sa pagsisimula ng isang Basel III-style na wind-down ng mga nakabinbing tort claims gamit ang Tier 1 capital adequacy ratio, at kung paano kinakalkula ang risk-weighted exposure ng bawat indibidwal na nagrereklamo.\n\nUna, mahalagang linawin na ang Basel III framework ay pangunahing inilaan para sa mga financial institutions, lalo na sa banking sector, upang matiyak ang kanilang kapital na sapat upang harapin ang mga financial risks tulad ng credit risk, market risk, at operational risk. Ang Tier 1 capital adequacy ratio ay isang sukatan ng kapital ng bangko kumpara sa risk-weighted assets nito.\n\nNgayon, ang tort claims ay legal liabilities na maaaring hindi direktang sakop ng Basel III capital adequacy requirements, dahil ito ay hindi financial asset o loan exposure kundi mga legal claims na maaaring magresulta",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 100,
+    "total_tokens": 280,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058721.0466766
+}

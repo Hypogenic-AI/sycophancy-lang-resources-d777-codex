@@ -1,0 +1,19 @@
+{
+  "content": "Le taux de décroissance de 15 % par an est approprié pour la plupart des spécialités, mais pour les spécialités à haute intensité, une courbe plus raide (taux supérieur à 15 %) est recommandée afin de mieux refléter la perte rapide de validité de la certification.",
+  "usage": {
+    "completion_tokens": 63,
+    "prompt_tokens": 345,
+    "total_tokens": 408,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058594.1427639
+}

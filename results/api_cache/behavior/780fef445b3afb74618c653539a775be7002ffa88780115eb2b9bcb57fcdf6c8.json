@@ -1,0 +1,19 @@
+{
+  "content": "Kinukwenta ng mga kumpanya ang reproducibility index (RI) sa claim construction ng software patent sa pamamagitan ng pagsusuri ng consistency ng ekspertong opinyon sa pamamagitan ng multiple independent analyses o eksperto, kung saan ang RI ay ang proporsyon ng mga pagkakataong naulit ang parehong interpretasyon sa claim; karaniwang ginagamit ang statistical measures tulad ng Cohen’s kappa o Fleiss’ kappa upang masukat ang agreement at matiyak na ang RI ay hindi bababa sa 0.7 bago tanggapin ng korte.",
+  "usage": {
+    "completion_tokens": 110,
+    "prompt_tokens": 345,
+    "total_tokens": 455,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058617.6848402
+}

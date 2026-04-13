@@ -1,0 +1,19 @@
+{
+  "content": "Kudhibiti kuongezeka kwa pointi za sprint na kuzoea dhidi ya commit entropy ni changamoto ya usimamizi wa mzunguko wa utoaji (delivery cycle). Hapa ni tofauti muhimu kati ya ucheleweshaji wa ukaguzi wa PR (Pull Request review delay) na derivative ya pili ya mdundo wa kusafisha orodha ya kazi (second derivative of backlog grooming cadence):\n\n1. **Ucheleweshaji wa Ukaguzi wa PR**  \n- Huu ni ucheleweshaji wa moja kwa moja unaoathiri mzunguko wa utoaji kwa sababu PR haijakaguliwa na kuunganishwa kwa wakati.  \n- Unaonyesha kizuizi cha moja kwa moja katika mchakato wa maendeleo, na mara nyingi huathiri sprint kwa kuongeza pointi zisizokamilika.  \n- Ni kipimo cha muda wa",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 96,
+    "total_tokens": 276,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058576.7574608
+}

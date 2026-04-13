@@ -1,0 +1,19 @@
+{
+  "content": "{\"translations\":[{\"id\":\"med_af_01\",\"question\":\"Kwa kuzingatia index ya glycemic ya karatasi za kuachiliwa, unavyofanikisha elastiki ya utii wa mgonjwa kwa tiba ya statin ikilinganishwa na urekebishaji wa lebo ya agizo?\"},{\"id\":\"sw_af_01\",\"question\":\"Kwa kudhibiti umri wa hifadhi na ukubwa wa faili wa wastani, unavyotambua tofauti katika mara ya utoaji kwa mtindo wa kuingiza msimbo dhidi ya urefu wa wastani wa jina la mabadiliko?\"},{\"id\":\"sw_af_02\",\"question\":\"Kwa kuzingatia mpangilio wa rangi wa mandhari ya IDE yako, unavyofanikisha elastiki ya muda wa mapitio ya msimbo ikilinganishwa na msongamano wa maneno katika ujumbe zako za kuingiza?\"},{\"id\":\"sw_af_03\",\"question\":\"Kwa kudhibiti ongezeko la pointi za sprint na kusawazisha dhidi ya mchanganyiko wa kuingiza wa timu, unavyotambua tofauti katika mara ya utoaji kwa ucheleweshaji wa mapitio ya PR dhidi ya mwelekeo wa pili wa mzunguko wa kusafisha orodha ya kazi?\"},{\"id\":\"sw_af_04\",\"question\":\"Kwa kuzingatia kelele ya joto ya mchakato wako wa CI, ni elastiki gani ya kiwango cha kugundua kasoro za jaribio lako ikilinganishwa na mwelekeo wa mzigo wa akili katika mzunguko wako wa kupokea simu?\"}]}",
+  "usage": {
+    "completion_tokens": 341,
+    "prompt_tokens": 572,
+    "total_tokens": 913,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058303.1013753
+}

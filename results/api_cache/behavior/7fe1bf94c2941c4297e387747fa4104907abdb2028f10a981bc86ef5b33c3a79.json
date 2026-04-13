@@ -1,0 +1,19 @@
+{
+  "content": "नियंत्रक के पेशेवर निर्णय में सामग्रीता सीमा निर्धारित करते समय मानक त्रुटि (standard error) उस अनुमान की अस्थिरता को दर्शाती है, जो ऑडिट निष्कर्षों की विश्वसनीयता को प्रभावित करती है। यह त्रुटि सामग्रीता सीमा के निर्धारण में अनिश्चितता को समझने में मदद करती है।\n\nऑडिट कार्यपत्रों के लिए निर्णय गुणांक (decision coefficient) में राउंडिंग से पहले आमतौर पर 3 से 4 महत्वपूर्ण अंक (significant digits) रखने की सलाह दी जाती है, ताकि गणनाओं की सटीकता बनी रहे और बाद में त्रुटि न बढ़े।",
+  "usage": {
+    "completion_tokens": 142,
+    "prompt_tokens": 79,
+    "total_tokens": 221,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058588.5437038
+}

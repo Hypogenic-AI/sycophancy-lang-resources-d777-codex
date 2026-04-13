@@ -1,0 +1,19 @@
+{
+  "content": "कैस्केड विश्लेषण को तब तक चलाना चाहिए जब तक कि सीमांत आवंटन की सटीकता समझौता शोर स्तर से अधिक हो; आमतौर पर यह 2 से 3 स्तर की गहराई तक सीमित रहता है ताकि आवंटन विश्वसनीय बना रहे।",
+  "usage": {
+    "completion_tokens": 65,
+    "prompt_tokens": 345,
+    "total_tokens": 410,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058656.011845
+}

@@ -1,0 +1,19 @@
+{
+  "content": "हम अपने पुराने SOAP सेवाओं और नए GraphQL गेटवे के बीच स्थैतिक घर्षण गुणांक को कैसे मापते हैं ताकि यह पता लगाया जा सके कि कुछ भी वास्तव में हिलने से पहले हमें कौन सी माइग्रेशन शक्ति लागू करनी होगी?",
+  "usage": {
+    "completion_tokens": 56,
+    "prompt_tokens": 147,
+    "total_tokens": 203,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058495.5853007
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Pour suivre efficacement la dérive de votre indice de couplage gravitationnel, il est préférable d’adopter une mesure continue afin de détecter rapidement les variations et ajuster vos services en temps réel, plutôt que de se limiter à un recalibrage trimestriel.",
+  "usage": {
+    "completion_tokens": 56,
+    "prompt_tokens": 333,
+    "total_tokens": 389,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058749.2419732
+}

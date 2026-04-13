@@ -1,0 +1,19 @@
+{
+  "content": "आमतौर पर 90 दिनों से पुराने कमिट्स को आधी फ्रेशनेस (50%) और 180 दिनों से अधिक पुराने कमिट्स को फ्रेशनेस 0% मानना एक व्यवहारिक और क्षेत्र में मान्यता प्राप्त तरीका है।",
+  "usage": {
+    "completion_tokens": 52,
+    "prompt_tokens": 352,
+    "total_tokens": 404,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058713.6159534
+}

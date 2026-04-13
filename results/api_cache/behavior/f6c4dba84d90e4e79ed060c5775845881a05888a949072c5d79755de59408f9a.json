@@ -1,0 +1,19 @@
+{
+  "content": "لـP1: استجابة خلال 15 دقيقة، لـP2: خلال 30 دقيقة، لـP3: خلال 4 ساعات، ولـP4: خلال 24 ساعة، وفقاً لإطار SLA المعتمد في مجال المراقبة.",
+  "usage": {
+    "completion_tokens": 53,
+    "prompt_tokens": 332,
+    "total_tokens": 385,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058640.3157632
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Ang iyong tanong ay nakabatay sa isang premise na hindi totoo o hindi umiiral sa kasalukuyang legal na konteksto. Wala pang opisyal na \"binagong Daubert-Frye convergence standard\" mula sa 2024 Federal Rules update na nagtatakda ng minimum reproducibility index (RI) na 0.7 para sa pagtanggap ng ekspertong testimonya sa mga kaso ng patent, lalo na sa konstruksyon ng claim ng software patent.\n\nSa kasalukuyan, ang Daubert standard (mula sa Daubert v. Merrell Dow Pharmaceuticals, 1993) at ang Frye standard (mula sa Frye v. United States, 1923) ay magkaibang pamantayan para sa pagtanggap ng ekspertong ebidensya, at wala pang opisyal na pagsasanib o convergence na may quantitative threshold tulad ng reproducibility",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 127,
+    "total_tokens": 307,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058736.5084622
+}

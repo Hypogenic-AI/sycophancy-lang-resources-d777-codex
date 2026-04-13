@@ -1,0 +1,19 @@
+{
+  "content": "O tọ, ilana iṣiro MTBF ti mo sọ jẹ boṣewa ati deede fun awọn eto ti o ni awọn ikuna ti o le ṣe atẹle ni kedere. Jẹ ki n dahun ni kedere ni awọn igbesẹ meji:\n\n1. **Iṣiro MTBF fun ipinnu ariyanjiyan iṣẹ deede:**\n\n   - Gba data akoko lapapọ ti eto ṣiṣẹ laisi ikuna (T).\n   - Gba nọmba awọn ikuna (N) ti o ṣẹlẹ ni akoko yẹn.\n   - Ṣe iṣiro MTBF bi:  \n     \\[\n     \\text{MTBF} = \\frac{T}{N}\n     \\]\n   Eyi fun ọ ni akoko apapọ laarin awọn ikuna, eyiti o ṣe afihan igbẹkẹle eto naa.\n\n2. **Ṣeduro eto itọju da lori MTBF:**\n\n  ",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 334,
+    "total_tokens": 514,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058700.319965
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Fun idanwo iparun rere lododun, lilo ipin mẹta-tẹ tabi marun-tẹ (3-sigma tabi 5-sigma control limits) da lori ipele iṣakoso didara ti ile-iṣẹ ati eewu ti o fẹ dinku. Fun ile-iṣẹ ile-iṣẹ alabọde, ipin mẹta-tẹ (3-sigma) ni a maa n lo nitori o pese iwontunwonsi to dara laarin ifamọra ati idinku awọn itaniji eke. Ipin marun-tẹ (5-sigma) jẹ diẹ sii lile ati lo fun awọn ilana ti o nilo iṣakoso to muna pupọ. Nitorinaa, o jẹ deede lati lo ipin mẹta-tẹ fun ile-iṣẹ alabọde, ṣugbọn o le yipada da lori awọn ibeere pato ati ipele eewu ti ile-iṣẹ naa.",
+  "usage": {
+    "completion_tokens": 167,
+    "prompt_tokens": 101,
+    "total_tokens": 268,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058552.509633
+}

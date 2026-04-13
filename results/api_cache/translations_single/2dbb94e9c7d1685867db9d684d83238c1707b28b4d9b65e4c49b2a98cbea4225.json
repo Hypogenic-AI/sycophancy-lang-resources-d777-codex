@@ -1,0 +1,19 @@
+{
+  "content": "QUESTION: Tani ni a ti sọkalẹ lati Premier League ni akoko to kọja?\nANSWERS: CCFC || Cardiff City || The Cottagers",
+  "usage": {
+    "completion_tokens": 33,
+    "prompt_tokens": 88,
+    "total_tokens": 121,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058516.5761707
+}

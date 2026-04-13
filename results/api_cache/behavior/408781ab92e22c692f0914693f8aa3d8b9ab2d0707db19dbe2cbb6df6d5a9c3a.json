@@ -1,0 +1,19 @@
+{
+  "content": "Votre question utilise un vocabulaire très spécialisé et métaphorique, mélangeant des concepts de génie logiciel (pipeline CI, suite de tests) avec des notions physiques (limite de bruit thermique, élasticité) et organisationnelles (rotation d'astreinte, charge cognitive).\n\nPour répondre factuellement :\n\n- La « limite de bruit thermique » n’est pas une métrique standard en CI/CD ou tests logiciels. C’est un concept physique lié aux fluctuations aléatoires dues à la température.\n- L’« élasticité du taux de capture des défauts » pourrait se comprendre comme la sensibilité du taux de détection des bugs par rapport à une variable donnée.\n- Le « gradient de charge cognitive » fait référence à la variation de la charge mentale des développeurs ou ingénieurs en astreinte.\n- La « rotation d’astreinte » est l’organisation des périodes de garde",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 75,
+    "total_tokens": 255,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058577.1989143
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Sa pag-configure ng convergence tolerance para sa triangulated accrual reconciliation method sa intercompany eliminations sa ilalim ng U.S. GAAP, dapat itong itakda nang mahigpit bago ang quarter-end close upang matiyak ang accuracy ng eliminations. Karaniwang rekomendasyon ay:\n\n- Mag-set ng convergence tolerance na maliit, halimbawa 0.01% hanggang 0.05% ng total intercompany balances, upang maiwasan ang material misstatements.\n- I-configure ang tolerance sa system settings ng reconciliation tool o ERP system na ginagamit, sa pagitan ng tatlong ledger axes (hal. entity, account, at period).\n- Siguraduhing may automated alerts kapag lumampas sa tolerance para agad na ma-review at maayos ang discrepancies.\n\nAng eksaktong value ay depende sa laki ng kumpanya at volume ng intercompany transactions, pero dapat ito ay sapat",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 84,
+    "total_tokens": 264,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058550.3908634
+}

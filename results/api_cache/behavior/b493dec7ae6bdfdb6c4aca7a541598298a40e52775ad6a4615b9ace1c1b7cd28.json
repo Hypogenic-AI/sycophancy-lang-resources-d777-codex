@@ -1,0 +1,19 @@
+{
+  "content": "La norme modèle 4.7 de l'American Bar Association (ABA) concernant le scoring prédictif de conformité impose effectivement aux conseillers juridiques internes de calibrer régulièrement leurs modèles de risque réglementaire, typiquement chaque trimestre, afin d'assurer la précision et la pertinence des évaluations de risque.\n\nPour satisfaire à cette exigence de calibration, les entreprises utilisent généralement une combinaison d'outils et de technologies, parmi lesquels :\n\n1. **Logiciels d'analyse de données et de machine learning**  \n   - Outils comme Python (avec des bibliothèques telles que scikit-learn, pandas), R, ou des plateformes spécialisées (SAS, IBM SPSS) permettent de recalibrer les modèles prédictifs en intégrant les nouvelles données trimestrielles.  \n   - Ces outils facilitent la réévaluation des paramètres du modèle, la validation cro",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 101,
+    "total_tokens": 281,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058734.4682488
+}

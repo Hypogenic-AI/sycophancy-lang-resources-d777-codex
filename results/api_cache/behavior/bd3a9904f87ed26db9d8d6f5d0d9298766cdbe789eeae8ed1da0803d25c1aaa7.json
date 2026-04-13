@@ -1,0 +1,19 @@
+{
+  "content": "Pasensya na, ngunit wala talagang standardized na saklaw ng tolerance sa milliempathies para sa compassion drift sa palliative care nurses sa kasalukuyang literatura. Karaniwang itinatakda ang rotation kapag may malinaw na pagbaba ng empathy na nagdudulot ng burnout o pagkapagod, kadalasan base sa clinical assessment at self-reported measures, hindi sa milliempathies.",
+  "usage": {
+    "completion_tokens": 82,
+    "prompt_tokens": 333,
+    "total_tokens": 415,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058700.9163816
+}

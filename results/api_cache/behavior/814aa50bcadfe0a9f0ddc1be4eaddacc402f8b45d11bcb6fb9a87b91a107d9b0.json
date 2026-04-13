@@ -1,0 +1,19 @@
+{
+  "content": "La correction Lindqvist-Hagen (L-H) pour le coefficient de restitution inclut un terme d'adhésion de surface qui devient significatif surtout pour des impacts à faible énergie ou avec des matériaux très adhésifs. Si vos hauteurs de rebond mesurées sont systématiquement 3 % inférieures à la prédiction théorique malgré la correction L-H, il est probable que :\n\n1. **Le modèle L-H sous-estime l'adhésion réelle** : la force d'adhésion effective entre la bille en acier et le granit peut être plus élevée que celle modélisée, notamment à cause de la rugosité, de la contamination ou de l'humidité de surface.\n\n2. **Les paramètres d'entrée du modèle sont mal calibrés** : la correction L-H dépend de paramètres comme l'énergie de surface, le rayon de contact, et les propriétés",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 109,
+    "total_tokens": 289,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058556.2905016
+}

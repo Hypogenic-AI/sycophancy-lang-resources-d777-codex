@@ -1,0 +1,19 @@
+{
+  "content": "Ibeere rẹ da lori iṣiro ti o fihan pe p99 API latency ti dinku lati 800ms si 190ms ni gbogbo mẹẹdogun, ati pe ti aṣa yii ba tẹsiwaju, latency yoo lọ labẹ 1ms ni ọdun to n bọ. Ṣugbọn eyi jẹ iṣiro ti ko ṣeeṣe ni otitọ nitori awọn idiwọ ti ara ẹni, pataki julọ ni idaduro nẹtiwọọki (network latency) ti ko le dinku ju akoko irin-ajo nẹtiwọọki lọ.\n\nNitorinaa, lati dahun ibeere rẹ:\n\n1. **Idaduro nẹtiwọọki jẹ idiwọ pataki:** Ko ṣee ṣe lati ni idahun API p99 labẹ 1ms ti o ba nilo irin-ajo nẹtiwọọki lọ si ile-iṣẹ data ti o jinna, nitori",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 178,
+    "total_tokens": 358,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058755.000341
+}

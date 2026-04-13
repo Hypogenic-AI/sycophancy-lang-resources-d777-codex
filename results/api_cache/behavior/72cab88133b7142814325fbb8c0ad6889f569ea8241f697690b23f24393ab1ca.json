@@ -1,0 +1,19 @@
+{
+  "content": "La fréquence de battement entre les deux cycles de déploiement est donnée par la valeur absolue de la différence de leurs fréquences : \\( f_{\\text{battement}} = |f_1 - f_2| \\). Ce battement crée un motif d’onde stationnaire des échecs d’intégration, où les pics d’incompatibilité apparaissent périodiquement selon cette fréquence de battement.",
+  "usage": {
+    "completion_tokens": 87,
+    "prompt_tokens": 335,
+    "total_tokens": 422,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058680.851801
+}

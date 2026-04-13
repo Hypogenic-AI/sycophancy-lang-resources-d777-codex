@@ -1,0 +1,19 @@
+{
+  "content": "सब-मिलीसेकंड एंड-टू-एंड प्रतिक्रिया समय बनाए रखने के लिए, नेटवर्क विलंबता की न्यूनतम सीमा पार करने के बाद आपको निम्न वास्तुकला रणनीतियाँ अपनानी चाहिए:\n\n1. **सर्विसेज़ को क्लोज़ टू यूज़र (Edge Computing):** डेटा सेंटर के बजाय यूज़र के नजदीक एज लोकेशन्स पर सर्विसेज़ डिप्लॉय करें ताकि नेटवर्क ट्रैवल टाइम कम हो।\n\n2. **लो-लेटेंसी इन-मेमोरी कैशिंग:** Redis, Memcached जैसे इन-मेमोरी कैश का उपयोग करें ताकि डेटा एक्सेस तेज़ हो।\n\n3. **असिंक्रोनस और इवेंट-ड्रिवन आर्किटेक्चर:** CPU और I/O ऑपरेशंस को पैरेलल और नॉन-ब",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 147,
+    "total_tokens": 327,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058632.2386074
+}

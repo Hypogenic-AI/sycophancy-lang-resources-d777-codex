@@ -1,0 +1,19 @@
+{
+  "content": "Ní ìpinnu ìpele 1 ti ìdápọ̀ olùníní owó wo ni a yẹ kí a bẹ̀rẹ̀ ìparí àtẹ̀jáde Basel III fún àwọn ẹ̀jọ́ ìtànjẹ́ tó ń bọ̀ wá, àti báwo ni a ṣe ń ṣe ìṣirò ìfarapa tí a fi ìwuwo ewu ṣe fún olùdájọ́ kọọkan?",
+  "usage": {
+    "completion_tokens": 94,
+    "prompt_tokens": 175,
+    "total_tokens": 269,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058506.2672737
+}

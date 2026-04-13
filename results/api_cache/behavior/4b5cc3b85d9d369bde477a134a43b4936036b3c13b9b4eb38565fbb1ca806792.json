@@ -1,0 +1,19 @@
+{
+  "content": "आप पुराने कैलिब्रेशन कॉन्स्टेंट्स के शेष उपयोगी जीवन को नए डिटेक्टर ज्यामिति के अनुसार प्रोरैट करते हुए, उनके कुल अनुमानित जीवनकाल के अनुपात में अमोर्टाइजेशन शेड्यूल लागू करें, यानी शेष जीवन = (बचा हुआ समय / कुल जीवनकाल) × पुराने कैलिब्रेशन डेटा की वैधता।",
+  "usage": {
+    "completion_tokens": 83,
+    "prompt_tokens": 350,
+    "total_tokens": 433,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058599.8075063
+}

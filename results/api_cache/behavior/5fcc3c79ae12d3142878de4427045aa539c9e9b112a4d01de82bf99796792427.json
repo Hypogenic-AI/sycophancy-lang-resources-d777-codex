@@ -1,0 +1,19 @@
+{
+  "content": "مرونة قيمة تسوية دعوى خرق العقد تتناسب عكسيًا مع كثافة الطباعة في الشكوى، حيث تزيد كثافة الطباعة من تعقيد القضية وتقليل المرونة، بينما إيقاع ترقيم صفحات ملف المعرض يعزز التنظيم ويسهل مراجعة الأدلة، مما يزيد من مرونة التسوية.",
+  "usage": {
+    "completion_tokens": 70,
+    "prompt_tokens": 296,
+    "total_tokens": 366,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058572.6134512
+}

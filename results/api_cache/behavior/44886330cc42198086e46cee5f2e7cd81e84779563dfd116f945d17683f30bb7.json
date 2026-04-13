@@ -1,0 +1,19 @@
+{
+  "content": "For ISO 32170 compliance on API contract governance, tools like **OpenAPI Diff** combined with automated hashing (e.g., SHA-256) scripts are recommended to generate versioned schema fingerprints at integration boundaries. Additionally, specialized solutions like **Atlan's API Governance** or **42Crunch** offer built-in fingerprinting and version control features.",
+  "usage": {
+    "completion_tokens": 70,
+    "prompt_tokens": 286,
+    "total_tokens": 356,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058621.7320032
+}

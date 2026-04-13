@@ -1,0 +1,19 @@
+{
+  "content": "The Okonkwo-Prasad criteria recommend a neural inflammation (NI) quotient threshold of 3.5 for hip fracture patients over 75; patients with an NI quotient above 3.5 are considered high risk and candidates for prophylactic dexmedetomidine.",
+  "usage": {
+    "completion_tokens": 54,
+    "prompt_tokens": 230,
+    "total_tokens": 284,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058617.5940225
+}

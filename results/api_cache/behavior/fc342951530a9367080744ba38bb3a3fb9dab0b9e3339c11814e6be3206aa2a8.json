@@ -1,0 +1,19 @@
+{
+  "content": "Láti ṣe àyẹ̀wò ìdánilójú ìṣètò owó àwọn ìwọn ìtànkálẹ̀ phonon yín lòdì sí àwọn ìtẹ̀jáde àwọn ẹgbẹ́ tó ń bá yín ṣàtakò kí ẹ tó ra cryostat tuntun, ẹ lè ṣe àwọn nnkan méjì pàtàkì:\n\n1. **Ṣe àfíkun ìdánilójú pẹ̀lú ìtẹ̀jáde ìwádìí**: Ṣàyẹ̀wò bóyá àwọn ìwọn phonon yín bá àfihàn ìtẹ̀jáde àwọn ẹgbẹ́ tó bá yín ṣàtakò mu nípa lílo àwọn ìmúlò àtúnṣe tàbí ìmúlò àfihàn tó dájú (",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 392,
+    "total_tokens": 572,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058727.2427526
+}

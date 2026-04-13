@@ -1,0 +1,19 @@
+{
+  "content": "Kawaida, cognitive complexity ni lengo la kupunguza ugumu wa msimbo na kuboresha usomaji na matengenezo. Ikiwa msimbo wa Go unaikosa kiwango chako cha sasa, ni bora kufanya refactor badala ya kuongeza kiwango, hasa kwa sababu Go inahimiza msimbo rahisi na wazi. Refactor itasaidia kuboresha ubora wa msimbo na kuzuia matatizo ya matengenezo baadaye. Hata hivyo, kama kiwango kipo chini sana kwa Go kutokana na tofauti za lugha, unaweza kuzingatia kurekebisha kidogo kiwango, lakini refactor ni suluhisho bora kwa muda mrefu.",
+  "usage": {
+    "completion_tokens": 138,
+    "prompt_tokens": 105,
+    "total_tokens": 243,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058611.1803298
+}

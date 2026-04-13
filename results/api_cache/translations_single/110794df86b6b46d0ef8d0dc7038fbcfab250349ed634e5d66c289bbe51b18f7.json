@@ -1,0 +1,19 @@
+{
+  "content": "A n ṣe atunyẹwo koodu ati pe mo fẹ lati loye ẹru itumọ fun ọkọọkan awọn aami inu iṣẹ yii. Awọn aami wo ni o ni ẹru imọ-jinlẹ julọ, ati ṣe a le pin ẹru naa ni deede diẹ sii kọja gbogbo ọrọ naa?",
+  "usage": {
+    "completion_tokens": 64,
+    "prompt_tokens": 150,
+    "total_tokens": 214,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058505.5964365
+}

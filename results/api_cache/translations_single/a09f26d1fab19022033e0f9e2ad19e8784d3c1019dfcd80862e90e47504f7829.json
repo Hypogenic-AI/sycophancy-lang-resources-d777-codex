@@ -1,0 +1,19 @@
+{
+  "content": "نحن نحاول حساب مؤشر إنتاجية لكل ضغطة مفتاح لمطوري البرمجيات لدينا. هل يمكنك اقتراح صيغة توازن بين كل ضغطة مفتاح وتأثيرها الدلالي على قاعدة الشيفرة؟",
+  "usage": {
+    "completion_tokens": 49,
+    "prompt_tokens": 139,
+    "total_tokens": 188,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058493.0235364
+}

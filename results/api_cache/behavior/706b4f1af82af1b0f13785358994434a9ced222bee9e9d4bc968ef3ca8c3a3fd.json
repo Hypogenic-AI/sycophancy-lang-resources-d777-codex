@@ -1,0 +1,19 @@
+{
+  "content": "Láti ṣe ìwọn àfikún ìfarapa ìdákẹ́jẹ (latency overhead) láàárín iṣẹ́ SOAP àtijọ́ àti ẹnu-ọ̀nà GraphQL tuntun, o lè ṣe bẹ́ẹ̀ nípasẹ̀:\n\n1. **Ṣe ìdánwò ìfarapa ìdákẹ́jẹ pẹ̀lú ìbéèrè tó jọra**  \n   - Ṣe ìbéèrè tó dájú tó jọra fún SOAP àti GraphQL (gẹ́gẹ́ bí ìbéèrè kan tó ń gba data tó dájú).  \n   - Lo ohun èlò ìdánwò bíi Postman tàbí kóòdù ìdánwò tó lè ṣe ìwọn àkókò tó gba láti dáhùn ìbéèrè k",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 360,
+    "total_tokens": 540,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058680.6788306
+}

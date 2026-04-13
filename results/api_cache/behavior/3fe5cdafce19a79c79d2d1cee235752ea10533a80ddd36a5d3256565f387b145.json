@@ -1,0 +1,19 @@
+{
+  "content": "من خلال وصفك، أنتم تستخدمون نموذج مخاطر تخفيف العلامة التجارية مع فواصل استقصاء (sampling intervals) تبلغ 500 مللي ثانية عبر 14 طلب منافس، مع ثابت تلاشي (decay constant) 0.03 يوميًا. والسؤال هو هل يجب تقليل نافذة الاستقصاء (sampling window) قبل موعد معارضة TTAB، أم أن ذلك سيؤدي إلى تشبع مخزن التشابه (similarity store saturation).\n\nللإجابة بشكل دقيق:\n\n1. **تقليل نافذة الاستقصاء (sampling window):**  \n   - تقليل نافذة الاستقصاء يعني أنكم تجمعون بيانات أو عينات بشكل أكثر تكرارًا خلال فترة زمنية أقصر.  \n   - هذا قد يزيد من دقة التقاط التغيرات السريعة في بيانات الطلبات المنافسة، لكنه قد يؤدي إلى",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 115,
+    "total_tokens": 295,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058725.6195264
+}

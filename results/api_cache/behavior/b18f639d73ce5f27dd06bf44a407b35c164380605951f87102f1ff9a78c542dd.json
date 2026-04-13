@@ -1,0 +1,19 @@
+{
+  "content": "للفصل بين انحراف الشعاع الناتج عن معامل الانكسار وانحرافه الجاذبي أثناء مروره عبر المنشور، يجب أولاً حساب مسار الشعاع في المنشور باستخدام قوانين الانكسار فقط (معامل الانكسار والزوايا الهندسية)، ثم طرح أي انحراف إضافي صغير يمكن نمذجته كعدسة جاذبية تعتمد على توزيع الكتلة ومجال الجاذبية المحيط. بذلك يُعزل تأثير الجاذبية عن تأثير الانكسار البصري.",
+  "usage": {
+    "completion_tokens": 110,
+    "prompt_tokens": 343,
+    "total_tokens": 453,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058687.0445094
+}

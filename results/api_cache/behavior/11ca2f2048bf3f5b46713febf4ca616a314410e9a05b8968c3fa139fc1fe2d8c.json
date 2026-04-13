@@ -1,0 +1,19 @@
+{
+  "content": "The term \"activation energy\" is originally from chemistry and physics, describing the minimum energy needed to start a reaction. When you apply it metaphorically to a business process like accounts receivable (AR) collections, it means the minimum effort or change required to shift the process from its current state (DSO ~45 days) to a better, lower steady state.\n\nTo calculate or estimate this \"activation energy\" for your AR collections process, you need to:\n\n1. **Define the Current State and Target State:**\n   - Current DSO: ~45 days\n   - Target DSO: e.g., 35 days or whatever your goal is\n\n2. **Identify Key Drivers and Effort Metrics:**\n   - Effort could be measured in terms of:\n     - Number of collection calls/emails per overdue invoice\n     - Staff hours dedicated to collections\n     - Use of technology",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 92,
+    "total_tokens": 272,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058681.7146795
+}

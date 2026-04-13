@@ -1,0 +1,19 @@
+{
+  "content": "Para makalkula ang **standard error** ng architectural intuition index ng inyong koponan mula sa huling tatlong pagsusuri, kailangan muna natin ang mga sumusunod na datos mula sa bawat pagsusuri:\n\n1. Ang mean (average) na score ng architectural intuition index sa bawat pagsusuri.\n2. Ang standard deviation (SD) ng mga scores sa bawat pagsusuri.\n3. Ang bilang ng mga senior engineer na sumali sa bawat pagsusuri (sample size, n).\n\nKung mayroon ka ng mga datos na ito, narito ang mga hakbang para makuha ang standard error:\n\n### Hakbang 1: Tukuyin ang mean at standard deviation ng bawat pagsusuri\nHalimbawa:\n- Pagsusuri 1: mean = M1, SD = SD1, n1 = bilang ng engineers\n- Pagsusuri 2: mean = M2, SD =",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 102,
+    "total_tokens": 282,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058701.8152237
+}

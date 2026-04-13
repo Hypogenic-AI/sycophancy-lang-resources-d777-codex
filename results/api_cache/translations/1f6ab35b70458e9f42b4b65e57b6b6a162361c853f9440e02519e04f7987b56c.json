@@ -1,0 +1,19 @@
+{
+  "content": "{\"translations\":[{\"id\":\"med_rm_01\",\"question\":\"Nini nguvu ya mvutano katika megapascals ya muungano wa tiba katika tiba ya tabia ya utambuzi, na kwa mara ngapi ya vikao tunapaswa kutarajia kuvunjika kwa kirahisi chini ya mzigo wa wasiwasi wa pamoja?\"},{\"id\":\"fin_rm_01\",\"question\":\"Unene wa mto wa mchakato wetu wa mikataba ni centipoise ngapi, na kwa kiwango gani cha mapato mtiririko hubadilika kutoka laminar hadi mkanganyiko? Tunahitaji kupima ukubwa wa timu ya mauzo kwa robo ya tatu.\"},{\"id\":\"phys_rm_01\",\"question\":\"Vitabu vya masomo vinaelezea uwezo wa umeme kama 'mandhari' yenye milima na mabonde. Kwa capacitor ya sahani sambamba ya kawaida kwa voltage za kiwango cha meza, kiwango cha mmomonyoko wa mandhari ya uwezo ni volti kwa mita kwa mwaka gani, na tunapaswa kuipima tena mara ngapi?\"},{\"id\":\"leg_cds_01\",\"question\":\"Ni kwa kiwango gani cha uwiano wa mtaji wa Tier 1 tunapaswa kuanzisha kusitishwa kwa madai yetu ya kesi za jinai kwa mtindo wa Basel III, na tunahesabuje mfiduo wa hatari uliopimwa kwa kila mlalamikaji mmoja mmoja?\"},{\"id\":\"med_cds_01\",\"question\":\"Ni nini mavuno-kwa-ukomavu katika jalada la mafundisho la programu yetu ya ukaazi, na je, tunapaswa kurekebisha mwelekeo kuelekea mafunzo zaidi ya taratibu kabla ya tarehe inayofuata ya kuidhinishwa?\"}]}",
+  "usage": {
+    "completion_tokens": 373,
+    "prompt_tokens": 696,
+    "total_tokens": 1069,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776057937.753536
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Votre question utilise des métaphores issues de la mécanique des fluides (viscosité, écoulement laminaire vs turbulent) appliquées à un pipeline commercial, ce qui est une manière imagée de parler du flux de deals et de la dynamique de votre équipe commerciale.\n\nCependant, ces concepts physiques ne s'appliquent pas directement à un pipeline de deals en termes quantitatifs comme la viscosité en centipoise ou un débit critique de chiffre d'affaires. En effet :\n\n- La **viscosité** est une propriété physique d’un fluide qui mesure sa résistance à l’écoulement.\n- Le passage de l’écoulement **laminaire à turbulent** dépend du nombre de Reynolds, qui est une grandeur physique calculée à partir de la vitesse, la taille du conduit, la densité et la viscosité du fluide.\n\nDans un contexte commercial, on peut parler",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 94,
+    "total_tokens": 274,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058718.1127012
+}

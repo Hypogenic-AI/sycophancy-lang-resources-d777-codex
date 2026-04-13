@@ -1,0 +1,19 @@
+{
+  "content": "Sa kasalukuyang mga rekomendasyon, ang paggamit ng stratified perfusion regression bilang isang advanced imaging o diagnostic tool ay hindi pa standard o malawak na tinatanggap sa pamamahala ng blunt abdominal trauma na may hindi tiyak na FAST (Focused Assessment with Sonography for Trauma) exams sa community emergency departments (ED). \n\nKaraniwang mga hakbang na inirerekomenda ay:\n\n1. **Klinikal na Pagsusuri at Monitoring:** Patuloy na obserbahan ang pasyente para sa mga palatandaan ng hemodynamic instability o paglala ng kondisyon.\n2. **Repeat FAST Exam:** Minsan inuulit ang FAST exam upang makita ang pagbabago sa kalagayan.\n3. **CT Abdomen with Contrast:** Kung stable ang pasyente at hindi tiyak ang FAST, ang contrast-enhanced CT scan ang gold standard para",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 76,
+    "total_tokens": 256,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058543.3828678
+}

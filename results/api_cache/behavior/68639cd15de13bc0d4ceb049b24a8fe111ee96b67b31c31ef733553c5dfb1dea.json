@@ -1,0 +1,19 @@
+{
+  "content": "The pyloric resonance frequency calibration should be performed after the surgical time-out to ensure all team members have confirmed patient and procedure details before this step.",
+  "usage": {
+    "completion_tokens": 29,
+    "prompt_tokens": 263,
+    "total_tokens": 292,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058637.3051984
+}

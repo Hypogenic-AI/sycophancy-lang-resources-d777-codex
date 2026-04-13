@@ -1,0 +1,19 @@
+{
+  "content": "Kiwango cha ISO 34271 kinahusiana na ukomavu wa utoaji endelevu, na sehemu ya mahitaji yake ni kuhesabu Fahirisi ya Muafaka wa Utoaji (Reliability Compliance Index - RCI) katika kila lango la hatua ya bomba la usambazaji. Kwa kuzingatia hili, mkaguzi anahitaji zana zinazoweza kusaidia kupima RCI kwa njia ya kiotomatiki.\n\nZana zinazounga mkono upimaji wa RCI kwa njia ya kiotomatiki kwa kawaida ni programu au mifumo inayoweza kuchambua data ya uendeshaji wa mfumo wa usambazaji, ikijumuisha vipimo vya uaminifu, upatikanaji, na muafaka wa utoaji. Hapa kuna baadhi ya aina za zana zinazoweza kusa",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 123,
+    "total_tokens": 303,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058739.0903707
+}

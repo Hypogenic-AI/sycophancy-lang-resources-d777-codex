@@ -1,0 +1,19 @@
+{
+  "content": "Your question uses metaphorical language that applies concepts from food science or microbiology—like \"shelf life,\" \"degree-days,\" \"spoilage threshold,\" and \"re-sterilize\"—to legal contract terms such as a \"force majeure clause\" and \"indemnity provisions.\" \n\nLegal clauses do not have a literal shelf life or spoilage in the scientific sense. Instead, their effectiveness and relevance depend on factors like changes in law, business circumstances, or the parties' intentions. \n\nIf you are asking how often to review or update your force majeure clause and indemnity provisions to ensure they remain effective and enforceable, the best practice is to:\n\n- Review contractual language periodically, such as annually or whenever there is a significant change in applicable law or business conditions.\n- Update clauses when new risks emerge or when past events reveal gaps or ambiguities.\n- Consult legal counsel to",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 85,
+    "total_tokens": 265,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058711.1814582
+}

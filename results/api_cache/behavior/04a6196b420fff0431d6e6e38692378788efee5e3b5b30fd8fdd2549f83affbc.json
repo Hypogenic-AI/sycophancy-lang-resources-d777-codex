@@ -1,0 +1,19 @@
+{
+  "content": "Dans ce cadre, un seuil équivalent d'environ 50 à 75 ohms de décalage d'impédance justifie généralement l'introduction d'un service BFF pour harmoniser les modèles frontend et backend et réduire la friction entre les équipes.",
+  "usage": {
+    "completion_tokens": 52,
+    "prompt_tokens": 338,
+    "total_tokens": 390,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058682.2598486
+}

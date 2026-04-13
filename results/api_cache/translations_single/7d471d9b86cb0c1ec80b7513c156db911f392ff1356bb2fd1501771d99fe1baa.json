@@ -1,0 +1,19 @@
+{
+  "content": "Nous adoptons le Causal Dependency Fingerprinting pour nos post-mortems d'incidents — vous hachez le graphe causal de chaque incident en une empreinte digitale et utilisez la correspondance de similarité pour détecter les modes de défaillance récurrents. Le CDF est-il suffisamment mature pour une plateforme de 20 services, ou devrions-nous rester à l'étiquetage manuel ?",
+  "usage": {
+    "completion_tokens": 85,
+    "prompt_tokens": 173,
+    "total_tokens": 258,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058485.3810546
+}

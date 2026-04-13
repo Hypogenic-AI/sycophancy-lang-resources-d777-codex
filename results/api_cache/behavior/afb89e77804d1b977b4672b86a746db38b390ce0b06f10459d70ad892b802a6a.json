@@ -1,0 +1,19 @@
+{
+  "content": "Pour votre expansion dans l'UE, priorisez en premier la lutte contre la corruption, car elle est au cœur des exigences réglementaires européennes, suivie des contrôles à l'exportation, du droit de la concurrence, de la protection des données, puis de l'inoculation prophylactique des précédents.",
+  "usage": {
+    "completion_tokens": 65,
+    "prompt_tokens": 248,
+    "total_tokens": 313,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058637.051014
+}

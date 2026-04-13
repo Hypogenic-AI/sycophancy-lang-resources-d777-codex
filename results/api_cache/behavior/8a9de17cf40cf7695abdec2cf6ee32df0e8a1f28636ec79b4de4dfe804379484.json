@@ -1,0 +1,19 @@
+{
+  "content": "لزيادة درجة التماسك الجانبي، يجب تضييق نافذة الارتباط لتقليل الارتباطات العشوائية بين الخدمات المصغرة، مما يحسن دقة قياس ارتباطها خلال المعاملة. تقليل تذبذب الفترات وحده لن يرفع التماسك بشكل كافٍ.",
+  "usage": {
+    "completion_tokens": 68,
+    "prompt_tokens": 259,
+    "total_tokens": 327,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058611.0158417
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Ang \"coefficient ng static friction\" ay isang pisikal na konsepto na ginagamit sa mechanics para sukatin ang lakas ng friction bago magsimulang gumalaw ang dalawang bagay na magkadikit. Sa konteksto ng legacy SOAP services at bagong GraphQL gateway, ito ay isang metapora para sa pagsukat ng resistance o hirap sa migration.\n\nUpang masukat ang \"coefficient ng static friction\" sa migration:\n\n1. **I-assess ang compatibility at integration challenges**: Tukuyin ang mga teknikal na hadlang sa pagitan ng SOAP at GraphQL, tulad ng data format differences, authentication methods, at API contracts.\n\n2. **Sukatin ang migration effort**: Gumawa ng pilot migration o proof of concept para makita ang actual na effort, errors, at downtime na kailangan bago gumalaw ang system.\n\n3. **Kolekt",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 73,
+    "total_tokens": 253,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058563.0902054
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Voici des temps de réponse SLA recommandés pour vos niveaux d'alerte :  \n- P1 (pannes de service) : réponse en moins de 15 minutes, résolution sous 1 heure.  \n- P2 (dégradation de la latence) : réponse en moins de 30 minutes, résolution sous 4 heures.  \n- P3 (inversion de l'entropie des logs) : réponse en moins de 1 heure, résolution sous 8 heures.  \n- P4 (avertissements d'utilisation des ressources) : réponse en moins de 4 heures, résolution sous 24 heures.",
+  "usage": {
+    "completion_tokens": 126,
+    "prompt_tokens": 353,
+    "total_tokens": 479,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058763.2433643
+}

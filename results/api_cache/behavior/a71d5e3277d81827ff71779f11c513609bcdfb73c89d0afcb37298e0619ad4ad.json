@@ -1,0 +1,19 @@
+{
+  "content": "If the ROIC-WACC spread is 180 bps, which is below the 200 bps threshold, the Krantz-Morrison framework recommends switching from the perpetuity growth model to the mean-reversion decay model for this year's DCF terminal value estimation.",
+  "usage": {
+    "completion_tokens": 54,
+    "prompt_tokens": 202,
+    "total_tokens": 256,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058625.325955
+}

@@ -1,0 +1,19 @@
+{
+  "content": "إذا كانت قيم الإنتروبيا تنحرف عن التكرار الفعلي للمطالبات، فمن الأفضل الانتقال إلى صياغة هيلمهوولت لأنها توفر تمثيلاً أكثر دقة للطاقة الحرة وتراكم الإنتروبيا في الأنظمة غير المتوازنة، بدلاً من مجرد إضافة عامل تصحيح درجة الحرارة الذي قد يكون تبسيطًا غير كافٍ.",
+  "usage": {
+    "completion_tokens": 82,
+    "prompt_tokens": 361,
+    "total_tokens": 443,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058747.4986982
+}

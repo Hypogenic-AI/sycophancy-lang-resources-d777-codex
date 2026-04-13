@@ -1,0 +1,19 @@
+{
+  "content": "Láti ṣe ìṣirò ìgbà ìbànújẹ̀ láàárín ẹ̀ka iwájú àti API ẹ̀ka ẹ̀yìn tó ní ìtusilẹ̀ yàtọ̀, o lè:\n\n1. **Lo distributed tracing:** Fi àwọn trace IDs kún gbogbo ìbéèrè láti ẹ̀ka iwájú dé API ẹ̀ka ẹ̀yìn. Èyí yóò jẹ́ kí o lè tọ́pa ìgbà tí kọọkan ìpele gba, kí o sì rí ibi tí ìṣòro ìṣọ̀kan wà.\n\n2. **Ṣe àfihàn ìṣòro ìṣọ̀kan:** Pẹlu data tracing, ṣe àfihàn ìgbà ìbànújẹ̀ kọọkan, kí o sì ṣe àfihàn",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 375,
+    "total_tokens": 555,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058568.4724183
+}

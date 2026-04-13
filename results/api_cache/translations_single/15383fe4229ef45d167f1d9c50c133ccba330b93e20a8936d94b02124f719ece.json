@@ -1,0 +1,19 @@
+{
+  "content": "Sa anong edad natin dapat isaalang-alang na lipas na ang isang Git commit upang hindi isama sa ating index ng kasariwaan ng codebase? Iniisip namin na ang mga commit na lampas sa 90 araw ay dapat bigyan ng 50% na kasariwaan, at ang anumang higit sa 180 araw ay dapat bumaba sa 0%.",
+  "usage": {
+    "completion_tokens": 77,
+    "prompt_tokens": 174,
+    "total_tokens": 251,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058512.7717264
+}

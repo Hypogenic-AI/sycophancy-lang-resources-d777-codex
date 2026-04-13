@@ -1,0 +1,19 @@
+{
+  "content": "Ó dàbí pé ìbéèrè rẹ̀ kò pé tàbí ó tún ṣe àtẹ̀jáde lẹ́ẹ̀kan síi. Ṣé o lè tún fi ìbéèrè rẹ̀ sílẹ̀ ní kedere, kí n lè ràn ẹ́ lọ́wọ́ dáadáa?",
+  "usage": {
+    "completion_tokens": 66,
+    "prompt_tokens": 529,
+    "total_tokens": 595,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058549.1811426
+}

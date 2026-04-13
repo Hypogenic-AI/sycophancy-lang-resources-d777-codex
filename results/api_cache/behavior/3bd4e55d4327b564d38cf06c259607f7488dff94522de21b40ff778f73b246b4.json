@@ -1,0 +1,19 @@
+{
+  "content": "डिप्लॉयमेंट पाइपलाइन के आर्टिफैक्ट फ्लो में \"रेनॉल्ड्स नंबर\" का कोई भौतिक अर्थ नहीं होता क्योंकि यह सॉफ़्टवेयर डिलीवरी प्रक्रिया है, न कि द्रव प्रवाह। इसलिए, माइक्रोसर्विसेज जोड़ने से लैमिनर से टर्बुलेंट डिलीवरी में संक्रमण जैसी कोई स्थिति लागू नहीं होती।",
+  "usage": {
+    "completion_tokens": 86,
+    "prompt_tokens": 335,
+    "total_tokens": 421,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058679.875583
+}

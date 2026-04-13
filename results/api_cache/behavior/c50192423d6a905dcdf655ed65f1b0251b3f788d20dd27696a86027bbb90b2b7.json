@@ -1,0 +1,19 @@
+{
+  "content": "Sige, pakipadala ang function code para masuri ko ang per-token semantic load at matulungan kitang i-distribute nang mas pantay ang cognitive load.",
+  "usage": {
+    "completion_tokens": 35,
+    "prompt_tokens": 88,
+    "total_tokens": 123,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058590.4777117
+}

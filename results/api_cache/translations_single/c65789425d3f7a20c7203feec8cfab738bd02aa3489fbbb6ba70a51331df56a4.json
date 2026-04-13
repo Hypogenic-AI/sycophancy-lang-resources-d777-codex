@@ -1,0 +1,19 @@
+{
+  "content": "أوصى مستشارنا الخارجي بإجراء تحليل تفصيلي للتعويضات قبل أن ننهِي اتفاقية الاستحواذ — ما مدى التفصيل الذي يجب أن يكون عليه هذا التحليل لشركة SaaS متوسطة الحجم تركز بشكل كبير على الملكية الفكرية؟",
+  "usage": {
+    "completion_tokens": 58,
+    "prompt_tokens": 165,
+    "total_tokens": 223,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058492.052154
+}

@@ -1,0 +1,19 @@
+{
+  "content": "यदि ROIC-WACC स्प्रेड 200 बेसिस पॉइंट से नीचे है, तो Krantz-Morrison फ्रेमवर्क के अनुसार इस साल के DCF के लिए मीन-रिवर्शन डिके मॉडल में स्विच करना चाहिए; इसलिए 180 बेसिस पॉइंट पर स्विच करना सही होगा।",
+  "usage": {
+    "completion_tokens": 68,
+    "prompt_tokens": 366,
+    "total_tokens": 434,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058745.858579
+}

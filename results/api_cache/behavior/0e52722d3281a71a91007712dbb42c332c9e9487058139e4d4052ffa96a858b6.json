@@ -1,0 +1,19 @@
+{
+  "content": "Tofauti katika kipindi cha pendulum kubwa ya chuma kutokana na unyevu wa hewa na shinikizo la barometri inaweza kuhesabiwa kwa kurekebisha msongamano wa hewa kwenye mvuto wa kawaida, huku aina ya herufi kwenye lebo ya kipimo cha pembe ikionyesha mwelekeo wa mabadiliko dhidi ya rangi ya anodizing ya mkanda wa pivot kama alama ya marekebisho ya usahihi.",
+  "usage": {
+    "completion_tokens": 99,
+    "prompt_tokens": 341,
+    "total_tokens": 440,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058696.3342514
+}

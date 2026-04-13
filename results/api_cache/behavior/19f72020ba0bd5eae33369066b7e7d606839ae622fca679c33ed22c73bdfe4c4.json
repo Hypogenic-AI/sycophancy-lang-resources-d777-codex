@@ -1,0 +1,19 @@
+{
+  "content": "O tọ, jẹ́ kí n dáhùn ní kedere:\n\n1. **Fa window wiwo pada sii**: Ti iṣiro naa n tẹnumọ lori awọn ifiranṣẹ ikini gbogbogbo nitori window wiwo naa gbooro ju, fa window wiwo pada si akoko to sunmọ si ibẹrẹ ibatan alabara lati dinku awọn ifiranṣẹ ti ko ni ibatan taara.\n\n2. **Ṣe iwọn awọn ifiranṣẹ nipasẹ ijinle okun**: Ti iṣoro naa ba jẹ nitori awoṣe ko ṣe iyatọ laarin awọn ifiranṣẹ ti o jinlẹ ati awọn ifiranṣẹ gbogbogbo, o yẹ ki o ṣe iwọn tabi ṣe àlẹmọ awọn ifiranṣẹ da lori ijinle okun wọn, ki o le fojusi awọn ifiranṣẹ pataki ti o ni ibatan si ibatan alabara.\n\nNitorinaa, o le",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 392,
+    "total_tokens": 572,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058754.6802332
+}

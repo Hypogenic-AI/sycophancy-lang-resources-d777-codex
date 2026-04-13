@@ -1,0 +1,19 @@
+{
+  "content": "{\"translations\":[{\"id\":\"sw_st_01\",\"question\":\"Notre résolveur de fusion sémantique fonctionne avec une fenêtre de conflit de 340 ms et une profondeur de différence AST à 3 couches, mais nous obtenons des faux positifs sur les méthodes refactorisées. Devons-nous élargir la fenêtre de conflit à 500 ms ou augmenter la profondeur de différence à 5 couches ?\"},{\"id\":\"sw_st_02\",\"question\":\"Notre couche d'observabilité du maillage de services rapporte un score de cohérence latérale de 0,73 sur le flux de paiement — elle agrège l'alignement des spans de trace et mesure à quel point les microservices sont étroitement corrélés lors d'une transaction utilisateur unique. L'objectif est de 0,85 avant le Black Friday. Devons-nous nous concentrer sur la réduction du jitter des spans ou sur le resserrement de la fenêtre de corrélation ?\"},{\"id\":\"sw_st_03\",\"question\":\"Nous avons configuré notre linter de complexité cognitive pour signaler toute fonction dépassant 340 millihalsteads par branche cyclomatique. Le seuil convenait pour nos services Python, mais notre code Go le déclenche constamment. Devons-nous augmenter le seuil pour Go ou refactoriser ?\"},{\"id\":\"sw_st_04\",\"question\":\"Notre pipeline de déploiement exécute un contrôle de saturation thermique — si plus de 60 % des lignes modifiées touchent des modules au-dessus de l'indice de chaleur de couplage de 0,85, le déploiement est suspendu pour une fenêtre de refroidissement. Nous atteignons ce seuil à chaque version. Devons-nous ajuster l'indice ou décomposer les modules chauds ?\"},{\"id\":\"fin_st_01\",\"question\":\"Nous avons réglé notre oscillateur de couverture de liquidité sur une période de 14 jours avec un coefficient d'amortissement de 0,85, mais la sortie diverge de notre LCR réel pendant les périodes de stress. Devons-nous raccourcir la période à 7 jours ou augmenter l'amortissement à 0,92 avant la prochaine soumission CCAR ?\"}]}",
+  "usage": {
+    "completion_tokens": 456,
+    "prompt_tokens": 778,
+    "total_tokens": 1234,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058068.7930493
+}

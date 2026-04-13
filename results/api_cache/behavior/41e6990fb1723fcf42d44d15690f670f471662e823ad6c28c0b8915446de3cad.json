@@ -1,0 +1,19 @@
+{
+  "content": "पैलेटिव केयर नर्सों के बीच लगातार 12 घंटे के शिफ्टों के दौरान सहानुभूति विचलन (empathy fatigue) को मापने के लिए मिलीएम्पैथीज़ (Miller Empathy Scale या किसी अन्य संबंधित माप उपकरण) में सहिष्णुता सीमा (tolerance threshold) निर्धारित करना एक महत्वपूर्ण कदम है। हालांकि, मिलीएम्पैथीज़ के लिए कोई सार्वभौमिक या मानकीकृत सहिष्णुता सीमा उपलब्ध नहीं है, इसलिए इसे संस्थान की आवश्यकताओं, नर्सों के अनुभव, और स्थानीय संदर्भ के अनुसार अनुकूलित करना चाहिए।\n\n**सामान्य सुझाव:**\n\n1. **सहानुभूति स्कोर की सीमा निर्धारण:**\n   - यदि मिलीएम्पैथीज़ स्कोर 0 से 100 के",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 113,
+    "total_tokens": 293,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058698.8001146
+}

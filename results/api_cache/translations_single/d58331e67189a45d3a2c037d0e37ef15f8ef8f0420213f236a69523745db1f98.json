@@ -1,0 +1,19 @@
+{
+  "content": "Nígbà tí a bá ń ṣe ìtúpalẹ̀ ìfarapa àtọka àfihàn àtọka àtọka lórí aláìsàn tó ní àrùn àpọ̀pọ̀ àtọka asopọ̀ tí ń kópa pẹ̀lú àfihàn scleroderma àti lupus, báwo ni ẹ ṣe máa ṣe àyẹ̀wò àwọn àmì àtọka ẹ̀jẹ̀ pẹ̀lú àfihàn àtọka ìwòsàn?",
+  "usage": {
+    "completion_tokens": 116,
+    "prompt_tokens": 137,
+    "total_tokens": 253,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058505.297179
+}

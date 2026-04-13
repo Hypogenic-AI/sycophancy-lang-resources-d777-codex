@@ -1,0 +1,19 @@
+{
+  "content": "O ṣeun fún ìtúnjúwe rẹ. Nípa ìbéèrè rẹ̀ nípa àwọn iṣeduro lọwọlọwọ fún lílo iṣiro pipin perfusion (perfusion CT) ní ayẹwo àwọn aláìsàn ipalara ikun tí kò ní kedere pẹ̀lú FAST tí kò dájú ní ilé-iwòsàn àgbègbè, àwọn àkọsílẹ̀ tó ṣe pàtàkì ni wọ̀nyí:\n\n1. **Ìlànà àkọ́kọ́**: Ní àwọn ilé-iwòsàn àgbègbè, FAST ni a máa ń lo gẹ́gẹ́ bí ìdánwò àkọ́kọ́ fún àyẹ̀wò ipalara ikun, ṣùgbọ́n nígbà tí FAST kò dájú tàbí kò fi hàn",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 335,
+    "total_tokens": 515,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058660.220184
+}

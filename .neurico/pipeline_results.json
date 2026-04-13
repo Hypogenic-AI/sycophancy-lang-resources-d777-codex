@@ -1,0 +1,27 @@
+{
+  "success": true,
+  "stages": {
+    "resource_finder": {
+      "success": true,
+      "completion_marker": "/workspaces/sycophancy-lang-resources-d777-codex/.resource_finder_complete",
+      "outputs": {
+        "literature_review": "/workspaces/sycophancy-lang-resources-d777-codex/literature_review.md",
+        "resources_catalog": "/workspaces/sycophancy-lang-resources-d777-codex/resources.md",
+        "papers_dir": "/workspaces/sycophancy-lang-resources-d777-codex/papers",
+        "datasets_dir": "/workspaces/sycophancy-lang-resources-d777-codex/datasets",
+        "code_dir": "/workspaces/sycophancy-lang-resources-d777-codex/code"
+      },
+      "log_file": "/workspaces/sycophancy-lang-resources-d777-codex/logs/resource_finder_codex.log",
+      "transcript_file": "/workspaces/sycophancy-lang-resources-d777-codex/logs/resource_finder_codex_transcript.jsonl",
+      "elapsed_time": 560.0209257602692
+    },
+    "experiment_runner": {
+      "success": true,
+      "return_code": 0,
+      "elapsed_time": 5570.749868631363,
+      "log_file": "/workspaces/sycophancy-lang-resources-d777-codex/logs/execution_codex.log",
+      "transcript_file": "/workspaces/sycophancy-lang-resources-d777-codex/logs/execution_codex_transcript.jsonl"
+    }
+  },
+  "work_dir": "/workspaces/sycophancy-lang-resources-d777-codex"
+}

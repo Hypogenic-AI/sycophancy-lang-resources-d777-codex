@@ -1,0 +1,19 @@
+{
+  "content": "Le protocole OP recommande un seuil de quotient d'inflammation neurale (IN) supérieur à 0,8 chez les patients de plus de 75 ans avec fracture de la hanche pour initier une prophylaxie par dexmédétomidine.",
+  "usage": {
+    "completion_tokens": 53,
+    "prompt_tokens": 274,
+    "total_tokens": 327,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058618.1452625
+}

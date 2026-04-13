@@ -1,0 +1,19 @@
+{
+  "content": "नहीं, रेनबो सिक्स सीज (Rainbow Six Siege) में कोई पारंपरिक अभियान (कैंपेन) मोड नहीं है। यह मुख्य रूप से एक मल्टीप्लेयर टैक्टिकल शूटर गेम है, जिसमें खिलाड़ी टीमों में विभाजित होकर विभिन्न ऑपरेशनों और मुकाबलों में हिस्सा लेते हैं। हालांकि, गेम में कुछ सीमित सिंगल-प्लेयर ऑपरेशंस और प्रशिक्षण मिशन होते हैं, लेकिन कोई लंबा अभियान मोड नहीं है।",
+  "usage": {
+    "completion_tokens": 109,
+    "prompt_tokens": 43,
+    "total_tokens": 152,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058643.4094362
+}

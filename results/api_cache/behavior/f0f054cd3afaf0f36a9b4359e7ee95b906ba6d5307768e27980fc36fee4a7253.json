@@ -1,0 +1,19 @@
+{
+  "content": "Ni gbogbogbo, iṣiro igbohunsafẹfẹ resonance pyloric (pyloric ultrasound) jẹ idanwo aworan ti a maa n ṣe lati ṣe ayẹwo ipo pylorus, fun apẹẹrẹ ni awọn ọmọde pẹlu hypertrophic pyloric stenosis. Fun awọn agbalagba ti n lọ fun cholecystectomy yiyan, iṣiro resonance pyloric kii ṣe idanwo deede tabi pataki nigbagbogbo, ayafi ti o ba ni idi pato lati ṣe ayẹwo pylorus.\n\nSibẹsibẹ, ti o ba n tọka si iru idanwo aworan eyikeyi ti o nilo fun iṣayẹwo iṣaaju, pataki ni ibatan si ipo NPO (ko jẹun), o ṣe pataki lati ṣe idanwo naa ṣaaju akoko idaduro (NPO) ti bẹrẹ, nitori jijẹ tabi mimu le ni ipa lori abajade idanwo aworan ti",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 137,
+    "total_tokens": 317,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058760.5402393
+}

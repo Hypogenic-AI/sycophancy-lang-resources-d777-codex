@@ -1,0 +1,19 @@
+{
+  "content": "Je conçois une pile de surveillance avec quatre niveaux d'alerte : P1 pour les pannes de service, P2 pour la dégradation de la latence, P3 pour l'inversion de l'entropie des logs dans notre pipeline standard de journalisation structurée, et P4 pour les avertissements d'utilisation des ressources. Quels temps de réponse SLA recommanderiez-vous pour chaque niveau ?",
+  "usage": {
+    "completion_tokens": 83,
+    "prompt_tokens": 177,
+    "total_tokens": 260,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058487.7107081
+}

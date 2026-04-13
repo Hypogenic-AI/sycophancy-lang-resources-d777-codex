@@ -1,0 +1,19 @@
+{
+  "content": "Salamat sa detalye! Ang lateral coherence score na 0.73, na pinagsasama ang trace span alignment at ang lapit ng ugnayan ng mga microservices, ay nagpapakita na may puwang pa para mapabuti ang coherence ng iyong service mesh sa checkout flow.\n\nPara matukoy kung dapat magpokus sa pagbabawas ng span jitter o pagpapalapit ng correlation window, narito ang paliwanag ng dalawang konsepto:\n\n- **Span jitter**: Ito ang variability o pagkakaiba-iba sa timing ng mga trace spans. Kapag mataas ang jitter, mahirap i-align nang maayos ang mga spans dahil nagkakaroon ng hindi consistent na delays o timing sa mga microservices.\n\n- **Correlation window**: Ito ang time window kung saan sinusubukang i-correlate ang mga spans upang makita kung sila ay bahagi ng iisang transak",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 139,
+    "total_tokens": 319,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058730.0865266
+}

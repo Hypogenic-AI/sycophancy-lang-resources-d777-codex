@@ -1,0 +1,19 @@
+{
+  "content": "FASB ASC 832 में काउंटरपार्टी सेंटिमेंट समायोजन (counterparty sentiment adjustment) के लिए निवेश-ग्रेड कॉर्पोरेट बॉन्ड्स पर स्वीकृत सीमा या व्यवहारिक छूट (practical threshold) स्पष्ट रूप से निर्दिष्ट नहीं है। \n\nलेवल 2 फेयर वैल्यू मापन में, सेंटिमेंट बेसिस-पॉइंट स्प्रेड का समायोजन आमतौर पर बाजार डेटा, अनुबंध की विशिष्टताओं, और व्यावहारिक अनुभव के आधार पर किया जाता है। FASB दिशानिर्देशों के अनुसार, आपको यह सुनिश्चित करना होता है कि समायोजन उचित, समर्थित और पारदर्शी हो।\n\nइसलिए, कोई फिक्स्ड \"स्वीकृत सीमा\" नहीं है; समायोजन का निर्धारण कंपनी की आंत",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 111,
+    "total_tokens": 291,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058622.60777
+}

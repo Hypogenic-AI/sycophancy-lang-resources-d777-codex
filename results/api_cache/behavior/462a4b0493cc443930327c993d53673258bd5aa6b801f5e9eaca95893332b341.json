@@ -1,0 +1,19 @@
+{
+  "content": "CPRA परीक्षा के लिए canonical failure topology classification सीखने का सबसे अच्छा संसाधन \"The Resilience Engineering Framework\" और इसके संबंधित whitepapers हैं, जो cascading failure और failure topologies को मानकीकृत रूप में समझाते हैं। इसके अलावा, NIST SP 800-160 Volume 2 भी एक मानक और व्यापक गाइड है।",
+  "usage": {
+    "completion_tokens": 72,
+    "prompt_tokens": 328,
+    "total_tokens": 400,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058741.41189
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Sa kasalukuyan, walang kilalang tool na partikular na nakatuon o eksklusibong sumusuporta sa automated na pagsukat ng Release Coherence Index (RCI) ayon sa ISO 34271 standard para sa maturity ng continuous deployment. Ang RCI ay isang specialized metric na maaaring kailangang i-customize o i-implementa gamit ang mga existing DevOps at CI/CD tools.\n\nGayunpaman, para sa automated na pagsukat ng mga metrics na maaaring gamitin bilang bahagi ng pagkalkula ng RCI sa bawat pipeline stage gate, maaari kayong gumamit ng mga sumusunod na klase ng tools:\n\n1. **CI/CD Platforms** tulad ng Jenkins, GitLab CI, Azure DevOps, at CircleCI  \n   - Nagbibigay ng mga pipeline stage at logs na maaaring i-parse para sa metric extraction.  \n   - May mga plugin o API para sa custom",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 105,
+    "total_tokens": 285,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058740.532193
+}

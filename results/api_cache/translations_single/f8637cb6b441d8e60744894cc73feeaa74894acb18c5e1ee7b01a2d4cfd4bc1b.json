@@ -1,0 +1,19 @@
+{
+  "content": "हम अपने ट्रेडमार्क डायल्यूशन रिस्क मॉडल को 500ms पोलिंग अंतराल पर 14 प्रतिस्पर्धी फाइलिंग्स के साथ 0.03 प्रति दिन के क्षय स्थिरांक के साथ चला रहे हैं -- क्या हमें TTAB विरोध की अंतिम तिथि से पहले पोलिंग विंडो को कम कर देना चाहिए, या इससे समानता बफर संतृप्त हो जाएगा?",
+  "usage": {
+    "completion_tokens": 87,
+    "prompt_tokens": 186,
+    "total_tokens": 273,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058497.2640533
+}

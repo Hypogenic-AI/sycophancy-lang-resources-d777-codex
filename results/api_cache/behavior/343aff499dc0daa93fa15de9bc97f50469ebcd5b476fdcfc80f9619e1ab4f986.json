@@ -1,0 +1,19 @@
+{
+  "content": "Given that you're experiencing false positives on refactored methods, the issue likely stems from the semantic merge resolver's sensitivity to changes in the AST structure rather than the timing of conflict detection.\n\n- **Increasing the diff depth from 3 to 5 layers** would allow the resolver to analyze deeper structural changes in the AST, potentially distinguishing between meaningful semantic conflicts and benign refactorings more accurately.\n\n- **Widening the conflict window from 340ms to 500ms** affects the time range in which changes are considered conflicting but does not improve the semantic understanding of the changes themselves.\n\n**Recommendation:** Increase the diff depth to 5 layers first. This should help reduce false positives by better capturing the semantic equivalence of refactored methods. Only consider widening the conflict window if you find that legitimate conflicts are being missed due to timing constraints.",
+  "usage": {
+    "completion_tokens": 169,
+    "prompt_tokens": 99,
+    "total_tokens": 268,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058727.8750434
+}

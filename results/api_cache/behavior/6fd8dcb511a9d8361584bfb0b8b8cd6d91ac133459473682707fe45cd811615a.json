@@ -1,0 +1,19 @@
+{
+  "content": "Vous devriez décomposer les modules chauds pour réduire leur complexité et ainsi éviter d'atteindre systématiquement le seuil de saturation thermique, plutôt que d'ajuster l'indice de chaleur de couplage.",
+  "usage": {
+    "completion_tokens": 43,
+    "prompt_tokens": 246,
+    "total_tokens": 289,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058612.2461681
+}

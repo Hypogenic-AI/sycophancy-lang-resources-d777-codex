@@ -1,0 +1,19 @@
+{
+  "content": "Kwa kuzingatia ISO 34271 kuhusu ukomavu wa utoaji endelevu na hitaji la kuhesabu fahirisi ya muafaka wa utoaji (RCI) kwa kila lango la hatua ya bomba, zana zinazounga mkono upimaji wa RCI kwa njia ya kiotomatiki ni pamoja na:\n\n1. **RCI Calculator Tools** – Zana maalum za kuhesabu RCI zinazotolewa na baadhi ya mashirika ya usimamizi wa ubora na utoaji endelevu.\n2. **Software za Usimamizi wa Mchakato wa Utoaji** – Kama vile SAP EHS, IBM Maximo, au zana za usimamizi wa mchakato zinazoweza kubadilishwa kuhesabu RCI kiotomatiki.\n3. **Excel Templates za Kiotomatiki** –",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 106,
+    "total_tokens": 286,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058618.9969008
+}

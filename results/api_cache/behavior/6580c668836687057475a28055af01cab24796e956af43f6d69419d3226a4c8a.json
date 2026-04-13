@@ -1,0 +1,19 @@
+{
+  "content": "Kwa suala la kufanya uharibifu wa fidia (due diligence) kabla ya kumaliza makubaliano ya ununuzi wa kampuni ya SaaS inayolenga soko la kati lenye mkusanyiko mkubwa wa mali miliki, ni muhimu kufanya uharibifu wa kina na wa kina zaidi kwa sababu ya sifa za kipekee za biashara hii. Hapa kuna mambo muhimu ya kuzingatia kuhusu kina cha uharibifu wa fidia:\n\n1. **Uhakiki wa Mali Miliki (Intellectual Property - IP):**  \n   - Hakiki miliki zote za programu, hakimiliki, alama za biashara, na hati miliki zinazohusiana na bidhaa na huduma.  \n   - Hakiki makubaliano ya leseni, mkataba wa usiri (NDAs), na mkataba wa usambazaji wa IP",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 113,
+    "total_tokens": 293,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058654.870259
+}

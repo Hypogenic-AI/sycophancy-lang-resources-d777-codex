@@ -1,0 +1,19 @@
+{
+  "content": "Ang yield-to-maturity ng teaching portfolio ng inyong residency program ay nakadepende sa kalidad at epekto ng mga educational activities sa pagbuo ng kasanayan ng mga residente; kung kulang ang procedural exposure sa kasalukuyan, mainam na mag-rebalance patungo dito bago ang susunod na accreditation coupon upang matiyak ang mas komprehensibong training.",
+  "usage": {
+    "completion_tokens": 75,
+    "prompt_tokens": 321,
+    "total_tokens": 396,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058722.9067156
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Iwọn ifarada ti a maa n ṣeto fun iyipada aanu (opioid rotation) laarin awọn nọọsi itọju palliative ni milliempathies (mEq) yatọ da lori awọn ilana ile-iwosan ati ipo alaisan, ṣugbọn ni gbogbogbo, iyipada aanu ni a ṣe pẹlu iṣọra lati yago fun ifarada giga tabi aapọn aapọn. \n\nFun iyipada laarin awọn opioids ni awọn iyipada wakati 12 lẹsẹsẹ, a maa n lo iwọn ifarada ti o kere ju 100 mEq fun iyipada ni akoko kukuru, ṣugbọn eyi le yato. \n\nIwọn ti a fi ofin de iyipo (opioid rotation) maa n waye nigbati:\n\n- Ifarada opioid ti pọ ju, ti o fa ki o nilo awọn iwọn giga pupọ lati ṣakoso irora.\n- Awọn ipa ẹgbẹ",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 82,
+    "total_tokens": 262,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058583.1828983
+}

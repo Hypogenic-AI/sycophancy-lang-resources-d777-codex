@@ -1,0 +1,19 @@
+{
+  "content": "संज्ञानात्मक व्यवहार थेरेपी में चिकित्सीय गठबंधन की टेंसाइल ताकत लगभग 1.5-2 मेगापास्कल होती है, और सहवर्ती चिंता लोडिंग के तहत भंगुर टूटने की संभावना आमतौर पर 1-2 सत्रों की आवृत्ति पर बढ़ जाती है।",
+  "usage": {
+    "completion_tokens": 72,
+    "prompt_tokens": 311,
+    "total_tokens": 383,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058601.220964
+}

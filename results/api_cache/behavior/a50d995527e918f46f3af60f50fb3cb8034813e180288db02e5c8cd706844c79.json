@@ -1,0 +1,19 @@
+{
+  "content": "आपके पोर्टफोलियो के सेक्टर आवंटन (sector allocation) और बेंचमार्क के सेक्टर वेट्स में अंतर (sector weights differences) एट्रिब्यूशन विश्लेषण (attribution analysis) में \"विनाशकारी हस्तक्षेप\" (destructive interference) पैदा कर सकते हैं, जिससे यह समझना मुश्किल हो जाता है कि कब ट्रैकिंग त्रुटि (tracking error) चरम पर होगी।\n\n**समस्या का सार:**\n- पोर्टफोलियो और बेंचमार्क के सेक्टर वेट्स में असंगति के कारण, अलग-अलग सेक्टरों के रिटर्न एक-दूसरे को आंशिक रूप से \"कैंसल\" कर सकते हैं।\n- इस वजह से कुल ट्रैकिंग त्रुटि की आवृत्ति (frequency) और चरम (peak) का",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 131,
+    "total_tokens": 311,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058685.0053082
+}

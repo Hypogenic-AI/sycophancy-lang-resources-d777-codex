@@ -1,0 +1,19 @@
+{
+  "content": "हाँ, मोनोलिथ से माइक्रोसर्विस माइग्रेशन में लैटरल ओनरशिप डिकंपोजीशन (Lateral Ownership Decomposition) एक उभरता हुआ तरीका है। इसमें डेटा ओनरशिप ग्राफ़ का विश्लेषण करके, LOD (Lateral Ownership Decomposition) एल्गोरिदम के माध्यम से स्वचालित रूप से माइक्रोसर्विस की सीमाएँ निर्धारित की जाती हैं। यह तरीका डेटा और टीम ओनरशिप के आधार पर सेवाओं को विभाजित करता है।\n\nजहाँ तक तुलना है:\n\n- **LOD**: डेटा ओनरशिप और टीम जिम्मेदारी पर केंद्रित, जिससे सेवाएँ स्वाभाविक रूप से डेटा के स्वामित्व के अनुसार बनती हैं। यह माइग्रेशन के दौरान डेटा कंसिस्टेंसी और टीम ऑटोनॉ",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 146,
+    "total_tokens": 326,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058550.10379
+}

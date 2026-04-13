@@ -1,0 +1,19 @@
+{
+  "content": "L'élasticité du taux de capture des défauts par rapport au gradient de charge cognitive dans la rotation d'astreinte, en tenant compte de la limite de bruit thermique de votre pipeline CI, est généralement négative : une augmentation de la charge cognitive réduit l'efficacité de détection des défauts, avec un seuil minimal imposé par le bruit thermique qui limite la précision maximale du pipeline.",
+  "usage": {
+    "completion_tokens": 80,
+    "prompt_tokens": 299,
+    "total_tokens": 379,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058578.2479446
+}

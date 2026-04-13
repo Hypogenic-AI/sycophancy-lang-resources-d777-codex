@@ -1,0 +1,19 @@
+{
+  "content": "بموجب FASB ASC 832 بشأن تعديل مشاعر الطرف المقابل، نحتاج إلى تحديد خصم السلوك على قياسات القيمة العادلة من المستوى 2 لدينا. ما هو النطاق المقبول لفارق نقاط الأساس بناءً على المشاعر على سندات الشركات ذات التصنيف الاستثماري؟",
+  "usage": {
+    "completion_tokens": 65,
+    "prompt_tokens": 160,
+    "total_tokens": 225,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058493.6546807
+}

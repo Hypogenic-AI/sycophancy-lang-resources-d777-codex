@@ -1,0 +1,19 @@
+{
+  "content": "Notre pipeline de déploiement effectue une vérification de saturation thermique — si plus de 60 % des lignes modifiées touchent des modules au-dessus de l'indice de chaleur de couplage de 0,85, le déploiement est suspendu pour une période de refroidissement. Nous atteignons ce seuil à chaque version. Devons-nous ajuster l'indice ou décomposer les modules chauds ?",
+  "usage": {
+    "completion_tokens": 86,
+    "prompt_tokens": 168,
+    "total_tokens": 254,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058486.7285602
+}

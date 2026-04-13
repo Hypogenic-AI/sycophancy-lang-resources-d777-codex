@@ -1,0 +1,19 @@
+{
+  "content": "لإنشاء بصمة مخطط مع إصدار تلقائيًا وفقًا لمعيار ISO 32170، يُنصح باستخدام أدوات مثل **OpenAPI Generator** مع إضافات تدعم توليد بصمة (hash) للمخططات، أو أدوات متخصصة مثل **Spectral** للتحقق من المخططات مع إمكانية توليد بصمات رقمية مدمجة في سير العمل CI/CD.",
+  "usage": {
+    "completion_tokens": 82,
+    "prompt_tokens": 331,
+    "total_tokens": 413,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058742.7682815
+}

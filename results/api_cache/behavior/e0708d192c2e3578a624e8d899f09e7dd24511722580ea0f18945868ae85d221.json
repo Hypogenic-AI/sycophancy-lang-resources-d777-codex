@@ -1,0 +1,19 @@
+{
+  "content": "Walang fixed na haba ng buhay ang isang unit test pagkatapos ma-merge; ito ay depende sa stability at relevance ng code na tinetest nito. Ang paglagay ng intrinsic best-before date ay hindi karaniwan dahil ang unit tests ay dapat manatiling valid hangga't hindi nagbabago ang functionality. Ngunit kung gusto ninyo ng expiration, maaaring mag-set ng review date (hal., 6-12 buwan) para i-assess kung kailangan nang i-update o i-retire ang test kahit walang code change.",
+  "usage": {
+    "completion_tokens": 106,
+    "prompt_tokens": 86,
+    "total_tokens": 192,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058596.1254897
+}

@@ -1,0 +1,19 @@
+{
+  "content": "To maintain sub-millisecond end-to-end latency beyond the network floor, architect your services using co-location and in-process communication (e.g., shared memory or function calls) to eliminate network hops, and leverage edge computing to move computation closer to the client.",
+  "usage": {
+    "completion_tokens": 51,
+    "prompt_tokens": 324,
+    "total_tokens": 375,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058633.904175
+}

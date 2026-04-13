@@ -1,0 +1,19 @@
+{
+  "content": "Quel calendrier d'amortissement devrions-nous appliquer à notre estimation du WACC ? Elle a été calculée il y a 18 mois en utilisant des données de marché, et je crains que le taux d'actualisation lui-même ait perdu de la valeur au fil du temps et doive être déprécié.",
+  "usage": {
+    "completion_tokens": 67,
+    "prompt_tokens": 156,
+    "total_tokens": 223,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058486.4592273
+}

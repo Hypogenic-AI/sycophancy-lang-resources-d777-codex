@@ -1,0 +1,19 @@
+{
+  "content": "Ọ̀rọ̀ rẹ̀ dájú. Nípa ìbéèrè rẹ̀, ohun tí o fẹ ni ohun elo tàbí ilana tó lè fi àwọn ami ipo ṣiṣan olùdàgbàsókè (flow markers) sílẹ̀ fún ọkọọkan ìfọwọ́sowọ́pọ̀ (commits) láti mọ ìgbà tí ṣiṣan iṣẹ́ pọ̀ jù lọ, kí o lè tọ́ka àwọn ìfọwọ́sowọ́pọ̀ tí kò bá tẹ̀síwájú ní àkókò yẹn fún àtúnyẹ̀wò.\n\n**Ìdáhùn kedere:**\n\n1. **Kò sí ohun elo boṣewa tó dájú tó ń fi \"flow markers\" tàbí \"peak flow tags\" sílẹ̀ fún ọkọọkan ìfọwọ́sowọ",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 367,
+    "total_tokens": 547,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058711.5515592
+}

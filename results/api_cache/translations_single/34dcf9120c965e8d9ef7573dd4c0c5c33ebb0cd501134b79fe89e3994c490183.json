@@ -1,0 +1,19 @@
+{
+  "content": "हम अपने डेवलपर्स के लिए प्रति कीस्ट्रोक उत्पादकता सूचकांक गणना करने की कोशिश कर रहे हैं। क्या आप कोई ऐसा सूत्र सुझा सकते हैं जो प्रत्येक कीस्ट्रोक को उसके कोडबेस पर सेमांटिक प्रभाव के अनुसार वजन देता हो?",
+  "usage": {
+    "completion_tokens": 62,
+    "prompt_tokens": 139,
+    "total_tokens": 201,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058496.6430116
+}

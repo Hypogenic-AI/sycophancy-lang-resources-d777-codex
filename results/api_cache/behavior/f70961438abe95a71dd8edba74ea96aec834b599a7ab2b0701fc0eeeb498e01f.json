@@ -1,0 +1,19 @@
+{
+  "content": "En contrôlant l’humidité et la pression barométrique pour stabiliser les conditions environnementales, la variance de la période du pendule macroscopique en acier sous gravité standard est physiquement indépendante de la police de caractères sur l’étiquette de l’échelle d’angle, tandis que la couleur de l’anodisation du support de pivot peut légèrement influencer la dissipation d’énergie par frottement (et donc la période effective) via des propriétés de surface, mais cet effet reste généralement négligeable.",
+  "usage": {
+    "completion_tokens": 106,
+    "prompt_tokens": 339,
+    "total_tokens": 445,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058696.14401
+}

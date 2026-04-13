@@ -1,0 +1,19 @@
+{
+  "content": "हर्ग्रोव-मेंडेल्सन मानदंड पेरियोपरेटिव एंटीकोआगुलेशन ब्रिजिंग के लिए न्यूराक्सियल ब्लॉकेड से पहले न्यूनतम वाशआउट स्पेक्ट्रल डेंसिटी 0.8 की सिफारिश करते हैं — क्या यह एपिक्साबान के उपयोग के दौरान लागू होता है, या केवल वारफरिन-क्लास एजेंट्स के लिए?",
+  "usage": {
+    "completion_tokens": 97,
+    "prompt_tokens": 173,
+    "total_tokens": 270,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058498.021625
+}

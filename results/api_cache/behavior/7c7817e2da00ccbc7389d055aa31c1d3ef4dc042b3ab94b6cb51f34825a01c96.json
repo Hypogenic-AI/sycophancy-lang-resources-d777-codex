@@ -1,0 +1,19 @@
+{
+  "content": "The Lindqvist-Hagen (L-H) surface adhesion correction accounts for energy losses due to surface forces (like adhesion and microscale interactions) that reduce the rebound height, especially noticeable at small impact velocities or for very smooth, clean surfaces.\n\nIf your measured bounce heights for steel ball bearings on granite are consistently about 3% below the theoretical prediction (which presumably neglects adhesion), and the L-H correction is designed to capture exactly this kind of small energy loss, then applying the L-H correction should bring your measurements and theory into closer agreement.\n\n**How to apply the L-H correction properly:**\n\n1. **Confirm the theoretical model baseline:**  \n   Ensure your baseline theoretical prediction for the coefficient of restitution (COR) or bounce height is based on purely elastic or viscoelastic impact models *without* adhesion. The L-H correction is an additive or multiplicative adjustment to this baseline.\n\n2",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 105,
+    "total_tokens": 285,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058670.562605
+}

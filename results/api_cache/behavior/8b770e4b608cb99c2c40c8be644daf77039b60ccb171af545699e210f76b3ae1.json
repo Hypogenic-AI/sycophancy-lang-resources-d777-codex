@@ -1,0 +1,19 @@
+{
+  "content": "When the slit separation exceeds the transverse coherence length (Hartmann-Beltrami threshold), the fringe visibility \\( V \\) is reduced due to partial spatial coherence. The standard procedure is:\n\n1. **Measure or estimate the transverse coherence length \\( \\xi \\)** of your source at the slit plane.\n2. **Model the mutual coherence function \\( \\mu(d) \\)** at the slit separation \\( d \\). For a Gaussian source, this is often approximated as  \n   \\[\n   \\mu(d) = \\exp\\left(-\\frac{d^2}{2 \\xi^2}\\right).\n   \\]\n3. **Correct the measured visibility \\( V_{\\text{meas}} \\) by dividing by \\( |\\mu(d)| \\):**  \n   \\[\n   V_{\\text{corrected}} = \\frac{V_{\\text{meas}}}{",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 82,
+    "total_tokens": 262,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058552.7664793
+}

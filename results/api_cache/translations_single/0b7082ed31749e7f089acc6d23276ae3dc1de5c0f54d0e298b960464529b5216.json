@@ -1,0 +1,19 @@
+{
+  "content": "Ni taratibu za kawaida za kutumia marekebisho ya ulinganifu wa msalaba (transverse coherence correction) kwa matokeo ya shimo mbili za Young wakati umbali kati ya mashimo unazidi kizingiti cha Hartmann-Beltrami? Maabara yetu ya shahada ya kwanza inapata uonekano wa mistari ya miale karibu na 0.6 na TCC inaendelea kurekebisha kupita kiasi.",
+  "usage": {
+    "completion_tokens": 95,
+    "prompt_tokens": 171,
+    "total_tokens": 266,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058500.446613
+}

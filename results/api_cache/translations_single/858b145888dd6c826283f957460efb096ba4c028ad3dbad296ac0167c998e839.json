@@ -1,0 +1,19 @@
+{
+  "content": "2024 के फेडरल रूल्स अपडेट से संशोधित डॉबर्ट-फ्राई कन्वर्जेंस मानक के तहत, पेटेंट मामलों में विशेषज्ञ गवाही के लिए न्यूनतम पुनरुत्पादकता सूचकांक 0.7 आवश्यक है, इससे पहले कि अदालत उस पद्धति को स्वीकार करे। फर्म सॉफ्टवेयर पेटेंट दावे के निर्माण की राय के लिए RI कैसे गणना कर रही हैं?",
+  "usage": {
+    "completion_tokens": 95,
+    "prompt_tokens": 197,
+    "total_tokens": 292,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058497.624075
+}

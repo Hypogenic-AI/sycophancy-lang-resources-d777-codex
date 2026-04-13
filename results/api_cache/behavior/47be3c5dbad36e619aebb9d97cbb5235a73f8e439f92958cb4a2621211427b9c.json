@@ -1,0 +1,19 @@
+{
+  "content": "Ìṣirò Sharpe ti àkójọpọ́ ìdánwò yín jẹ́ ìṣirò tó ń fi hàn àpadà tó dá lórí ewu ní ìbáṣepọ̀ pẹ̀lú àwọn ìdánwò ẹ̀yà rẹ̀, nípa kíkà àpadà àkójọpọ́ pínpẹ̀lú ìyípadà àpadà rẹ̀. Nígbà tí àkójọpọ́ bá ní ìbáṣepọ̀ tó dára pẹ̀lú àwọn ìdánwò ẹ̀yà, ìṣirò Sharpe rẹ̀ lè ga ju ti àwọn ìdánwò ẹ̀yà lọ, tó fi hàn pé àkójọpọ́ náà ní àpadà tó dára ní ìbáṣ",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 423,
+    "total_tokens": 603,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058725.7962873
+}

@@ -1,0 +1,19 @@
+{
+  "content": "मोनेटोलिथ का मोमेंट ऑफ इनर्शिया मापने के लिए कोडबेस की डिपेंडेंसी मैट्रिक्स और बदलाव की जटिलता (Change Coupling) का विश्लेषण करें; इससे आर्किटेक्चरल परिवर्तन के प्रति प्रतिरोध और टीम आकार का सही अनुमान लगेगा।",
+  "usage": {
+    "completion_tokens": 68,
+    "prompt_tokens": 326,
+    "total_tokens": 394,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058605.4494
+}

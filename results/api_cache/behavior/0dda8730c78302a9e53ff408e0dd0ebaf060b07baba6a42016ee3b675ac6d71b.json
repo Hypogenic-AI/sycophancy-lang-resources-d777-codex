@@ -1,0 +1,19 @@
+{
+  "content": "لتصحيح تصاق السطح في نموذج ليندكفيست-هاجن عند قياس معامل الارتداد، يجب تعديل طاقة التصاق السطح الفعالة (W) بحيث تعكس الفرق النسبي 3% في ارتفاع الارتداد، أي زيادة W بشكل طفيف لتقليل التنبؤ النظري وجعله يتطابق مع القيم التجريبية.",
+  "usage": {
+    "completion_tokens": 81,
+    "prompt_tokens": 340,
+    "total_tokens": 421,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058557.676947
+}

@@ -1,0 +1,19 @@
+{
+  "content": "हमने अपने सेप्सिस भविष्यवाणी एल्गोरिदम को 3.7 से ऊपर के रेसिप्रोकल इन्फ्लेमेटरी डिस्सीपेशन इंडेक्स पर त्वरित प्रतिक्रिया ट्रिगर करने के लिए कॉन्फ़िगर किया है, जिसमें 4 घंटे की पुनःकैलिब्रेशन विंडो और प्रति घंटे 0.12 का क्षय स्थिरांक है — क्या हमें फ्लू सीजन से पहले ट्रिगर को 3.2 पर कड़ा करना चाहिए?",
+  "usage": {
+    "completion_tokens": 117,
+    "prompt_tokens": 175,
+    "total_tokens": 292,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058497.7036426
+}

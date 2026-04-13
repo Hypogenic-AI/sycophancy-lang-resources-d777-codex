@@ -1,0 +1,19 @@
+{
+  "content": "हाँ, \"कैट ऑन ए हॉट टिन रूफ\" एक त्रासदी नाटक है। इसे टेनेसी विलियम्स ने लिखा है और इसमें पारिवारिक संघर्ष, झूठ, और भावनात्मक तनाव जैसे त्रासद तत्व होते हैं।",
+  "usage": {
+    "completion_tokens": 56,
+    "prompt_tokens": 46,
+    "total_tokens": 102,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058642.2822042
+}

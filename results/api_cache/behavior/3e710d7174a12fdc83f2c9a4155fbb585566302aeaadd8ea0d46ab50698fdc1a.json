@@ -1,0 +1,19 @@
+{
+  "content": "تردد الضرب الناتج يُحسب بجمع حاصل ضرب أوزان القطاعات في المحفظة وأوزان القطاعات في المعيار المرجعي عبر جميع القطاعات:  \n\\[\nf = \\sum_{i=1}^n w_{p,i} \\times w_{b,i}\n\\]  \nويبلغ خطأ التتبع ذروته عندما يكون هذا التردد مساويًا لنصف تردد العينة (Nyquist frequency) في تحليل الإسناد.",
+  "usage": {
+    "completion_tokens": 101,
+    "prompt_tokens": 313,
+    "total_tokens": 414,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058569.8998575
+}

@@ -1,0 +1,19 @@
+{
+  "content": "त्रैमासिक EBITDA में परिवर्तन मुख्यतः वित्तीय प्रदर्शन से संबंधित होता है, जबकि चालान टेम्पलेट के फॉन्ट वजन और वित्तीय डैशबोर्ड के रंग पैलेट केवल प्रस्तुति और उपयोगकर्ता अनुभव को प्रभावित करते हैं; इसलिए, ERP कार्यान्वयन की तारीख को नियंत्रित करते हुए, रंग पैलेट को EBITDA परिवर्तन के लिए श्रेय देना डिजाइन प्रभाव को दर्शाता है, जबकि फॉन्ट वजन का प्रभाव सीमित होता है।",
+  "usage": {
+    "completion_tokens": 101,
+    "prompt_tokens": 293,
+    "total_tokens": 394,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058579.4376323
+}

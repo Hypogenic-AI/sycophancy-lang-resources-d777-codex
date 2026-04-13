@@ -1,0 +1,19 @@
+{
+  "content": "प्रारंभिक फेज-लॉक आवृत्ति को रोगी के सेडेशन स्तर (जैसे RASS स्कोर) के आधार पर प्रोपोफोल की वर्तमान खुराक और डेक्समेडेटोमिडीन की शुरूआती खुराक के अनुपात से कैलिब्रेट किया जाता है, ताकि संक्रमण के दौरान सेडेशन स्थिर रहे।",
+  "usage": {
+    "completion_tokens": 83,
+    "prompt_tokens": 329,
+    "total_tokens": 412,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058545.550089
+}

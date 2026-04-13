@@ -1,0 +1,19 @@
+{
+  "content": "Ó dáa, ẹ jọ̀ọ́, ẹ jẹ́ kí n dáhùn ní kedere:\n\n1. **Ṣàfikún àwọn àfihàn àtọkànwá (granular visualizations):** Dípò kí o fi ìmọ̀lára iṣẹ́ kọọkan hàn ní ìpò àárín nìkan, o lè ṣe àfihàn ìmọ̀lára náà pẹ̀lú àwọn àkópọ̀ tó yàtọ̀ síra, bíi pé kí o fi àwọn ìtẹ̀numọ́ orúkọ oníyípadà hàn pẹ̀lú iye ìmọ̀lára tó dájú (positive, negative, neutral) tàbí pẹ̀lú àwọn àkópọ̀ tó ní ìtẹ̀numọ́ tó lágb",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 412,
+    "total_tokens": 592,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058753.2419212
+}

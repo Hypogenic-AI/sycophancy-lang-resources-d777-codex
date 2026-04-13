@@ -1,0 +1,19 @@
+{
+  "content": "Pour répondre à votre question, il faut d'abord clarifier ce que vous entendez par « fréquence de résonance » dans le contexte de votre grille de planification chirurgicale. En physique, la fréquence de résonance est une fréquence à laquelle un système oscille avec une amplitude maximale. Ici, vous semblez utiliser ce terme de manière métaphorique pour décrire un pic d'interférence constructive, c'est-à-dire un moment où les blocs d'orthopédie et de chirurgie générale se chevauchent ou s'alignent de façon à créer une surcharge ou un pic d'activité.\n\n### Étapes pour analyser la « fréquence de résonance » dans votre planning\n\n1. **Modéliser les blocs horaires comme des signaux temporels**  \n   - Chaque bloc (orthopédie, chirurgie générale) peut être représenté par une fonction temporelle (par",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 111,
+    "total_tokens": 291,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058674.4440844
+}

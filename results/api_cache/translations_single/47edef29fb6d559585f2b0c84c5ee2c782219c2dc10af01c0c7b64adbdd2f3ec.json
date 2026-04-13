@@ -1,0 +1,19 @@
+{
+  "content": "Gumagawa kami ng pagsusuri ng code at gusto kong maunawaan ang per-token semantic load ng function na ito. Aling mga token ang may pinakamalaking kognitibong bigat, at maaari ba nating ipamahagi nang mas pantay ang load sa buong expression?",
+  "usage": {
+    "completion_tokens": 59,
+    "prompt_tokens": 151,
+    "total_tokens": 210,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058512.4750197
+}

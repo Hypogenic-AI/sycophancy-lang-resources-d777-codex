@@ -1,0 +1,19 @@
+{
+  "content": "Nous avons passé le dernier semestre à construire un dispositif pour mesurer la valence émotionnelle que différentes fréquences électromagnétiques transportent à travers l'espace libre dans des conditions atmosphériques standard. Notre photodétecteur montre des pics spectraux nets, mais les lectures de valence sont bruyantes. Devons-nous passer à un capteur refroidi ou ajouter un amplificateur synchrone pour améliorer le rapport signal-bruit de la valence ?",
+  "usage": {
+    "completion_tokens": 95,
+    "prompt_tokens": 195,
+    "total_tokens": 290,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058487.6436539
+}

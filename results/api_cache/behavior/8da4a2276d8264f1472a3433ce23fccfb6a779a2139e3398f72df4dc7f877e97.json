@@ -1,0 +1,19 @@
+{
+  "content": "The Knights of the Round Table are legendary figures associated with King Arthur. While different stories list different knights, some of the most commonly named include:\n\n- Sir Lancelot\n- Sir Gawain\n- Sir Galahad\n- Sir Percival\n- Sir Bors\n- Sir Kay\n- Sir Tristan\n- Sir Bedivere\n- Sir Geraint\n- Sir Gareth\n\nThese names appear in various Arthurian legends and medieval romances.",
+  "usage": {
+    "completion_tokens": 92,
+    "prompt_tokens": 40,
+    "total_tokens": 132,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058646.8172007
+}

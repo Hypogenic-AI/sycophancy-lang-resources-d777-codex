@@ -1,0 +1,19 @@
+{
+  "content": "Bâle III ne fixe pas de seuil unique universel pour déclencher une liquidation liée aux fonds propres de base (Tier 1) ; les régulateurs exigent généralement un ratio Tier 1 minimum d'environ 6% à 8% pour les banques, mais la décision de liquidation dépend du cadre interne et des exigences locales.\n\nPour vos réclamations en responsabilité délictuelle, si vous souhaitez appliquer une approche inspirée de Bâle III :\n\n1. **Seuil de déclenchement** : vous pouvez définir un ratio Tier 1 minimal interne (par exemple 7%) en dessous duquel vous considérez que la charge des réclamations menace la solvabilité et justifie une liquidation ou provisionnement renforcé.\n\n2. **Calcul de l'exposition pondérée en fonction du risque (Risk-Weighted Exposure, RWE)** :  \n   - Évaluez",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 92,
+    "total_tokens": 272,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058601.6420007
+}

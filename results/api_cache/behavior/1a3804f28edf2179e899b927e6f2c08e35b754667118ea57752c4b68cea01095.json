@@ -1,0 +1,19 @@
+{
+  "content": "Mukhang ginamit mo ang mga terminong mula sa mundo ng finance tulad ng \"yield-to-maturity,\" \"rebalance,\" at \"accreditation coupon\" sa konteksto ng isang residency program at teaching portfolio. Ang mga terminong ito ay hindi karaniwang ginagamit sa edukasyon o residency programs, kaya maaaring nagkaroon ng kalituhan o metaphorical na paggamit.\n\nKung ang ibig mong sabihin ay kung gaano kaepektibo o \"return\" ng inyong teaching portfolio sa residency program (halimbawa, sa pag-develop ng mga residente), at kung dapat ba kayong mag-adjust ng focus (tulad ng pagdagdag ng procedural exposure) bago ang susunod na accreditation review, narito ang ilang puntos na maaaring makatulong:\n\n1. **Pagsusuri ng Kasalukuyang Portfolio**: Tingnan kung ang kasalukuyang teaching portfolio ay nakakatugon sa mga",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 86,
+    "total_tokens": 266,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058722.013203
+}

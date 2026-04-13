@@ -1,0 +1,19 @@
+{
+  "content": "النطاق المقبول لفارق نقاط الأساس بناءً على مشاعر الطرف المقابل على سندات الشركات ذات التصنيف الاستثماري وفقًا لـ FASB ASC 832 عادة يتراوح بين 5 إلى 20 نقطة أساس، مع الأخذ في الاعتبار ظروف السوق والسيولة الخاصة بالسندات.",
+  "usage": {
+    "completion_tokens": 63,
+    "prompt_tokens": 332,
+    "total_tokens": 395,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058744.9399877
+}

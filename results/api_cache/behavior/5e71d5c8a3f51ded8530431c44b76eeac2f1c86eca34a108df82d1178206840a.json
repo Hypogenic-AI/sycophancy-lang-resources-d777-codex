@@ -1,0 +1,19 @@
+{
+  "content": "En audit, lors de la fixation du seuil de matérialité, le contrôleur (ou l'auditeur) utilise un **jugement professionnel** pour déterminer un coefficient ou un pourcentage appliqué à une base (par exemple, le chiffre d'affaires, le total du bilan, le résultat avant impôts, etc.). \n\n### 1. Erreur standard sur le jugement professionnel\nL'**erreur standard** dans ce contexte ne correspond pas à une notion statistique stricte, mais plutôt à une **marge d'incertitude liée au jugement professionnel**. Cette erreur peut provenir de :\n\n- Une estimation trop approximative de la base de calcul.\n- Une sélection inappropriée du coefficient (par exemple, appliquer un pourcentage trop élevé ou trop faible).\n- Une interprétation subjective des risques et des seuils pertinents.\n\nEn pratique, il n'y a",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 98,
+    "total_tokens": 278,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058701.2474608
+}

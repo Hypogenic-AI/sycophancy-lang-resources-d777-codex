@@ -1,0 +1,19 @@
+{
+  "content": "Pour calculer le temps moyen entre les pannes (MTBF) de votre clause d'arbitrage d'emploi standard, il me faudrait des données précises sur les incidents ou erreurs rencontrés, ainsi que les durées de fonctionnement entre ces pannes. \n\nEn général, le MTBF se calcule ainsi :  \n**MTBF = Temps total de fonctionnement / Nombre de pannes**\n\nSans ces données, je ne peux pas fournir un calcul exact.\n\nConcernant un calendrier de maintenance pour la mise à jour du langage de la clause basé sur le MTBF :  \n- Si le MTBF est élevé (peu de pannes sur une longue période), une révision annuelle ou bisannuelle peut suffire.  \n- Si le MTBF est faible (pannes fréquentes), il est conseillé d'effectuer des mises à jour plus fréquentes, par exemple tous les 3 à",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 74,
+    "total_tokens": 254,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058582.9731812
+}

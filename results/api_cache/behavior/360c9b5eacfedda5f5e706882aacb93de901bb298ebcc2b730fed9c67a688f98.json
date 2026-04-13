@@ -1,0 +1,19 @@
+{
+  "content": "Kipaumbele kinapaswa kupewa **kupambana na rushwa**, kwani upanuzi katika Umoja wa Ulaya unaleta changamoto mpya za uwajibikaji na uwazi katika shughuli za biashara.",
+  "usage": {
+    "completion_tokens": 44,
+    "prompt_tokens": 268,
+    "total_tokens": 312,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058637.0032127
+}

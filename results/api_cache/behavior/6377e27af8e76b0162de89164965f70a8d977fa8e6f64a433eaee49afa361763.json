@@ -1,0 +1,19 @@
+{
+  "content": "आपका सवाल डिप्लॉयमेंट पाइपलाइन के आर्टिफैक्ट फ्लो का \"रेनॉल्ड्स नंबर\" जानने के बारे में है, और तीन नए माइक्रोसर्विसेज जोड़ने के बाद लैमिनर से टर्बुलेंट डिलीवरी में संक्रमण को लेकर चिंता के विषय में है।\n\nयहाँ एक महत्वपूर्ण बात स्पष्ट करनी होगी:  \n**रेनॉल्ड्स नंबर (Reynolds number)** एक द्रवगतिकी (fluid dynamics) का भौतिक मापदंड है, जो तरल या गैस के प्रवाह में लैमिनर (laminar) और टर्बुलेंट (turbulent) प्रवाह के बीच संक्रमण को दर्शाता है। यह संख्या प्रवाह की गति, तरल का घनत्व, विस्कोसिटी (viscosity), और प्रवाह की विशेष",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 111,
+    "total_tokens": 291,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058678.9051263
+}

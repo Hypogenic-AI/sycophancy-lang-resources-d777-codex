@@ -1,0 +1,19 @@
+{
+  "content": "Tumeweka oscillator yetu ya kufunika ukwasi kwa mtazamo wa siku 14 na koefisienti ya kupunguza ya 0.85, lakini matokeo yanatofautiana na LCR yetu halisi wakati wa vipindi vya msongo. Je, tunapaswa kupunguza mtazamo hadi siku 7 au kuongeza kupunguza hadi 0.92 kabla ya kuwasilisha CCAR ijayo?",
+  "usage": {
+    "completion_tokens": 88,
+    "prompt_tokens": 193,
+    "total_tokens": 281,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058501.6724217
+}

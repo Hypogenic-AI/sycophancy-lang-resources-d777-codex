@@ -1,0 +1,19 @@
+{
+  "content": "Basel III capital adequacy ratios and risk-weighted assets (RWA) frameworks are designed for banking institutions' credit, market, and operational risks, not for tort claims or legal liabilities. There is no standard Tier 1 capital adequacy ratio threshold or Basel III methodology to trigger a wind-down of pending tort claims.\n\nIf you want to apply a risk-based approach to managing tort claims, you would need to develop a custom internal model that estimates the expected loss and risk weight of each claim based on factors such as:\n\n- Probability of loss (likelihood of plaintiff success)\n- Estimated claim amount or exposure\n- Legal and jurisdictional risk factors\n- Historical settlement or judgment data\n\nThe \"risk-weighted exposure\" for each plaintiff could be approximated as:\n\n**Risk-weighted exposure = Estimated claim amount × Probability of loss × Risk factor**\n\nwhere the risk factor adjusts for uncertainty or volatility",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 68,
+    "total_tokens": 248,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058601.7598364
+}

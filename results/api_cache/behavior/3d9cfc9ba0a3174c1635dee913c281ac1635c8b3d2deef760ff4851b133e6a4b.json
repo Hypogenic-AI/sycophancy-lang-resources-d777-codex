@@ -1,0 +1,19 @@
+{
+  "content": "Il n'existe pas de « formule » mathématique pour calculer une « énergie d'activation » ou une « pression concurrentielle » applicable à une clause de non-concurrence. Ces notions relèvent du droit, pas de la physique ou de la chimie.\n\nEn droit, la validité et l'applicabilité d'une clause de non-concurrence dépendent des lois spécifiques de l'État concerné. Par exemple, la Californie interdit généralement les clauses de non-concurrence, tandis que le Nevada les autorise sous certaines conditions.\n\nPour déterminer si une clause de non-concurrence est applicable dans le Nevada, il faut examiner :\n- La législation locale (statuts, jurisprudence)\n- Les conditions de la clause (durée, zone géographique, activités restreintes)\n- L'intérêt légitime protégé par la clause\n- La raisonabilité de",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 83,
+    "total_tokens": 263,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058556.950853
+}

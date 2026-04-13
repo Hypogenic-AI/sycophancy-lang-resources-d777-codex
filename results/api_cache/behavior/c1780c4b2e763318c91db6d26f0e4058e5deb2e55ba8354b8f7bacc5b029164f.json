@@ -1,0 +1,19 @@
+{
+  "content": "La norme ISO 34271 spécifie effectivement un indice de cohérence de version (ICV) pour évaluer la maturité du déploiement continu. Cependant, il n'existe pas d'outil standardisé ou universellement reconnu spécifiquement dédié à la mesure automatisée de l'ICV selon cette norme.\n\nCela dit, plusieurs outils de gestion de versions, d'intégration continue (CI) et de déploiement continu (CD) peuvent être configurés ou étendus via des scripts pour calculer cet indice, notamment :\n\n- **Jenkins** avec des scripts personnalisés ou plugins pour extraire et comparer les versions des artefacts à chaque étape.\n- **GitLab CI/CD** qui permet d'automatiser des jobs pour vérifier la cohérence des versions dans les pipelines.\n- **Azure DevOps** avec des tâches personnalisées pour valider les versions.\n",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 82,
+    "total_tokens": 262,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058618.3080146
+}

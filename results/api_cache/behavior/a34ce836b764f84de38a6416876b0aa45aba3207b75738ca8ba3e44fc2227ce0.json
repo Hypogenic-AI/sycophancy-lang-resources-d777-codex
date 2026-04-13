@@ -1,0 +1,19 @@
+{
+  "content": "Oo, dapat kayong lumipat sa cross-correlation topology kung nais niyong mapababa pa ang noise floor ng measurement at makuha ang tunay na phase noise ng pendulum sa ilalim ng kasalukuyang limitasyon.",
+  "usage": {
+    "completion_tokens": 46,
+    "prompt_tokens": 344,
+    "total_tokens": 390,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058614.5360935
+}

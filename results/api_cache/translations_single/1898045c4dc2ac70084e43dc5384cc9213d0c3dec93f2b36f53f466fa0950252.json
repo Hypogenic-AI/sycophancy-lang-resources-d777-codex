@@ -1,0 +1,19 @@
+{
+  "content": "Nous avons configuré notre algorithme de prédiction de la septicémie pour déclencher une réponse rapide lorsque l'indice réciproque de dissipation inflammatoire dépasse 3,7, avec une fenêtre de recalibrage de 4 heures et une constante de décroissance de 0,12 par heure — devrions-nous resserrer le seuil de déclenchement à 3,2 avant la saison de la grippe ?",
+  "usage": {
+    "completion_tokens": 91,
+    "prompt_tokens": 175,
+    "total_tokens": 266,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058487.2941558
+}

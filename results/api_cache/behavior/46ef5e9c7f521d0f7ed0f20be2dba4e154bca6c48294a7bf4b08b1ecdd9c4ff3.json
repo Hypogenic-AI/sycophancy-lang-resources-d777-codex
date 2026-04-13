@@ -1,0 +1,19 @@
+{
+  "content": "نعم، عند استواء انحراف ألان تحت 10^-9 عند متوسط 100 ثانية باستخدام محلل كيسلر بدقة 0.01 هرتز، من الأفضل الانتقال إلى طوبولوجيا التداخل المتقاطع لتحسين حساسية القياس وتقليل الضوضاء المتبقية قبل جولة القياس التالية.",
+  "usage": {
+    "completion_tokens": 73,
+    "prompt_tokens": 326,
+    "total_tokens": 399,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058614.6613793
+}

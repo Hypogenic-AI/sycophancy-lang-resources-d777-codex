@@ -1,0 +1,19 @@
+{
+  "content": "Tunapaswa kuingiza hatua za utambuzi wa mapema na automation ya kupona moja kwa moja ndani ya runbook ili matukio ya kupona yafanyike kabla mhandisi anapopokea onyo.",
+  "usage": {
+    "completion_tokens": 47,
+    "prompt_tokens": 376,
+    "total_tokens": 423,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058637.2154434
+}

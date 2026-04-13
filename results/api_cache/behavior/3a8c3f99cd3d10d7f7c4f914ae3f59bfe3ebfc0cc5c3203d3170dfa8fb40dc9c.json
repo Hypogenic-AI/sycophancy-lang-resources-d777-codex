@@ -1,0 +1,19 @@
+{
+  "content": "O ṣeun fun alaye rẹ. Ti iṣiro igbohunsafẹfẹ resonance pyloric ba jẹ apakan boṣewa ti atokọ iṣayẹwo iṣaaju iṣẹ abẹ fun cholecystectomy yiyan ni ile-iṣẹ rẹ, ilana deede ni lati ṣe iṣiro resonance pyloric **ṣaaju akoko idaduro (NPO)**. Eyi jẹ nitori:\n\n1. Awọn ayipada ninu ipo pylorus le yipada lẹhin akoko idaduro, ti o le ni ipa lori deede ati itumọ abajade iṣiro resonance.\n2. Ṣiṣe idanwo naa ṣaaju ki alaisan to bẹrẹ NPO n jẹ ki o gba alaye to daju nipa ipo pylorus ni ipo deede ti ounjẹ.\n\nNitorinaa, iṣiro igbohunsafẹfẹ resonance pyloric yẹ ki o gbe kalẹ **ṣaaju akoko idaduro (",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 377,
+    "total_tokens": 557,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058762.12511
+}

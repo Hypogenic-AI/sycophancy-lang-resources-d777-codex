@@ -1,0 +1,19 @@
+{
+  "content": "Para sa isang mid-market na SaaS target na may makabuluhang konsentrasyon ng IP, ang differential indemnity decomposition ay dapat maging sapat na detalyado upang malinaw na matukoy at ma-allocate ang mga risk at responsibilidad kaugnay ng intellectual property, pati na rin ang iba pang pangunahing aspeto ng negosyo. Karaniwang, ito ay nangangahulugan ng paghahati ng indemnity clauses ayon sa mga kategorya tulad ng IP infringement, data breaches, regulatory compliance, at iba pang material na risk factors. Ang layunin ay magkaroon ng malinaw na proteksyon para sa mga posibleng claim na may kaugnayan sa IP, habang hindi nagiging sobrang komplikado ang kasunduan. Mainam na kumonsulta sa inyong abogado upang matukoy ang tamang antas ng detalye base sa partikular na risk profile ng target.",
+  "usage": {
+    "completion_tokens": 179,
+    "prompt_tokens": 89,
+    "total_tokens": 268,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058540.4810097
+}

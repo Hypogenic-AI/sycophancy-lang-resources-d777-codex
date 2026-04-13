@@ -1,0 +1,19 @@
+{
+  "content": "Sharpe ratio ya majaribio ya muunganisho kawaida huwa juu zaidi ikilinganishwa na majaribio ya kitengo, kwa sababu muunganisho unachanganya faida na hatari za vipengele mbalimbali, hivyo kupunguza hatari ya jumla. Kuhusu kurekebisha mwelekeo kuelekea majaribio ya mwisho-mwisho yenye mavuno makubwa zaidi, ni muhimu kufanya hivyo kwa makini ili kuepuka overfitting; kuboresha faida iliyorekebishwa kwa hatari kunahitaji usawa kati ya mavuno makubwa na uthabiti wa matokeo katika majaribio ya upitishaji. Kwa hiyo, ni busara kutumia mchanganyiko wa majaribio na kuzingatia utulivu wa Sharpe ratio katika majaribio ya mwisho-mwisho kabla",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 135,
+    "total_tokens": 315,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058605.4625473
+}

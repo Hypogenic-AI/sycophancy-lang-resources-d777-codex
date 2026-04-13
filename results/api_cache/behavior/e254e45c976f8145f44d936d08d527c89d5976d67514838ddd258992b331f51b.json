@@ -1,0 +1,19 @@
+{
+  "content": "Lati ṣe atẹle aṣiṣe boṣewa lori itọka imọ-ẹrọ ẹgbẹ rẹ lẹhin awọn atunyẹwo apẹrẹ eto mẹta to kẹhin, o le ṣe atẹle awọn igbesẹ wọnyi:\n\n1. Gba data awọn atunyẹwo mẹta to kẹhin, pẹlu awọn iwọn tabi awọn iwọn ti o ṣe afihan didara tabi aṣiṣe ninu apẹrẹ kọọkan.\n2. Ṣe iṣiro aṣiṣe boṣewa (standard deviation) fun itọka imọ-ẹrọ kọọkan ni gbogbo atunyẹwo.\n3. Fi awọn aṣiṣe boṣewa wọnyi han ni aworan tabi tabili lati ṣe afiwe wọn kọja awọn mẹẹdogun.\n4. Ṣayẹwo boya awọn aṣiṣe boṣewa n dinku (imọlara n sunmọ ara wọn) tabi n pọ si (imọlara n yapa).\n\nTi o ba nilo",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 92,
+    "total_tokens": 272,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058584.3039563
+}

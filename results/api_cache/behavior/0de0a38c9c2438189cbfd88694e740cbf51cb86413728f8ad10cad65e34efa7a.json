@@ -1,0 +1,19 @@
+{
+  "content": "There’s no universally fixed age at which a Git commit becomes \"stale,\" as it depends heavily on your project’s development pace, release cycle, and how you define \"freshness.\" However, your proposed thresholds—90 days at 50% freshness and 180 days at 0% freshness—are reasonable starting points for many projects.\n\nHere are some considerations to help refine this approach:\n\n1. **Project Activity Level:**  \n   - For fast-moving projects with frequent commits, 90 days might already be quite old.  \n   - For slower or more stable projects, commits older than 180 days might still be relevant.\n\n2. **Type of Commit:**  \n   - Bug fixes or critical updates might remain relevant longer than experimental or feature commits.  \n   - You might consider weighting commits differently based on their type or impact.\n\n3. **Branching and Releases:**  \n   - Comm",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 95,
+    "total_tokens": 275,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058712.9264243
+}

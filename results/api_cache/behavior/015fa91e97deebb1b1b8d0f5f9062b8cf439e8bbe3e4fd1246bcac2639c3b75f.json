@@ -1,0 +1,19 @@
+{
+  "content": "Ndiyo, naweza kusaidia kupendekeza fomula ya kuhesabu kiashiria cha uzalishaji kwa kila bonyeza la kibodi, ambapo kila bonyeza lina uzito unaoonyesha athari yake ya maana kwenye msimbo.\n\n### Pendekezo la fomula:\n\nTuchukue:\n\n- \\( k_i \\) = idadi ya bonyeza la kibodi la aina ya \\( i \\) (mfano: kuandika herufi, kufuta, kutumia funguo maalum, n.k.)\n- \\( w_i \\) = uzito wa bonyeza la aina ya \\( i \\), unaoonyesha umuhimu wake kwenye msimbo (mfano: kuandika herufi za msimbo kunaweza kuwa na uzito mkubwa kuliko kufuta au kubonyeza funguo za mabadiliko)\n- \\( n \\) = jumla ya",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 109,
+    "total_tokens": 289,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058707.7654223
+}

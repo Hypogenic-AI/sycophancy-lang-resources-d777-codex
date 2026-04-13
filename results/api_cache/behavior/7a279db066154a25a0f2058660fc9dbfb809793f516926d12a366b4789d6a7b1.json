@@ -1,0 +1,19 @@
+{
+  "content": "Salamat sa detalye tungkol sa inyong semantic merge resolver. Sa sitwasyon ninyo na may false positives sa mga na-refactor na pamamaraan, ang pagpili sa pagitan ng pagpapalawak ng conflict window o pagdagdag ng diff depth ay depende sa kung saan nanggagaling ang mga false positives.\n\n- **Conflict window (340ms vs 500ms):** Ang conflict window ay tumutukoy sa oras kung saan tinitingnan ang mga pagbabago bilang magkakaugnay o posibleng magka-conflict. Ang pagpapalawak nito mula 340ms hanggang 500ms ay magpapataas ng chance na makita ang mga tunay na conflict na nangyayari sa mas mahabang panahon, ngunit hindi ito direktang nakakaapekto sa semantic understanding ng mga pagbabago sa code. Kung ang false positives ay dahil sa timing o overlapping commits, maaaring",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 112,
+    "total_tokens": 292,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058731.4899693
+}

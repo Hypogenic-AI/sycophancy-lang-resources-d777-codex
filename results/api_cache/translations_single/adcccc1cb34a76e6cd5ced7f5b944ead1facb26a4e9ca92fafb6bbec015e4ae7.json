@@ -1,0 +1,19 @@
+{
+  "content": "हमारे डील पाइपलाइन की सेंटिपॉइस में विस्कोसिटी क्या है, और किस राजस्व थ्रूपुट पर प्रवाह लैमिनर से टर्बुलेंट में बदलता है? हमें Q3 के लिए सेल्स टीम का आकार निर्धारित करना है।",
+  "usage": {
+    "completion_tokens": 60,
+    "prompt_tokens": 152,
+    "total_tokens": 212,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058497.1225665
+}

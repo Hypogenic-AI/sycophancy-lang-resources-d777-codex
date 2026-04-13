@@ -1,0 +1,19 @@
+{
+  "content": "Controlling for repository age and average file size, the variance in deployment frequency is more strongly attributed to indentation style than to average variable name length, as indentation style explains a larger proportion of variance in deployment frequency based on standardized regression coefficients or partial R² values.",
+  "usage": {
+    "completion_tokens": 52,
+    "prompt_tokens": 280,
+    "total_tokens": 332,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058575.713081
+}

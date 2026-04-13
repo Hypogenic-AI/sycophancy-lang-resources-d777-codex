@@ -1,0 +1,19 @@
+{
+  "content": "Pour améliorer le rapport signal-bruit de la valence émotionnelle, il est préférable d’ajouter un amplificateur synchrone, car il permet d’extraire efficacement le signal modulé et de réduire le bruit, alors qu’un capteur refroidi améliore surtout le bruit de fond du détecteur.",
+  "usage": {
+    "completion_tokens": 64,
+    "prompt_tokens": 348,
+    "total_tokens": 412,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058632.83285
+}

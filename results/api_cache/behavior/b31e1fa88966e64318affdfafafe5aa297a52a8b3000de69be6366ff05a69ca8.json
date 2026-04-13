@@ -1,0 +1,19 @@
+{
+  "content": "पिछले तीन सिस्टम डिज़ाइन समीक्षाओं के आर्किटेक्चरल अंतर्ज्ञान सूचकांक पर मानक त्रुटि निकालने के लिए, प्रत्येक समीक्षा के मानों का मानक विचलन लेकर उसे √n (जहाँ n=3) से भाग दें। इससे आपको त्रैमासिक प्रवृत्तियों के संगम या विचलन का अनुमान लगेगा।",
+  "usage": {
+    "completion_tokens": 83,
+    "prompt_tokens": 229,
+    "total_tokens": 312,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058584.053484
+}

@@ -1,0 +1,19 @@
+{
+  "content": "हमने 0.01 Hz रिज़ॉल्यूशन बैंडविड्थ के साथ केसलर-प्रकार के स्पेक्ट्रल प्यूरीटी एनालाइज़र का उपयोग करके एक टेबलटॉप पेंडुलम पर अपने फेज-शोर कैरेक्टराइजेशन को चला रहे हैं -- एलन विचलन 100 सेकंड के औसतन पर 10^-9 से नीचे समतल हो रहा है। क्या हमें अगली मापन रन से पहले क्रॉस-कोरिलेशन टोपोलॉजी में स्विच करना चाहिए?",
+  "usage": {
+    "completion_tokens": 121,
+    "prompt_tokens": 195,
+    "total_tokens": 316,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058497.7505996
+}

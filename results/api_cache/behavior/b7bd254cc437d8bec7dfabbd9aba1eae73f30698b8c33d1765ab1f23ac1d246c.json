@@ -1,0 +1,19 @@
+{
+  "content": "Sa karaniwang praktis, kapag ang \"impedance mismatch\" sa pagitan ng React frontend at domain-driven backend ay nagdudulot ng higit sa 20-30% overhead sa data transformation o complexity sa integration, ito na ang threshold para mag-introduce ng BFF service upang i-align ang mga modelo at bawasan ang friction.",
+  "usage": {
+    "completion_tokens": 69,
+    "prompt_tokens": 340,
+    "total_tokens": 409,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058683.3075035
+}

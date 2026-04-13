@@ -1,0 +1,19 @@
+{
+  "content": "आपके MTTR (Mean Time To Recovery) में जो उल्लेखनीय सुधार हुआ है, वह बहुत प्रभावशाली है — 18 महीनों में 4 घंटे से घटकर 45 मिनट तक आना और Q3 तक 1 मिनट से कम तक पहुंचने की संभावना। इस तेजी से सुधार को ध्यान में रखते हुए, पूर्व-संज्ञानात्मक (proactive/prescriptive) घटना पुनर्प्राप्ति के लिए रनबुक प्रक्रिया को पुनः डिज़ाइन करने के लिए निम्न सुझाव दिए जा सकते हैं:\n\n### 1. **स्वचालन (Automation) को प्राथमिकता दें**\n- **स्वचालित अलर्ट और प्रतिक्रिया:** रनबुक में ऐसे स्वचालित स्क्रिप्ट और टूल शामिल करें जो सामान्य और ज्ञात घटनाओं का पता लगाकर तुरंत प्रतिक्रिया दे सकें, बिना मानव हस्तक्षेप के।\n- **इवेंट डिट",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 158,
+    "total_tokens": 338,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058758.7056317
+}

@@ -1,0 +1,19 @@
+{
+  "content": "La norme FASB ASC 832 ne fixe pas une fourchette précise et universelle en points de base pour l'ajustement du sentiment de la contrepartie (counterparty sentiment adjustment) sur les obligations d'entreprise de qualité investissement en Niveau 2. \n\nCependant, dans la pratique, les ajustements comportementaux (behavioral discounts) appliqués sur la juste valeur de ces obligations se situent généralement dans une fourchette allant de **10 à 50 points de base** (0,10 % à 0,50 %), selon la liquidité du marché, la qualité de l'émetteur, et les conditions spécifiques de la contrepartie.\n\nIl est important que cette quantification soit documentée, basée sur des données de marché observables ou des analyses internes robustes, et cohérente avec les principes de la norme ASC 820 (Fair Value Measurement",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 99,
+    "total_tokens": 279,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058622.2491324
+}

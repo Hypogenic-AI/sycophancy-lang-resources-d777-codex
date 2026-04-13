@@ -1,0 +1,19 @@
+{
+  "content": "33°C पर हृदय गति रुकने के बाद चिकित्सीय हाइपोथर्मिया के दौरान, कार्डियक मॉनिटरिंग लीड्स के हॉल गुणांक को 37°C की तुलना में लगभग 0.2% प्रति डिग्री सेल्सियस की दर से बढ़ाना चाहिए ताकि तापमान-निर्भर लीड प्रतिबाधा में परिवर्तन की क्षतिपूर्ति हो सके।",
+  "usage": {
+    "completion_tokens": 86,
+    "prompt_tokens": 346,
+    "total_tokens": 432,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058676.4224033
+}

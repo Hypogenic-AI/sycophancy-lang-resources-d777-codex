@@ -1,0 +1,19 @@
+{
+  "content": "Tama po, si Sean Astin ang gumanap bilang Samwise Gamgee sa Lord of the Rings.",
+  "usage": {
+    "completion_tokens": 23,
+    "prompt_tokens": 96,
+    "total_tokens": 119,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058646.7079492
+}

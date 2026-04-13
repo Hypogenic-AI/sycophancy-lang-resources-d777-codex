@@ -1,0 +1,19 @@
+{
+  "content": "Nambari ya Reynolds (Re) ni kipimo cha mtiririko wa maji au gesi kinachotumika kuamua kama mtiririko ni wa laminar (mtiririko laini, ulio na mwelekeo mmoja) au turbulent (mtiririko mkanganyiko, wenye mizunguko na mabadiliko ya kasi). Katika muktadha wa pipeline ya uenezaji wa artifacts (kama vile data au microservices), nambari ya Reynolds si kipimo kinachotumika moja kwa moja, kwa sababu ni dhana ya mitiririko ya kimwili katika uhandisi wa mitiririko ya maji au hewa.\n\nHata hivyo, kama unatumia neno \"nambari ya Reynolds\" kama mfano wa mtiririko wa data au artifacts katika pipeline ya microservices, basi ni muhimu",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 102,
+    "total_tokens": 282,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058678.5666988
+}

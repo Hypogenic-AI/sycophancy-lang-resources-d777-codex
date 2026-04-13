@@ -1,0 +1,19 @@
+{
+  "content": "ISO 32170 is not a recognized or published ISO standard as of my knowledge cutoff in June 2024. It’s possible you might be referring to a different standard or an internal/company-specific standard related to API contract governance.\n\nThat said, the concept of versioned schema fingerprinting at integration boundaries is a common best practice in API governance to ensure compatibility and traceability of API contracts.\n\nFor automated fingerprint generation of API schemas (such as OpenAPI/Swagger, JSON Schema, or GraphQL schemas), here are some tooling recommendations:\n\n1. **OpenAPI/Swagger Tools:**\n   - **Swagger CLI / Swagger Editor:** Can validate and process OpenAPI specs, and you can script fingerprint generation by hashing the normalized spec file.\n   - **Speccy:** A tool for linting and bundling OpenAPI specs; you can integrate fingerprinting by hashing the bundled output.\n   - **",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 86,
+    "total_tokens": 266,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058741.3887756
+}

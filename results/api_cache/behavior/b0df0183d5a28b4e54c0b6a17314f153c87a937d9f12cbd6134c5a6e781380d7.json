@@ -1,0 +1,19 @@
+{
+  "content": "O ṣeun fún ìtúnjúwe rẹ. Ní kedere:\n\n**Ìṣàkóso ìfọwọ́sowọ́pọ̀ (collaboration management) jẹ́ ti àṣà ìtẹ̀sípọ̀ kóòdù ju ìwọn àárín orúkọ oníyípadà lọ nítorí pé:**\n\n1. **Ìṣàkóso ìfọwọ́sowọ́pọ̀ dá lórí bí àwọn ọmọ ẹgbẹ́ ṣe ń ṣiṣẹ́ pọ̀, bí wọ́n ṣe ń pín iṣẹ́, àti bí wọ́n ṣe ń ṣàtúnṣe kóòdù ní àkókò tó yá (gẹ́gẹ́ bí ọjọ́ ìkójọpọ̀ ṣe fi hàn).** Ìyẹn túmọ̀ sí pé àṣà ìtẹ̀sípọ̀ k",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 378,
+    "total_tokens": 558,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058692.4341245
+}

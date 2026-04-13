@@ -1,0 +1,19 @@
+{
+  "content": "सबसे अधिक संज्ञानात्मक भार आमतौर पर जटिल लॉजिक, नेस्टेड कंडीशंस, और अनजान नामों वाले टोकनों पर होता है; इसे सरल और स्पष्ट नामकरण, छोटे फ़ंक्शन में विभाजन, और स्पष्ट नियंत्रण प्रवाह से पुनर्वितरित किया जा सकता है।",
+  "usage": {
+    "completion_tokens": 69,
+    "prompt_tokens": 205,
+    "total_tokens": 274,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058590.8107677
+}

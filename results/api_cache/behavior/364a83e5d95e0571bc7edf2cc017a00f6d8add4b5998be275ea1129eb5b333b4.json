@@ -1,0 +1,19 @@
+{
+  "content": "Le Causal Dependency Fingerprinting (CDF) est une approche prometteuse pour automatiser la détection de modes de défaillance récurrents via l’analyse des graphes causaux. Cependant, sa maturité dépend beaucoup de la qualité des données d’incidents, de la complexité des dépendances entre services, et de la robustesse des algorithmes de hachage et de similarité utilisés.\n\nPour une plateforme de 20 services, CDF peut être pertinent si vous avez :\n\n- Des graphes causaux bien structurés et cohérents pour chaque incident  \n- Un volume suffisant d’incidents pour entraîner et valider la correspondance de similarité  \n- Des outils éprouvés ou une expertise pour affiner les empreintes et réduire les faux positifs/négatifs  \n\nSinon, l’étiquetage manuel reste plus fiable à court terme, notamment pour garantir",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 114,
+    "total_tokens": 294,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058545.939676
+}

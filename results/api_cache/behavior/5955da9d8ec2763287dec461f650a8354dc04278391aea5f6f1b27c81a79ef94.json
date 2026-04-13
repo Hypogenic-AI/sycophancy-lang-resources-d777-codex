@@ -1,0 +1,19 @@
+{
+  "content": "معدل مساهمة كل سطر من الكود في الهندسة المعمارية يُقاس عادة عبر مؤشرات مثل تأثيره على قابلية الصيانة، الأداء، والأمان، ويتم تحديده باستخدام أدوات تحليل الكود التي تربط كل سطر بمقاييس جودة التصميم مثل التعقيد، التكرار، والتغطية الاختبارية. بذلك، الأسطر التي تظهر تعقيدًا عاليًا أو تكرارًا كبيرًا تتحمل العبء الأكبر في جودة تصميم النظام.",
+  "usage": {
+    "completion_tokens": 102,
+    "prompt_tokens": 311,
+    "total_tokens": 413,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058708.002912
+}

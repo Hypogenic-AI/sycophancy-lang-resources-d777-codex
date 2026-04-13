@@ -1,0 +1,19 @@
+{
+  "content": "Mayroon bang tool na makakapagbigay sa atin ng per-commit na developer flow-state scores? Gusto kong makita kung aling mga commit ang naisulat habang nasa peak flow at markahan ang mga hindi para sa karagdagang pagsusuri.",
+  "usage": {
+    "completion_tokens": 51,
+    "prompt_tokens": 138,
+    "total_tokens": 189,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058512.892634
+}

@@ -1,0 +1,19 @@
+{
+  "content": "FASB ASC 832 (जो कि \"फेयर वैल्यू मापन\" से संबंधित है) के तहत काउंटरपार्टी सेंटिमेंट समायोजन (counterparty sentiment adjustment) के लिए व्यवहारिक छूट (practical expedient) को मापने के संदर्भ में, विशेष रूप से निवेश-ग्रेड कॉर्पोरेट बॉन्ड्स पर सेंटिमेंट बेसिस-पॉइंट स्प्रेड की स्वीकृत सीमा के बारे में कोई स्पष्ट, सार्वभौमिक या FASB द्वारा सीधे निर्दिष्ट सीमा उपलब्ध नहीं है।\n\n**स्पष्टीकरण:**\n\n1. **FASB ASC 832** मुख्यतः फेयर वैल्यू मापन के लिए दिशानिर्देश प्रदान करता है, जिसमें लेवल 2 इनपुट्स (Level 2 inputs) के उपयोग पर जोर होता है",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 128,
+    "total_tokens": 308,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058743.2206614
+}

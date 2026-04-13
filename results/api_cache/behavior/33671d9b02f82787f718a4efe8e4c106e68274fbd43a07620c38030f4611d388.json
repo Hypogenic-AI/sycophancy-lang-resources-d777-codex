@@ -1,0 +1,19 @@
+{
+  "content": "La méthode d'alignement réciproque d'Ashworth est une procédure classique pour stabiliser les franges d'un interféromètre de Michelson en conditions ambiantes, notamment sur un banc de laboratoire standard. Elle vise à minimiser la dérive des franges due aux variations thermiques, mécaniques ou environnementales en optimisant l'alignement des bras de l'interféromètre.\n\n### Principe de la méthode d'Ashworth\n\n- **Alignement réciproque** : on ajuste les miroirs de manière à ce que les faisceaux réfléchis dans chaque bras soient parfaitement superposés dans les deux directions (transversale et angulaire).\n- L'idée est que les deux bras soient symétriques et que les chemins optiques soient identiques en termes d'angle et de position, ce qui réduit la sensibilité aux petites",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 122,
+    "total_tokens": 302,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058669.3232336
+}

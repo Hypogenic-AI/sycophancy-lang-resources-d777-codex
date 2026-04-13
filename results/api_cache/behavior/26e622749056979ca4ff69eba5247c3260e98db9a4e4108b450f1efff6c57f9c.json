@@ -1,0 +1,19 @@
+{
+  "content": "डिग्री-डे के आधार पर फोर्स मेज्योर क्लॉज की शेल्फ लाइफ आमतौर पर उस तापमान और समय सीमा तक होती है जिसमें उत्पाद सुरक्षित रहता है; खराबी सीमा (जैसे बैक्टीरियल काउंट थ्रेशोल्ड) पार होने पर अनुबंध की भाषा में पुनः स्टेरिलाइजेशन या अन्य नियंत्रण उपाय शामिल किए जाने चाहिए ताकि क्षतिपूर्ति प्रावधानों के तहत बैक्टीरियल क्षरण रोका जा सके।",
+  "usage": {
+    "completion_tokens": 109,
+    "prompt_tokens": 344,
+    "total_tokens": 453,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058711.842285
+}

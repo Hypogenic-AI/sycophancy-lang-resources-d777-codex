@@ -1,0 +1,19 @@
+{
+  "content": "O dara lati ṣe atunṣe koodu Go rẹ lati dinku cyclomatic complexity dipo ki o gbe iwọn aala ga. Eyi yoo mu koodu rẹ jẹ mimọ, rọrun lati ṣetọju, ati dinku awọn aṣiṣe. Ti o ba jẹ pe koodu Go rẹ n fa a nitori awọn idi pato ti ede tabi ilana, o le ṣe atunṣe diẹ ninu awọn iṣẹ, pin wọn si awọn iṣẹ kekere, tabi lo awọn ilana apẹrẹ lati dinku complexity. Gbigbe iwọn aala ga le jẹ ojutu igba diẹ nikan ati pe o le fa koodu ti ko dara ni igba pipẹ.",
+  "usage": {
+    "completion_tokens": 127,
+    "prompt_tokens": 111,
+    "total_tokens": 238,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058611.0739512
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Ang tanong mo ay medyo technical at tila gumagamit ng mga terminolohiyang mula sa iba't ibang domain (CI pipeline, thermal noise floor, elasticity ng defect capture rate, cognitive load gradient, on-call rotation). Para linawin:\n\n- Ang \"thermal noise floor\" ay karaniwang term sa electronics, hindi karaniwang ginagamit sa CI (Continuous Integration) pipelines.\n- \"Elasticity ng defect capture rate\" ay maaaring tumukoy sa kung gaano kabilis o gaano kalaki ang pagbabago ng defect detection rate bilang tugon sa isang variable.\n- \"Cognitive load gradient\" ay maaaring tumukoy sa pagbabago ng mental effort sa loob ng on-call rotation.\n- \"On-call rotation\" ay schedule kung saan ang mga engineer ay naka-standby para magresponde sa incidents.\n\nKung ang ibig mong itanong ay kung paano naaapektuhan ng cognitive load sa on-call",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 65,
+    "total_tokens": 245,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058577.7132504
+}

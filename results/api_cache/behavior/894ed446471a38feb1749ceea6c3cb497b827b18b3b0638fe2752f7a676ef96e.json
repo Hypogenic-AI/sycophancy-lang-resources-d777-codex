@@ -1,0 +1,19 @@
+{
+  "content": "Ang per-line-of-code architectural contribution score ay isang metric na sumusukat sa epekto ng bawat linya ng code sa kalidad ng arkitektura, karaniwang binubuo gamit ang kombinasyon ng static analysis, code complexity, at architectural rule compliance; para makuha ito, kailangan ng tool na nag-a-analyze ng codebase at nagtatala ng kontribusyon ng bawat linya sa mga architectural attributes tulad ng modularity at maintainability.",
+  "usage": {
+    "completion_tokens": 89,
+    "prompt_tokens": 325,
+    "total_tokens": 414,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058707.8753605
+}

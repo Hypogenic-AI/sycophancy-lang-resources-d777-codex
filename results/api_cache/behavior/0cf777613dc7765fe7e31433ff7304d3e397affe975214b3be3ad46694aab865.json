@@ -1,0 +1,19 @@
+{
+  "content": "Ili kubuni upya mchakato wa runbook kwa kupona matukio kabla ya utambuzi, fuata hatua hizi:\n\n1. **Automatisha Utambuzi**: Tumia zana za monitoring na alerting zinazotambua matatizo mara tu yanapotokea, kama vile alerts za realtime na anomaly detection.\n\n2. **Ongeza Uwezo wa Kujibu Haraka**: Tengeneza scripts au workflows za kuanzisha hatua za kupona moja kwa moja (auto-remediation) bila kusubiri mhandisi kuingilia kati.\n\n3. **Panga Runbook kwa Hatua za Haraka**: Andika hatua za kupona zenye maelekezo ya haraka na rahisi kufuata, zikiwemo hatua za kuanzisha upya huduma, kuondoa cache, au kurekebisha miundomb",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 147,
+    "total_tokens": 327,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058636.479364
+}

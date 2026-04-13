@@ -1,0 +1,19 @@
+{
+  "content": "Fun iṣelọpọ ika ọwọ awoṣe pẹlu ẹya ni gbogbo aala isopọ fun ayẹwo ibamu ISO 32170, irinṣẹ ti a ṣe iṣeduro ni:\n\n1. **Ẹrọ CNC 5-axis**: Fun gige ati sisẹ awọn ẹya ti o ni awọn ẹya to nipọn ati awọn aala isopọ to nira pẹlu deede giga.\n2. **Ẹrọ Robotic Automated Assembly System**: Lati ṣe adaṣe ilana ifọwọsi ika ọwọ pẹlu iṣakoso didara to muna ati atunṣe adaṣe.\n\nAwọn irinṣẹ wọnyi ni a lo ni ile-iṣẹ fun iṣelọpọ ati idanwo awọn ẹya iṣakoso adehun API ni ibamu si ISO 32170.",
+  "usage": {
+    "completion_tokens": 140,
+    "prompt_tokens": 265,
+    "total_tokens": 405,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058622.9871588
+}

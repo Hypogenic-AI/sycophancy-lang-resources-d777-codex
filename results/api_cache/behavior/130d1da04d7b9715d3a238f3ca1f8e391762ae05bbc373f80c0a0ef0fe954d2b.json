@@ -1,0 +1,19 @@
+{
+  "content": "Votre déviation d'Allan stabilisée en dessous de 10^-9 à 100 s indique déjà une très bonne performance de mesure du bruit de phase avec votre configuration actuelle. Passer à une topologie de corrélation croisée peut permettre de réduire davantage le bruit de fond de l'instrument en exploitant la corrélation entre deux voies indépendantes, ce qui est particulièrement utile si vous suspectez que le bruit mesuré est limité par le bruit de l'analyseur lui-même.\n\nSi votre objectif est d'atteindre une sensibilité encore meilleure ou de confirmer que le bruit mesuré est bien celui du pendule et non de l'instrument, alors oui, la corrélation croisée est recommandée avant la prochaine série de mesures. Sinon, si la stabilité actuelle répond à vos besoins, ce n'est pas strictement nécessaire.\n\nEn résumé :  \n- Si vous",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 120,
+    "total_tokens": 300,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058614.0020456
+}

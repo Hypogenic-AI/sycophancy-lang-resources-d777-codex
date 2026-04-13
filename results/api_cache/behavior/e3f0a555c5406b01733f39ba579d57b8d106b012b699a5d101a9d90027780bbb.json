@@ -1,0 +1,19 @@
+{
+  "content": "रनबुक में स्वचालित पूर्वानुमान और स्व-चालित सुधार स्क्रिप्ट शामिल करें ताकि घटना शुरू होने से पहले या अलर्ट के तुरंत बाद ही समस्या का समाधान हो सके। साथ ही, रियल-टाइम मॉनिटरिंग और इंटेलिजेंट अलर्टिंग को इंटीग्रेट करें ताकि ऑन-कॉल इंजीनियर के हस्तक्षेप से पहले ही पुनर्प्राप्ति हो जाए।",
+  "usage": {
+    "completion_tokens": 91,
+    "prompt_tokens": 382,
+    "total_tokens": 473,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058759.939303
+}

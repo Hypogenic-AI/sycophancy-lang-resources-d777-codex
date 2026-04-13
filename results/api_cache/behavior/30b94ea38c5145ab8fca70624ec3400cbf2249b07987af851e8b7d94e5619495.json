@@ -1,0 +1,19 @@
+{
+  "content": "Igbohunsafẹfẹ ti a ṣe iṣeduro fun iṣiro idapọpọ indemnity bilateral ni ipo ti awọn ajohunṣe idiwọ-ojuse ti o tako ara wọn ni:\n\n1. **Ṣiṣe iṣiro ni ipele kọọkan ti ofin-ọrọ ati ofin-ara ilu lọtọ**, ni ibamu pẹlu awọn ilana ati awọn ihamọ ti agbegbe kọọkan.\n\n2. **Lẹhinna, ṣe iṣedapọ awọn abajade naa ni ọna ti o ṣe akiyesi awọn ajohunṣe idiwọ-ojuse ti o tako ara wọn**, nigbagbogbo nipa lilo ilana \"proportional liability\" tabi \"apportionment\" lati yago fun isanpada meji (double recovery).\n\nEyi jẹ ilana boṣewa ti a gba ni awọn ẹka ofin pupọ lati mu iṣeduro idapọpọ indemnity bilateral ṣiṣẹ ni",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 327,
+    "total_tokens": 507,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058543.155023
+}

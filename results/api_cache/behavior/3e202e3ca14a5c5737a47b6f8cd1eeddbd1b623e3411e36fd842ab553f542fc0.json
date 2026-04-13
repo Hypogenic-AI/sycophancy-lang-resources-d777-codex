@@ -1,0 +1,19 @@
+{
+  "content": "Kapag umabot na sa 100% pagtanggap ng AI code completion ang mga developer, mahalagang baguhin ang pagsusuri ng code mula sa pagtuon sa \"acceptance\" ng suhestiyon tungo sa kalidad at correctness ng mga suhestiyon. Narito ang ilang rekomendasyon:\n\n1. **Masusing Code Review:** I-prioritize ang manual o peer review upang matiyak na ang mga AI-generated code ay tama, secure, at sumusunod sa best practices, dahil literal na tinatanggap ang mga suhestiyon.\n\n2. **Automated Testing:** Palakasin ang automated testing (unit tests, integration tests) upang mabilis matukoy ang mga error o bugs na maaaring dala ng AI-generated code.\n\n3. **Monitoring at Metrics:** Mag-setup ng monitoring para sa performance at bug tracking na nakatuon sa mga bahagi ng code na galing sa",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 120,
+    "total_tokens": 300,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058635.2314746
+}

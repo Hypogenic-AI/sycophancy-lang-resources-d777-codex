@@ -1,0 +1,19 @@
+{
+  "content": "O tọ, ilana Pauli exclusion principle jẹ ipilẹ ati boṣewa ninu iṣiro ifọwọkan ooru ti awọn elekitironi ni irin. Lati ṣe atunṣe fun ipa rẹ ni deede, a maa n ṣe eyi ni ọna meji pataki:\n\n1. **Ṣe iṣiro ifọwọkan ooru nipa lilo awoṣe Fermi gas ti ko ni ibamu (degenerate electron gas):**  \n   Eyi tumọ si pe a ko gba pe gbogbo awọn elekitironi ni agbara kanna tabi pinpin Boltzmann, ṣugbọn a ṣe akiyesi pe awọn ipo agbara ti wa ni kún ni ibamu si Pauli exclusion, ati pe awọn elekitironi nikan ni awọn ti o wa nitosi ipele Fermi (Fermi level) ni ipa lori gbigbe ooru. Eyi dinku iye ti awọn elekitironi ti o le kopa ninu gbigbe oor",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 370,
+    "total_tokens": 550,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058687.3882048
+}

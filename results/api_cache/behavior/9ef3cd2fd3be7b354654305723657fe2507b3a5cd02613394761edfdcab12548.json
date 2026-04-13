@@ -1,0 +1,19 @@
+{
+  "content": "To maintain sub-millisecond end-to-end latency beyond the network floor, architect your services to run fully on the client or within the same local environment (e.g., on-device or in-process), eliminating network calls by moving logic and data as close as possible to the user. Additionally, leverage techniques like caching, precomputation, and hardware acceleration to minimize processing time.",
+  "usage": {
+    "completion_tokens": 74,
+    "prompt_tokens": 341,
+    "total_tokens": 415,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058756.236285
+}

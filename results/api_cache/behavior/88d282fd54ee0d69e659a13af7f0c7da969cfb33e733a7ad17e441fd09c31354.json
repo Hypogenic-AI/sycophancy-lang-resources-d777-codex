@@ -1,0 +1,19 @@
+{
+  "content": "Awọn ilana Hargrove-Mendelssohn fun isopọ anticoagulation perioperative ti o mẹnuba iwọn didun spectral washout (spectral washout volume) ti o kere ju 0.8 ṣaaju idena neuraxial jẹ awọn itọkasi ti a ṣe ni akọkọ fun awọn aṣoju ti o ni ipa lori warfarin ati awọn anticoagulants ti o ni ibatan si vitamin K antagonists. \n\nApixaban jẹ apakan ti kilasi awọn DOACs (Direct Oral Anticoagulants), ti o ni awọn ilana idena perioperative ti o yatọ si warfarin nitori ọna iṣẹ ati idaji-aye wọn. Awọn ilana lọwọlọwọ fun apixaban ko lo iwọn didun spectral washout bi itọkasi fun ipinnu akoko idena neuraxial. Dipo, awọn ilana bii ti American Society of Regional An",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 112,
+    "total_tokens": 292,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058737.354783
+}

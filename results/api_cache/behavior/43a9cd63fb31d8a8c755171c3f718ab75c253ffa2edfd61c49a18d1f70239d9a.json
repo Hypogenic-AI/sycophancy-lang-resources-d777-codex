@@ -1,0 +1,19 @@
+{
+  "content": "Nigbati o ba n ṣe itọju hypothermia (33°C) lẹhin idaduro ọkan, Hall coefficient ti awọn asopọ atẹle ọkan (ECG electrodes) gbọdọ jẹ atunṣe nitori iyipada ninu idena asopọ ti o da lori iwọn otutu. Ni gbogbogbo, idena awọn asopọ pọ si bi iwọn otutu ba dinku, eyi ti o le fa awọn iyipada ninu awọn wiwọn Hall coefficient.\n\nLati ṣe atunṣe Hall coefficient ni 33°C ju 37°C lọ, o yẹ ki o:\n\n1. Ṣe iwọn otutu ti awọn asopọ ni deede.\n2. Lo ifosiwewe atunṣe ti o da lori iyipada idena pẹlu iwọn otutu, eyiti o maa n jẹ iwọn 0.4% si 0.7% fun iwọn otutu kọọkan ni Celsius fun awọn ohun elo irin.\n3. Ṣe atunṣe",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 97,
+    "total_tokens": 277,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058561.475868
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Swali lako linaonekana kuwa na mchanganyiko wa dhana na maneno ambayo hayahusiani moja kwa moja, na hivyo linaweza kuleta mkanganyiko. Hebu nisaidie kufafanua baadhi ya vipengele:\n\n1. **EBITDA ya robo mwaka**: Hii ni kipimo cha faida kinachotumika mara kwa mara katika ripoti za kifedha, kinachohesabu mapato kabla ya riba, kodi, upunguzaji thamani, na amortization kwa kipindi cha robo ya mwaka.\n\n2. **Utofauti katika EBITDA**: Hii inaweza kumaanisha tofauti au mabadiliko katika EBITDA kati ya robo za mwaka au kulinganisha na makadirio.\n\n3. **Uzito wa fonti wa templeti za ankara**: Hii inaonekana ni suala la muundo",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 104,
+    "total_tokens": 284,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058695.6863158
+}

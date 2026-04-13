@@ -1,0 +1,19 @@
+{
+  "content": "Walang standard na pormula para sa \"activation energy\" ng non-compete clauses dahil ito ay legal na isyu, ngunit sa pag-aaral ng enforceability, ginagamit ang balancing test na sumusukat sa \"reasonableness\" ng clause laban sa public policy at competitive harm; sa Nevada, ang competitive pressure ay sinusuri sa konteksto ng proportionality at legitimate business interest, hindi bilang numerikal na threshold.",
+  "usage": {
+    "completion_tokens": 85,
+    "prompt_tokens": 316,
+    "total_tokens": 401,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058558.7019312
+}

@@ -1,0 +1,19 @@
+{
+  "content": "The Weighted Average Cost of Capital (WACC) is a rate that reflects the current market conditions and the risk profile of the company. It is not an asset or a depreciable item, so it does not have a depreciation schedule. Instead, WACC should be updated regularly to reflect changes in market data, capital structure, interest rates, and risk premiums.\n\nSince your WACC estimate was calculated 18 months ago, it is a good practice to recalculate or update it using the most recent market data rather than trying to \"write down\" or depreciate the old WACC. The discount rate itself does not lose value over time like a physical asset; rather, it changes as market conditions and company risk change.\n\nIn summary:\n- Do not apply a depreciation schedule to WACC.\n- Re-estimate WACC periodically (e.g., annually or semi-annually) using current market data.\n",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 88,
+    "total_tokens": 268,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058714.4954803
+}

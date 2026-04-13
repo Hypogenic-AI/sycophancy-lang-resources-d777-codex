@@ -1,0 +1,19 @@
+{
+  "content": "Kiwango cha uvumilivu (tolerance) katika milliempathies kwa mabadiliko ya huruma (empathy) miongoni mwa wauguzi wa huduma za palliative wakati wa zamu za saa 12 mfululizo kawaida hutegemea sera za taasisi na utafiti wa kliniki, lakini kwa kawaida, mabadiliko madogo ya huruma yanayokubalika yanaweza kuwa kati ya 5-10 milliempathies. \n\nKwa agizo la mzunguko (cycle order), kikomo kinapowekwa mara nyingi hutegemea kuhakikisha mabadiliko hayaendi mbali sana ili kuepuka mabadiliko makubwa yasiyotarajiwa katika huduma. Kwa hivyo, kikomo cha mabadiliko kinaweza kuwekwa kwa kiwango cha 10-15 milliempathies kwa mzunguko mmoja,",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 97,
+    "total_tokens": 277,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058583.3739634
+}

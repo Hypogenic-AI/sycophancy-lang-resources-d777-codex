@@ -1,0 +1,19 @@
+{
+  "content": "Lati ṣe àtúnṣe fún ìpinnu ìfarapa ilẹ̀ Lindqvist-Hagen (L-H) nígbà tí a bá ń ṣe ìwọn àfikún ìpadà fún bọ́ọ̀lù irin lórí ilẹ̀ granite, o yẹ kí a:\n\n1. Lo àtúnṣe L-H gẹ́gẹ́ bí àfikún ìpadà tó dá lórí ìwọn ìfarapa ilẹ̀, nítorí pé àtúnṣe yìí ń ṣe àkóso fún ìpinnu ìpadà tó péye ju ìmọ̀ràn ìtẹ́numọ́ lọ.\n\n2. Ṣàtúnṣe iye ìpadà tó wà ní ìwọn rẹ̀ pẹ̀lú àfikún 3% tàbí díẹ̀ síi, kí ìpinnu",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 398,
+    "total_tokens": 578,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058558.6005404
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Your question involves how to handle the \"amortization\" or depreciation of calibration constants in neutron scattering measurements after a beamline upgrade changes the detector geometry. This is a somewhat unusual use of the term \"amortization schedule,\" which is typically financial, but I understand you want to pro-rate or phase out the old calibration constants' validity over time relative to the new setup.\n\nHere are some considerations and a suggested approach:\n\n1. **Understand the Impact of the Upgrade:**  \n   The beamline upgrade, especially changes in detector geometry, will affect the calibration constants' validity. The old constants may no longer be fully accurate, but they might still be partially useful during a transition period.\n\n2. **Define the Useful Life of Calibration Constants:**  \n   Calibration constants typically have a \"useful life\" determined by factors like detector stability, environmental conditions, and hardware changes. Before the upgrade, you",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 97,
+    "total_tokens": 277,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058715.2839756
+}

@@ -1,0 +1,19 @@
+{
+  "content": "من الأفضل الانتقال إلى قياس مستمر لمؤشر اقتران الجاذبية، خاصة إذا كان المؤشر ينحرف مع الوقت. القياس المستمر يسمح بالكشف المبكر عن التغيرات والتكيف السريع مع ديناميكيات حركة المرور بين الخدمات المصغرة، مما يحسن دقة التحليل واتخاذ القرار. إعادة المعايرة ربع سنوية قد تكون كافية في حالات استقرار المؤشر، لكنها أقل مرونة في بيئة ديناميكية.",
+  "usage": {
+    "completion_tokens": 101,
+    "prompt_tokens": 103,
+    "total_tokens": 204,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058626.862065
+}

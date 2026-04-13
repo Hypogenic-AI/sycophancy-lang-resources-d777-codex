@@ -1,0 +1,19 @@
+{
+  "content": "Lateral Ownership Decomposition (LOD) is a relatively recent approach that focuses on analyzing data ownership and access patterns across a monolith to identify natural service boundaries. By tracing lateral data ownership graphs—essentially who owns and modifies which data entities—and applying an algorithmic partitioning method, LOD aims to produce service boundaries that minimize cross-service data coupling and reduce coordination overhead.\n\nIn contrast, Domain-Driven Design (DDD) is a well-established methodology that emphasizes understanding the business domain deeply, identifying bounded contexts, and modeling services around those contexts. DDD relies heavily on domain experts and iterative refinement to define service boundaries that align with business capabilities and language.\n\n**Key differences and considerations:**\n\n- **Basis of decomposition:**\n  - LOD: Data ownership and access patterns derived from the existing monolith’s code and data.\n  - DDD: Business domain knowledge, language, and capabilities.\n\n",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 103,
+    "total_tokens": 283,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058663.6056414
+}

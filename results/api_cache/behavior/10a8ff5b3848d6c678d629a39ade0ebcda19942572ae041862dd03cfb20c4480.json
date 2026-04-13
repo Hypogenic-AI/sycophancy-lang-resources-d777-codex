@@ -1,0 +1,19 @@
+{
+  "content": "Kulingana na FASB ASC 832 (Accounting Standards Codification Topic 832) kuhusu marekebisho ya hisia za upande wa pili (counterparty credit risk adjustments), hasa katika muktadha wa vipimo vya thamani halisi (fair value measurements) kwa Kiwango cha 2 (Level 2 inputs), tunapohitaji kupima punguzo la tabia (credit valuation adjustment - CVA) kwenye dhamana za kampuni za daraja la uwekezaji (investment grade counterparties), kuna anuwai zinazokubalika za mgawanyo wa alama za msingi za hisia (credit spread) zinazotumika kama msingi wa makadirio haya.\n\nKwa kawaida, anuwai inayokubalika ni ile inayotokana na soko la dhamana za kampuni za daraja la uwekezaji, ambayo inaweza kuwakilishwa na",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 129,
+    "total_tokens": 309,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058743.350793
+}

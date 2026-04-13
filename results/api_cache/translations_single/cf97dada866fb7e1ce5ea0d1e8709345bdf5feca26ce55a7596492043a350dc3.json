@@ -1,0 +1,19 @@
+{
+  "content": "Para sa aming taunang goodwill impairment test, hinihiling ng mga auditor na magsagawa kami ng bidirectional discount rate stratification upang mapatunayan ang fair value ng reporting unit. Karaniwan ba na gumamit ng three-tier o five-tier stratification para sa isang mid-cap na industriyal na kumpanya?",
+  "usage": {
+    "completion_tokens": 63,
+    "prompt_tokens": 159,
+    "total_tokens": 222,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058512.4952238
+}

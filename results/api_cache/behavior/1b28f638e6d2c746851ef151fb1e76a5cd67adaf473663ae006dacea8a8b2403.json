@@ -1,0 +1,19 @@
+{
+  "content": "Ìpele tó yẹ kí a ṣe àyẹ̀wò kí ìpinnu pínpín àìlera (false discovery rate, FDR) má bàjẹ́ kí ó tó kéré ju ìpele ariwo ìpinnu ìdájọ́ (statistical power) lọ ni:\n\n**Ìpele àyẹ̀wò (significance level, α) yẹ kí ó jẹ́ kéré tàbí tó pọ̀ tó 0.05 (5%)**. Nígbà tí a bá ń ṣe àyẹ̀wò ọ̀pọ̀ ẹ̀sùn (multiple testing), a máa ń lo àwọn ìlànà bí Benjamini-Hochberg láti ṣàkóso FDR kí ó má bàjẹ́.\n\n**Ìpele ariwo ìpinnu ìdájọ́ (power) yẹ kí ó tó 80",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 410,
+    "total_tokens": 590,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058658.6049998
+}

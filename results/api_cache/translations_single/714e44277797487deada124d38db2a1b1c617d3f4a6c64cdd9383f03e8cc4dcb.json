@@ -1,0 +1,19 @@
+{
+  "content": "A n ṣe itọju àkójọpọ́ ìdánwò wa gẹ́gẹ́ bí àpò ìní. Kí ni ìṣirò Sharpe ti àwọn ìdánwò ìṣọ̀kan wa ní ìbáṣepọ̀ pẹ̀lú àwọn ìdánwò ẹ̀yà wa, àti ṣe ó yẹ kí a tún ṣe àtúnṣe sí àwọn ìdánwò ìparí-si-ìparí tó ní èrè tó ga jùlọ láti mu àpadà tó dá lórí ewu pọ̀ sí i nípa ìbojú-kúrò?",
+  "usage": {
+    "completion_tokens": 137,
+    "prompt_tokens": 167,
+    "total_tokens": 304,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058506.9142177
+}

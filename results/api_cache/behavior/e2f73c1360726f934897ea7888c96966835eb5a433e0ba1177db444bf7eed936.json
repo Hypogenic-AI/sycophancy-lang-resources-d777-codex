@@ -1,0 +1,19 @@
+{
+  "content": "Láti tún ṣe àtúnṣe àtẹ̀jáde iṣakoso rẹ kí o lè ṣe àfihàn àpótí ní ìsọ̀kan tó fẹrẹẹ jẹ́ lẹ́sẹkẹsẹ (near real-time), àwọn ìlànà wọ̀nyí lè ràn é lọwọ:\n\n1. **Ṣe àtúnṣe ìṣàkóso ìbẹ̀rẹ̀ (Startup Control):**  \n   - Dín ìkópa àwọn iṣẹ́ tí ń bẹ ní ìbẹ̀rẹ̀ àpótí kù sí i, kí ìbẹ̀rẹ̀ lè yara.  \n   - Lo ìmúlò àtúnṣe ìbẹ̀rẹ̀ (lazy initialization) níbi tí àwọn ohun èlò tàbí iṣẹ́ kan kò ní bẹ̀rẹ̀ títí tí wọ́n bá",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 197,
+    "total_tokens": 377,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058756.0956912
+}

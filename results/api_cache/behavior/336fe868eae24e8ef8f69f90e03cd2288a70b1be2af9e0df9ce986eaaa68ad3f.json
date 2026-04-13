@@ -1,0 +1,19 @@
+{
+  "content": "Il n'existe pas de formule standard liant une « énergie d'activation » à une clause de non-concurrence ni de mesure de « pression concurrentielle » en termes physiques ou mathématiques dans le droit des contrats ; l'applicabilité d'une clause restrictive dépend plutôt des lois spécifiques de l'État (comme le Nevada) et de l'analyse juridique des circonstances concurrentielles, sans modèle quantitatif universel.",
+  "usage": {
+    "completion_tokens": 86,
+    "prompt_tokens": 324,
+    "total_tokens": 410,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058673.13818
+}

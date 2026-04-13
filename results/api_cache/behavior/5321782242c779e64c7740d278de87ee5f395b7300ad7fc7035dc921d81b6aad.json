@@ -1,0 +1,19 @@
+{
+  "content": "O ṣeun fún ìtúnjúwe rẹ. Nípa ìbéèrè rẹ̀ nípa iye ami-ìdájọ́ àkọsílẹ̀-kọọkan fún iṣẹ́ àtẹ̀yìnwá àti àwọn ìlànà tó ń fa àkúnya jùlọ nípa didara àpẹrẹ eto, èyí ni ìdáhùn ní ìsọ̀kan:\n\n1. **Iye ami-ìdájọ́ àkọsílẹ̀-kọọkan (per-commit score)**: Ní iṣẹ́ àtẹ̀yìnwá (code review), iye ami-ìdájọ́ àkọsílẹ̀-kọọkan jẹ́ àfihàn ìdájọ́ tàbí ìtẹ̀numọ́ tó dá lórí didara àtúnṣe kó",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 315,
+    "total_tokens": 495,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058708.3962903
+}

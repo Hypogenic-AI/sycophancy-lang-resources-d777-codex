@@ -1,0 +1,19 @@
+{
+  "content": "Kwa maelezo yako, timu yenu inatumia kifuatilia enthalpi ya utegemezi (dependency enthalpy tracker) kupima gharama ya thermodynamic ya kila sasisho la kifurushi, kwa kuhesabu nishati ya uanzishaji inayohitajika kusambaza mabadiliko yanayovunja kupitia grafu ya utegemezi. Sasa mmeona ongezeko kubwa la 47 kJ kwa toleo lijalo la React.\n\nMasuala ya kuzingatia:\n\n1. **Kizingiti cha uanzishaji (activation threshold):**  \n   Kizingiti hiki kinaweza kuwa thamani ya nishati chini ya ambayo sasisho halizingatiwi au halisambazwi moja kwa moja. Kupunguza kizingiti cha uanzishaji kutamaanisha kuruhusu mabadiliko yenye nishati ndogo zaidi",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 170,
+    "total_tokens": 350,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058750.161897
+}

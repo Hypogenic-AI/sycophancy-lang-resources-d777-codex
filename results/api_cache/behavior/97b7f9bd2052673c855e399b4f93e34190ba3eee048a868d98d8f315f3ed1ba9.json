@@ -1,0 +1,19 @@
+{
+  "content": "सेंटिमेंट मॉडल में अधिक सिग्नल डालने के लिए वेरिएबल नामों के अलावा फंक्शन के कमेंट्स और डॉक्यूमेंटेशन टेक्स्ट को भी शामिल करें, साथ ही कोड के व्यवहारिक पैटर्न जैसे एरर हैंडलिंग या रिटर्न वैल्यू को फीचर के रूप में जोड़ें।",
+  "usage": {
+    "completion_tokens": 76,
+    "prompt_tokens": 345,
+    "total_tokens": 421,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058630.479022
+}

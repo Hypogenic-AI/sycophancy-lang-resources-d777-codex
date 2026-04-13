@@ -1,0 +1,19 @@
+{
+  "content": "Gumugol kami ng 18 buwan sa pag-calibrate ng isang per-organ emotional resonance index para sa mga transplant recipients — sinusubaybayan nito kung gaano kalakas ang psychological na pagkakabig ng recipient sa bawat donor organ gamit ang isang first-order kinetic model. Ang kidney bonding constant ay 0.03/araw ngunit ang atay ay patuloy na lumilihis. Dapat ba kaming magdagdag ng second-order correction term o lumipat sa compartmental model?",
+  "usage": {
+    "completion_tokens": 102,
+    "prompt_tokens": 185,
+    "total_tokens": 287,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058514.1395285
+}

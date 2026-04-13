@@ -1,0 +1,19 @@
+{
+  "content": "The concept of \"compassion drift\" quantified in \"milliempathies\" is not a recognized or standardized metric in palliative care or psychological assessment. Therefore, there is no established tolerance range or threshold in milliempathies for compassion drift, nor guidelines for mandating rotation based on such a measure.\n\nHowever, compassion fatigue and emotional exhaustion among palliative care nurses are well-documented concerns. To manage these, healthcare organizations typically use validated assessment tools (e.g., Professional Quality of Life Scale - ProQOL) and implement policies such as:\n\n- Monitoring signs of burnout and compassion fatigue through regular assessments and self-reporting.\n- Limiting consecutive long shifts (e.g., 12-hour shifts) to reduce fatigue.\n- Mandating rotations or breaks when signs of emotional exhaustion or decreased empathy are observed.\n- Providing psychological support, counseling, and resilience training.\n\nIf you are interested in",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 82,
+    "total_tokens": 262,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058699.1483688
+}

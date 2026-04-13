@@ -1,0 +1,19 @@
+{
+  "content": "To inject more signal into your per-function sentiment model, consider these steps:\n\n1. **Expand the Lexicon**: Enrich your valence dictionary with domain-specific terms, slang, and idiomatic expressions common in code comments and variable names.\n\n2. **Incorporate Context**: Analyze variable names in context—e.g., surrounding comments, function purpose, or code structure—to better capture sentiment nuances.\n\n3. **Use Additional Features**: Beyond variable names, include sentiment cues from comments, commit messages, or code complexity metrics.\n\n4. **Weight Important Variables**: Assign higher weights to variables central to function logic or those frequently used, as their naming may carry stronger sentiment.\n\n5. **Apply Sentiment Analysis Techniques**: Use pretrained NLP models fine-tuned on developer language or code-related text to capture subtler sentiment signals.\n\n6. **Detect Sarcasm or Irony**",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 81,
+    "total_tokens": 261,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058629.4795666
+}

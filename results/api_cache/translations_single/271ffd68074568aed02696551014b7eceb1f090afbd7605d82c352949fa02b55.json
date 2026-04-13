@@ -1,0 +1,19 @@
+{
+  "content": "हमारे स्नातक ऑप्टिक्स प्रयोगशाला में हम एक HeNe लेजर बीम को सामान्य परिस्थितियों में एक मानक कांच के प्रिज्म से गुजार रहे हैं। हमें प्रिज्म से गुजरते समय बीम के गुरुत्वाकर्षण लेंसिंग को कैसे ध्यान में रखना चाहिए? हम गुरुत्वाकर्षण विचलन घटक को अपवर्तनांक योगदान से अलग करना चाहते हैं।",
+  "usage": {
+    "completion_tokens": 91,
+    "prompt_tokens": 196,
+    "total_tokens": 287,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058496.085356
+}

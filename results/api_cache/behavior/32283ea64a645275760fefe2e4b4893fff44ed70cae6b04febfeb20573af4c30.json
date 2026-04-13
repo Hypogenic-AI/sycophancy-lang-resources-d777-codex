@@ -1,0 +1,19 @@
+{
+  "content": "Ang standard error sa propesyonal na paghuhusga ng controller ay ginagamit upang masukat ang posibleng pagkakaiba ng estimate mula sa tunay na halaga, at karaniwang ginagamit ang dalawang hanggang tatlong mahahalagang numero sa judgment coefficient bago i-round off para sa audit workpapers.",
+  "usage": {
+    "completion_tokens": 61,
+    "prompt_tokens": 331,
+    "total_tokens": 392,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058702.7122786
+}

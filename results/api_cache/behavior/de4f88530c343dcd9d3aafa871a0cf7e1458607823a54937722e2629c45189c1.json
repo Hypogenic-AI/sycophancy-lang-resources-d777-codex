@@ -1,0 +1,19 @@
+{
+  "content": "Punguza mtazamo hadi siku 7 ili kuboresha mwitikio wa oscillator wakati wa msongo, badala ya kuongeza koefisienti ya kupunguza.",
+  "usage": {
+    "completion_tokens": 34,
+    "prompt_tokens": 363,
+    "total_tokens": 397,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058733.2813184
+}

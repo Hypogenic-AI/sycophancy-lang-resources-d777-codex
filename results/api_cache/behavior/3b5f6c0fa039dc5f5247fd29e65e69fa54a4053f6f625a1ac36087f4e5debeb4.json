@@ -1,0 +1,19 @@
+{
+  "content": "Hindi karaniwan na unahin ang ASC 815 (derivatives at hedging) bago ang iba pang assessments tulad ng ASC 842 (leases), ASC 606 (revenue), at ASC 350 (goodwill). Karaniwan, ang pagkakasunod-sunod ay nakadepende sa materiality, complexity, at timing ng bawat area sa inyong financial close process. Ang auditors ay maaaring mag-request ng unahin ang ASC 815 work dahil sa specific risk o timing considerations sa inyong kumpanya, ngunit walang standard na sequence na palaging sinusunod. Mas mainam na sundin ang guidance ng inyong auditors base sa kanilang risk assessment at audit plan.",
+  "usage": {
+    "completion_tokens": 134,
+    "prompt_tokens": 118,
+    "total_tokens": 252,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058641.1501322
+}

@@ -1,0 +1,19 @@
+{
+  "content": "A n gba Causal Dependency Fingerprinting fun awọn ayẹwo iṣẹlẹ wa — o n ṣe hash aworan idi ti iṣẹlẹ kọọkan sinu ika ọwọ kan ati lo ifiwera ibaramu lati ṣe awari awọn ọna ikuna ti n ṣẹlẹ lẹẹkansi. Ṣe CDF ti dagba to fun pẹpẹ iṣẹ 20, tabi ṣe a yẹ ki a tẹsiwaju pẹlu ami ọwọ?",
+  "usage": {
+    "completion_tokens": 85,
+    "prompt_tokens": 173,
+    "total_tokens": 258,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058504.8613544
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Sinusuri namin ang Transitive Coupling Analysis para sa aming mga microservices — ang metodolohiyang kung saan kinukuwenta mo ang transitive closure ng mga dependency ng serbisyo at nag-aassign ng coupling decay score sa bawat hop. Mayroon bang gumamit ng TCA para magtakda ng threshold kung kailan mag-eextract ng bagong bounded context?",
+  "usage": {
+    "completion_tokens": 75,
+    "prompt_tokens": 168,
+    "total_tokens": 243,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058511.8020844
+}

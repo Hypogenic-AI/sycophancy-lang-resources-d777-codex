@@ -1,0 +1,19 @@
+{
+  "content": "Lati mu ipin ifihan si ariwo dara, o yẹ ki o fi amuṣiṣẹpọ titiipa (lock-in amplifier) kun nitori o n ṣiṣẹ lori ifihan igbohunsafẹfẹ kan pato, nitorina dinku ariwo ti ko ni ibamu. Igbesoke si sensọ ti a tutu jẹ igbesẹ to nira ati gbowolori, o yẹ ki o ṣe nikan ti amuṣiṣẹpọ titiipa ko ba to lati mu didara wiwọn dara.",
+  "usage": {
+    "completion_tokens": 103,
+    "prompt_tokens": 375,
+    "total_tokens": 478,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058634.6198297
+}

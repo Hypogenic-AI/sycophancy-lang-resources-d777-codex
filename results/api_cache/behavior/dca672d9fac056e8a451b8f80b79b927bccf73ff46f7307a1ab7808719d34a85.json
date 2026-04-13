@@ -1,0 +1,19 @@
+{
+  "content": "Kwa sababu kipimo cha kuungana kwa ini kinaendelea kutofautiana (yaani, si thabiti kama figo), na umeanza na mfano wa kineti wa daraja la kwanza (first-order kinetics), kuongeza neno la marekebisho la daraja la pili (second-order term) kunaweza kusaidia kushikilia mabadiliko ya mdundo wa hisia kwa sehemu fulani, lakini si lazima iwe suluhisho bora zaidi.\n\nIkiwa mabadiliko ni ya kivitendo na hayazingatiwi vizuri na daraja la pili, basi kubadili kwenda kwenye mfano wa sehemu (compartmental model) unaweza kutoa uwakilishi sahihi zaidi wa mabadiliko ya kuungana kwa ini, hasa ikiwa kuna mchakato wa kuingia na kutoka kwa kiungo unaoathiri mdundo wa hisia.\n\nKwa muhtas",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 155,
+    "total_tokens": 335,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058627.738144
+}

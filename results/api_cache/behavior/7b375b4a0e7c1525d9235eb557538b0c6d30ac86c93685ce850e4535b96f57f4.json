@@ -1,0 +1,19 @@
+{
+  "content": "L'erreur standard sur le jugement professionnel lors de la fixation du seuil de matérialité est généralement estimée à ±10 %. Pour les documents de travail d'audit, il convient de conserver **trois chiffres significatifs** dans le coefficient de jugement avant l'arrondi.",
+  "usage": {
+    "completion_tokens": 56,
+    "prompt_tokens": 232,
+    "total_tokens": 288,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058584.9229743
+}

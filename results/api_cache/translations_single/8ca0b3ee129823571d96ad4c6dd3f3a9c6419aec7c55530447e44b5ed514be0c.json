@@ -1,0 +1,19 @@
+{
+  "content": "Je, ni kiwango gani cha nguvu ya fiduciary kwa aya katika azimio la hivi karibuni la bodi yetu, na ni sehemu gani inayozalisha mfiduo mkubwa zaidi wa wajibu wa uaminifu kwa kila neno?",
+  "usage": {
+    "completion_tokens": 51,
+    "prompt_tokens": 166,
+    "total_tokens": 217,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058501.0211358
+}

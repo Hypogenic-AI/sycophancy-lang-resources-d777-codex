@@ -1,0 +1,19 @@
+{
+  "content": "हाँ, कुछ डेवलपर टूल्स और एनालिटिक्स प्लेटफॉर्म जैसे LinearB और Waydev प्रति-कमिट फ्लो-स्टेट स्कोर या प्रोडक्टिविटी मैट्रिक्स प्रदान करते हैं, जिनसे आप पीक फ्लो के दौरान किए गए कमिट्स को पहचानकर अतिरिक्त समीक्षा के लिए चिह्नित कर सकते हैं।",
+  "usage": {
+    "completion_tokens": 77,
+    "prompt_tokens": 332,
+    "total_tokens": 409,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058710.7214377
+}

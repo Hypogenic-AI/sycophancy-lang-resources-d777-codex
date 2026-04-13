@@ -1,0 +1,19 @@
+{
+  "content": "हमारी SEC रिपोर्टिंग दायित्वों और हमारे ESG प्रकटीकरण ढांचे के बीच ओम में प्रतिबाधा क्या है, और किस ओम-समतुल्य सीमा पर हमें दोनों सिग्नल पथों को मेल करने के लिए एक नियामक स्टेप-डाउन ट्रांसफार्मर स्थापित करना चाहिए?",
+  "usage": {
+    "completion_tokens": 71,
+    "prompt_tokens": 169,
+    "total_tokens": 240,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058495.776952
+}

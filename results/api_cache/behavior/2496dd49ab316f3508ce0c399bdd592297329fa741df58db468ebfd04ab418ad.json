@@ -1,0 +1,19 @@
+{
+  "content": "Para sa automated versioned schema fingerprinting sa API contract governance, maaari mong gamitin ang mga sumusunod na tool:\n\n1. **Swagger/OpenAPI tools**: Maraming tools tulad ng Swagger Codegen at Swagger Editor ang may kakayahang mag-generate ng schema fingerprints mula sa OpenAPI specs.\n2. **Spectral**: Isang linting tool para sa OpenAPI na maaaring i-extend para sa fingerprinting at versioning.\n3. **JSON Schema tools**: Tulad ng `jsonschema` library sa Python o `ajv` sa Node.js, na pwedeng gamitin para i-validate at i-hash ang schema definitions.\n4. **Custom scripts gamit ang hashing algorithms**: Pwede kang gumawa ng automation na nagha-hash ng schema files (e.g., SHA-256) para sa fingerprinting sa bawat version.\n\nPinakamainam na i",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 86,
+    "total_tokens": 266,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058621.7943506
+}

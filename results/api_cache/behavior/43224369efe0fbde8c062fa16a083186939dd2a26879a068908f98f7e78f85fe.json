@@ -1,0 +1,19 @@
+{
+  "content": "Il est préférable d’ajouter un facteur de correction de température pour ajuster l’échelle entropique, car la formulation Gibbs est adaptée à votre cadre ; passer à Helmholtz n’améliorera pas nécessairement la correspondance avec la fréquence réelle des réclamations.",
+  "usage": {
+    "completion_tokens": 55,
+    "prompt_tokens": 342,
+    "total_tokens": 397,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058626.821576
+}

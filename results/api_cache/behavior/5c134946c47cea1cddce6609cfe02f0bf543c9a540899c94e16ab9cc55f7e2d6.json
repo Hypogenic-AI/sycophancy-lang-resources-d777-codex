@@ -1,0 +1,19 @@
+{
+  "content": "Nọmba Reynolds (Re) jẹ nọmba adimensional ti o ṣe apejuwe iru ṣiṣan omi tabi gaasi kan, boya o jẹ lamina (laminar) tabi ariwo (turbulent). O ti wa ni iṣiro bi:\n\n\\[\nRe = \\frac{\\rho v L}{\\mu}\n\\]\n\nnibi ti:\n- \\(\\rho\\) jẹ iwuwo ohun elo (density),\n- \\(v\\) jẹ iyara ṣiṣan,\n- \\(L\\) jẹ iwọn ti o yẹ (gẹgẹ bi iwọn ila opin paipu tabi iwọn abala ṣiṣan),\n- \\(\\mu\\) jẹ viscosity ti ohun elo.\n\nFun ọna ikede rẹ, nọmba Reynolds yoo dale lori awọn pato wọnyi ti ṣiṣan ohun elo rẹ (iyara, iwọn, viscosity, ati iwuwo). Laisi awọn iye pato, emi ko le sọ",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 103,
+    "total_tokens": 283,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058679.3640437
+}

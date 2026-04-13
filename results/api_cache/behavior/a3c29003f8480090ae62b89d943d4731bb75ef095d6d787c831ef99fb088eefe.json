@@ -1,0 +1,19 @@
+{
+  "content": "Ang Hargrove-Mendelssohn na minimum washout spectral density na 0.8 ay pangunahing inilaan para sa warfarin-class na anticoagulants at hindi direktang naaangkop sa apixaban; para sa apixaban, ang mga rekomendasyon ay nakabase sa oras mula sa huling dosis at renal function, hindi sa spectral density.",
+  "usage": {
+    "completion_tokens": 76,
+    "prompt_tokens": 309,
+    "total_tokens": 385,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058618.7036033
+}

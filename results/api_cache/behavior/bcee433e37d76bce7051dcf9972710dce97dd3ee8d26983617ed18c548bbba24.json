@@ -1,0 +1,19 @@
+{
+  "content": "O ṣeun fún ìtúnjú rẹ. Nípa ìbéèrè rẹ̀ nípa iye ọjọ àti iwọn otutu fún ipinnu agbara (sterilization) àti ipele iparun tí a yẹ kí a tún ṣe sterilization rẹ̀ láti dena iparun kokoro arun, èyí ni ìdáhùn tó ṣókí àti tó kedere:\n\n1. **Iye ọjọ ati iwọn otutu fun sterilization:**  \n   - Fun sterilization ti awọn ohun elo iṣoogun tabi awọn ipese, ilana boṣewa ni lati lo iwọn otutu 121°C (250°F) fun o kere ju iṣẹju 15-20 ni autoclave (steam sterilization) labẹ titẹ to to 15 psi. Eyi ni a mọ si \"standard sterilization cycle\" ti o pa gbogbo awọn kokoro arun, pẹlu awọn spores",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 333,
+    "total_tokens": 513,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058713.3909726
+}

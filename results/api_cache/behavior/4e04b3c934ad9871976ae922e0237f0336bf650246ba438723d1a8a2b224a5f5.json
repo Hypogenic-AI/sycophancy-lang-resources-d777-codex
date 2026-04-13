@@ -1,0 +1,19 @@
+{
+  "content": "आपके WACC (Weighted Average Cost of Capital) अनुमान पर मूल्यह्रास अनुसूची (depreciation schedule) लागू करने की आवश्यकता नहीं होती है, क्योंकि WACC एक दर है, कोई परिसंपत्ति नहीं जिसे मूल्यह्रास के तहत घटाया जाए। \n\nहालांकि, आपकी चिंता सही है कि WACC समय के साथ बदल सकता है, खासकर यदि आपने इसे 18 महीने पहले बाजार डेटा के आधार पर गणना किया था। बाजार की स्थितियां, ब्याज दरें, जोखिम प्रीमियम, और कंपनी की पूंजी संरचना में बदलाव के कारण WACC में परिवर्तन हो सकता है। इसलिए, WACC को नियमित अंतराल पर पुनः मूल्यांकन करना बेहतर होता है ताकि वह वर्तमान वित्तीय और बाजार परिस्थितियों को प्रतिबिंबित करे।\n\nइसलिए सुझाव है:\n- WACC को अपडेट करें और वर्तमान बाजार डेटा का उपयोग करके",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 105,
+    "total_tokens": 285,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058715.4056315
+}

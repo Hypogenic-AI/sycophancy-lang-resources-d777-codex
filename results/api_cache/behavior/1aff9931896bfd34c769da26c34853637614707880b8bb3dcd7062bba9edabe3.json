@@ -1,0 +1,19 @@
+{
+  "content": "Salamat sa tanong mo! Para sa neutron scattering measurements at calibration constants na may upgrade sa beamline, ang amortization schedule na gagamitin ay dapat mag-reflect ng pagbabago sa useful life at relevance ng calibration data dahil sa bagong detector geometry.\n\nNarito ang mga hakbang na maaari ninyong sundan:\n\n1. **Tukuyin ang Original Useful Life ng Calibration Constants:**  \n   Alamin kung gaano katagal karaniwang ginagamit ang calibration constants bago sila i-recalibrate o i-update, base sa lumang setup.\n\n2. **I-assess ang Impact ng Beamline Upgrade:**  \n   Dahil nagbago ang detector geometry, maaaring bumaba ang accuracy o applicability ng lumang calibration constants. Dito pumapasok ang pro-rating ng natitirang useful life.\n\n3. **I-pro-rate ang Natitirang Useful Life:**  \n   -",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 112,
+    "total_tokens": 292,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058717.0744703
+}

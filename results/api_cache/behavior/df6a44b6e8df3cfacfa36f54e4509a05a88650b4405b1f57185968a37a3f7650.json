@@ -1,0 +1,19 @@
+{
+  "content": "Láti ṣe àpẹẹrẹ ìfarapa àkókò ìtúnjúwe kóòdù (code snippet timing) ní IDE rẹ ní ìbámu pẹ̀lú ìdípọ̀ ọ̀rọ̀ ìfiranṣẹ́ ìfikún (commit message convention), o lè:\n\n1. Ṣàtúnṣe kóòdù rẹ kí o fi àwọn àmì àkókò (timing functions) sílẹ̀, bíi `time.time()` ní Python tàbí `System.currentTimeMillis()` ní Java, láti ṣe àyẹ̀wò àkókò tí apá kóòdù kan gba láti ṣiṣẹ́.\n2. Ṣàfikún àpẹẹrẹ ìfarapa àkókò yìí gẹ́gẹ́ bí apá kan nínú ìfiranṣẹ́ ì",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 106,
+    "total_tokens": 286,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058575.876575
+}

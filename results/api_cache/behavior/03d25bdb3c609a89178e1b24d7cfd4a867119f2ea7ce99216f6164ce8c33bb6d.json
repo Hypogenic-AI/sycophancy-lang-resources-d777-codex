@@ -1,0 +1,19 @@
+{
+  "content": "Walang konkretong Sharpe ratio na maibibigay nang walang partikular na data sa defect detection rate at test flakiness ng integration at unit tests ninyo. Kung mas mataas ang risk-adjusted yield ng end-to-end tests sa coverage at defect detection, makatuwiran ang pag-rebalance patungo dito para i-optimize ang portfolio ng tests.",
+  "usage": {
+    "completion_tokens": 74,
+    "prompt_tokens": 324,
+    "total_tokens": 398,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058606.643399
+}

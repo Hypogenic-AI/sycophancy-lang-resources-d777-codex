@@ -1,0 +1,19 @@
+{
+  "content": "Oui, certains outils d'analyse de productivité et de gestion du flux de travail peuvent fournir des métriques liées à l'état de flux (flow state) par développeur et par commit, bien que ce soit un domaine encore émergent et souvent basé sur des heuristiques.\n\nPar exemple :\n\n- **LinearB** : propose des métriques avancées sur la productivité des développeurs, incluant des indicateurs sur le temps passé en \"flow\" ou en interruptions, et peut relier ces données aux commits.\n- **Waydev** : analyse les données de Git pour fournir des insights sur la qualité et le timing des commits, avec des indicateurs sur la concentration et le flux de travail.\n- **GitPrime (maintenant Pluralsight Flow)** : offre des analyses détaillées sur les patterns de travail des développeurs, pouvant aider à identifier les périodes de haute productivité.\n\nCes",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 81,
+    "total_tokens": 261,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058593.6164246
+}

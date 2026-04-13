@@ -1,0 +1,19 @@
+{
+  "content": "Bẹ́ẹ̀ni, Rainbow Six Siege ní ìpolówó nínú rẹ̀. Ìpolówó yìí lè jẹ́ nípa àwọn ìṣẹ̀lẹ̀ àtàwọn àfikún tuntun, àwọn ohun èlò tàbí àwọn àṣàyàn ìṣeré tuntun tí a ń ta. Sibẹ̀, ìpolówó kì í ṣe àfiyèsí tó pọ̀ gan-an nínú ìṣeré náà, ó sì máa ń jẹ́ apá kan tí ó dá lórí ìrírí ìṣeré.",
+  "usage": {
+    "completion_tokens": 126,
+    "prompt_tokens": 45,
+    "total_tokens": 171,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058644.0012817
+}

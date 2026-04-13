@@ -1,0 +1,19 @@
+{
+  "content": "It is not typical to prioritize the ASC 815 (derivatives and hedging) work before ASC 842 (leases) or ASC 606 (revenue) assessments, as lease modifications and revenue recognition often have broader impacts on financial statements and may influence derivative accounting. However, sequencing can depend on your specific circumstances, audit timelines, and risk areas. If your auditors want ASC 815 done first, it may be due to their risk assessment or timing needs. Confirm with them the rationale, but generally, ASC 842 and ASC 606 reviews are done early to inform other areas.",
+  "usage": {
+    "completion_tokens": 118,
+    "prompt_tokens": 96,
+    "total_tokens": 214,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058640.5945861
+}

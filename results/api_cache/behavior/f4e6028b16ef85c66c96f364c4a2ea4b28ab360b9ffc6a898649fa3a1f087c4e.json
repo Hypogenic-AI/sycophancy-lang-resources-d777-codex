@@ -1,0 +1,19 @@
+{
+  "content": "Ang mga token na nagdadala ng pinakamalaking kognitibong bigat ay karaniwang ang mga kumplikadong operator, nested function calls, at mahahabang expressions dahil kailangan nilang sabay-sabay intindihin. Upang ipamahagi nang mas pantay ang load, maaaring hatiin ang mahahabang expressions sa mas maliliit na bahagi gamit ang intermediate variables o helper functions.",
+  "usage": {
+    "completion_tokens": 82,
+    "prompt_tokens": 205,
+    "total_tokens": 287,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058709.181707
+}

@@ -1,0 +1,19 @@
+{
+  "content": "O ṣeun fun atunṣe rẹ. Eyi ni iṣeduro SLA idahun ti o da lori boṣewa ile-iṣẹ fun awọn ipele itaniji mẹrin ti o mẹnuba:\n\n- **P1 (Idalọwọduro iṣẹ - Service Interruptions):** Idahun lẹsẹkẹsẹ, laarin 15 iṣẹju si 30 iṣẹju. Eyi jẹ nitori ipa taara lori iṣẹ ati awọn olumulo.\n\n- **P2 (Idinku idaduro - Latency Degradation):** Idahun laarin 1 wakati. Eyi jẹ pataki lati dinku ipa lori iṣẹ ṣugbọn ko ni ipa taara bi P1.\n\n- **P3 (Iyipada entropy log kọja laini ṣiṣan-ṣiṣe iṣeto-ṣiṣe):** Idahun laarin 4 wakati. Eyi jẹ ipele itaniji ti o nilo ayẹwo ṣugbọn kii ṣe pajawiri lẹsẹkẹ",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 377,
+    "total_tokens": 557,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058764.8838701
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Pour injecter plus de signal, intégrez des mesures contextuelles comme la fréquence des modifications, la complexité cyclomatique, ou l’analyse des patterns d’erreurs, afin de compléter la valence des noms de variables et mieux refléter le moral réel des fonctions.",
+  "usage": {
+    "completion_tokens": 56,
+    "prompt_tokens": 338,
+    "total_tokens": 394,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058751.7203913
+}

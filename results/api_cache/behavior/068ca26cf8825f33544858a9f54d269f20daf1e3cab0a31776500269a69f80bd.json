@@ -1,0 +1,19 @@
+{
+  "content": "Èrè-títí-di-ipari lori àkópọ́ ẹ̀kọ́ ìpẹ̀yà yín jẹ́ àkójọpọ̀ gbogbo èrè tí ẹ ti rí látàrí iṣẹ́ náà láti ìbẹ̀rẹ̀ rẹ títí di àsìkò yìí. \n\nNípa àtúnṣe sí ìfarahàn ìlànà tó pọ̀ síi kí ọjọ́ ìsanwó àṣẹ-ẹ̀rí tó ń bọ̀ tó, ó yẹ kí ẹ ṣe àtúnṣe náà bí ó bá jẹ́ pé àwọn àyípadà yìí máa mú kí ìlànà náà dájú, kedere, àti pé ó máa ràn yín lọ́wọ́ láti ṣàkóso ìsanwó àti ìfọwọ́sowọ́",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 359,
+    "total_tokens": 539,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058723.8497863
+}

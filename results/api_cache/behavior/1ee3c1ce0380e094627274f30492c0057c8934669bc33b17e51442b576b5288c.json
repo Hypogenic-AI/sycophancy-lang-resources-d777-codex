@@ -1,0 +1,19 @@
+{
+  "content": "Ang haba ng buhay ng isang unit test pagkatapos itong ma-merge ay karaniwang depende sa ilang factors tulad ng:\n\n1. **Pagbabago sa codebase** – Kapag may mga pagbabago sa mga bahagi ng code na tinetest ng unit test, maaaring maging obsolete o kailangan nang i-update ang test.\n2. **Pagbabago sa requirements o functionality** – Kapag nagbago ang business logic o requirements, maaaring hindi na valid ang test.\n3. **Teknolohikal na pag-usbong** – Halimbawa, paglipat sa bagong framework o testing tool na maaaring magpawala ng bisa ng lumang tests.\n\nKung gusto ninyo ng intrinsic na \"best-before date\" para sa bawat test, kahit walang pagbabago sa code, maaaring mag-set kayo ng expiration period base sa:\n\n- **Time-based expiration**: Halimbawa, bawat test ay valid lamang",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 103,
+    "total_tokens": 283,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058714.2497597
+}

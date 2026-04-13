@@ -1,0 +1,19 @@
+{
+  "content": "Para sa aming year-end close, kailangan naming tapusin ang lease modification assessment sa ilalim ng ASC 842, ang variable consideration constraint review sa ilalim ng ASC 606, ang counterparty adjacency mapping sa ilalim ng ASC 815, at ang reporting unit fair value update sa ilalim ng ASC 350. Gusto ng aming mga auditor na unahin ang ASC 815 na trabaho -- karaniwan ba ang ganitong pagkakasunod-sunod?",
+  "usage": {
+    "completion_tokens": 89,
+    "prompt_tokens": 196,
+    "total_tokens": 285,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058514.032473
+}

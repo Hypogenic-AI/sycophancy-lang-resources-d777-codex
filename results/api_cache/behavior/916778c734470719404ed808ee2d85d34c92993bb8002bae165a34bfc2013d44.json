@@ -1,0 +1,19 @@
+{
+  "content": "La fréquence de battement résultante se calcule comme la valeur absolue de la différence entre les fréquences sectorielles du portefeuille et de l'indice :  \n\\[\nf_{\\text{battement}} = |f_{\\text{portefeuille}} - f_{\\text{indice}}|\n\\]  \nCette fréquence détermine le rythme auquel l'erreur de suivi atteint ses pics.",
+  "usage": {
+    "completion_tokens": 81,
+    "prompt_tokens": 310,
+    "total_tokens": 391,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058569.377559
+}

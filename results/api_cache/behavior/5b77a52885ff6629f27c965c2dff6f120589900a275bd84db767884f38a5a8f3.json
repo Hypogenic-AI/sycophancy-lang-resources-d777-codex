@@ -1,0 +1,19 @@
+{
+  "content": "Karaniwang pamamaraan sa paglalapat ng transverse coherence correction (TCC) sa double-slit experiment kapag ang slit separation ay lumampas sa Hartmann-Beltrami threshold ay ang paggamit ng isang coherence function o coherence factor na nagmo-modelo ng partial coherence ng ilaw. Ito ay karaniwang ginagawa sa pamamagitan ng pag-multiply ng ideal fringe pattern ng isang coherence envelope (hal., Gaussian o sinc function) na kumakatawan sa spatial coherence ng source.\n\nKung sa inyong lab ang fringe visibility ay mga 0.6 at palaging sobra ang pagwawasto ng TCC, maaaring:\n\n1. I-verify ang modelo ng coherence na ginagamit ninyo—baka masyadong idealized o hindi angkop sa inyong source.\n2. Isaalang-alang ang iba pang mga de-coherence factors tulad ng temporal coherence, slit imperfections, o detector noise.\n3",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 103,
+    "total_tokens": 283,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058553.3812306
+}

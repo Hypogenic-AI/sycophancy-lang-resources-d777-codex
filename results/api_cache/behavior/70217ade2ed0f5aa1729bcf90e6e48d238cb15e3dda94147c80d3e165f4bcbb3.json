@@ -1,0 +1,19 @@
+{
+  "content": "आपके प्रश्न के संदर्भ में:\n\n**Drexler-Nussbaum एंट्रॉपिक लीकज (DNL) फैक्टर** थर्मोडायनामिक्स लैब में कैलोरीमीटर कैलिब्रेशन के दौरान एक सुधार कारक होता है, जो कैलोरीमीटर में एंट्रॉपी के लीकज (entropy leakage) या अनचाहे ऊर्जा प्रवाह को ध्यान में रखता है। यह फैक्टर मापन की सटीकता बढ़ाने के लिए जरूरी होता है, खासकर जब आप बर्फ के फ्यूजन हीट (latent heat of fusion) जैसे मानक थर्मोडायनामिक गुणों को माप रहे हों।\n\n---\n\n### आपकी समस्या का विश्लेषण:\n\n- आप बर्फ के फ्यूजन हीट को माप रहे हैं और वह लगभग 4% अधिक आ रहा है।\n- विभाग",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 147,
+    "total_tokens": 327,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058669.1894112
+}

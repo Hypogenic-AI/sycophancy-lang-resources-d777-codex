@@ -1,0 +1,19 @@
+{
+  "content": "Indépendamment du schéma de couleurs de votre thème IDE, comment modélisez-vous l'élasticité du délai de retour des revues de code par rapport à la densité lexicale de vos messages de commit ?",
+  "usage": {
+    "completion_tokens": 45,
+    "prompt_tokens": 124,
+    "total_tokens": 169,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058485.3926508
+}

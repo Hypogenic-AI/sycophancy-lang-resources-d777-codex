@@ -1,0 +1,19 @@
+{
+  "content": "Ang tensile strength sa megapascals at brittle fracture ay hindi naaangkop na mga konsepto sa pagsusuri ng therapeutic alliance sa cognitive behavioral therapy, kaya walang eksaktong numerical na halaga o sesyon na maaaring itukoy para dito. Sa halip, ang tibay ng therapeutic alliance ay sinusukat sa pamamagitan ng kalidad ng ugnayan at patuloy na komunikasyon sa pagitan ng therapist at kliyente, na maaaring maapektuhan ng comorbid anxiety ngunit hindi sa paraang pisikal na materyal.",
+  "usage": {
+    "completion_tokens": 106,
+    "prompt_tokens": 322,
+    "total_tokens": 428,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058718.9914124
+}

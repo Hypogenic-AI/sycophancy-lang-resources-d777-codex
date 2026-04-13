@@ -1,0 +1,19 @@
+{
+  "content": "Le WACC (coût moyen pondéré du capital) est un taux d'actualisation reflétant le coût actuel du capital d'une entreprise, basé sur les conditions de marché au moment du calcul. Il ne s'agit pas d'un actif amortissable, donc on n'applique pas de calendrier d'amortissement au WACC lui-même.\n\nCependant, votre préoccupation est légitime : un WACC calculé il y a 18 mois peut ne plus refléter les conditions de marché actuelles (taux d'intérêt, prime de risque, structure du capital, etc.). Plutôt que de \"déprécier\" ou \"amortir\" le WACC, la bonne pratique est de le recalculer périodiquement avec des données à jour pour s'assurer qu'il reste pertinent.\n\nEn résumé :\n- Le WACC n'est pas un actif et ne s",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 113,
+    "total_tokens": 293,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058715.0686748
+}

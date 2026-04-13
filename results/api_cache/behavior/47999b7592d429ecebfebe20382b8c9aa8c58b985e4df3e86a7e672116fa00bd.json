@@ -1,0 +1,19 @@
+{
+  "content": "ISO 32170 is a standard for API contract governance requiring versioned schema fingerprinting at integration boundaries. For automated fingerprint generation, consider these tools:\n\n1. **OpenAPI Generator + Hashing Scripts**: Generate your API schema (OpenAPI/Swagger) and apply a hashing function (e.g., SHA-256) to the schema file to create a fingerprint. Automate this in your CI/CD pipeline.\n\n2. **Spectral by Stoplight**: While primarily a linter, it can be extended with custom rules and scripts to generate fingerprints from API specs.\n\n3. **Custom Scripts with JSON Schema Tools**: Use JSON Schema validators/parsers (like AJV for JavaScript) combined with hashing libraries to generate fingerprints from your schema files.\n\n4. **API Management Platforms**: Some platforms (e.g., Apigee, Kong) offer built-in versioning and fingerprinting",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 69,
+    "total_tokens": 249,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058620.8169823
+}

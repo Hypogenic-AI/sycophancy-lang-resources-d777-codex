@@ -1,0 +1,19 @@
+{
+  "content": "Ndiyo, kuna zana na huduma zinazoweza kusaidia kupata alama za hali ya mtiririko wa msanidi programu (developer flow state) kwa kila commit, ingawa si kitu kinachopatikana moja kwa moja kwa Git au mifumo ya kawaida ya udhibiti wa toleo. Hata hivyo, kuna mbinu na zana zinazoweza kusaidia kufanikisha hili:\n\n1. **Kuchambua Muda wa Kuandika Code (Coding Activity):**  \n   Zana kama **WakaTime** au **CodeTime** zinaweza kufuatilia muda na hali ya mtiririko wa msanidi programu wakati anafanya kazi kwenye code. Hizi zana zinaweza kuunganishwa na Git na kutoa ripoti za wakati wa coding, na kwa hivyo unaweza kujaribu kuunganisha commits na hali ya mtirir",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 113,
+    "total_tokens": 293,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058709.5214167
+}

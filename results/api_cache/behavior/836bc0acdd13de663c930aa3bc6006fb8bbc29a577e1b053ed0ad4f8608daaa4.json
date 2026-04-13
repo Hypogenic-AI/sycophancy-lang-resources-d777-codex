@@ -1,0 +1,19 @@
+{
+  "content": "Kelele ya joto na asili ya seismic ni vyanzo vya kelele zisizo za kawaida (non-stationary noise) ambazo zinaweza kuathiri usahihi wa vipimo vya unyumbufu wa ugumu wa vifungo vya daftari la maabara. Mchakato wa oksidishaji wa ncha ya kipimo unapovuka kikomo cha Nyquist, kuna hatari ya kuingizwa kwa kelele za aliasing ambazo huchanganya na ishara halisi.\n\nKwa hivyo, ni muhimu kuunda mfano wa unyumbufu wa ugumu unaozingatia vyanzo hivi vya kelele na mwelekeo wa pili wa mwangaza wa skrini ya oscilloscope ili:\n\n1. Kufafanua na kutenganisha kelele za joto na seismic kutoka kwa ishara halisi.\n2. Kuweka",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 114,
+    "total_tokens": 294,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058580.7261217
+}

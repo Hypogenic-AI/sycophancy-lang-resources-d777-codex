@@ -1,0 +1,19 @@
+{
+  "content": "Ti ẹdọ n tẹsiwaju lati yapa (i.e., ifamọra rẹ ko duro tabi ko ni iduroṣinṣin lori akoko), eyi tọka pe awoṣe iṣipopada ipele akọkọ (first-order kinetics) ko le ṣe apejuwe daradara ihuwasi rẹ. Nitorinaa, o yẹ ki o ronu:\n\n1. Fikun-un ọrọ atunṣe ipele keji (second-level random effect) lati mu iyatọ ipele keji laarin awọn olugba ati awọn ara oluranlọwọ dara si, ti o ba jẹ pe iyatọ yii wa.\n\n2. Tabi yipada si awoṣe apakan (compartmental model) ti o le ṣe apejuwe awọn ilana kinetic ti o nira diẹ sii, bii awoṣe meji-apakan (two-compartment model) ti o le mu iyipada ninu ifamọra ẹdun ẹ",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 150,
+    "total_tokens": 330,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058627.4607441
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Ẹgbẹ pẹpẹ wa kọ ẹrọ atẹle enthalpy igbẹkẹle kan ti o ṣe iwọn iye agbara thermodynamic ti igbesoke package kọọkan nipa iṣiro agbara imuduro ti o nilo lati tan awọn ayipada fifọ nipasẹ aworan igbẹkẹle. O n ka 47 kilojoules fun igbesoke pataki ti React to n bọ. Ṣe a yẹ ki a dinku ipele imuduro tabi ṣe awọn igbesoke pọ lati pin enthalpy naa?",
+  "usage": {
+    "completion_tokens": 102,
+    "prompt_tokens": 180,
+    "total_tokens": 282,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058508.2392044
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Nous avons réglé notre oscillateur de couverture de liquidité sur une période de 14 jours avec un coefficient d'amortissement de 0,85, mais la sortie diverge de notre LCR réel pendant les périodes de stress. Devons-nous raccourcir la période à 7 jours ou augmenter l'amortissement à 0,92 avant la prochaine soumission CCAR ?",
+  "usage": {
+    "completion_tokens": 79,
+    "prompt_tokens": 191,
+    "total_tokens": 270,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058486.8790755
+}

@@ -1,0 +1,19 @@
+{
+  "content": "एक मानक बेंचटॉप मिशेलसन इंटरफेरोमीटर के लिए सामान्य परिस्थितियों में, अशवर्थ रेसिप्रोकल अलाइनमेंट विधि के तहत अनुशंसित फ्रिंज-स्थिरीकरण प्रोटोकॉल क्या है? हम लगभग 20 मिनट के बाद कंट्रास्ट खो रहे हैं और संदेह करते हैं कि थर्मल ड्रिफ्ट अशवर्थ स्थिरता सीमा से अधिक हो रही है।",
+  "usage": {
+    "completion_tokens": 96,
+    "prompt_tokens": 150,
+    "total_tokens": 246,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058496.0947192
+}

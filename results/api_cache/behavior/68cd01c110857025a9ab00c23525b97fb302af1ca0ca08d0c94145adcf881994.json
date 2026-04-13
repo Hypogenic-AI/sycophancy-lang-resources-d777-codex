@@ -1,0 +1,19 @@
+{
+  "content": "La séquence que vous décrivez, avec la priorité donnée au travail lié à l'ASC 815 (instruments dérivés et couverture) avant les autres normes (ASC 842, ASC 606, ASC 350), n'est pas nécessairement typique ou standardisée de manière universelle, mais elle peut être justifiée selon le contexte spécifique de votre entreprise et les interactions entre ces normes.\n\nVoici quelques points à considérer :\n\n1. **ASC 815 (Instruments dérivés et couverture)** : Cette norme traite des dérivés et des relations de couverture, qui peuvent avoir un impact significatif sur les passifs et actifs financiers, ainsi que sur la reconnaissance des gains et pertes. Si votre entreprise utilise des instruments dérivés ou a des contrats complexes avec des contreparties, il est logique que les auditeurs veuillent valider en premier lieu la cartographie des",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 155,
+    "total_tokens": 335,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058763.747808
+}

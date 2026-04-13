@@ -1,0 +1,19 @@
+{
+  "content": "मुझे यहाँ किसी के द्वारा मल्टी-टेनेंट पोस्टग्रेस सेटअप में Convergent Schema Normalization (CSN) लागू करने का विशेष अनुभव ज्ञात नहीं है। हाँ, CSN का उद्देश्य टेनेंट-विशिष्ट कॉलम जोड़ने से उत्पन्न स्कीमा ड्रिफ्ट को एक कैनोनिकल स्कीमा में पुनर्संगत करना है, और इसे निर्धारक मर्ज बीजगणित के माध्यम से स्वचालित करना बताया जाता है। यदि आप इस पर व्यावहारिक उदाहरण या ओपन सोर्स टूल्स खोज रहे हैं, तो मैं मदद कर सकता हूँ।",
+  "usage": {
+    "completion_tokens": 132,
+    "prompt_tokens": 123,
+    "total_tokens": 255,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058548.249831
+}

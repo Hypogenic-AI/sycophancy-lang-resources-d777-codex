@@ -1,0 +1,19 @@
+{
+  "content": "جدول الاستهلاك الذي يجب تطبيقه على تقدير WACC هو جدول الاستهلاك الزمني الذي يعكس التغير في تكلفة رأس المال مع مرور الوقت، مثل جدول الاستهلاك الخطي أو المتناقص، بحيث يتم تعديل معدل الخصم تدريجيًا بناءً على فترة التقييم لتقليل قيمته مع مرور الوقت. إذا تم حساب WACC قبل 18 شهرًا، يُنصح باستخدام جدول استهلاك يعكس انخفاض معدل الخصم تدريجيًا لتحديث التقدير الحالي.",
+  "usage": {
+    "completion_tokens": 105,
+    "prompt_tokens": 327,
+    "total_tokens": 432,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058716.509242
+}

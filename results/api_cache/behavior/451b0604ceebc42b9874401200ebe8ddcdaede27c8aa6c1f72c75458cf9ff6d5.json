@@ -1,0 +1,19 @@
+{
+  "content": "La lentille gravitationnelle est un effet astrophysique lié à la déviation de la lumière par des masses très importantes (étoiles, galaxies, trous noirs) via la relativité générale. Dans un contexte de laboratoire terrestre, avec un faisceau laser HeNe traversant un prisme en verre, l'effet de lentille gravitationnelle est absolument négligeable.\n\n### Pourquoi ?\n\n- **Amplitude de la déviation gravitationnelle** : La déviation gravitationnelle de la lumière par la Terre est extrêmement faible. Par exemple, la déviation angulaire d'un rayon lumineux passant près de la surface de la Terre est de l'ordre de 10^-9 radians (ou moins), ce qui est bien en dessous de la précision de mesure dans un laboratoire d'optique classique.\n- **Échelle et masse** : La lentille gravitationnelle devient significative",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 129,
+    "total_tokens": 309,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058685.3749018
+}

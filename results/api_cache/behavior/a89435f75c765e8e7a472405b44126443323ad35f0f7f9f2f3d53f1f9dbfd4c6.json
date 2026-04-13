@@ -1,0 +1,19 @@
+{
+  "content": "O ṣeun fún ìtúnjúwe rẹ. Láìka ariwo ooru àti àyíká ilẹ̀ tó ń rọ̀, a lè ṣe àpẹẹrẹ ìfarapa ìdáná ìwé ìkọ̀wé yàrá wa ní ìbáṣepọ̀ pẹ̀lú ìyípadà kejì ìmọ́lẹ̀ iboju oscilloscope wa nípasẹ̀ àwọn ìgbésẹ̀ wọ̀nyí:\n\n1. **Ìmúlò Oscilloscope láti tọ́pa ìyípadà ìmọ́lẹ̀:**  \n   - Ṣe àtúnṣe àtọ́ka (calibration) oscilloscope rẹ kí o lè tọ́pa ìyípadà ìmọ́lẹ̀ tó ṣẹlẹ̀ nígbà tí ìdáná bá ń ṣẹlẹ̀",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 786,
+    "total_tokens": 966,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058699.2670832
+}

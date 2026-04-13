@@ -1,0 +1,19 @@
+{
+  "content": "बेनिसिया ब्रिज का टोल अलग-अलग वाहनों के लिए भिन्न होता है और समय-समय पर बदल सकता है। वर्तमान टोल दरों के लिए कृपया आधिकारिक वेबसाइट या स्थानीय प्राधिकरण से जानकारी प्राप्त करें।",
+  "usage": {
+    "completion_tokens": 52,
+    "prompt_tokens": 41,
+    "total_tokens": 93,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058648.6501653
+}

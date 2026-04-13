@@ -1,0 +1,19 @@
+{
+  "content": "Kini agbara tensile ni megapascals ti ajọṣepọ itọju ninu itọju ihuwasi imọlara, ati ni igbohunsafẹfẹ ipade wo ni a yẹ ki a reti fifọ brittle labẹ ẹru aibalẹ comorbid?",
+  "usage": {
+    "completion_tokens": 56,
+    "prompt_tokens": 153,
+    "total_tokens": 209,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058505.7896652
+}

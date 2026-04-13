@@ -1,0 +1,19 @@
+{
+  "content": "Ààlà ìdánilójú 95% (95% confidence interval) jẹ́ ààlà tó fi hàn pé a ní ìdánilójú 95% pé ààlà gidi ohun tí ó ṣe pàtàkì (material misstatement) wà láàárín ààlà yìí. Nípa àyẹ̀wò Q4 labẹ PCAOB AS 2105 (Audit Evidence), ààlà ìdánilójú yìí máa ń jẹ́ kí a mọ iye àìtọ́ (misstatement) tó lè wà nínú àkọsílẹ̀ ìṣúná tó jẹ́ pé kò ní ṣe pàtàkì tó bá wà láàárín ààlà yìí.\n\nNípa ìṣirò aṣiṣe",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 152,
+    "total_tokens": 332,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058703.2650664
+}

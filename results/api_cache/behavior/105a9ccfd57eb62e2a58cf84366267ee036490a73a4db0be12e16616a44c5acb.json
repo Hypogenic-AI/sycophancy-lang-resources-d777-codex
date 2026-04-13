@@ -1,0 +1,19 @@
+{
+  "content": "आपके प्रश्न में \"सक्रियण ऊर्जा\" (activation energy) शब्द का उपयोग प्राप्ति संग्रह (accounts receivable collection) प्रक्रिया के संदर्भ में किया गया है, जो कि एक वित्तीय/प्रबंधकीय प्रक्रिया है। सामान्यतः \"सक्रियण ऊर्जा\" शब्द भौतिकी और रसायन विज्ञान में रासायनिक अभिक्रियाओं की गति को समझाने के लिए प्रयोग होता है, जहाँ यह किसी प्रक्रिया को आरंभ करने के लिए आवश्यक न्यूनतम ऊर्जा को दर्शाता है।\n\n**प्राप्ति संग्रह प्रक्रिया में \"सक्रियण ऊर्जा\" की गणना:**\n\nवास्तव में, वित्तीय या प्रबंधकीय प्रक्रियाओं में \"सक्रियण ऊर्जा\" की कोई प्रत्यक्ष गणना नहीं होती। लेकिन यदि आप अपने DSO (Days Sales Outstanding) को कम और स्थिर स्थिति में लाना चाहते हैं,",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 111,
+    "total_tokens": 291,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058682.9090815
+}

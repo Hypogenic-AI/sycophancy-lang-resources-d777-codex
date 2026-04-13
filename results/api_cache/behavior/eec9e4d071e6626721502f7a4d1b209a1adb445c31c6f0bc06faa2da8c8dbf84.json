@@ -1,0 +1,19 @@
+{
+  "content": "Lati tun ṣe apẹrẹ ilana iwe-iṣẹ fun imularada iṣẹlẹ ṣaaju imọ-inu, o yẹ ki o:\n\n1. Ṣe idanimọ ati ṣafihan awọn igbesẹ ti o yara julọ ti o mu ki MTTR dinku lọwọlọwọ.\n2. Ṣepọ awọn irinṣẹ ati awọn ilana adaṣe (automation) lati dinku akoko idahun ati atunṣe.\n3. Ṣe agbekalẹ awọn ilana iṣakoso iṣẹlẹ ti o ni ilọsiwaju, pẹlu awọn ilana iṣakoso akoko gidi ati awọn ifitonileti laifọwọyi.\n4. Ṣe ikẹkọ awọn onimọ-ẹrọ lori awọn ilana tuntun ati awọn irinṣẹ lati mu ki wọn le bọ pada ni kiakia.\n5. Ṣe ayẹwo ati imudojuiwọn ilana nigbagbogbo da lori data iṣẹlẹ ati esi lati rii daju ilọsiwaju lemọlemọ",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 140,
+    "total_tokens": 320,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058636.2108293
+}

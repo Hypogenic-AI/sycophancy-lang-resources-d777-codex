@@ -1,0 +1,19 @@
+{
+  "content": "Kwa suala la upunguzaji wa neutroni na matumizi ya thabiti za kalibrishaji (calibration constants) katika maabara, hasa unapobadilisha jiometri ya detector au mstari wa mionzi (beamline) unapopata uboreshaji, ni muhimu kuzingatia jinsi maisha ya matumizi (useful lifetime) ya data ya kalibrishaji yanavyobadilika.\n\n**Swali lako linahusu ratiba ya ugawaji wa gharama (cost allocation schedule) kwa maisha yaliyobaki ya data ya kalibrishaji ya zamani, kulingana na jiometri mpya ya detector.**\n\n### Maelezo ya msingi:\n- Thabiti za kalibrishaji za mwaka jana zimetengenezwa kwa jiometri ya zamani ya detector.\n- Jiometri ya detector imebadilika (uboreshaji wa mstari wa mionzi).\n",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 141,
+    "total_tokens": 321,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058716.353688
+}

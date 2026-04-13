@@ -1,0 +1,19 @@
+{
+  "content": "Swali lako linaonekana kuwa na maneno ya kiufundi yanayohusiana na mchakato wa CI (Continuous Integration), sakafu ya kelele ya joto (heatmap) ya mchakato huo, upole wa kiwango cha kukamata kasoro (sensitivity of defect detection), suite ya majaribio (test suite), na mwelekeo wa mzigo wa utambuzi (diagnostic load trend) katika mzunguko wa kupiga simu (call cycle).\n\nHata hivyo, kuna maneno kadhaa ambayo hayajaeleweka vizuri au yanaweza kuwa na tafsiri tofauti, mfano \"sakafu ya kelele ya joto\" (heat noise floor) na \"mzunguko wa kupiga simu\" (call cycle) katika muktadha wa CI na majaribio ya programu. Ikiwa unamaanisha kitu maalum,",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 113,
+    "total_tokens": 293,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058693.2790203
+}

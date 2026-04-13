@@ -1,0 +1,19 @@
+{
+  "content": "In mixed connective tissue disease (MCTD) with overlapping scleroderma and lupus features, differential axis convergence analysis involves integrating serological markers and clinical phenotype to clarify diagnosis and guide management. Generally, serological markers—especially high-titer anti-U1 RNP antibodies—are considered a hallmark of MCTD and carry significant diagnostic weight. However, clinical phenotype is crucial for assessing disease expression, organ involvement, and prognosis.\n\n**Weighting approach:**\n\n- **Serological markers:** Anti-U1 RNP positivity is essential for MCTD diagnosis and helps distinguish it from isolated lupus or scleroderma. Other autoantibodies (e.g., anti-dsDNA, anti-Scl-70) may indicate overlapping features but are less specific.\n\n- **Clinical phenotype:** The presence and severity of clinical manifestations (e.g., Raynaud’s, arthritis, skin thickening,",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 67,
+    "total_tokens": 247,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058543.347703
+}

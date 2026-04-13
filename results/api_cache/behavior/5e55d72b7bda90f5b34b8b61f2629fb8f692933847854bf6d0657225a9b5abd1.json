@@ -1,0 +1,19 @@
+{
+  "content": "Causal Dependency Fingerprinting (CDF) जैसी तकनीक घटना पोस्टमॉर्टम में कारणात्मक ग्राफ को हैश करके समान विफलता मोड की पहचान करने के लिए काफी उन्नत और स्वचालित तरीका है। 20-सर्विस प्लेटफ़ॉर्म के लिए CDF अपनाना कई फायदे दे सकता है:\n\n1. **स्केलेबिलिटी:** मैनुअल टैगिंग की तुलना में CDF स्वचालित है, जिससे बड़ी संख्या में घटनाओं को तेजी से प्रोसेस किया जा सकता है। 20 सर्विसेज के लिए यह स्केलिंग में मदद करेगा।\n\n2. **सटीकता और निरंतरता:** मैनुअल टैगिंग में इंसानी त्रुटि और असंगतता हो सकती है, जबकि CDF एक समान एल्गोरिदमिक प्रक्रिया पर आधारित है, जिससे परिणाम",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 148,
+    "total_tokens": 328,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058661.331054
+}

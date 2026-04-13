@@ -1,0 +1,19 @@
+{
+  "content": "Lati ṣetọju akoko idahun ipari-si-ipari ti o kere ju millisekondi kan lọ lẹhin ti o kọja ilẹkun idaduro nẹtiwọọki, o yẹ ki o:\n\n1. Ṣe idojukọ lori ṣiṣe koodu ati awọn iṣẹ inu ẹrọ (compute) ni ipele ti o ga julọ, pẹlu:\n   - Ṣiṣe iṣapeye koodu fun iyara.\n   - Lo caching ni ipele iṣẹ lati yago fun iṣiro atunwi.\n   - Ṣe pipin iṣẹ (parallelization) ati pipin iṣẹ-ṣiṣe (load balancing).\n\n2. Dinku awọn idaduro inu ẹrọ bi:\n   - Yago fun awọn ipe API ti ko ṣe pataki.\n   - Ṣe iṣakoso awọn orisun daradara lati yago fun idaduro.\n\n3. Ṣe akiyesi lilo awọn imọ-ẹrọ bi:\n  ",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 161,
+    "total_tokens": 341,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058633.7770839
+}

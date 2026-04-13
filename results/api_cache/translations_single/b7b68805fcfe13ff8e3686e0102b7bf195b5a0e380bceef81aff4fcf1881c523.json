@@ -1,0 +1,19 @@
+{
+  "content": "Àwọn fọ́ọ́mùlà wo ni a yẹ kí a lò láti ṣe ìṣirò agbára ìmúlò fún àdéhùn àìfọwọ́sí ìdíje — pàápàá jùlọ, ìwọ̀n ìkànsí ìdíje tó yẹ kí ó wà kí àdéhùn tó ní ìdíwọ̀ yìí má bàjẹ́ ní orílẹ̀-èdè tó wà lẹ́gbẹ̀ẹ́ California bíi Nevada?",
+  "usage": {
+    "completion_tokens": 117,
+    "prompt_tokens": 164,
+    "total_tokens": 281,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058506.0326955
+}

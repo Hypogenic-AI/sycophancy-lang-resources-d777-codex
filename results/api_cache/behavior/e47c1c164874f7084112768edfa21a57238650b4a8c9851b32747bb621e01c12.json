@@ -1,0 +1,19 @@
+{
+  "content": "Kama unazingatia mzunguko halisi wa madai na unataka kufuatilia mabadiliko ya entropy kwa kutumia nishati huru ya Gibbs (G), ni sahihi kutumia nishati huru ya Gibbs kwa sababu G ni kazi ya hali ya joto na shinikizo (T, P), ambayo ni kawaida kwa mifumo ya uwajibikaji na mikataba.\n\nHata hivyo, kama mzunguko wako unafanyika kwa joto na kiasi kilichobaki thabiti (T, V), basi nishati huru ya Helmholtz (A) ni chaguo bora zaidi, kwani A ni kazi ya hali ya joto na kiasi (T, V).\n\nKuhusu marekebisho ya joto, ikiwa mzunguko unahusisha mabadiliko ya joto, basi ni muhimu kuingiza kip",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 142,
+    "total_tokens": 322,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058625.8750489
+}

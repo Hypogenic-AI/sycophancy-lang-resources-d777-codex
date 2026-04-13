@@ -1,0 +1,19 @@
+{
+  "content": "Kwa mfano wa hatari ya kupungua thamani ya alama za biashara (trademark dilution risk) unapotumia vipindi vya uchunguzi vya 500ms kwa faili 14 za washindani na thamani ya upungufu wa 0.03 kwa siku, swali lako linahusu kama kupunguza dirisha la uchunguzi kabla ya tarehe ya kupinga TTAB (Trademark Trial and Appeal Board) ni jambo jema au la, hasa kwa kuzingatia mzigo kwenye buffer ya ufananishaji.\n\nHapa kuna mambo muhimu ya kuzingatia:\n\n1. **Dirisha la uchunguzi (window size)**  \n   Kupunguza dirisha la uchunguzi (e.g., kutoka 500ms kuwa ndogo zaidi) kunaweza kuongeza azimio la uchunguzi wa mabadiliko madogo madogo katika data, lakini pia kuna",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 135,
+    "total_tokens": 315,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058726.5015476
+}

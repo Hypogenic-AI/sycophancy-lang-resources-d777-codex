@@ -1,0 +1,19 @@
+{
+  "content": "En contrôlant l'inflation des points de sprint et en normalisant par l'entropie des commits, la variance de la fréquence de déploiement s'explique principalement par la latence de revue des PR lorsque la seconde dérivée de la cadence de grooming du backlog est négative (ralentissement du grooming), indiquant que des ralentissements dans la préparation des tâches amplifient l'impact des délais de revue sur la régularité des déploiements.",
+  "usage": {
+    "completion_tokens": 97,
+    "prompt_tokens": 334,
+    "total_tokens": 431,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058697.4124424
+}

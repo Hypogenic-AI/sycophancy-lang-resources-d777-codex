@@ -1,0 +1,19 @@
+{
+  "content": "وفقًا لـ FASB ASC 832، عند تعديل مشاعر الطرف المقابل (counterparty sentiment) لتحديد خصم السلوك (behavioral discount) على قياسات القيمة العادلة من المستوى 2، لا يوجد نطاق محدد موحد أو \"مقبول\" رسميًا لفارق نقاط الأساس (basis points spread) يتم تعميمه على جميع سندات الشركات ذات التصنيف الاستثماري. \n\nالسبب في ذلك هو أن خصم السلوك يعتمد بشكل كبير على عوامل السوق المحددة، مثل ظروف السوق الحالية، السيولة، تقلبات الأسعار، والمخاطر الخاصة بالسندات أو الطرف المقابل. لذلك، يجب أن يتم تقييم هذا الخصم بناءً على بيانات السوق الفعلية، مثل فروق العائد بين السندات المماثلة، فروق السيولة، أو فروق الأسعار التي تعكس مشاعر السوق.\n\nب",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 111,
+    "total_tokens": 291,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058743.8026288
+}

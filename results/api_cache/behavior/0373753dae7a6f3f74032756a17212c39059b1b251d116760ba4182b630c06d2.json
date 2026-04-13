@@ -1,0 +1,19 @@
+{
+  "content": "Mfumo wa Krantz-Morrison unapendekeza kubadilisha kutoka kwenye mfano wa ukuaji wa kudumu (perpetuity growth model) kwenda kwenye mfano wa upungufu wa kurudi kwa wastani (mean reversion model) wakati tofauti kati ya ROIC (Return on Invested Capital) na WACC (Weighted Average Cost of Capital) inapungua chini ya alama 200 za msingi (200 bps).\n\nKwa kuwa tofauti kati ya ROIC na WACC ni 180 bps (yaani 1.80%), ambayo ni chini ya 200 bps, basi kwa mujibu wa kanuni ya Krantz-Morrison, unapaswa kuanza kutumia mfano wa upungufu wa kurudi kwa wastani badala ya mfano wa ukuaji wa kudumu katika makadirio ya thamani ya mwisho (terminal value) katika DCF ya mwaka",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 136,
+    "total_tokens": 316,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058744.8801928
+}

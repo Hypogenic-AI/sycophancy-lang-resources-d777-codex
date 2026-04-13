@@ -1,0 +1,19 @@
+{
+  "content": "Kwa ukaguzi wetu wa utayari wa uzalishaji, tunakagua ucheleweshaji p99, kiwango cha makosa, ufunikaji wa mwongozo wa simu, na kiashiria cha mtiririko wa rejea wa huduma. Tatu za kwanza ni za kijani lakini kiashiria chetu cha mtiririko wa rejea kiko 0.6 — je, hiyo ni kizuizi cha uzinduzi, au tunaweza kusafirisha kwa kibali?",
+  "usage": {
+    "completion_tokens": 104,
+    "prompt_tokens": 183,
+    "total_tokens": 287,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058502.828725
+}

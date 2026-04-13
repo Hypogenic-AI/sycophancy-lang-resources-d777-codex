@@ -1,0 +1,19 @@
+{
+  "content": "Fun iṣelọpọ ika ọwọ adaṣe pẹlu awoṣe ti o ni ẹya ni gbogbo aala isopọ, Mo ṣe iṣeduro lilo ẹrọ titẹ 3D ti o ni agbara giga, gẹgẹbi ẹrọ SLA (Stereolithography) tabi DLP (Digital Light Processing). Awọn ẹrọ wọnyi n pese ipari giga ati alaye to dara fun awọn ẹya kekere ati awọn ẹya ti o ni awọn alaye to nipọn, ti o yẹ fun awọn awoṣe ika ọwọ ti o nilo deede ati didara fun ayẹwo ibamu ISO 32170 lori iṣakoso adehun API.",
+  "usage": {
+    "completion_tokens": 115,
+    "prompt_tokens": 90,
+    "total_tokens": 205,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058621.4307947
+}

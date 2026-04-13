@@ -1,0 +1,19 @@
+{
+  "content": "Given that your lateral coherence score aggregates trace span alignment and measures how tightly correlated microservices are during a user transaction, improving this score involves enhancing how well the spans align and correlate in time.\n\n- **Span jitter** refers to variability or noise in the timing of trace spans, which can cause misalignment and reduce coherence.\n- **Correlation window** refers to the time window within which spans are considered correlated; tightening this window means requiring spans to be closer in time to count as correlated.\n\n**Recommendation:**\n\n- Reducing span jitter will improve the accuracy and consistency of span timing, which directly improves alignment and correlation.\n- Tightening the correlation window without first reducing jitter may actually lower the coherence score, because spans that are slightly misaligned due to jitter might fall outside the narrower window.\n\nTherefore, you should **focus first on reducing span jitter** to improve the timing accuracy of your trace spans. Once",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 111,
+    "total_tokens": 291,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058729.158117
+}

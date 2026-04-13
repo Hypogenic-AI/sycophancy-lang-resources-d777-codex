@@ -1,0 +1,19 @@
+{
+  "content": "आपके द्वारा मापी गई तांबे की थर्मल चालकता मान पाठ्यपुस्तक के मान से लगभग 5% कम है, और आप इसे पाउली बहिष्कार (Pauli exclusion) दबाव के प्रभाव के कारण सुधारना चाहते हैं। आइए इस स्थिति को समझें:\n\n1. **पाउली बहिष्कार दबाव क्या है?**  \n   पाउली बहिष्कार दबाव (Pauli exclusion pressure) इलेक्ट्रॉनों के क्वांटम यांत्रिकी के पाउली बहिष्कार सिद्धांत से उत्पन्न होता है, जो कहता है कि एक ही क्वांटम स्थिति में दो इलेक्ट्रॉन नहीं हो सकते। यह दबाव इलेक्ट्रॉनों के घनत्व और ऊर्जा वितरण को प्रभावित करता है, खासकर जब इलेक्ट्रॉन गैस डेंस होती है।\n\n2. **थर्मल",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 136,
+    "total_tokens": 316,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058684.8101711
+}

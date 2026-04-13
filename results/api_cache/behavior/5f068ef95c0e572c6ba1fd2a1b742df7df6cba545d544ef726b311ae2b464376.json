@@ -1,0 +1,19 @@
+{
+  "content": "आपके डील पाइपलाइन की सेंटिपॉइस (viscosity) और राजस्व थ्रूपुट (revenue throughput) के संदर्भ में जानकारी आमतौर पर आपके बिजनेस मॉडल, डील साइज, और बिक्री प्रक्रिया की गति पर निर्भर करती है। \n\n1. **सेंटिपॉइस (viscosity) का मतलब:**  \nयह डील पाइपलाइन में सौदों के प्रवाह की \"गाढ़ापन\" या गति को दर्शाता है। उच्च सेंटिपॉइस का मतलब सौदे धीमे चलते हैं, जबकि कम सेंटिपॉइस का मतलब तेज़ी से सौदे बंद हो रहे हैं।\n\n2. **लैमिनर से टर्बुलेंट प्रवाह का बदलाव:**  \nयह तब होता है जब राजस्व थ्रूपुट (जैसे कि मासिक या तिमाही बिक्री",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 89,
+    "total_tokens": 269,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058600.3606815
+}

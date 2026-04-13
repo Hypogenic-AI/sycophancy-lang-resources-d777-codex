@@ -1,0 +1,19 @@
+{
+  "content": "The concept of Mean Time Between Failures (MTBF) is typically used in engineering and reliability contexts to measure the average time between system or component failures. Applying MTBF to a legal document like an employment arbitration clause is not straightforward because legal clauses don't \"fail\" in a quantifiable, time-based manner like mechanical or electronic components do.\n\nHowever, if you are asking about how often an employment arbitration clause might become outdated, problematic, or legally vulnerable—effectively \"failing\" in its purpose—this depends on factors such as:\n\n- Changes in employment law and arbitration regulations\n- Court rulings affecting arbitration enforceability\n- Shifts in company policy or industry standards\n- Feedback from dispute resolution outcomes\n\n**To approach this practically:**\n\n1. **Track Clause Performance:** Monitor how often disputes arise that challenge the clause, or how often the clause leads to unexpected outcomes.\n2. **",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 75,
+    "total_tokens": 255,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058698.3246293
+}

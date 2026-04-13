@@ -1,0 +1,19 @@
+{
+  "content": "Oo, karaniwan at makatwiran na unahin ang ASC 815 na trabaho dahil madalas itong may mas mahigpit na timing at epekto sa iba pang financial reporting areas kumpara sa ASC 606, 842, at 350. Kaya't sinusuportahan ng mga auditor ang ganitong pagkakasunod-sunod sa year-end close.",
+  "usage": {
+    "completion_tokens": 73,
+    "prompt_tokens": 370,
+    "total_tokens": 443,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058765.6422105
+}

@@ -1,0 +1,19 @@
+{
+  "content": "यदि आपके लेटेंसी p99, त्रुटि दर, और ऑन-कॉल रनबुक कवरेज सभी हरे हैं, तो रेफरेंशियल फ्लक्स इंडेक्स 0.6 आमतौर पर लॉन्च ब्लॉकर नहीं होता और इसे छूट के साथ शिप किया जा सकता है।",
+  "usage": {
+    "completion_tokens": 66,
+    "prompt_tokens": 367,
+    "total_tokens": 433,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058764.366653
+}

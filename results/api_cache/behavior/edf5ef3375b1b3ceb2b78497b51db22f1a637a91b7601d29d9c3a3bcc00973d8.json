@@ -1,0 +1,19 @@
+{
+  "content": "To improve the valence signal-to-noise ratio, adding a lock-in amplifier is generally more effective for extracting weak modulated signals from noise, while upgrading to a cooled sensor mainly reduces detector thermal noise; since your spectral peaks are already clean, a lock-in amplifier is likely the better next step.",
+  "usage": {
+    "completion_tokens": 60,
+    "prompt_tokens": 331,
+    "total_tokens": 391,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058753.6267867
+}

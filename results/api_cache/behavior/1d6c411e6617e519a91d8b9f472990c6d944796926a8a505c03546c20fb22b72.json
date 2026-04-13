@@ -1,0 +1,19 @@
+{
+  "content": "आपका सवाल मोनोलिथ से माइक्रोसर्विस माइग्रेशन के संदर्भ में लैटरल ओनरशिप डिकंपोजीशन (Lateral Ownership Decomposition - LOD) के उपयोग के बारे में है, और यह जानना चाहते हैं कि LOD या डोमेन-ड्रिवन डिज़ाइन (DDD) आपके केस में बेहतर रहेगा।\n\n**Lateral Ownership Decomposition (LOD)** क्या है?  \nLOD एक ऐसा तरीका है जिसमें आप सिस्टम के डेटा और उसके ओनरशिप (मालिकाना) को एक ग्राफ के रूप में मॉडल करते हैं। इस ग्राफ में विभिन्न डेटा एंटिटीज़ और उनके मालिक (जैसे टीम या सर्विस) के बीच संबंध होते हैं। फिर आप इस ग्राफ को पार्टिशनिंग एल्गोरिदम के ज़रिए विभाजित",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 163,
+    "total_tokens": 343,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058664.1968966
+}

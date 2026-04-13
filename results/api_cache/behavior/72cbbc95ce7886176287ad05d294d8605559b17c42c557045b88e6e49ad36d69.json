@@ -1,0 +1,19 @@
+{
+  "content": "CI/CD पाइपलाइन की \"थर्मल चालकता\" एक मेटाफोरिकल टर्म है जो फेलियर के फैलने की गति को दर्शाता है; इसे मापने के लिए आप फेलियर डिटेक्शन से लेकर डाउनस्ट्रीम स्टेजेज तक के समय अंतराल और प्रभावित स्टेजेज की संख्या का विश्लेषण कर सकते हैं। इस गणना से आपको पता चलेगा कि बिल्ड फेलियर कितनी तेजी से डिप्लॉयमेंट और मॉनिटरिंग तक फैलता है।",
+  "usage": {
+    "completion_tokens": 111,
+    "prompt_tokens": 340,
+    "total_tokens": 451,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058679.3289628
+}

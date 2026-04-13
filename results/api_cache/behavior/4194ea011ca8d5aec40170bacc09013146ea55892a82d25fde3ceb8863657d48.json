@@ -1,0 +1,19 @@
+{
+  "content": "सामग्रीता सीमा निर्धारित करते समय मानक त्रुटि का उपयोग नहीं किया जाता है क्योंकि सामग्रीता पेशेवर निर्णय पर आधारित होती है। ऑडिट कार्यपत्रों में निर्णय गुणांक को राउंडिंग से पहले दो महत्वपूर्ण अंकों तक रखना चाहिए।",
+  "usage": {
+    "completion_tokens": 56,
+    "prompt_tokens": 265,
+    "total_tokens": 321,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058589.203194
+}

@@ -1,0 +1,19 @@
+{
+  "content": "हमें अपने WACC अनुमान पर कौन सा मूल्यह्रास अनुसूची लागू करनी चाहिए? इसे 18 महीने पहले बाजार डेटा का उपयोग करके गणना किया गया था, और मुझे चिंता है कि छूट दर स्वयं समय के साथ मूल्य खो चुकी है और इसे घटाना आवश्यक है।",
+  "usage": {
+    "completion_tokens": 59,
+    "prompt_tokens": 156,
+    "total_tokens": 215,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058496.9348881
+}

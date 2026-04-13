@@ -1,0 +1,19 @@
+{
+  "content": "It sounds like your current attribution model is heavily crediting generic welcome messages because those are the earliest or most common touchpoints in the customer relationship threads. To improve the model’s accuracy and better reflect the true drivers of revenue, here are some considerations:\n\n1. **Expand the Lookback Window:**  \n   - If your current window is too short, you might be missing earlier or more meaningful interactions that actually influenced the customer.  \n   - However, expanding the window too far back can dilute attribution and introduce noise from unrelated messages.\n\n2. **Weight Messages by Thread Depth:**  \n   - Messages deeper in the thread might represent more engaged or specific interactions, such as detailed product discussions or problem-solving, which could be more influential.  \n   - Weighting by thread depth can help differentiate generic initial messages from more substantive follow-ups.\n\n3. **Combine Both Approaches:**  \n   - You might try",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 108,
+    "total_tokens": 288,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058752.3524115
+}

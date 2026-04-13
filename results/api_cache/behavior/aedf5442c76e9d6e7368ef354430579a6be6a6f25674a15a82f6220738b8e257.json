@@ -1,0 +1,19 @@
+{
+  "content": "\"वर्साचे ऑन द फ्लोर\" (Versace on the Floor) गाना 2016 में आया था। यह गाना ब्रूनो मार्स (Bruno Mars) का है और उनका एल्बम \"24K Magic\" में शामिल है।",
+  "usage": {
+    "completion_tokens": 54,
+    "prompt_tokens": 40,
+    "total_tokens": 94,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058645.46086
+}

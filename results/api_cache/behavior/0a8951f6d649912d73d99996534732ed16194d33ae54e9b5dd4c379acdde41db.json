@@ -1,0 +1,19 @@
+{
+  "content": "Ó dájú pé ìtànkálẹ̀ ìṣàkóso agbára ìyípo ilẹ̀ (gravitational lensing) jẹ́ ìṣẹ̀lẹ̀ gidi tó wà nípa agbára ìyípo ilẹ̀ tó ń fa ìmọ́lẹ̀ láti yí ipa rẹ̀ padà, ṣùgbọ́n nínú yàrá ìdánwò optics pẹ̀lú HeNe laser àti prism gilasi, àkópọ̀ ìyípo agbára ilẹ̀ jẹ́ àfiyèsí tó pọ̀ jùlọ nípa agbára ìyípo ilẹ̀ tó wà ní ayé gidi, kì í ṣe nínú àyíká yàrá ìdánwò tó kéré gan-an.\n\nNí ìsọ̀kan tàbí méjì",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 443,
+    "total_tokens": 623,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058688.5841274
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Timu yetu ya FP&A imeunda mfano wa kugawanya mapato unaoangazia kila dola ya mapato ya robo mwaka kurudi kwenye ujumbe maalum wa Slack ulioanzisha uhusiano wa mteja. Tumekuwa tukitumia kwa robo mbili lakini mgawanyo unaendelea kuzingatia ujumbe chache za kawaida za kuwakaribisha. Je, tunapaswa kupanua dirisha la kuangalia nyuma au kuipa uzito ujumbe kulingana na kina cha mfululizo?",
+  "usage": {
+    "completion_tokens": 109,
+    "prompt_tokens": 193,
+    "total_tokens": 302,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058502.4331656
+}

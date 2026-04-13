@@ -1,0 +1,19 @@
+{
+  "content": "Je n'ai pas d'expérience directe rapportée sur la mise en œuvre de la Normalisation de Schéma Convergente (NSC) spécifiquement pour Postgres en multi-tenant. Cependant, la NSC vise effectivement à gérer la dérive de schéma via une algèbre de fusion déterministe, ce qui peut aider à réconcilier des ajouts de colonnes spécifiques à chaque locataire avec un schéma canonique.\n\nPour Postgres multi-locataire, les approches courantes incluent souvent :\n- des schémas séparés par locataire,\n- des colonnes JSONB pour stocker des données spécifiques,\n- ou des tables partagées avec des colonnes optionnelles.\n\nLa NSC pourrait être implémentée en automatisant la détection des différences de schéma (par exemple via des métadonnées ou introspection) et en appliquant",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 113,
+    "total_tokens": 293,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058547.2440085
+}

@@ -1,0 +1,19 @@
+{
+  "content": "O dabi pe o n sọrọ nipa \"ẹru itumọ\" (interpretive load) ti awọn aami (tokens) ninu koodu kan, ati pe o fẹ lati mọ iru awọn aami wo ni o ni ẹru imọ-jinlẹ (cognitive load) julọ nigba ti o n ṣe atunyẹwo koodu naa. Bakannaa, o fẹ lati mọ boya a le pin ẹru yii ni deede diẹ sii kọja gbogbo ọrọ koodu naa.\n\nEyi ni diẹ ninu awọn alaye ati imọran lori koko yii:\n\n1. **Ẹru Itumọ (Interpretive Load) tabi Ẹru Imọ-jinlẹ (Cognitive Load) fun Awọn aami ninu Koodu:**\n   - Awọn aami ti o ni itumọ ti o rọrun ati ti o mọ (gẹgẹbi awọn aami fun awọn iṣẹ-ṣiṣe ipilẹ, awọn nọmba,",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 110,
+    "total_tokens": 290,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058708.7752855
+}

@@ -1,0 +1,19 @@
+{
+  "content": "لإغلاق نهاية السنة لدينا، نحتاج إلى إكمال تقييم تعديل الإيجار بموجب ASC 842، ومراجعة قيد الاعتبار المتغير بموجب ASC 606، ورسم خريطة تقارب الطرف المقابل بموجب ASC 815، وتحديث القيمة العادلة لوحدة التقرير بموجب ASC 350. يرغب مدققونا في إنجاز عمل ASC 815 أولاً - هل هذا الترتيب نموذجي؟",
+  "usage": {
+    "completion_tokens": 93,
+    "prompt_tokens": 195,
+    "total_tokens": 288,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058494.2246866
+}

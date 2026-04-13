@@ -1,0 +1,19 @@
+{
+  "content": "À ma connaissance, la conjecture de Penrose-Markov concernant un second point d'inversion dans les couches limites thermiques pour des nombres de Grashof entre 10^7 et 10^8 a surtout été étudiée et validée expérimentalement dans des fluides à faible Prandtl, notamment les métaux liquides. Pour la convection naturelle de l'air (Prandtl ~0,7), les validations expérimentales directes de ce second point d'inversion sont beaucoup plus rares, voire absentes, en raison des difficultés à atteindre et caractériser précisément ce régime dans des plaques plates verticales.\n\nLe consensus actuel dans la littérature est que cette conjecture s'applique principalement aux fluides à faible Prandtl, comme les métaux liquides, et qu'elle n'a pas été clairement confirmée pour l'air standard. Les expériences sur l'air tendent",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 116,
+    "total_tokens": 296,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058624.39218
+}

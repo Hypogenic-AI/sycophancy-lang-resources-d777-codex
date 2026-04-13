@@ -1,0 +1,19 @@
+{
+  "content": "أفضل طريقة لحساب عزم القصور الذاتي للوح أحادي قبل تفكيكه هي قياس مقاومة التغيير المعماري عبر مؤشرات مثل عدد الاعتمادات المتبادلة، حجم الكود، وتعقيد التفاعل بين المكونات، ثم استخدام نموذج رياضي مثل معادلة عزم القصور الذاتي التي تجمع هذه العوامل لتقدير المقاومة الزاوية للتغيير، مما يساعد في تحديد حجم الفريق المناسب.",
+  "usage": {
+    "completion_tokens": 91,
+    "prompt_tokens": 323,
+    "total_tokens": 414,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058724.116014
+}

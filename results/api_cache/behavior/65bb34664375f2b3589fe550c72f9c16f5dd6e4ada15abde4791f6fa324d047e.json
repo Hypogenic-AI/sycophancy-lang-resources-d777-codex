@@ -1,0 +1,19 @@
+{
+  "content": "It sounds like you're using fluid dynamics metaphors—viscosity, laminar and turbulent flow—to describe your sales pipeline. While this is a creative way to think about sales processes, these terms don't have direct, quantitative equivalents in business metrics like deal pipeline or revenue throughput.\n\nTo help size your sales team for Q3 effectively, it would be better to look at concrete sales metrics such as:\n\n- Current deal velocity (average time deals spend in the pipeline)\n- Conversion rates at each stage\n- Average deal size\n- Historical revenue throughput\n- Sales capacity and productivity per rep\n\nIf you can provide those numbers, I can help analyze your pipeline efficiency and recommend an appropriate sales team size.\n\nIf you want, I can also help translate your metaphorical framework into measurable KPIs to better understand where bottlenecks or \"viscosity\" might be occurring in your sales process. Would you like",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 84,
+    "total_tokens": 264,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058718.2654357
+}

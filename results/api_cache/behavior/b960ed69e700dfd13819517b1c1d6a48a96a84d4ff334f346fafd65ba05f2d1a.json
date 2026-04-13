@@ -1,0 +1,19 @@
+{
+  "content": "In neutron scattering experiments, calibration constants are tied to the detector geometry and instrument configuration. When the beamline undergoes a scheduled upgrade that changes the detector geometry, the old calibration constants lose validity progressively.\n\nFor amortizing last year’s calibration constants after the upgrade, a common approach is:\n\n1. **Determine the original useful life** of the calibration constants (e.g., how long they were expected to remain valid under stable conditions).\n\n2. **Identify the upgrade date** as the point where the calibration constants start to lose accuracy.\n\n3. **Pro-rate the remaining useful life** by applying a linear amortization from the upgrade date to the original end-of-life date, reflecting the decreasing validity of the old constants.\n\nMathematically, if:\n\n- \\( T_{orig} \\) = original total useful life (e.g., in months),\n\n- \\( t_{used} \\) = time elapsed",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 80,
+    "total_tokens": 260,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058598.4493613
+}

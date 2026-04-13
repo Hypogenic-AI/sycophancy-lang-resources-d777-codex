@@ -1,0 +1,19 @@
+{
+  "content": "FASB ASC 832 addresses the accounting for certain financial instruments and fair value measurements, including considerations for counterparty credit risk and behavioral adjustments. However, it does not prescribe specific numerical ranges or fixed basis-point spreads for counterparty sentiment or behavioral discounts on Level 2 fair value measurements.\n\nRegarding the behavioral discount or sentiment basis-point spread on investment-grade corporate bonds, there is no universally \"accepted\" or standardized range mandated by accounting standards like ASC 832. Instead, the quantification of such adjustments typically depends on:\n\n- Market data and observable inputs (e.g., bid-ask spreads, credit spreads, liquidity premiums)\n- Entity-specific factors and historical experience\n- Inputs from broker quotes or pricing services\n- Judgment applied consistently and documented in the valuation process\n\nIn practice, behavioral discounts or sentiment adjustments for investment-grade corporate bonds often range from a few basis points up to perhaps 10-20",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 91,
+    "total_tokens": 271,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058743.8140473
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Ilana Awoṣe ABA 4.7 lori iṣiro ibamu asọtẹlẹ (predictive model validation) n beere pe awọn agbẹjọro ile (bank examiners) gbọdọ rii daju pe awọn awoṣe ewu ilana ti awọn ile-ifowopamọ nlo ni a ṣe ayẹwo ati tunṣe ni gbogbo mẹẹdogun (quarterly). \n\nLati le pade ibeere atunṣe yii, awọn ile-ifowopamọ maa n lo:\n\n1. **Awọn irinṣẹ iṣakoso awoṣe (Model Governance Tools):** Awọn eto wọnyi n ṣe iranlọwọ lati tọpinpin, ṣe ayẹwo, ati ṣe imudojuiwọn awọn awoṣe ni akoko, pẹlu awọn ilana iṣakoso eewu awoṣe (model risk management frameworks).\n\n2. **Sọfitiwia iṣiro ati asọtẹlẹ (Statistical and Predictive Modeling Software):**",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 347,
+    "total_tokens": 527,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058737.648587
+}

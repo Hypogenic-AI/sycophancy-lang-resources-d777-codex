@@ -1,0 +1,19 @@
+{
+  "content": "O dara lati ni iwọn aala kan pato fun cyclomatic complexity lati ṣetọju koodu ti o mọ ati rọrun lati ṣetọju. Sibẹsibẹ, awọn iwọn aala ti o dara julọ le yatọ da lori ede siseto nitori awọn aṣa koodu ati awọn idioms oriṣiriṣi.\n\nNinu ọran rẹ, o dabi pe iwọn aala 340 millihalsteads (eyiti o jẹ iwọn ti o ga pupọ, botilẹjẹpe o le jẹ iwọn inu ti o nlo) dara fun Python ṣugbọn ko dara fun Go nitori koodu Go rẹ n kọja aala naa nigbagbogbo.\n\nAwọn aṣayan meji lo wa:\n\n1. **Ṣatunṣe koodu Go rẹ:** Ti o ba ṣeeṣe, o dara lati tunṣe koodu lati dinku cyclomatic complexity. Eyi le tumọ si pipin awọn iṣẹ nla sinu awọn iṣẹ kekere",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 128,
+    "total_tokens": 308,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058730.2307434
+}

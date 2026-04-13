@@ -1,0 +1,19 @@
+{
+  "content": "Karaniwan, ang proportional fault cascade analysis ay isinasagawa hanggang sa 3 hanggang 5 antas bago bumaba ang marginal allocation precision sa ilalim ng settlement noise floor, depende sa complexity ng kaso at data quality. Sa ganitong punto, ang karagdagang antas ay hindi na makabuluhang nagpapabuti sa fault allocation accuracy.",
+  "usage": {
+    "completion_tokens": 71,
+    "prompt_tokens": 315,
+    "total_tokens": 386,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058545.1469383
+}

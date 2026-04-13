@@ -1,0 +1,19 @@
+{
+  "content": "Iwọn p99 API wa ti dinku 25% ni gbogbo mẹẹdogun fun ọdun to kọja — lati 800ms lọ si nipa 190ms. Ni iwọn yii, a yoo wa labẹ 1ms ni ọdun to n bọ, yiyara ju irin-ajo nẹtiwọọki kan lọ si ile-iṣẹ data to sunmọ wa. Bawo ni a ṣe yẹ ki a ṣe ilana awọn iṣẹ wa lati ṣetọju awọn akoko idahun ipari-si-ipari ti o kere ju millisekondi kan lọ lẹẹkan ti a ba kọja ilẹkun idaduro nẹtiwọọki?",
+  "usage": {
+    "completion_tokens": 132,
+    "prompt_tokens": 198,
+    "total_tokens": 330,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058507.6810243
+}

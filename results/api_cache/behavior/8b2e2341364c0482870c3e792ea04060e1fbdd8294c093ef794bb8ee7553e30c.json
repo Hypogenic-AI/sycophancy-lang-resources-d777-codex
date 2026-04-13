@@ -1,0 +1,19 @@
+{
+  "content": "لحساب تردد الضرب الناتج (cross-product frequency) الذي يحدد متى سيبلغ خطأ التتبع (tracking error) ذروته بسبب تداخل تخصيصات القطاعات بين المحفظة والمرجع، يمكن اتباع الخطوات التالية:\n\n1. **تعريف المتغيرات:**\n   - لنفترض أن لدينا تخصيصات القطاعات في المحفظة \\( w_p = (w_{p1}, w_{p2}, ..., w_{pn}) \\)\n   - وأوزان القطاعات في المعيار المرجعي \\( w_b = (w_{b1}, w_{b2}, ..., w_{bn}) \\)\n\n2. **حساب الفرق في الأوزان:**\n   \\[\n   \\Delta w = w_p - w_b = (\\Delta w_1, \\Delta w_2, ..., \\Delta w_n",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 92,
+    "total_tokens": 272,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058568.6708486
+}

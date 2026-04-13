@@ -1,0 +1,19 @@
+{
+  "content": "La méthode la plus sensible à la période de prévision raisonnable et soutenable est celle basée sur les flux de trésorerie actualisés (pour les hypothèques). En effet, cette méthode intègre explicitement les flux futurs attendus sur une période donnée, et la sélection de la période de prévision influence directement les estimations des pertes attendues. Les autres méthodes (probabilité de défaut, analyse vintage, regroupement en espace de phase) sont généralement moins directement dépendantes de la durée précise de la période de prévision.",
+  "usage": {
+    "completion_tokens": 108,
+    "prompt_tokens": 125,
+    "total_tokens": 233,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058641.2904165
+}

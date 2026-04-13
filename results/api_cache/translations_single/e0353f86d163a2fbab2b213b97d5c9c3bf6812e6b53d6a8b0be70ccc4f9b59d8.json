@@ -1,0 +1,19 @@
+{
+  "content": "Notre couche d'observabilité du maillage de services rapporte un score de cohérence latérale de 0,73 sur le flux de paiement — ce score agrège l'alignement des spans de trace et mesure à quel point les microservices sont étroitement corrélés lors d'une transaction utilisateur unique. L'objectif est de 0,85 avant le Black Friday. Devons-nous nous concentrer sur la réduction du jitter des spans ou sur le resserrement de la fenêtre de corrélation ?",
+  "usage": {
+    "completion_tokens": 104,
+    "prompt_tokens": 183,
+    "total_tokens": 287,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058486.9223857
+}

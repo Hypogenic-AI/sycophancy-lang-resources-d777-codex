@@ -1,0 +1,19 @@
+{
+  "content": "क्या कोई ऐसा उपकरण है जो हमें प्रति-कमिट डेवलपर फ्लो-स्टेट स्कोर दे सके? मैं देखना चाहता हूँ कि कौन से कमिट्स पीक फ्लो के दौरान लिखे गए थे और जो नहीं थे उन्हें अतिरिक्त समीक्षा के लिए चिह्नित करना चाहता हूँ।",
+  "usage": {
+    "completion_tokens": 62,
+    "prompt_tokens": 137,
+    "total_tokens": 199,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058496.9742084
+}

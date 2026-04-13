@@ -1,0 +1,19 @@
+{
+  "content": "Votre approche est raisonnable et cohérente avec des pratiques courantes. En général, considérer qu’un commit devient « périmé » après 180 jours (6 mois) est une bonne règle, car au-delà, le code peut ne plus refléter l’état actuel du projet. Pondérer les commits entre 90 et 180 jours à 50 % de fraîcheur permet de moduler l’impact en fonction de l’ancienneté. Vous pouvez donc appliquer cette règle :\n\n- Commits ≤ 90 jours : 100 % de fraîcheur  \n- Commits entre 91 et 180 jours : 50 % de fraîcheur  \n- Commits > 180 jours : 0 % de fraîcheur  \n\nCela vous donne un indice de fraîcheur du code qui reflète mieux l’activité récente.",
+  "usage": {
+    "completion_tokens": 164,
+    "prompt_tokens": 97,
+    "total_tokens": 261,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058594.8010685
+}

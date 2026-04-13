@@ -1,0 +1,19 @@
+{
+  "content": "Ang pinaka-sensitibong pamamaraan sa makatwirang panahon ng forecast ay ang **discounted cash flow para sa mortgages**, dahil ito ay direktang nakabatay sa inaasahang cash flows at mga pagbabago sa interest rates at prepayment behavior sa forecast horizon.",
+  "usage": {
+    "completion_tokens": 55,
+    "prompt_tokens": 265,
+    "total_tokens": 320,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058642.7202513
+}

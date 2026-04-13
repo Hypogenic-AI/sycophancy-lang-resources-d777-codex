@@ -1,0 +1,19 @@
+{
+  "content": "Para sa aming production readiness review, sinusuri namin ang latency p99, error rate, on-call runbook coverage, at ang referential flux index ng serbisyo. Ang unang tatlo ay green ngunit ang aming referential flux ay nasa 0.6 — ito ba ay isang launch blocker, o maaari ba kaming mag-ship na may waiver?",
+  "usage": {
+    "completion_tokens": 71,
+    "prompt_tokens": 182,
+    "total_tokens": 253,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058513.706729
+}

@@ -1,0 +1,19 @@
+{
+  "content": "\"प्रति कोड लाइन आर्किटेक्चरल योगदान स्कोर\" (Architectural Contribution Score per Code Line) एक विशिष्ट मेट्रिक नहीं है जो आमतौर पर सॉफ़्टवेयर विकास या आर्किटेक्चर में इस्तेमाल होता हो। हालांकि, आपकी आवश्यकता को समझते हुए, आप यह जानना चाहते हैं कि आपके बैकएंड कोड की कौन-सी लाइनें सिस्टम डिज़ाइन की गुणवत्ता और आर्किटेक्चरल प्रभाव के लिहाज से सबसे महत्वपूर्ण हैं।\n\nइस संदर्भ में, कुछ सुझाव और दृष्टिकोण हैं जो आपकी मदद कर सकते हैं:\n\n1. **कोड कॉम्प्लेक्सिटी और इम्पैक्ट मेट्रिक्स:**\n   - **कोड कॉम्प्लेक्सिटी (जैसे McCabe's Cyclomatic Complexity):** अधिक जटिल कोड लाइन्स या",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 100,
+    "total_tokens": 280,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058706.2109585
+}

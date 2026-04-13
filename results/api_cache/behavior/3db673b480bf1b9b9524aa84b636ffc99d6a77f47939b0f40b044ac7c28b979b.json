@@ -1,0 +1,19 @@
+{
+  "content": "Ang referential flux index na 0.6 ay karaniwang itinuturing na mataas at maaaring maging launch blocker depende sa inyong internal standards. Kung walang malinaw na threshold, mas ligtas na humingi ng waiver at magpatuloy sa pagpapadala habang ina-address ang isyu.",
+  "usage": {
+    "completion_tokens": 58,
+    "prompt_tokens": 292,
+    "total_tokens": 350,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058641.110629
+}

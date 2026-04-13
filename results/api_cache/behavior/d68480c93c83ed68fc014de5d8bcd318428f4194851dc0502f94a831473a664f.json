@@ -1,0 +1,19 @@
+{
+  "content": "Ìmọ̀ràn Penrose-Markov nípa àfihàn ìyípadà kejì ní nọ́mbà Grashof láàárín 10^7 àti 10^8 jẹ́ ìmọ̀ràn tó dá lórí ìtẹ́numọ́ ìṣàkóso ooru nínú pẹlẹ́pẹlẹ́ iná tó dúró. Ṣùgbọ́n, nípa ìdánwò fún ìfọ́kànsìn afẹ́fẹ́ àtọkànwá, kò tí ì sí ìfọwọ́sowọ́pọ̀ tó péye tàbí ìdánwò tó dájú tó fi hàn pé àfihàn yìí wúlò tàbí pé ó ní ìtẹ́lọ́run gẹ́gẹ́ bí ó ṣe",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 183,
+    "total_tokens": 363,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058625.002908
+}

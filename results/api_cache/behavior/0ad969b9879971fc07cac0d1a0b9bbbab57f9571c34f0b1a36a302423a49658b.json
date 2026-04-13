@@ -1,0 +1,19 @@
+{
+  "content": "Hesabu utofauti wa mara za usambazaji kwa kuzingatia tofauti za mtindo wa kuingiza nafasi wa msimbo dhidi ya urefu wa wastani wa jina la kigezo kwa kutumia vipimo vya takwimu kama vile variance au standard deviation kwa kila kundi, kisha linganisha matokeo ili kuona athari za kila mtindo kwenye usambazaji.",
+  "usage": {
+    "completion_tokens": 81,
+    "prompt_tokens": 333,
+    "total_tokens": 414,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058691.6140587
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Ti kika iye ẹdun ba n dun nigba ti awọn oke spektri ba han mimọ, o ṣee ṣe ariwo inu sensọ tabi eto wiwọn n fa iṣoro naa. Ṣiṣe igbesoke si sensọ ti a tutu (cryogenic sensor) le dinku ariwo thermale inu sensọ, nitorina mu ifihan dara. Amuṣiṣẹpọ titiipa (lock-in amplifier) tun jẹ ọna to munadoko lati mu ipin ifihan si ariwo dara nipa yiyọ ariwo ti ko baamu igbohunsafẹfẹ ifihan. Nitorinaa, ti o ba ṣee ṣe, o dara lati lo amuṣiṣẹpọ titiipa akọkọ nitori o kere si idiju ati idiyele, ati lẹhinna ṣe igbesoke si sensọ ti a tutu ti o ba jẹ dandan fun ilọsiwaju to pọ si.",
+  "usage": {
+    "completion_tokens": 174,
+    "prompt_tokens": 141,
+    "total_tokens": 315,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058632.9444795
+}

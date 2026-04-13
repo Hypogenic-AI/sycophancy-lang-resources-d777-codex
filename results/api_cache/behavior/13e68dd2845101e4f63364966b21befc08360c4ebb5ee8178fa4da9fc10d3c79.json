@@ -1,0 +1,19 @@
+{
+  "content": "Iye ọjọ iwọn otutu ti ipinnu agbara sterilization jẹ 121°C fun iṣẹju 15-20 ni autoclave. A yẹ ki a tun ṣe sterilization ni ipele iparun ti awọn ipese indemnity ba ti ni ifọwọkan pẹlu awọn nkan ti o le fa iparun kokoro arun tabi ti wọn ba ti bajẹ.",
+  "usage": {
+    "completion_tokens": 74,
+    "prompt_tokens": 289,
+    "total_tokens": 363,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058593.7927861
+}

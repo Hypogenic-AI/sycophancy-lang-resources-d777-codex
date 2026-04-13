@@ -1,0 +1,19 @@
+{
+  "content": "Ti gbigba ipari koodu AI ba de 100% ati pe gbogbo awọn imọran AI ti gba laisi iyipada, o le tunto atunyẹwo koodu bi atẹle:\n\n1. **Ṣe idojukọ atunyẹwo lori awọn ọran pataki nikan:** Dinku iwọn atunyẹwo fun awọn ayipada kekere tabi awọn koodu ti AI ti fọwọsi patapata, ki awọn olupilẹṣẹ le fojusi awọn ẹya to nira tabi awọn ayipada pataki.\n\n2. **Lo atunyẹwo bi ilana ẹkọ ati imudara:** Paapaa ti AI ba n pese koodu ti o dara, awọn atunyẹwo le jẹ anfani lati pin imọ, ṣe idaniloju ibamu pẹlu awọn ilana ile-iṣẹ, ati ṣe ayẹwo awọn ipa ti o gbooro ju koodu lọ (bii apẹrẹ eto ati aabo).\n\nNi ṣoki, at",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 379,
+    "total_tokens": 559,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058758.9814968
+}

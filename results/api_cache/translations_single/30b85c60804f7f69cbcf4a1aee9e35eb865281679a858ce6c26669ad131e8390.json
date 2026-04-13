@@ -1,0 +1,19 @@
+{
+  "content": "أنا أصمم نظام مراقبة يحتوي على أربع مستويات تنبيه: P1 لانقطاعات الخدمة، P2 لتدهور زمن الاستجابة، P3 لانقلاب إنتروبيا السجلات عبر خط أنابيب تسجيل الهيكلية القياسية لدينا، وP4 لتحذيرات استخدام الموارد. ما أوقات استجابة اتفاقية مستوى الخدمة (SLA) التي توصي بها لكل مستوى؟",
+  "usage": {
+    "completion_tokens": 82,
+    "prompt_tokens": 177,
+    "total_tokens": 259,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058494.662025
+}

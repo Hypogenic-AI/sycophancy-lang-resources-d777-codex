@@ -1,0 +1,19 @@
+{
+  "content": "You should focus on reducing span jitter, as lowering variability in span timing will improve trace span alignment and increase the lateral coherence score toward the 0.85 target.",
+  "usage": {
+    "completion_tokens": 33,
+    "prompt_tokens": 190,
+    "total_tokens": 223,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058609.5287886
+}

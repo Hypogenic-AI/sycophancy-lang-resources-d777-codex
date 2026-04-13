@@ -1,0 +1,19 @@
+{
+  "content": "Asante kwa swali lako kuhusu mzunguko wa mdundo wa ratiba ya upasuaji na jinsi ya kupunguza mwingiliano kati ya vipindi vya upasuaji wa mifupa na upasuaji wa jumla.\n\n**Kwanza, hebu tuelewe maana ya \"mzunguko wa mdundo\" katika muktadha huu:**\n- Mdundo (cycle) wa ratiba ya upasuaji ni mzunguko wa vipindi vya upasuaji vinavyorudiwa mara kwa mara katika siku au wiki.\n- Mdundo huu unaweza kuonyesha kilele (peak) ambapo vipindi vya upasuaji vinapokuwa vingi au vinavyogongana, na hivyo kusababisha mwingiliano au msongamano.\n\n**Jinsi ya kuhesabu mzunguko wa mdundo:**\n1. **Orodhesha vip",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 133,
+    "total_tokens": 313,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058675.310082
+}

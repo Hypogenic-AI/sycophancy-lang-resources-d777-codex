@@ -1,0 +1,19 @@
+{
+  "content": "Uchambuzi wa mwelekeo wa mionekano tofauti huongeza uzito wa viashiria vya serolojia kwa kuonyesha uwiano na muafaka wake na phenotipu ya kliniki, hivyo kusaidia kutofautisha na kuthibitisha ugonjwa mchanganyiko wa tishu zinazounganisha.",
+  "usage": {
+    "completion_tokens": 70,
+    "prompt_tokens": 335,
+    "total_tokens": 405,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058545.257919
+}

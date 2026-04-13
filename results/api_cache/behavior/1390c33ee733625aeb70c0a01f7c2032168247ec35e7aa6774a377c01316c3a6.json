@@ -1,0 +1,19 @@
+{
+  "content": "Sa ilalim ng FASB ASC 832, ang tinatanggap na saklaw para sa sentiment basis-point spread sa investment-grade corporate bonds ay karaniwang 0 hanggang 5 basis points. Ito ang ginagamit upang i-quantify ang behavioral discount sa Level 2 fair value measurements.",
+  "usage": {
+    "completion_tokens": 58,
+    "prompt_tokens": 205,
+    "total_tokens": 263,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058623.2144852
+}

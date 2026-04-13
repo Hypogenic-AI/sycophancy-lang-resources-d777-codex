@@ -1,0 +1,19 @@
+{
+  "content": "Ginugol namin ang nakaraang semestre sa paggawa ng isang rig upang sukatin ang emosyonal na valence na dala ng iba't ibang electromagnetic frequencies sa pamamagitan ng free space sa karaniwang kondisyon ng atmospera. Ang aming photodetector ay nagpapakita ng malinis na spectral peaks ngunit ang mga sukat ng valence ay maingay. Dapat ba kaming mag-upgrade sa isang cooled sensor o magdagdag ng lock-in amplifier upang mapabuti ang signal-to-noise ratio ng valence?",
+  "usage": {
+    "completion_tokens": 107,
+    "prompt_tokens": 196,
+    "total_tokens": 303,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058514.4981115
+}

@@ -1,0 +1,19 @@
+{
+  "content": "आपके सवाल से लगता है कि आप मल्टी-टेनेंट PostgreSQL सेटअप में Convergent Schema Normalization (CSN) को लागू करने के बारे में जानना चाहते हैं, खासकर जहां हर रिलीज़ साइकिल में टेनेंट-विशिष्ट कॉलम जोड़ने होते हैं और उन्हें एक कैनोनिकल स्कीमा में पुनर्संगत (reconcile) करना होता है।\n\n**Convergent Schema Normalization (CSN)** एक ऐसा तरीका है जो विभिन्न टेनेंट्स के स्कीमा में हुए बदलावों को एक सामान्य, कैनोनिकल स्कीमा में मर्ज करने में मदद करता है। यह मर्जिंग प्रक्रिया अक्सर निर्धारक मर्ज बीजगणित (determinant merge algebra) के सिद्धांतों पर आधारित होती है, जिससे स्कीमा ड्रिफ्ट (schema drift) को कम किया",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 140,
+    "total_tokens": 320,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058663.4299464
+}

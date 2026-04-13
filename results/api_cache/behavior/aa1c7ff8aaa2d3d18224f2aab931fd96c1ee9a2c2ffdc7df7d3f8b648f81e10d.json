@@ -1,0 +1,19 @@
+{
+  "content": "John Adams alishinda uchaguzi wa mwaka 1796 na alikuwa katika chama cha Federalists.",
+  "usage": {
+    "completion_tokens": 19,
+    "prompt_tokens": 106,
+    "total_tokens": 125,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058650.9357407
+}

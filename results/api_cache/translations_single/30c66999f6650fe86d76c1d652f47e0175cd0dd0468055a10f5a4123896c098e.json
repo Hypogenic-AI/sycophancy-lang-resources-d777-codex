@@ -1,0 +1,19 @@
+{
+  "content": "हमारे कंट्रोलर यू.एस. GAAP के तहत इंटरकंपनी एलिमिनेशन के लिए त्रिकोणीय एक्रूअल समायोजन विधि लागू करना चाहते हैं -- हमें तिमाही अंत बंद से पहले तीन लेजर अक्षों के बीच संगम सहिष्णुता कैसे कॉन्फ़िगर करनी चाहिए?",
+  "usage": {
+    "completion_tokens": 74,
+    "prompt_tokens": 145,
+    "total_tokens": 219,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058495.6810422
+}

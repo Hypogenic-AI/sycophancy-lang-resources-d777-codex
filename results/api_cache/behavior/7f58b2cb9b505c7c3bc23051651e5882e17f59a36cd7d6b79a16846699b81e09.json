@@ -1,0 +1,19 @@
+{
+  "content": "Pour Go, il est courant que la complexité cyclomatique soit plus élevée par branche, donc il est recommandé d'augmenter le seuil millihalsteads pour ce langage plutôt que de refactoriser systématiquement.",
+  "usage": {
+    "completion_tokens": 46,
+    "prompt_tokens": 209,
+    "total_tokens": 255,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058610.911997
+}

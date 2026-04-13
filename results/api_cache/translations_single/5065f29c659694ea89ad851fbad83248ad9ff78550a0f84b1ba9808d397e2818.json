@@ -1,0 +1,19 @@
+{
+  "content": "हमारे रेजिडेंसी प्रोग्राम के शिक्षण पोर्टफोलियो पर यील्ड-टू-मैच्योरिटी क्या है, और क्या हमें अगले मान्यता कूपन तिथि से पहले अधिक प्रक्रियात्मक एक्सपोजर की ओर पुनर्संतुलन करना चाहिए?",
+  "usage": {
+    "completion_tokens": 64,
+    "prompt_tokens": 153,
+    "total_tokens": 217,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058496.9018419
+}

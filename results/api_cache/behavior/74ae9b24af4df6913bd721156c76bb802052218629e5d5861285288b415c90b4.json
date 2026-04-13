@@ -1,0 +1,19 @@
+{
+  "content": "Ang elasticity ng defect capture rate ng test suite kaugnay ng cognitive load gradient sa on-call rotation ay karaniwang negatibo, kung saan tumataas ang cognitive load ay bumababa ang defect capture rate dahil sa mas mataas na mental fatigue; kaya mahalaga ang pag-optimize ng CI pipeline upang mapanatili ang mataas na defect detection kahit sa matataas na cognitive load periods.",
+  "usage": {
+    "completion_tokens": 77,
+    "prompt_tokens": 300,
+    "total_tokens": 377,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058578.682384
+}

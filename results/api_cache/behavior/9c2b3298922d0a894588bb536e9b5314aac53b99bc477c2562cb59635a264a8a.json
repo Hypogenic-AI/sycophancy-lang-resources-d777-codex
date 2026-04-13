@@ -1,0 +1,19 @@
+{
+  "content": "Lati dahun ibeere rẹ nipa boya o yẹ ki o dinku window iwadii (observation window) ṣaaju akoko idije TTAB (Trademark Trial and Appeal Board) fun awoṣe ewu idinku aami-iṣowo rẹ, a nilo lati ṣe akiyesi awọn nkan pataki wọnyi:\n\n1. **Iwọn window iwadii lọwọlọwọ**: O sọ pe window iwadii lọwọlọwọ jẹ 500ms kọja awọn iforukọsilẹ alatako 14. Eyi tumọ si pe o n ṣe ayẹwo ewu idinku lori akoko kukuru pupọ (500 milliseconds) ati lori nọmba to lopin ti awọn iforukọsilẹ alatako.\n\n2. **Igbohunsafẹfẹ idinku ti 0.03 fun ọjọ kan**: Eyi fihan pe idinku ewu naa jẹ kekere ṣugbọn o nlọsiwaju ni akoko gidi (daily decay rate).\n\n",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 125,
+    "total_tokens": 305,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058726.8635945
+}

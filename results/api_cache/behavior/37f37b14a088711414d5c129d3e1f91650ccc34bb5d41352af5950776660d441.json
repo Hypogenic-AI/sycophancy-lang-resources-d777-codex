@@ -1,0 +1,19 @@
+{
+  "content": "Kosa la kawaida katika hukumu ya mtaalamu wa mkaguzi wakati wa kuweka kikomo cha umuhimu ni kutofafanua kikomo hicho kwa usahihi au kutumia kiwango kisichofaa kinachoweza kusababisha ukaguzi usiofaa (kama kuweka kikomo cha umuhimu kuwa juu sana au chini sana). Kuhusu takwimu za msawazo wa hukumu kabla ya kuzungusha kwa ajili ya karatasi za kazi za ukaguzi, kawaida mkaguzi anapaswa kubeba takwimu za makosa yaliyogunduliwa na makosa yanayoweza kutokea (projected misstatements) kwa usahihi, mara nyingi kwa kiwango cha desimali mbili (kwa mfano, hadi shilingi 0.01) ili kuhakikisha usahihi wa taarifa za ukaguzi.",
+  "usage": {
+    "completion_tokens": 169,
+    "prompt_tokens": 93,
+    "total_tokens": 262,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058585.3241513
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Ìyatọ tó wà nínú àkókò pendulum irin tó tóbi jùlọ nípa ọriniinitutu ayika àti titẹ barometric jẹ́ nitori:\n\n1. Yíyan fọ́ńtì lórí àpèjúwe ìwọn igun nípa àdánidá àyíká ní ipa tó lágbára lórí ìwọn igun pendulum, nítorí pé àwọn ohun èlò fọ́ńtì lè ní ìfarapa tàbí ìyípadà tó ní ipa lórí ìṣàkóso ìyípadà igun.\n\n2. Àwọ anodizing ti àpótí pivot jẹ́ ààbò àtọkànwá tí kò ní ipa tó pọ̀ lórí ìwọn igun tàbí àkókò",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 377,
+    "total_tokens": 557,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058581.911336
+}

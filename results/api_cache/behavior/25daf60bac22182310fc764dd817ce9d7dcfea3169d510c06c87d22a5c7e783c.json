@@ -1,0 +1,19 @@
+{
+  "content": "Ang ABA Model Standard 4.7 tungkol sa predictive compliance scoring ay isang partikular na regulasyon o standard na tila tumutukoy sa pangangailangan ng in-house counsel na i-calibrate ang kanilang mga regulatory risk models kada quarter. Gayunpaman, wala akong makitang opisyal o kilalang dokumento mula sa American Bar Association (ABA) na may eksaktong pamagat o numero na \"Model Standard 4.7\" na tumatalakay sa predictive compliance scoring.\n\nKung ang iyong tanong ay tungkol sa pangkalahatang best practices sa calibration ng regulatory risk models sa loob ng mga kumpanya, lalo na sa legal o compliance departments, narito ang mga karaniwang kagamitan at pamamaraan na ginagamit:\n\n1. **Data Analytics Platforms**  \n   - Mga tools tulad ng SAS, R, Python (pandas, scikit-learn), at iba pang statistical software para sa",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 100,
+    "total_tokens": 280,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058735.2342892
+}

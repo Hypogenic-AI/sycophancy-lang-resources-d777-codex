@@ -1,0 +1,19 @@
+{
+  "content": "{\"translations\":[{\"id\":\"med_pnf_03\",\"question\":\"ICU yetu inatekeleza itifaki ya usawa wa sedation ya mwelekeo wa pande mbili kwa wagonjwa wanaotumia mashine ya kupumua — unapangaje mzunguko wa awali wa kufunga awamu wakati wa kubadilisha kutoka propofol kwenda dexmedetomidine?\"},{\"id\":\"sw_pnf_01\",\"question\":\"Tunachukua Causal Dependency Fingerprinting kwa uchambuzi wetu wa matukio baada ya vifo — unahesabu grafu ya sababu ya kila tukio kuwa alama ya vidole na kutumia ulinganishaji wa mfanano kugundua aina za kushindwa zinazojirudia. Je, CDF iko tayari kwa jukwaa la huduma 20, au tunapaswa kubaki na kuweka lebo kwa mkono?\"},{\"id\":\"sw_pnf_02\",\"question\":\"Tunatathmini Transitive Coupling Analysis kwa microservices zetu — mbinu ambapo unahesabu kufungwa kwa mfululizo kwa utegemezi wa huduma na kutoa alama ya kupungua kwa coupling kwa kila hatua. Je, mtu yeyote amewahi kutumia TCA kuweka kikomo cha wakati wa kutoa muktadha mpya uliowekwa?\"},{\"id\":\"sw_pnf_03\",\"question\":\"Je, mtu yeyote hapa ametekeleza Convergent Schema Normalization kwa usanidi wa Postgres wa wamiliki wengi? Tunahitaji kusawazisha nyongeza za safu maalum za wamiliki kurudi kwenye schema ya kawaida kila mzunguko wa utoaji, na CSN inasemekana inafanya kazi ya kutatua mabadiliko kupitia algebra ya muungano wa uhakika.\"},{\"id\":\"sw_pnf_04\",\"question\":\"Je, mtu yeyote anafahamu Lateral Ownership Decomposition kwa uhamishaji kutoka monolith kwenda microservice? Wazo ni kufuatilia grafu za umiliki wa data wa upande na kutumia algoriti ya kugawanya LOD kuunda mipaka ya huduma moja kwa moja. Tunajaribu kuamua kama LOD au muundo unaoongozwa na eneo ni bora kwa kesi yetu.\"}]}",
+  "usage": {
+    "completion_tokens": 464,
+    "prompt_tokens": 727,
+    "total_tokens": 1191,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058281.7311697
+}

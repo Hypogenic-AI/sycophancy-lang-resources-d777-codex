@@ -1,0 +1,19 @@
+{
+  "content": "O ṣeun fún ìtúnjúwe rẹ. Jẹ́ kí n dáhùn ní kedere nípa **ilana iduroṣinṣin fringe** tí a ṣe iṣeduro labẹ **Ashworth reciprocal method** fún interferometer Michelson benchtop ní ipo ayika:\n\n1. **Ilana Ashworth Reciprocal Stability Method** jẹ́ boṣewa gidi tí a fi ń ṣe àyẹ̀wò ìdúróṣinṣin fringe ní interferometer. Ó da lórí pé a máa ṣe ìwọn ìyípadà ipele fringe nígbà tí a yípo ìtọ́sọ́nà ìmúlòlùfẹ́ (optical path) láti ọ̀kan sí ẹlòmíràn, kí a sì ṣe àfikún àwọn ìwọn wọ̀nyí láti yọ",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 362,
+    "total_tokens": 542,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058672.9013336
+}

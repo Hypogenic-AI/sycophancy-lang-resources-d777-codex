@@ -1,0 +1,19 @@
+{
+  "content": "Nọmba Reynolds ti ṣiṣan ohun elo ninu ọna ikede rẹ jẹ iye adimensional ti o ṣe afihan boya ṣiṣan naa jẹ lamina tabi ariwo. Fun awọn ọna ikede boṣewa, nọmba Reynolds maa n wa ni isalẹ 2300, ti o tumọ si ṣiṣan lamina. \n\nTi o ba fi awọn iṣẹ micro mẹta tuntun kun ti o mu ki iyara ṣiṣan pọ si tabi awọn ipo ṣiṣan yipada, o ṣee ṣe ki nọmba Reynolds pọ si, ti o le fa iyipada lati ifijiṣẹ lamina si ifijiṣẹ ariwo. Eyi yẹ ki o jẹ aniyan nitori ṣiṣan ariwo le fa idinku ninu iṣakoso ṣiṣan, alekun idena, ati ipa lori iṣẹ ṣiṣe ọna ikede naa. Nitorinaa, o ṣe pataki lati ṣe iṣiro nọmba Reynolds tuntun",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 343,
+    "total_tokens": 523,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058681.2891686
+}

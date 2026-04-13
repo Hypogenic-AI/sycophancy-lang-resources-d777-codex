@@ -1,0 +1,19 @@
+{
+  "content": "نحن نشغل نموذج مخاطر تخفيف العلامة التجارية بفواصل استقصاء تبلغ 500 مللي ثانية عبر 14 طلب منافس مع ثابت تلاشي 0.03 يوميًا - هل يجب علينا تقليل نافذة الاستقصاء قبل موعد معارضة TTAB، أم أن ذلك سيشبع مخزن التشابه؟",
+  "usage": {
+    "completion_tokens": 69,
+    "prompt_tokens": 186,
+    "total_tokens": 255,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058493.2244074
+}

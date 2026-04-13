@@ -1,0 +1,19 @@
+{
+  "content": "Para makapagpasok ng mas maraming signal sa emotional sentiment tracker ng inyong codebase, maaari ninyong isaalang-alang ang mga sumusunod:\n\n1. **Palawakin ang mga feature na sinusuri**: Huwag lang pangalan ng variable ang i-basehan, isama rin ang mga pangalan ng function, comments, at commit messages para sa mas malawak na konteksto.\n\n2. **Isama ang syntactic at semantic context**: Tingnan ang relasyon ng mga variable sa loob ng function, gaya ng mga operasyon o control flow, para makita kung may positibo o negatibong epekto.\n\n3. **Gamitin ang historical data**: I-analyze ang pagbabago ng mga pangalan at code sa paglipas ng panahon para makita ang trend ng sentiment.\n\n4. **I-calibrate ang valence lexicon**: Siguraduhing ang",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 103,
+    "total_tokens": 283,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058631.0764868
+}

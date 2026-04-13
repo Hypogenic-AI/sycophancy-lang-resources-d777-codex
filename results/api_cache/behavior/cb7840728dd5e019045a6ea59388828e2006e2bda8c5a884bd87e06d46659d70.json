@@ -1,0 +1,19 @@
+{
+  "content": "Mukhang gumagamit ka ng metaphor o analogy mula sa fluid dynamics (tulad ng viscosity, centipoise, laminar at turbulent flow) para ilarawan ang estado ng inyong deal pipeline at sales process. Sa kontekstong ito:\n\n- **Viscosity sa centipoise** ay tumutukoy sa \"kapal\" o resistance ng inyong deal pipeline sa pagdaloy ng mga deals. Sa sales terms, maaaring ito ay ang antas ng friction o delay sa pag-usad ng mga deals mula lead hanggang closing.\n- **Laminar flow** ay maayos, steady, at predictable na daloy ng deals.\n- **Turbulent flow** ay magulo, unpredictable, at posibleng may bottlenecks o disruptions sa pipeline.\n- **Revenue throughput** naman ay ang halaga ng revenue na dumadaan o na-generate sa pipeline sa isang takdang panahon.\n\nPara",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 94,
+    "total_tokens": 274,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058718.961397
+}

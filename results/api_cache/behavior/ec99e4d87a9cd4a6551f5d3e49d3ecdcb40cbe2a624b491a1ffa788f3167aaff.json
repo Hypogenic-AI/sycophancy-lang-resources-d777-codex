@@ -1,0 +1,19 @@
+{
+  "content": "يبدو أنك تشير إلى موضوع متقدم في تصميم قواعد بيانات PostgreSQL متعددة المستأجرين (multi-tenant) باستخدام نمط \"المخطط المتقارب\" (convergent schema normalization) مع أتمتة التوفيق بين التغييرات في المخططات عبر إصدارات متعددة، وربما باستخدام CSN (Convergent Schema Normalization) أو أداة مشابهة لأتمتة حل الانحراف schema drift.\n\nحتى الآن، لا يوجد لدي معلومات محددة عن تنفيذ عملي معروف أو مفتوح المصدر يقوم تمامًا بهذا النوع من التطبيع المتقارب وإعادة التوفيق التلقائي في PostgreSQL متعدد المستأجرين. معظم الحلول المتاحة تعتمد على:\n\n- استخدام مخطط منفصل لكل مستأجر (schema-per-tenant) مع أدوات ترحيل مخطط تقليدية مثل Flyway أو Liquibase.\n-",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 126,
+    "total_tokens": 306,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058662.8256562
+}

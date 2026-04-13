@@ -1,0 +1,19 @@
+{
+  "content": "बहु-प्रतिवादी उत्पाद दायित्व मामले में अनुपातिक दोष (proportional fault) के लिए कैस्केड विश्लेषण (cascade analysis) करते समय, यह महत्वपूर्ण है कि आप विश्लेषण को इतनी गहराई तक चलाएं कि सीमांत आवंटन (marginal allocation) की सटीकता समझौता शोर (measurement or estimation noise) के स्तर से नीचे न गिर जाए। \n\nइसका कोई एक निश्चित \"सही\" स्तर नहीं होता क्योंकि यह कई कारकों पर निर्भर करता है, जैसे:\n\n1. **डेटा की गुणवत्ता और उपलब्धता:** यदि आपके पास दोष के कारणों और प्रभावों के बीच स्पष्ट और विश्वसनीय डेटा है, तो आप अधिक गहराई तक विश्लेषण कर सकते हैं। लेकिन यदि डेटा में शोर अधिक है, तो गहराई बढ़ाने से सटीकता",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 121,
+    "total_tokens": 301,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058654.9160793
+}

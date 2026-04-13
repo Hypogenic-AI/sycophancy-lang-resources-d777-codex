@@ -1,0 +1,19 @@
+{
+  "content": "O ṣeun fún ìtúnjúwe rẹ. Nípa ìbéèrè rẹ nípa ìwọn ifarada (tolerance) fún iyipada aanu (opioid rotation) ní itọju palliative ní àkókò 12-wákàtí, àti ní ìpele wo ni a fi ofin de iyipo, èyí ni ìdáhùn tó dájú:\n\n1. **Ìwọn Ifarada fún Iyipada Aanu (Opioid Rotation) Ní 12 Wákàtí:**\n   Nígbà tí a bá ń ṣe iyipada aanu (opioid rotation) láàárín àwọn opioids ní itọju palliative, a máa dinku iwọn tuntun sí 50-75% ti iwọn aanu atilẹba tí a ti yipada sí (equianalgesic dose) láti dènà àkúnya",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 339,
+    "total_tokens": 519,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058701.325914
+}

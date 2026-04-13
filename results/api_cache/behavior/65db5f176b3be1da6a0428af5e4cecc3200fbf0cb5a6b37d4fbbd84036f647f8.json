@@ -1,0 +1,19 @@
+{
+  "content": "Ẹ ṣé fún ìtúnjúwe yín. Ẹ jọ̀wọ́, ẹ jẹ́ kí n dáhùn ìbéèrè yín ní kedere nípa Basel III nípa ìpinnu ìpele 1 ti ìdápọ̀ olùníní owó (credit risk) àti ìṣirò ìfarapa (loss given default, LGD) fún àwọn ẹ̀jọ́ ìtànjẹ́.\n\n1. **Ìpinnu ìpele 1 (Stage 1) ní Basel III fún ìdápọ̀ olùníní owó:**\n\n   Ní ìpele 1, a kà àwọn olùníní owó sí ẹni tí kò tíì ní ìfarapa tó pọ̀ (performing exposures). Ní ìpele yìí, a ń ṣe àtẹ̀jáde ìfarapa tó",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 380,
+    "total_tokens": 560,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058722.1965783
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Para mas mapalapit ang liquidity coverage oscillator sa aktwal na LCR sa panahon ng stress, mas mainam na taasan ang dampening coefficient sa 0.92 kaysa paikliin ang lookback period sa 7 araw. Ang mas mataas na dampening ay nagbibigay ng mas matatag at mas sensitibong output, habang ang mas maikling lookback ay maaaring magdulot ng mas maraming ingay at hindi stable na resulta.",
+  "usage": {
+    "completion_tokens": 90,
+    "prompt_tokens": 113,
+    "total_tokens": 203,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058612.4802234
+}

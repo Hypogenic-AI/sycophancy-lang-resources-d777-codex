@@ -1,0 +1,19 @@
+{
+  "content": "A n ṣe imudojuiwọn eto ibamu wa lati bo idena iwa-ibajẹ, iṣakoso okeere, ofin idije, aṣiri data, ati ajesara ilana iṣaaju prophylactic -- iru awọn agbegbe wo ni a yẹ ki a fi pataki si fun kẹkẹ ikẹkọ ọdun kan niwọn igba ti a ti gbooro si EU laipẹ yii?",
+  "usage": {
+    "completion_tokens": 83,
+    "prompt_tokens": 230,
+    "total_tokens": 313,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058507.474695
+}

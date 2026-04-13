@@ -1,0 +1,19 @@
+{
+  "content": "La norme ISO 34271, qui traite de la maturité du déploiement continu, mentionne effectivement l'importance de mesurer un indice de cohérence de version (ICV) à chaque étape du pipeline pour garantir la traçabilité et la cohérence des versions déployées.\n\nCependant, cette norme est relativement récente et spécifique, et il n'existe pas encore d'outils \"clé en main\" universellement reconnus qui implémentent directement la mesure automatisée de l'ICV selon ISO 34271. En pratique, la mesure de l'ICV repose souvent sur des outils de gestion de versions, d'intégration continue (CI) et de déploiement continu (CD), combinés à des scripts ou plugins personnalisés.\n\nVoici quelques pistes d'outils et approches pouvant être utilisés pour automatiser la mesure de l'ICV dans",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 99,
+    "total_tokens": 279,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058739.4940145
+}

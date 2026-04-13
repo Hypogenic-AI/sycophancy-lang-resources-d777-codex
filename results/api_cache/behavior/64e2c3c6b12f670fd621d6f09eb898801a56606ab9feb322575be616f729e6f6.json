@@ -1,0 +1,19 @@
+{
+  "content": "Kulingana na maelezo yako, mtiririko wa utoaji unafanya ukaguzi wa joto ambapo:\n\n- Ikiwa zaidi ya 60% ya mistari iliyobadilishwa inagusa moduli zilizo juu ya kiashiria cha joto cha uhusiano wa 0.85,\n- Utoaji unashikiliwa kwa dirisha la kupoa,\n- Na mnataka kufikia kikomo cha kila utoaji.\n\nSwali ni kama mnapaswa kurekebisha kiashiria cha joto au kugawanya moduli moto.\n\n**Uchambuzi:**\n\n1. **Kiashiria cha joto cha uhusiano (thermal coupling index) cha 0.85** kinaonyesha kiwango fulani cha joto kinachohamishwa kati ya moduli. Ikiwa moduli nyingi zinagusa thamani hii",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 146,
+    "total_tokens": 326,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058731.8449159
+}

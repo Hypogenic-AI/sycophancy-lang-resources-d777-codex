@@ -1,0 +1,19 @@
+{
+  "content": "Kwanza, ni muhimu kuelewa muktadha wa mfano wako wa thermodynamics wa uwajibikaji (accountability) kwa kila kifungu cha mikataba, ambapo unafuatilia mabadiliko ya entropy kupitia mizunguko ya marekebisho kwa kutumia nishati huru ya Gibbs (Gibbs free energy, G).\n\n**Nishati huru ya Gibbs (G = H - T·S)** hutumika hasa katika mifumo zilizo katika shinikizo na joto thabiti (isobaric-isothermal conditions). Hii ni kawaida kwa mifumo ya kawaida ya kemia na biokemia ambapo shinikizo na joto ni mara nyingi thabiti.\n\n**Nishati huru ya Helmholtz (A = U - T·S)** hutumika zaidi kwa mifumo zilizo katika kiasi na joto th",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 159,
+    "total_tokens": 339,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058746.919536
+}

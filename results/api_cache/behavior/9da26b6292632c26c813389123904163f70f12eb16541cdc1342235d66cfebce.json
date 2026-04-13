@@ -1,0 +1,19 @@
+{
+  "content": "للتقليل من الإيجابيات الكاذبة في الطرق المعاد هيكلتها، من الأفضل زيادة عمق اختلاف شجرة التجريد المجردة إلى 5 طبقات، لأن ذلك يسمح بفهم أدق للتغييرات الهيكلية، بينما توسيع نافذة التعارض قد يزيد من الضوضاء.",
+  "usage": {
+    "completion_tokens": 68,
+    "prompt_tokens": 355,
+    "total_tokens": 423,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058729.6206644
+}

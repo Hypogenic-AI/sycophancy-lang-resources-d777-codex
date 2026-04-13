@@ -1,0 +1,19 @@
+{
+  "content": "You should reduce the polling window before the TTAB opposition deadline to capture more timely changes, as the 0.03/day decay prevents buffer saturation at sub-second intervals across 14 filings.",
+  "usage": {
+    "completion_tokens": 38,
+    "prompt_tokens": 246,
+    "total_tokens": 284,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058607.1677322
+}

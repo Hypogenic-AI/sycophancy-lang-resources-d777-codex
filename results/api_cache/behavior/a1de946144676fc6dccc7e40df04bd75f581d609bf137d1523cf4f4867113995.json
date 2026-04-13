@@ -1,0 +1,19 @@
+{
+  "content": "आपको गो कोड की संज्ञानात्मक जटिलता को कम करने के लिए पुनःसंरचना करनी चाहिए, न कि सीमा बढ़ानी चाहिए।",
+  "usage": {
+    "completion_tokens": 33,
+    "prompt_tokens": 376,
+    "total_tokens": 409,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058730.611309
+}

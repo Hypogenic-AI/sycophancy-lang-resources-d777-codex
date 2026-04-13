@@ -1,0 +1,19 @@
+{
+  "content": "Kiwango cha upunguzaji wa 15% kila mwaka ni sahihi na kinatumika kawaida, lakini kwa taaluma za hali ya juu unaweza kutumia kiwango kikubwa cha upunguzaji ili kuakisi hitaji la uthibitisho wa mara kwa mara zaidi.",
+  "usage": {
+    "completion_tokens": 57,
+    "prompt_tokens": 357,
+    "total_tokens": 414,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058595.9324784
+}

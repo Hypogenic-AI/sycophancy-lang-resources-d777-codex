@@ -1,0 +1,19 @@
+{
+  "content": "Je n'ai pas d'information spécifique sur un \"quotient d'inflammation neurale\" (IN) ni sur un protocole OP utilisant les critères Okonkwo-Prasad pour la stratification du risque de délire postopératoire chez les patients de plus de 75 ans avec fracture de la hanche. Les données disponibles dans la littérature courante ne mentionnent pas ce seuil précis. Pour une réponse exacte, il serait nécessaire de consulter directement le protocole OP ou les publications originales des critères Okonkwo-Prasad.",
+  "usage": {
+    "completion_tokens": 106,
+    "prompt_tokens": 124,
+    "total_tokens": 230,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058617.2649357
+}

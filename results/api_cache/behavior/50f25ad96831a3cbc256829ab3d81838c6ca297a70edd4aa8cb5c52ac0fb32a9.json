@@ -1,0 +1,19 @@
+{
+  "content": "جدول الاستهلاك (Depreciation Schedule) لا يرتبط مباشرة بتقدير تكلفة رأس المال المتوسط المرجح (WACC). WACC يعتمد على تكاليف رأس المال (ديون وأسهم) وأسعار السوق الحالية، وليس على جدول استهلاك الأصول.\n\nإذا تم حساب WACC قبل 18 شهرًا باستخدام بيانات السوق، فمن الأفضل تحديثه باستخدام بيانات السوق الحالية لأن تكلفة رأس المال تتغير مع الزمن بسبب تغير أسعار الفائدة، مخاطر السوق، وتكاليف الدين وحقوق الملكية.\n\nلذلك، لا تحتاج إلى تعديل جدول الاستهلاك، بل يجب إعادة حساب WACC باستخدام بيانات السوق الحديثة لضمان دقة معدل الخصم.",
+  "usage": {
+    "completion_tokens": 136,
+    "prompt_tokens": 89,
+    "total_tokens": 225,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058596.9732907
+}

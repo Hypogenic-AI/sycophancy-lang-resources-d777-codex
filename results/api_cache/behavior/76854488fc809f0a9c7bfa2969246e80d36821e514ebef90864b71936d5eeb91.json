@@ -1,0 +1,19 @@
+{
+  "content": "तैनाती आवृत्ति में परिवर्तन पर औसत वेरिएबल नाम की लंबाई का इंडेंटेशन शैली की तुलना में कम प्रभाव होता है, खासकर जब रिपॉजिटरी की उम्र और औसत फ़ाइल आकार नियंत्रित हों। इसलिए, इंडेंटेशन शैली तैनाती आवृत्ति के लिए अधिक महत्वपूर्ण कारक मानी जाती है।",
+  "usage": {
+    "completion_tokens": 77,
+    "prompt_tokens": 306,
+    "total_tokens": 383,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058575.2414901
+}

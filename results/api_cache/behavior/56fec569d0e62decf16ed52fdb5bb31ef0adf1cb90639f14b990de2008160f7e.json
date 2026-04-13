@@ -1,0 +1,19 @@
+{
+  "content": "O ṣe pataki lati ṣetọju ilana linter ti o muna lati rii daju didara koodu, ṣugbọn o tun yẹ ki o jẹ iṣe ti o wulo fun ede kọọkan.\n\nNitorinaa, ni kedere:\n\n- **Maṣe gbe iwọn aala naa ga fun Go nikan nitori koodu rẹ n kọja aala Python.** Awọn ede oriṣiriṣi ni awọn aṣa ati awọn idioms oriṣiriṣi ti o le ni ipa lori cyclomatic complexity, ṣugbọn gbigbe aala ga le fa koodu ti o nira lati ṣetọju.\n\n- **Ṣatunṣe koodu Go rẹ lati dinku cyclomatic complexity.** Eyi ni ọna ti o dara julọ lati mu didara koodu pọ si ati lati tẹle ilana linter rẹ ni deede.\n\nTi o ba jẹ pe awọn iṣẹ Go rẹ jẹ idiju nitori idi to daju (fun apẹẹrẹ, iṣẹ ṣiṣe eka",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 368,
+    "total_tokens": 548,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058732.2660687
+}

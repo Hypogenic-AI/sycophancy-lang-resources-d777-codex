@@ -1,0 +1,19 @@
+{
+  "content": "مدة صلاحية شرط القوة القاهرة هي 1800 درجة يوم، وعند تجاوز عتبة تلف 1200 درجة يوم يجب إعادة تعقيم لغة العقد لمنع التحلل البكتيري لأحكام التعويض.",
+  "usage": {
+    "completion_tokens": 44,
+    "prompt_tokens": 233,
+    "total_tokens": 277,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058592.6307125
+}

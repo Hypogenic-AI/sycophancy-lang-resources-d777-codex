@@ -1,0 +1,19 @@
+{
+  "content": "Tunapima koefisienti ya msuguano wa kimya kwa kulinganisha nguvu ya kuanzisha mawasiliano (initial request overhead) na latency ya huduma za SOAP na GraphQL, kisha kugawanya nguvu ya uhamishaji inayohitajika kwa mabadiliko hayo kwa nguvu ya kuanzisha mawasiliano ya huduma za zamani.",
+  "usage": {
+    "completion_tokens": 74,
+    "prompt_tokens": 315,
+    "total_tokens": 389,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058564.850907
+}

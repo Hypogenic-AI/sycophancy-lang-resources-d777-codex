@@ -1,0 +1,19 @@
+{
+  "content": "हम गैर-प्रतिस्पर्धा क्लॉज की सक्रियण ऊर्जा की गणना करने के लिए कौन सा सूत्र उपयोग करें — विशेष रूप से, कैलिफोर्निया के निकटवर्ती राज्य नेवादा जैसे राज्य में प्रतिबंधात्मक समझौता विफल होने से पहले कितनी प्रतिस्पर्धात्मक दबाव की आवश्यकता होती है?",
+  "usage": {
+    "completion_tokens": 73,
+    "prompt_tokens": 164,
+    "total_tokens": 237,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058496.1945715
+}

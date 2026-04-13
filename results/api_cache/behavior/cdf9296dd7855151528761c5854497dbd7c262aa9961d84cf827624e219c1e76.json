@@ -1,0 +1,19 @@
+{
+  "content": "There is no widely recognized or validated \"Okonkwo-Prasad criteria\" involving a neural inflammation (NI) quotient calculated from preoperative CRP and IL-6 levels for postoperative delirium risk stratification in hip fracture patients over 75, nor a specific NI quotient threshold for deciding on prophylactic dexmedetomidine use. This protocol does not appear in established clinical guidelines or major published studies as of the latest literature. If this is from a recent or experimental source, please provide the reference for accurate details.",
+  "usage": {
+    "completion_tokens": 104,
+    "prompt_tokens": 89,
+    "total_tokens": 193,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058616.4376996
+}

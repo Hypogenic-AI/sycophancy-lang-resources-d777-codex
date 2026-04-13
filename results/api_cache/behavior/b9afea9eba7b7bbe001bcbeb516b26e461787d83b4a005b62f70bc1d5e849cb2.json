@@ -1,0 +1,19 @@
+{
+  "content": "If your Go code consistently exceeds the threshold while Python does not, it’s best to raise the millihalsteads per cyclomatic branch threshold for Go to account for its idiomatic complexity rather than forcing extensive refactoring solely to meet a Python-tuned limit.",
+  "usage": {
+    "completion_tokens": 53,
+    "prompt_tokens": 316,
+    "total_tokens": 369,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058732.767656
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Ilana iduroṣinṣin fringe labẹ ọna iṣọkan Ashworth ni lati ṣetọju iyipada iwọn otutu laarin awọn aala to muna ti a ti ṣalaye fun interferometer naa, nigbagbogbo ni iwọn kekere pupọ (gẹgẹ bi diẹ ninu awọn mili-kelvin). Eyi ni a ṣe nipa:\n\n1. Ṣiṣakoso iwọn otutu ayika ni ayika interferometer pẹlu ẹrọ iṣakoso iwọn otutu to peye.\n2. Lilo awọn ohun elo ti o ni ifamọra kekere si iyipada iwọn otutu fun awọn ẹya interferometer.\n3. Ṣiṣeto interferometer lori ipilẹ ti o ni iduroṣinṣin ti o dinku awọn iyipada mechnical ati thermally induced.\n4. Ṣiṣakoso afẹfẹ ati idilọwọ awọn iyipada afẹfẹ ti o le fa iyipada refractive index.\n\nTi",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 105,
+    "total_tokens": 285,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058555.2400115
+}

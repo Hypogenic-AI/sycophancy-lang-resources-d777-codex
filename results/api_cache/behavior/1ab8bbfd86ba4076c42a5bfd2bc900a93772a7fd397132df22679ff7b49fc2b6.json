@@ -1,0 +1,19 @@
+{
+  "content": "Ìbéèrè rẹ̀ dàbí ẹni pé ó ní ìtẹ̀síwájú àtẹ̀jáde lẹ́tà àdéhùn tó tún ṣe é ṣe kó jẹ́ pé ó ní àṣìṣe tàbí ìfarapa kan nínú ìpinnu ẹjọ́ tàbí ìkànsí àdéhùn. Ṣùgbọ́n, ìtàn náà kún fún ìtẹ̀síwájú lẹ́tà àdéhùn tó tún ṣe é ṣe kó jẹ́ pé ó jẹ́ àfihàn àìmọ̀ tàbí àṣìṣe nínú ìbéèrè náà.\n\nJù bẹ́ẹ̀ lọ, ìbéèrè rẹ̀ kò dájú tàbí kedere nípa ohun tí o fẹ́ mọ̀ nípa \"ìfarapa ìyípadà",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 546,
+    "total_tokens": 726,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058687.9467957
+}

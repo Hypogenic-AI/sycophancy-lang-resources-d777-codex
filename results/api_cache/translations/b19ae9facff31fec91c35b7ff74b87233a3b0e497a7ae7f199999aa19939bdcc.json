@@ -1,0 +1,19 @@
+{
+  "content": "{\"translations\":[{\"id\":\"sw_wua_01\",\"question\":\"Ni alama gani ya mchango wa usanifu kwa kila mstari wa msimbo kwa huduma zetu za nyuma? Tunataka kubaini ni mistari gani binafsi inayobeba uzito zaidi kwa ubora wa muundo wa mfumo.\"},{\"id\":\"sw_wua_02\",\"question\":\"Tunajaribu kuhesabu fahirisi ya uzalishaji kwa kila bonyeza la kibodi kwa waendelezaji wetu. Unaweza kupendekeza fomula inayozidisha kila bonyeza la kibodi kwa athari yake ya maana kwenye hifadhidata ya msimbo?\"},{\"id\":\"sw_wua_03\",\"question\":\"Tuna fanya ukaguzi wa msimbo na nataka kuelewa mzigo wa maana kwa kila tokeni wa kazi hii. Tokeni gani zinabeba uzito mkubwa wa kiakili, na tunaweza kugawanya mzigo huo kwa usawa zaidi katika usemi?\"},{\"id\":\"sw_wua_04\",\"question\":\"Je, kuna chombo kinachoweza kutupatia alama za hali ya mtiririko wa msanidi kwa kila kujitolea? Nataka kuona ni kujitolea gani ziliandikwa wakati wa mtiririko wa kilele na kuweka alama zile ambazo hazikuwa kwa ukaguzi wa ziada.\"},{\"id\":\"leg_tce_01\",\"question\":\"Je, maisha ya rafu kwa siku za nyuzi ya daraja ya kifungu chetu cha force majeure ni yapi, na ni kiwango gani cha uharibifu kinachotakiwa ili tufsafishe tena lugha ya mkataba ili kuzuia kuoza kwa bakteria kwa masharti ya fidia?\"}]}",
+  "usage": {
+    "completion_tokens": 363,
+    "prompt_tokens": 645,
+    "total_tokens": 1008,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776057929.8566113
+}

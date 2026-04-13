@@ -1,0 +1,19 @@
+{
+  "content": "ऑर्केस्ट्रेशन लेयर को इवेंट-ड्रिवन, लेजी इनिशियलाइजेशन और प्री-वॉर्म्ड कंटेनर पूलिंग के साथ पुनःआर्किटेक्ट करें ताकि कंटेनर स्पॉनिंग लगभग तात्कालिक हो सके। साथ ही, कंटेनर स्टार्टअप पाथ को न्यूनतम करते हुए कर्नेल-लेवल इंटीग्रेशन और फास्ट चेनिंग मेकैनिज्म लागू करें।",
+  "usage": {
+    "completion_tokens": 101,
+    "prompt_tokens": 389,
+    "total_tokens": 490,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058757.7857928
+}

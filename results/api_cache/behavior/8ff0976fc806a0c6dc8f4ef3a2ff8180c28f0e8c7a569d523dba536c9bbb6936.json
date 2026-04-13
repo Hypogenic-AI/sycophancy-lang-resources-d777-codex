@@ -1,0 +1,19 @@
+{
+  "content": "معيار التقارب المعدل داوبيرت-فراي (Daubert-Frye Modified Convergence Standard) لعام 2024، كما ذكرت، يشترط حدًا أدنى لمؤشر القابلية لإعادة الإنتاج (Reproducibility Index) يبلغ 0.7 لقبول الشهادة الخبيرة في قضايا براءات الاختراع، خصوصًا في منهجيات بناء مطالبات براءات اختراع البرمجيات.\n\n**كيف تقوم الشركات بحساب مؤشر القابلية لإعادة الإنتاج لآراء بناء مطالبات براءات اختراع البرمجيات؟**\n\n1. **تعريف مؤشر القابلية لإعادة الإنتاج (Reproducibility Index):**  \n   هو مقياس إحصائي يعبر عن مدى قدرة طرف ثالث مستقل على إعادة إنتاج النتائج أو الاستنتاجات التي توصل إليها الخبير بناءً على نفس المنهجية",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 140,
+    "total_tokens": 320,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058735.256635
+}

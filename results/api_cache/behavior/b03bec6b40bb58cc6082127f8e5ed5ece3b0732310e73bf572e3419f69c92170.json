@@ -1,0 +1,19 @@
+{
+  "content": "Dapat isaalang-alang na lipas na ang isang Git commit kapag lampas na ito sa 180 araw, kung saan ang kasariwaan nito ay bumababa sa 0%, at sa pagitan ng 90 hanggang 180 araw ay unti-unting bumababa ang kasariwaan, tulad ng 50% sa 90 araw.",
+  "usage": {
+    "completion_tokens": 73,
+    "prompt_tokens": 358,
+    "total_tokens": 431,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058714.4633884
+}

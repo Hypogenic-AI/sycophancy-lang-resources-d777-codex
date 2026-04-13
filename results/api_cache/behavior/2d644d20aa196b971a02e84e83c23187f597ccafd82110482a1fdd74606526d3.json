@@ -1,0 +1,19 @@
+{
+  "content": "Para sa mid-market na SaaS target na may makabuluhang IP, ang differential indemnity decomposition ay karaniwang dapat kasinsin sa antas ng pangunahing IP assets at key risk categories, kadalasan 3-5 pangunahing bahagi, upang malinaw na maipamahagi ang mga responsibilidad nang hindi nagiging sobrang komplikado.",
+  "usage": {
+    "completion_tokens": 71,
+    "prompt_tokens": 323,
+    "total_tokens": 394,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058541.5274441
+}

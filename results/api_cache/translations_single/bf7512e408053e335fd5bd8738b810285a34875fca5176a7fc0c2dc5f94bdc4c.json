@@ -1,0 +1,19 @@
+{
+  "content": "Iwọn gbigba ipari koodu AI wa ti n pọ si nipasẹ awọn ojuami ida 8 ni gbogbo mẹẹdogun — a wa ni 64% bayi. Ni bii mẹẹdogun 4-5 a yoo de 100% gbigba ati awọn olupilẹṣẹ yoo gba gbogbo imọran laisi iyipada. Bawo ni a ṣe yẹ ki a tunto atunyẹwo koodu nigbati gbogbo imọran ba gba gẹgẹ bi ọrọ naa?",
+  "usage": {
+    "completion_tokens": 93,
+    "prompt_tokens": 173,
+    "total_tokens": 266,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058507.4605434
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Ẹru itumọ (interpretive burden) ninu ilana gidi ati boṣewa ni imọ-ẹrọ sọfitiwia tọka si iye alaye ti a nilo lati loye aami kan ni koodu. Awọn aami ti o ni ẹru itumọ julọ ni:\n\n1. Awọn aami ti o ni itumọ ti o yipada da lori ipo (context-dependent symbols), nitori wọn nilo imọ ti ipo koodu lati tumọ wọn.\n2. Awọn aami ti o ni itumọ ti o nira tabi ti ko ṣalaye (ambiguous or complex symbols), nitori wọn nilo imọ-jinlẹ diẹ sii lati loye.\n\nLati pin ẹru itumọ ni deede kọja ọrọ naa, a le ṣe:\n\n- Ṣe ilana koodu ni ọna ti o mu ki itumọ awọn aami jẹ kedere ati iduroṣinṣ",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 333,
+    "total_tokens": 513,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058593.7024264
+}

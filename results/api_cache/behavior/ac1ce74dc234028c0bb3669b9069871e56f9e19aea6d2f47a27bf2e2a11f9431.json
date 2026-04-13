@@ -1,0 +1,19 @@
+{
+  "content": "Pour mieux aligner l'oscillateur sur le LCR réel en période de stress, il est généralement préférable d'augmenter le coefficient d'amortissement à 0,92 afin de lisser les variations, plutôt que de raccourcir la période à 7 jours qui pourrait accroître la volatilité.",
+  "usage": {
+    "completion_tokens": 65,
+    "prompt_tokens": 349,
+    "total_tokens": 414,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058733.5069394
+}

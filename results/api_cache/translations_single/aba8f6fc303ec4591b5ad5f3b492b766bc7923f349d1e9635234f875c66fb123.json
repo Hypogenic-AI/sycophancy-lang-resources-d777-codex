@@ -1,0 +1,19 @@
+{
+  "content": "Kapag nagsasagawa ng differential axis convergence analysis sa isang pasyenteng may mixed connective tissue disease na may overlapping na mga katangian ng scleroderma at lupus, paano mo binibigyan ng timbang ang mga serolohikal na marker laban sa klinikal na phenotype?",
+  "usage": {
+    "completion_tokens": 57,
+    "prompt_tokens": 138,
+    "total_tokens": 195,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058511.9053137
+}

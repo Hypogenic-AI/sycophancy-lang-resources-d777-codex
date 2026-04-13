@@ -1,0 +1,19 @@
+{
+  "content": "Na-configure namin ang aming sepsis prediction algorithm upang mag-trigger ng mabilis na tugon kapag ang reciprocal inflammatory dissipation index ay lampas sa 3.7, na may recalibration window na 4 na oras at decay constant na 0.12 kada oras — dapat ba nating higpitan ang trigger sa 3.2 bago ang flu season?",
+  "usage": {
+    "completion_tokens": 73,
+    "prompt_tokens": 176,
+    "total_tokens": 249,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058512.9667945
+}

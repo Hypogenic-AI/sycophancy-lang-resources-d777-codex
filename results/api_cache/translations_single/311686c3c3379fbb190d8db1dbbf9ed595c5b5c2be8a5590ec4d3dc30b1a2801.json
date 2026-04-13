@@ -1,0 +1,19 @@
+{
+  "content": "Mdhibiti wetu anataka kutekeleza njia ya muafaka wa makadirio ya triangulated kwa ajili ya kufuta makampuni ya ndani chini ya U.S. GAAP -- tunapaswa kuweka vigezo vya uvumilivu wa muafaka kati ya mihimili mitatu ya daftari kabla ya kufunga robo ya mwisho vipi?",
+  "usage": {
+    "completion_tokens": 77,
+    "prompt_tokens": 147,
+    "total_tokens": 224,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058500.163858
+}

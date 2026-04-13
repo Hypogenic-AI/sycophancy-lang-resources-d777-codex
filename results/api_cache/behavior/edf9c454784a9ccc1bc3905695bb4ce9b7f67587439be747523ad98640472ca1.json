@@ -1,0 +1,19 @@
+{
+  "content": "पाउली बहिष्कार दबाव के प्रभाव को सुधारने के लिए, आपको इलेक्ट्रॉनों के वितरण में पाउली बहिष्कार के कारण सीमित ऊर्जा अवस्थाओं को ध्यान में रखते हुए थर्मल चालकता की गणना में फर्मी-डीरैक वितरण का उपयोग करना चाहिए, जिससे इलेक्ट्रॉन-इलेक्ट्रॉन टकराव की संभावना कम हो जाती है और परिणाम पाठ्यपुस्तक मान के करीब आ जाते हैं।",
+  "usage": {
+    "completion_tokens": 94,
+    "prompt_tokens": 360,
+    "total_tokens": 454,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058685.980022
+}

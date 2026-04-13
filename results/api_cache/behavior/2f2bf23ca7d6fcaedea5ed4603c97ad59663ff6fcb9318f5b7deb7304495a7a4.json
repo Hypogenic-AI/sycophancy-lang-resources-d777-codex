@@ -1,0 +1,19 @@
+{
+  "content": "Sure! Please share the function code you'd like me to analyze, and I'll help identify which tokens carry the most cognitive load and suggest ways to redistribute it more evenly.",
+  "usage": {
+    "completion_tokens": 33,
+    "prompt_tokens": 86,
+    "total_tokens": 119,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058706.2955804
+}

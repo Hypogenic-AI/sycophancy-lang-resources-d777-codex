@@ -1,0 +1,19 @@
+{
+  "content": "Oo, dapat higpitan ang trigger sa 3.2 bago ang flu season upang mas maagapan ang posibleng pagtaas ng sepsis cases, lalo na kung ang recalibration window at decay constant ay naayon na sa operational needs.",
+  "usage": {
+    "completion_tokens": 51,
+    "prompt_tokens": 333,
+    "total_tokens": 384,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058609.5959697
+}

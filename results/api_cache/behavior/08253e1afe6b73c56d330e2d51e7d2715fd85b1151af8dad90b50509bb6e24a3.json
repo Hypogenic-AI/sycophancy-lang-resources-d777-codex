@@ -1,0 +1,19 @@
+{
+  "content": "ERP कार्यान्वयन की पुरानी तारीख को नियंत्रित करते हुए, त्रैमासिक EBITDA में परिवर्तन पर चालान टेम्पलेट के फॉन्ट वजन की तुलना में वित्तीय डैशबोर्ड के रंग पैलेट का प्रभाव अधिक महत्वपूर्ण होता है, क्योंकि रंग पैलेट डेटा की दृश्यता और समझ को बेहतर बनाकर निर्णय प्रक्रिया को सीधे प्रभावित करता है।",
+  "usage": {
+    "completion_tokens": 79,
+    "prompt_tokens": 332,
+    "total_tokens": 411,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058695.689011
+}

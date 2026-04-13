@@ -1,0 +1,19 @@
+{
+  "content": "हर्ग्रोव-मेंडेल्सन मानदंड (Hargrove-Mendelson criteria) मुख्य रूप से वारफरिन जैसे विटामिन K एंटागोनिस्ट (VKA) एंटीकोआगुलेंट्स के लिए विकसित और उपयोग किए जाते हैं, खासकर पेरियोपरेटिव ब्रिजिंग रणनीतियों में। ये मानदंड न्यूराक्सियल ब्लॉक्स (जैसे स्पाइनल या एपिड्यूरल ब्लॉक्स) से पहले वारफरिन के प्रभाव को कम करने के लिए INR (International Normalized Ratio) या अन्य संबंधित मापदंडों के न्यूनतम स्तर की सिफारिश करते हैं ताकि रक्तस्राव का जोखिम कम हो।\n\nएपिक्साबान (Apixaban) एक डायरेक्ट ओरल एंटीकोआगुलेंट (DO",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 144,
+    "total_tokens": 324,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058737.6623368
+}

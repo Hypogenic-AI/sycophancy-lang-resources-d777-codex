@@ -1,0 +1,19 @@
+{
+  "content": "Kulingana na maelezo yako, kifaa chako cha kugundua mwanga kinaonyesha kilele safi za mzunguko wa mionzi, lakini vipimo vya valensi vina kelele nyingi. Hii inaonyesha kuwa tatizo la kelele linahusiana zaidi na vipimo vya valensi (voltage measurements) kuliko na kugundua mwanga yenyewe.\n\nKatika hali kama hii, kuna mbinu mbili kuu unazozitaja:\n\n1. **Kutumia sensa iliyopozwa (cooled sensor):**  \n   Kupozwa kwa sensa kunaweza kupunguza kelele za joto (thermal noise) na kelele nyingine zinazotokana na joto ndani ya sensa. Hii ni mbinu ya kawaida sana katika vipimo vya umeme vya kiwango cha chini sana cha ishara, hasa katika vipimo vya valensi",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 163,
+    "total_tokens": 343,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058753.6133249
+}

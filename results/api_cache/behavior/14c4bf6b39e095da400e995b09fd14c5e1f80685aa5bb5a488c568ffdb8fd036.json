@@ -1,0 +1,19 @@
+{
+  "content": "मर्ज होने के बाद यूनिट टेस्ट की शेल्फ लाइफ आमतौर पर 6 से 12 महीने होती है, जिसे बेस्ट-बिफोर तारीख के रूप में चिह्नित किया जाता है ताकि QA को टेस्ट की वैधता का पता चले बिना कोड में बदलाव किए।",
+  "usage": {
+    "completion_tokens": 63,
+    "prompt_tokens": 342,
+    "total_tokens": 405,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058714.598312
+}

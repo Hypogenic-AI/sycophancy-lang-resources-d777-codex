@@ -1,0 +1,19 @@
+{
+  "content": "आप अपने लंबित टॉर्ट दावों के लिए Tier 1 पूंजी पर्याप्तता अनुपात पर विंड-डाउन तब शुरू करें जब उनका जोखिम-भारित एक्सपोजर Basel III के ऑपरेशनल जोखिम कैपिटल चार्ज के तहत मान्यता प्राप्त हो; प्रत्येक वादी के जोखिम-भारित एक्सपोजर की गणना संभावित हानि × घटना की संभावना × जोखिम-भारित संपत्ति के लिए नियत जोखिम भार के आधार पर करें।",
+  "usage": {
+    "completion_tokens": 100,
+    "prompt_tokens": 311,
+    "total_tokens": 411,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058603.4530637
+}

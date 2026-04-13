@@ -1,0 +1,19 @@
+{
+  "content": "Katika hali hii, kuna mbinu mbili kuu za kuboresha mfano wako wa kugawanya mapato unaotegemea ujumbe za Slack:\n\n1. **Kupanua dirisha la kuangalia nyuma (lookback window):**  \n   Hii itaruhusu mfano kuzingatia ujumbe zaidi, na hivyo kupata muktadha mpana zaidi wa mawasiliano ya mteja. Hata hivyo, kuongeza dirisha la kuangalia nyuma sana kunaweza kuingiza ujumbe zisizo na umuhimu mkubwa, na kupunguza usahihi wa mgawanyo.\n\n2. **Kutoa uzito tofauti kwa ujumbe kulingana na kina cha mfululizo (thread depth):**  \n   Hii ni mbinu nzuri kwa sababu ujumbe ndani ya mfululizo (thread) mara nyingi huwa na maelezo zaidi na ni ya moja kwa moja",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 155,
+    "total_tokens": 335,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058753.1294162
+}

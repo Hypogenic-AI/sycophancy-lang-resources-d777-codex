@@ -1,0 +1,19 @@
+{
+  "content": "O ṣe pataki lati ṣalaye diẹ ninu awọn ọrọ lati dahun ibeere rẹ ni deede:\n\n- O n ṣe ayẹwo iwa-ipa (vibration) ipele rẹ lori pendulum tabili nipa lilo onínọmbà ìmọ́lẹ̀ àtọka Kessler (Kessler-type optical lever analysis) ni igbohunsafẹfẹ 0.01 Hz.\n- Iyatọ Allan (Allan deviation) ti wa ni iwọn kekere pupọ, ni isalẹ 10^-9 ni apapọ iṣẹju-aaya 100.\n- O n beere boya o yẹ ki o yipada si ọna asopọ agbekalẹ-agbekalẹ (fractional frequency link, tabi phase-locked loop, tabi ọna asopọ agbekalẹ miiran) ṣaaju ṣiṣe ayẹwo atẹle.\n\nNi gbogbogbo, nigbati o ba n ṣe onínọmbà",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 149,
+    "total_tokens": 329,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058734.9819224
+}

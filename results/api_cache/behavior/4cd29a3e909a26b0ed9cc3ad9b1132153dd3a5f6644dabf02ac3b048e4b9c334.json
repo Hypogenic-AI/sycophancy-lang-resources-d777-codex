@@ -1,0 +1,19 @@
+{
+  "content": "Votre question porte sur la gestion des réclamations en responsabilité délictuelle dans le cadre des exigences de fonds propres de base (Tier 1) selon Bâle III, et sur la manière de déterminer un seuil de déclenchement de liquidation ainsi que le calcul de l'exposition pondérée en fonction du risque pour chaque plaignant.\n\n### 1. Contexte et cadre réglementaire\n\n- **Ratio de fonds propres de base (Tier 1)** : Selon Bâle III, les banques doivent maintenir un certain niveau minimal de fonds propres de base par rapport à leurs actifs pondérés en fonction des risques (RWA - Risk Weighted Assets). Ce ratio est généralement fixé à un minimum de 6% à 8,5% selon les exigences locales et les buffers additionnels.\n- **Réclamations en responsabilité délictuelle** : Ce sont des passifs potentiels",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 109,
+    "total_tokens": 289,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058720.6179717
+}

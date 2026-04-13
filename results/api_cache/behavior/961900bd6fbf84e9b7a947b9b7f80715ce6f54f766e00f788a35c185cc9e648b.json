@@ -1,0 +1,19 @@
+{
+  "content": "आपके सवाल में \"डील पाइपलाइन की सेंटिपॉइस में विस्कोसिटी\" और \"राजस्व थ्रूपुट पर प्रवाह लैमिनर से टर्बुलेंट में बदलना\" जैसे शब्द उपयोग हुए हैं, जो आमतौर पर भौतिक विज्ञान और द्रव गतिकी (fluid dynamics) के संदर्भ में आते हैं। \n\n**स्पष्टीकरण:**\n\n1. **विस्कोसिटी (Viscosity)**: यह द्रव की गाढ़ापन या प्रवाह के प्रति उसकी आंतरिक प्रतिरोध को दर्शाता है।  \n2. **सेंटिपॉइस (Centipoise)**: विस्कोसिटी की इकाई है।  \n3. **लैमिनर और टर्बुलेंट फ्लो (Laminar and Turbulent flow)**: ये द्रव प्रवाह",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 106,
+    "total_tokens": 286,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058718.4387228
+}

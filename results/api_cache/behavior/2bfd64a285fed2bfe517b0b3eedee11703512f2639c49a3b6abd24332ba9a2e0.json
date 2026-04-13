@@ -1,0 +1,19 @@
+{
+  "content": "आपके फ्रंटेंड और बैकएंड के अलग-अलग रिलीज़ चक्रों के कारण जो चरण असंगति (phase mismatch) हो रही है, उसे समझने और सुधारने के लिए निम्न कदम उपयोगी होंगे:\n\n1. बीट आवृत्ति (Beat Frequency) की गणना:  \n   यदि फ्रंटेंड की रिलीज़ आवृत्ति \\( f_1 \\) और बैकएंड की रिलीज़ आवृत्ति \\( f_2 \\) है (जैसे प्रति दिन, प्रति सप्ताह आदि), तो बीट आवृत्ति होगी:  \n   \\[\n   f_{beat} = |f_1 - f_2|\n   \\]  \n   यह आवृत्ति दर्शाती है कि दोनों चक्र कब फिर से सिंक्रनाइज़ होंगे।\n\n2. चरण असंगति का विश्लेषण:  \n   - दोनों चक्र",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 105,
+    "total_tokens": 285,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058565.2954063
+}

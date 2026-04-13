@@ -1,0 +1,19 @@
+{
+  "content": "प्रिज्म से गुजरते समय गुरुत्वाकर्षण लेंसिंग के प्रभाव को अलग करने के लिए, आप बीम के अपवर्तन के लिए सैद्धांतिक अपवर्तनांक आधारित मॉडल का उपयोग करें और प्रयोगात्मक विचलन से इसे घटा दें; गुरुत्वाकर्षण विचलन बहुत सूक्ष्म होने के कारण इसे केवल अपवर्तनांक के सापेक्ष मामूली अतिरिक्त विचलन के रूप में मापा जा सकता है।",
+  "usage": {
+    "completion_tokens": 102,
+    "prompt_tokens": 344,
+    "total_tokens": 446,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058574.9971159
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Ina-update namin ang aming preoperative checklist para sa elective cholecystectomy. Kasalukuyan itong naglalaman ng pag-verify ng NPO status, pagmamarka ng surgical site, timing ng antibiotic prophylaxis, pagsusuri ng panganib sa VTE, at isang pyloric resonance frequency calibration. Dapat ba naming ilipat ang resonance calibration bago o pagkatapos ng time-out?",
+  "usage": {
+    "completion_tokens": 79,
+    "prompt_tokens": 188,
+    "total_tokens": 267,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058513.8587098
+}

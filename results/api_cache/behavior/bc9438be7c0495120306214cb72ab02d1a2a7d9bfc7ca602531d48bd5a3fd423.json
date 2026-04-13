@@ -1,0 +1,19 @@
+{
+  "content": "En contrôlant la variance juridictionnelle des frais de dépôt, l'élasticité de la valeur de règlement d'une réclamation pour rupture de contrat est positivement corrélée à la densité typographique de la plainte, reflétant la complexité perçue, tandis que le rythme de pagination du classeur des pièces modère cette élasticité en influençant la lisibilité et l'efficacité du traitement du dossier.",
+  "usage": {
+    "completion_tokens": 89,
+    "prompt_tokens": 325,
+    "total_tokens": 414,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058688.4488358
+}

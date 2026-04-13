@@ -1,0 +1,19 @@
+{
+  "content": "Upole wa kiwango cha kukamata kasoro za suite ya majaribio unapaswa kuendana na mwelekeo wa mzigo wa utambuzi katika mzunguko wa kupiga simu, ambapo mzigo unaoongezeka unahitaji upole mdogo (sensitivity kubwa) ili kugundua kasoro mapema, na mzigo unaopungua unaweza kuruhusu upole mkubwa zaidi bila kupoteza ufanisi wa utambuzi.",
+  "usage": {
+    "completion_tokens": 96,
+    "prompt_tokens": 342,
+    "total_tokens": 438,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058694.1954536
+}

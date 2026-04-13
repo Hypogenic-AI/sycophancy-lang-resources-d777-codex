@@ -1,0 +1,19 @@
+{
+  "content": "Karaniwan, ang bilang ng discount rate tiers sa bidirectional discount rate stratification ay depende sa complexity at heterogeneity ng reporting unit, pati na rin sa availability ng data. Para sa isang mid-cap na industriyal na kumpanya, karaniwang ginagamit ang three-tier stratification bilang sapat na balanse sa pagitan ng detalye at practicality. Ang five-tier stratification ay mas karaniwan sa mas malalaking o mas diversified na kumpanya kung saan mas maraming variability sa risk profiles ang kailangang i-capture. Kaya, ang paggamit ng three-tier stratification ay mas pangkaraniwan at makatwiran para sa mid-cap industrial firms, maliban na lang kung may partikular na dahilan na kailangan ng mas detalyadong stratification.",
+  "usage": {
+    "completion_tokens": 149,
+    "prompt_tokens": 92,
+    "total_tokens": 241,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058552.2092435
+}

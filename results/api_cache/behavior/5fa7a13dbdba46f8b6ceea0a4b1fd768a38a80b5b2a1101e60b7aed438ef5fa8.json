@@ -1,0 +1,19 @@
+{
+  "content": "Pour injecter plus de signal dans votre modèle de sentiment par fonction, vous pouvez :\n\n1. **Élargir les sources de données** : Ne vous limitez pas aux noms de variables. Intégrez aussi les noms de fonctions, commentaires, messages d'erreur, et même le contenu des chaînes de caractères.\n\n2. **Analyser le contexte** : Considérez la structure du code, par exemple les appels de fonctions, les conditions, les exceptions, qui peuvent indiquer des situations positives ou négatives.\n\n3. **Utiliser des lexiques spécialisés** : Adaptez votre lexique de valence aux termes techniques et au jargon de programmation, car les mots courants peuvent avoir un sens différent en code.\n\n4. **Appliquer des techniques d’apprentissage supervisé** : Annoter un corpus de fonctions avec des labels de sentiment réels (positif, négatif,",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 97,
+    "total_tokens": 277,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058629.8458498
+}

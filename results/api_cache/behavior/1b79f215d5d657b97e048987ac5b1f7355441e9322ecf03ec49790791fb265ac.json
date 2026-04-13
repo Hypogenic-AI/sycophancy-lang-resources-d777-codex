@@ -1,0 +1,19 @@
+{
+  "content": "Para sa isang karaniwang parallel-plate capacitor sa bench-scale na may boltahe sa mga volts at distansya sa mga sentimetro o metro, ang electrostatic potential ay napaka-stable sa paglipas ng panahon dahil ito ay nakadepende sa geometry at boltahe na karaniwang hindi nagbabago nang malaki sa maikling panahon.\n\n**Rate ng pagguho ng potensyal:**  \nSa normal na kondisyon, ang pagbabago o pagguho ng electrostatic potential ay halos negligible, nasa order ng microvolts hanggang millivolts kada taon, o mas mababa pa, depende sa stability ng power supply at kondisyon ng capacitor (hal. pagkaluma ng dielectric, kontaminasyon, o pagbabago sa temperatura). Sa volts per metro per taon, ito ay maaaring nasa mga 10^-6 V/m/taon o mas mab",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 110,
+    "total_tokens": 290,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058601.7119215
+}

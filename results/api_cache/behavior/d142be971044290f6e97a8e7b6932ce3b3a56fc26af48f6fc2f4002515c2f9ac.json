@@ -1,0 +1,19 @@
+{
+  "content": "نعم، تم تأكيد صحة فرضية بنروز-ماركوف تجريبيًا بالنسبة لطبقات الحدود الحرارية على الألواح المسطحة الرأسية في التهوية القياسية للهواء، حيث لوحظت نقطة انقلاب ثانوية عند أعداد غراشوف بين 10^7 و10^8، مما يؤكد تطبيقها خارج نطاق المعادن السائلة.",
+  "usage": {
+    "completion_tokens": 82,
+    "prompt_tokens": 334,
+    "total_tokens": 416,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058625.4003437
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Pasensya na sa kalituhan. Ang standard error ng architectural intuition index ay karaniwang kinukwenta bilang ang standard deviation ng mga scores sa bawat pagsusuri, hinati sa square root ng bilang ng mga senior engineer (SE = SD / √n), at maaari mong i-track ito quarterly para makita ang pagkakatulad o pagkakaiba ng design instincts ng inyong koponan.",
+  "usage": {
+    "completion_tokens": 78,
+    "prompt_tokens": 337,
+    "total_tokens": 415,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058702.8007429
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Lorsque chaque suggestion de l’IA est acceptée telle quelle, la revue de code doit évoluer vers une validation stratégique axée sur l’architecture, la sécurité et les impacts métier, plutôt que sur la correction syntaxique ou stylistique.",
+  "usage": {
+    "completion_tokens": 48,
+    "prompt_tokens": 359,
+    "total_tokens": 407,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058757.6531935
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Understood. If your standard employment arbitration clause has an estimated MTBF of, for example, 3 years based on historical legal challenges or updates, then a maintenance schedule recommending a language refresh every 2 to 3 years would help ensure the clause remains effective and compliant.",
+  "usage": {
+    "completion_tokens": 55,
+    "prompt_tokens": 292,
+    "total_tokens": 347,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058699.2011738
+}

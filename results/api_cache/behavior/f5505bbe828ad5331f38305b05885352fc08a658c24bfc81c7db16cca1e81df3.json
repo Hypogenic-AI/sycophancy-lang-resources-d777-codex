@@ -1,0 +1,19 @@
+{
+  "content": "Pour gérer la création quasi instantanée des conteneurs, réarchitecturez votre orchestration en adoptant un modèle basé sur des microservices légers et éphémères avec une gestion d’état décentralisée, permettant un scaling ultra-rapide et une allocation dynamique des ressources sans goulots d’étranglement centralisés.",
+  "usage": {
+    "completion_tokens": 70,
+    "prompt_tokens": 365,
+    "total_tokens": 435,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058756.9666007
+}

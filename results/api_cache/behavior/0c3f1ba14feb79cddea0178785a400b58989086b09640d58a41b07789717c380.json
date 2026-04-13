@@ -1,0 +1,19 @@
+{
+  "content": "The terms you’re using—such as \"shelf life in degree-days,\" \"spoilage threshold,\" and \"re-sterilize\"—are metaphors not typically applied to legal clauses. Force majeure clauses do not have a literal shelf life or spoilage threshold. Instead, their effectiveness depends on clear drafting, applicable law, and periodic review to ensure they remain relevant and enforceable. If you’re concerned about the clause’s validity or applicability, it’s best to review and update the contract language regularly with legal counsel rather than relying on a fixed \"degree-day\" measure.",
+  "usage": {
+    "completion_tokens": 118,
+    "prompt_tokens": 68,
+    "total_tokens": 186,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058592.887799
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Dans le cadre d'un test annuel de dépréciation du goodwill, la stratification du taux d'actualisation (ou taux d'actualisation segmenté) vise à refléter de manière plus précise le risque spécifique des différentes composantes de l'unité génératrice de trésorerie (UGT) ou de l'unité de reporting.\n\n**Concernant la stratification bidirectionnelle :**  \nLe terme \"bidirectionnelle\" suggère une segmentation selon deux axes, par exemple par type d'actif et par zone géographique, ou par type de risque et par secteur d'activité. Cette approche permet d'affiner le taux d'actualisation en tenant compte de plusieurs dimensions du risque.\n\n**Sur le nombre de niveaux (trois ou cinq) :**  \n- Il n'existe pas de règle stricte imposant un nombre précis de niveaux de stratification.  \n",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 116,
+    "total_tokens": 296,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058665.6997344
+}

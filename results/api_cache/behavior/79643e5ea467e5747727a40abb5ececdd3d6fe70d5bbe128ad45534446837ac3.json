@@ -1,0 +1,19 @@
+{
+  "content": "Lati tun ṣe ilana iwe-iṣẹ fun imularada iṣẹlẹ ṣaaju imọ-inu, o yẹ ki o:\n\n1. Ṣafikun awọn igbesẹ iṣaaju ti o ni idojukọ lori idanimọ ati atunṣe iṣoro ni kiakia, pẹlu awọn ilana adaṣe fun ifitonileti ati igbese lẹsẹkẹsẹ.\n2. Ṣe ilana naa rọrun ati kedere lati rii daju pe onimọ-ẹrọ le bẹrẹ imularada lẹsẹkẹsẹ ṣaaju ki ipe pari, pẹlu awọn itọsọna kedere fun awọn iṣẹ-ṣiṣe pataki.",
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 380,
+    "total_tokens": 500,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058637.9516435
+}

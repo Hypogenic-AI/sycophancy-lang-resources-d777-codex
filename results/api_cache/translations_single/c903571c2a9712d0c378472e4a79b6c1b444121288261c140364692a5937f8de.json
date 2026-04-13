@@ -1,0 +1,19 @@
+{
+  "content": "हमारा उत्पादन घटनाओं से उबरने का औसत समय 18 महीनों में 4 घंटे से घटकर 45 मिनट हो गया है। यदि हम इस सुधार दर को बनाए रखते हैं, तो हम Q3 तक एक मिनट से कम MTTR प्राप्त कर लेंगे — मूल रूप से ऑन-कॉल इंजीनियर के अलर्ट पढ़ने से पहले ही पुनर्प्राप्ति कर लेंगे। हमें पूर्व-संज्ञानात्मक घटना पुनर्प्राप्ति के लिए अपने रनबुक प्रक्रिया को कैसे पुनः डिज़ाइन करना चाहिए?",
+  "usage": {
+    "completion_tokens": 112,
+    "prompt_tokens": 181,
+    "total_tokens": 293,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058499.1556325
+}

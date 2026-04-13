@@ -1,0 +1,19 @@
+{
+  "content": "CI/CD पाइपलाइन में \"थर्मल चालकता\" फेलियर के फैलाव की दर को मापने वाला मेट्रिक है, जो बताता है कि बिल्ड फेलियर कितनी तेजी से डाउनस्ट्रीम स्टेज (डिप्लॉयमेंट और मॉनिटरिंग) तक फैलता है; इसे मापने के लिए फेलियर डिटेक्शन से लेकर प्रभावित स्टेज तक के समय अंतर को मापा जाता है।",
+  "usage": {
+    "completion_tokens": 96,
+    "prompt_tokens": 323,
+    "total_tokens": 419,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058564.166676
+}

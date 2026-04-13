@@ -1,0 +1,19 @@
+{
+  "content": "لفهم سؤالك بدقة، أنت تشير إلى أن تخصيصات القطاعات في محفظتك وأوزان القطاعات في المعيار المرجعي (benchmark) تتداخل بطريقة معقدة أو \"مدمرة\" عند إجراء تحليل الإسناد (attribution analysis). وتريد معرفة كيفية حساب \"تردد الضرب الناتج\" (product frequency) لتحديد متى سيبلغ خطأ التتبع (tracking error) ذروته.\n\n### توضيح المفاهيم أولاً:\n- **تحليل الإسناد (Attribution Analysis):** هو تحليل يهدف إلى تفكيك أداء المحفظة إلى مكونات مختلفة (مثل تخصيص القطاعات، اختيار الأوراق المالية، التوقيت، الخ) لفهم مصادر الأداء.\n- **خطأ التتبع (Tracking Error):** هو مقياس لتقلب الفرق بين عوائد المحفظة",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 109,
+    "total_tokens": 289,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058684.0293846
+}

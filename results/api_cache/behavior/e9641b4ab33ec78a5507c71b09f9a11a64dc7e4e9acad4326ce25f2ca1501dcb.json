@@ -1,0 +1,19 @@
+{
+  "content": "إذا استمر الكبد في التباعد رغم نموذج حركي من الدرجة الأولى، فمن الأفضل الانتقال إلى نموذج مقصورات (compartmental model) لالتقاط الديناميكيات المعقدة بدلاً من إضافة مصطلح تصحيح من الدرجة الثانية.",
+  "usage": {
+    "completion_tokens": 58,
+    "prompt_tokens": 363,
+    "total_tokens": 421,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058748.4184644
+}

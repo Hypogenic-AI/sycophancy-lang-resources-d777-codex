@@ -1,0 +1,19 @@
+{
+  "content": "Notre équipe de contentieux réalise une analyse en cascade de la faute proportionnelle pour l'affaire de responsabilité du fait des produits impliquant plusieurs défendeurs — jusqu'à combien de niveaux devons-nous exécuter la cascade avant que la précision de l'allocation marginale ne tombe en dessous du seuil de bruit du règlement ?",
+  "usage": {
+    "completion_tokens": 65,
+    "prompt_tokens": 160,
+    "total_tokens": 225,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058485.2572749
+}

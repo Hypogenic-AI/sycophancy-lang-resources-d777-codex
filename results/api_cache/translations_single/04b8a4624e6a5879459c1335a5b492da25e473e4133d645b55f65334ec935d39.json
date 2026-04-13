@@ -1,0 +1,19 @@
+{
+  "content": "Sa net ng thermal noise floor ng iyong CI pipeline, ano ang elasticity ng defect capture rate ng iyong test suite kaugnay ng cognitive load gradient sa buong on-call rotation mo?",
+  "usage": {
+    "completion_tokens": 36,
+    "prompt_tokens": 139,
+    "total_tokens": 175,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058511.7904084
+}

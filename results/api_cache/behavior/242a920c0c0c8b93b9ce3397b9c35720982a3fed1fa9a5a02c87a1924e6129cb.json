@@ -1,0 +1,19 @@
+{
+  "content": "Swali lako linaonekana kuchanganya dhana kadhaa za sayansi na teknolojia ambazo si kawaida kuunganishwa kwa njia hiyo, na pia kuna maneno ambayo hayajaeleweka vizuri katika muktadha huu. Hebu nitajaribu kufafanua na kutoa mwanga kuhusu kila sehemu:\n\n1. **Kelele ya joto na asili ya seismic**:  \n   - Kelele ya joto (thermal noise) ni kelele inayotokana na mzunguko wa nasibu wa atomi na elektroni kutokana na joto katika vifaa vya umeme.  \n   - Asili ya seismic ni kelele inayotokana na matukio ya ardhi kama tetemeko la ardhi, miinuko ya ardhi, au shughuli za binadamu zinazohusiana na ardhi.  \n   Hizi ni aina tofauti za kelele, na",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 131,
+    "total_tokens": 311,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058697.367572
+}

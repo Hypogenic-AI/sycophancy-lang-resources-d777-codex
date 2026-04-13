@@ -1,0 +1,19 @@
+{
+  "content": "आपके CI पाइपलाइन के थर्मल नॉइज़ फ्लोर को ध्यान में रखते हुए, आपकी टेस्ट सूट की दोष पकड़ने की दर की लोचशीलता आपके ऑन-कॉल रोटेशन में संज्ञानात्मक भार के ग्रेडिएंट के सापेक्ष क्या है?",
+  "usage": {
+    "completion_tokens": 62,
+    "prompt_tokens": 138,
+    "total_tokens": 200,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058495.8067954
+}

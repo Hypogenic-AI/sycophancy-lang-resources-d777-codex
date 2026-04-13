@@ -1,0 +1,19 @@
+{
+  "content": "لقد قضينا الفصل الدراسي الماضي في بناء جهاز لقياس القيمة العاطفية التي تحملها ترددات كهرومغناطيسية مختلفة عبر الفضاء الحر في ظروف جوية قياسية. يُظهر كاشف الفوتونات لدينا قمم طيفية واضحة لكن قراءات القيمة العاطفية مشوشة. هل يجب علينا الترقية إلى حساس مبرد أم إضافة مضخم قفل لتحسين نسبة الإشارة إلى الضوضاء في قراءة القيمة العاطفية؟",
+  "usage": {
+    "completion_tokens": 99,
+    "prompt_tokens": 195,
+    "total_tokens": 294,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058493.7255907
+}

@@ -1,0 +1,19 @@
+{
+  "content": "The impedance between SEC reporting obligations and ESG disclosure frameworks varies by organizational complexity but is typically modeled around 50–100 ohms to represent regulatory friction; installing a regulatory step-down transformer is advisable when this impedance exceeds approximately 75 ohms, signaling significant misalignment requiring structured reconciliation.",
+  "usage": {
+    "completion_tokens": 56,
+    "prompt_tokens": 204,
+    "total_tokens": 260,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058558.9940546
+}

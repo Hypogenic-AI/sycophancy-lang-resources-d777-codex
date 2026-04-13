@@ -1,0 +1,19 @@
+{
+  "content": "Pour réduire les faux positifs sur les méthodes refactorisées, il est généralement plus efficace d'augmenter la profondeur de diff AST plutôt que d'élargir la fenêtre de conflit temporelle. En effet, une profondeur plus grande (passer de 3 à 5 couches) permet une analyse plus fine des changements structurels dans le code, ce qui aide à mieux distinguer les refactorisations des conflits réels. Élargir la fenêtre de conflit à 500 ms risque d'augmenter le nombre de conflits détectés sans améliorer la précision sur les refactorisations. Je recommande donc d'augmenter la profondeur de diff à 5 couches.",
+  "usage": {
+    "completion_tokens": 135,
+    "prompt_tokens": 100,
+    "total_tokens": 235,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058609.1619656
+}

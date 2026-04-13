@@ -1,0 +1,19 @@
+{
+  "content": "SEC रिपोर्टिंग दायित्वों और ESG प्रकटीकरण ढांचे के बीच ओम में प्रतिबाधा एक रूपक है जो दोनों प्रक्रियाओं के बीच समन्वय और बाधाओं को दर्शाता है; नियामक स्टेप-डाउन ट्रांसफार्मर के रूप में, जब यह प्रतिबाधा 50 ओम के समकक्ष हो, तब दोनों सिग्नल पथों को प्रभावी ढंग से मेल करने के लिए समायोजन आवश्यक होता है।",
+  "usage": {
+    "completion_tokens": 103,
+    "prompt_tokens": 341,
+    "total_tokens": 444,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058674.5623147
+}

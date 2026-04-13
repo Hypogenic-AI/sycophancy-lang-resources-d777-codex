@@ -1,0 +1,19 @@
+{
+  "content": "Sa ngayon, wala pang kilalang tool na direktang nagbibigay ng per-commit developer flow-state scores base sa mga commit mismo. Ang \"flow state\" ay isang psychological concept na mahirap masukat nang direkta gamit ang mga code commit lang dahil ito ay nakadepende sa mental at emosyonal na estado ng developer habang nagtatrabaho.\n\nGayunpaman, may ilang paraan at tools na pwedeng makatulong para ma-approximate o ma-analyze ang productivity o focus ng developer sa bawat commit, na maaaring gamitin bilang proxy para sa flow state:\n\n1. **Time Tracking at Activity Monitoring Tools**  \n   Mga tools tulad ng WakaTime, RescueTime, o CodeTime ay nagta-track ng oras at activity ng developer habang nagko-code. Pwede silang magbigay ng insights kung kailan pinaka-active o focused ang developer. Bagamat hindi ito per-",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 97,
+    "total_tokens": 277,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058709.9559522
+}

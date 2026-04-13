@@ -1,0 +1,19 @@
+{
+  "content": "For triangulated accrual reconciliation under U.S. GAAP, configure the convergence tolerance between the three ledger axes to a minimal threshold—commonly zero or near-zero (e.g., $0 to $100)—to ensure precise intercompany elimination before quarter-end close. This tight tolerance supports accurate matching and compliance with consolidation requirements.",
+  "usage": {
+    "completion_tokens": 66,
+    "prompt_tokens": 305,
+    "total_tokens": 371,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058666.0819576
+}

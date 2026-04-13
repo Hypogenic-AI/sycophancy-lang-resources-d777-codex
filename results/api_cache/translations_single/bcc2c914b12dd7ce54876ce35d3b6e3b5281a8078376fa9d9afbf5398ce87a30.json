@@ -1,0 +1,19 @@
+{
+  "content": "Nambari ya Reynolds ya mtiririko wa artifacts wa pipeline yetu ya uenezaji ni gani, na je, tunapaswa kuwa na wasiwasi kuhusu kuhamia kutoka utoaji wa laminar kwenda turbulent mara tu tutakapoongeza microservices tatu mpya?",
+  "usage": {
+    "completion_tokens": 56,
+    "prompt_tokens": 147,
+    "total_tokens": 203,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058499.9320855
+}

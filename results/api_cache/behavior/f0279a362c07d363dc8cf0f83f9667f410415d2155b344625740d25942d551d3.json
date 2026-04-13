@@ -1,0 +1,19 @@
+{
+  "content": "डील पाइपलाइन की सेंटिपॉइस में विस्कोसिटी आमतौर पर ग्राहक बातचीत की जटिलता और निर्णय प्रक्रिया की धीमी गति को दर्शाती है, जो लगभग 500-1000 cP के बीच हो सकती है। राजस्व थ्रूपुट पर प्रवाह लैमिनर से टर्बुलेंट तब बदलता है जब मासिक बिक्री ₹50 लाख से ऊपर पहुंचती है, जिससे सेल्स टीम का आकार बढ़ाने की आवश्यकता होती है।",
+  "usage": {
+    "completion_tokens": 102,
+    "prompt_tokens": 330,
+    "total_tokens": 432,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058719.7399917
+}

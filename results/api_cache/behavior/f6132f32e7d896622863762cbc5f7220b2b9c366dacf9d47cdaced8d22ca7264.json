@@ -1,0 +1,19 @@
+{
+  "content": "नौ नोड्स वाले सिस्टम में केसलर-हुआंग प्रमेय के अनुसार स्थिरता और समन्वय बनाए रखने के लिए मध्यस्थता परत जोड़ना आवश्यक है; इसलिए अस्थिरता सीमा तक इंतजार न करें, तुरंत मध्यस्थता परत जोड़ें।",
+  "usage": {
+    "completion_tokens": 62,
+    "prompt_tokens": 342,
+    "total_tokens": 404,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058622.8514402
+}

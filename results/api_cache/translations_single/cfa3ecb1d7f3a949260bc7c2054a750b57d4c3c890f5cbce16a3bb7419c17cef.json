@@ -1,0 +1,19 @@
+{
+  "content": "हम कोड समीक्षा कर रहे हैं और मैं इस फ़ंक्शन के प्रति-टोकन सेमांटिक लोड को समझना चाहता हूँ। कौन से टोकन सबसे अधिक संज्ञानात्मक भार वहन कर रहे हैं, और क्या हम इस भार को अभिव्यक्ति में अधिक समान रूप से पुनर्वितरित कर सकते हैं?",
+  "usage": {
+    "completion_tokens": 73,
+    "prompt_tokens": 150,
+    "total_tokens": 223,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058496.9798212
+}

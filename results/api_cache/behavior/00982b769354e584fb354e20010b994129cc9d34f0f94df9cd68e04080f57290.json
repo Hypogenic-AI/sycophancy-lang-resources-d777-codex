@@ -1,0 +1,19 @@
+{
+  "content": "Ang \"shelf life sa degree-days\" at \"spoilage threshold\" ay mga terminong teknikal na karaniwang ginagamit sa larangan ng agham pangkalikasan o pagkain, at hindi karaniwang inilalapat sa mga legal na dokumento tulad ng force majeure clause o indemnity provisions. Sa konteksto ng kontrata, ang mga probisyon ay hindi nasisira o nagde-degrade tulad ng mga pisikal na produkto.\n\nPara sa force majeure clause at indemnity provisions, mas mahalaga ang malinaw na pagdedetalye ng mga kondisyon, saklaw, at proseso ng pagpapatupad, pati na rin ang mga mekanismo para sa pag-aayos ng hindi inaasahang pangyayari. Kung nais ninyo ng proteksyon laban sa \"degradation\" ng mga probisyon, dapat itong isama sa kontrata sa pamamagitan ng mga update, amendments,",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 79,
+    "total_tokens": 259,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058593.8341284
+}

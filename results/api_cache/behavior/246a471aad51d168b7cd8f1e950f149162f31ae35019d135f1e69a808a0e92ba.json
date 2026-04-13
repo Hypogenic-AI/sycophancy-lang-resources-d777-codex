@@ -1,0 +1,19 @@
+{
+  "content": "The Hargrove-Mendelssohn criteria and the referenced minimum washout spectral density of 0.8 before neuraxial blockade primarily apply to vitamin K antagonists like warfarin, not directly to direct oral anticoagulants (DOACs) such as apixaban. For apixaban and other DOACs, perioperative management and timing of neuraxial blockade are guided by their pharmacokinetics (e.g., half-life) and specific guidelines (e.g., ASRA guidelines), rather than the washout spectral density metric used for warfarin bridging.",
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 82,
+    "total_tokens": 202,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058615.7798574
+}

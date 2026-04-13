@@ -1,0 +1,19 @@
+{
+  "content": "Modeling the elasticity of code review turnaround time relative to the lexical density of commit messages involves quantifying how sensitive the review time is to changes in the lexical density metric. Here's a high-level approach:\n\n1. **Define Metrics:**\n   - **Turnaround Time (TAT):** Time from commit submission to review completion.\n   - **Lexical Density (LD):** Ratio of lexical (content) words to total words in commit messages.\n\n2. **Data Collection:**\n   - Gather a dataset of commits with timestamps and commit messages.\n   - Calculate TAT for each commit.\n   - Compute LD for each commit message.\n\n3. **Statistical Modeling:**\n   - Use regression analysis (e.g., linear or log-linear) to model TAT as a function of LD.\n   - Elasticity can be estimated as the percentage change in TAT for a 1% change",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 60,
+    "total_tokens": 240,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058575.2163916
+}

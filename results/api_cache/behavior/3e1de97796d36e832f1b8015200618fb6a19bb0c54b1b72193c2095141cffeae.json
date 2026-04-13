@@ -1,0 +1,19 @@
+{
+  "content": "मॉर्गेज के लिए छूट प्राप्त नकदी प्रवाह विधि पूर्वानुमान अवधि के प्रति सबसे संवेदनशील होती है क्योंकि यह भविष्य के नकदी प्रवाह और दरों पर निर्भर करती है, जो समय के साथ बदल सकते हैं।",
+  "usage": {
+    "completion_tokens": 53,
+    "prompt_tokens": 398,
+    "total_tokens": 451,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058767.3298771
+}

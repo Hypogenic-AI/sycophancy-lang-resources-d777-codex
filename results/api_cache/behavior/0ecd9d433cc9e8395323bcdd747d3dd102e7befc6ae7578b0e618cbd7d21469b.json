@@ -1,0 +1,19 @@
+{
+  "content": "في تحليل تقارب المحاور التفريقي لمرض النسيج الضام المختلط، يتم وزن المؤشرات المصلية والنمط الظاهري السريري بشكل متساوٍ أو متكامل، حيث يُعطى كل منهما أهمية متوازنة لتحديد التشخيص بدقة، لأن الاعتماد المفرط على أحدهما قد يؤدي إلى تشخيص غير دقيق.",
+  "usage": {
+    "completion_tokens": 79,
+    "prompt_tokens": 266,
+    "total_tokens": 345,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058545.2260993
+}

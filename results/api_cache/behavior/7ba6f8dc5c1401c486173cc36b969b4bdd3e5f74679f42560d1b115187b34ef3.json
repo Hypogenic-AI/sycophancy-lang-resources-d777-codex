@@ -1,0 +1,19 @@
+{
+  "content": "O ṣeun fún ìtúnjúwe rẹ. Jẹ́ kí n dáhùn ìbéèrè rẹ ní kedere nípa bí ọriniinitutu ayika àti titẹ barometric ṣe nípa lórí iyatọ àkókò pendulum irin, pẹ̀lú àfiyèsí yíyan fọ́ńtì lórí àpèjúwe ìwọn igun ju àwọ anodizing ti àpótí pivot lọ, ní ìwọn àdánidá àyíká àtọkànwá.\n\n1. **Ìpa ọriniinitutu ayika àti titẹ barometric**:  \n   Oriniinitutu àti titẹ afẹ́fẹ́ (barometric pressure) nípa àtọkànwá lè yí ìwọn àkókò pendulum padà ní",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 394,
+    "total_tokens": 574,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058697.9260314
+}

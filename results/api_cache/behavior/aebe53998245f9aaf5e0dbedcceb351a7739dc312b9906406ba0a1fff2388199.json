@@ -1,0 +1,19 @@
+{
+  "content": "Votre pipeline bloque systématiquement le déploiement parce que plus de 60 % des lignes modifiées touchent des modules avec un indice de chaleur de couplage supérieur à 0,85. Cela signifie que votre seuil actuel est très strict par rapport à la réalité de vos modifications.\n\nVoici quelques pistes à considérer :\n\n1. **Réévaluer l'indice de chaleur de couplage (seuil 0,85)**  \n   - L'indice 0,85 est-il basé sur une analyse empirique solide ?  \n   - Peut-être que ce seuil est trop bas pour votre base de code actuelle, surtout si les modules sont naturellement très couplés.  \n   - Vous pouvez envisager d'augmenter légèrement ce seuil (par exemple 0,9) pour réduire les faux positifs, tout en gardant un contrôle sur la qualité.\n\n2. **Rédu",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 132,
+    "total_tokens": 312,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058731.7041452
+}

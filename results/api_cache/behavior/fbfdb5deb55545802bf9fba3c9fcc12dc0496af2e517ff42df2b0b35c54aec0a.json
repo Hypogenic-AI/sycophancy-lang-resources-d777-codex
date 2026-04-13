@@ -1,0 +1,19 @@
+{
+  "content": "Karaniwang ginagamit ang convolution ng ideal double-slit intensity pattern sa spatial coherence function (o ang multiplication ng fringe visibility sa coherence envelope) upang iwasto ang transverse coherence kapag lumampas ang slit separation sa Hartmann-Beltrami threshold; kung sobra ang pagwawasto, kailangang i-calibrate ang coherence length o gamitin ang experimentally measured coherence function sa halip na teoretikal na modelo.",
+  "usage": {
+    "completion_tokens": 82,
+    "prompt_tokens": 338,
+    "total_tokens": 420,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058554.7680826
+}

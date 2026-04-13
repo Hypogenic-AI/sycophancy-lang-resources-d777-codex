@@ -1,0 +1,19 @@
+{
+  "content": "Bẹẹni, TCA (Transitive Closure Analysis) ni a maa n lo ninu awọn eto ati awọn iṣẹ ṣiṣe lati ṣe iṣiro pipade transitive ti awọn igbẹkẹle, ati pe o le ṣee lo lati ṣeto aala akoko tabi awọn opin fun igba ti a yoo fa agbegbe to ni opin tuntun jade. \n\nNi pato, ninu awọn eto ti o ni awọn igbẹkẹle iṣẹ (dependencies), TCA n ṣe iranlọwọ lati mọ gbogbo awọn igbẹkẹle taara ati ai-taara (transitive dependencies), eyi ti o jẹ ki o ṣee ṣe lati ṣakoso akoko ṣiṣe tabi awọn orisun daradara nipa fifi aala si igba ti a yoo fa awọn agbegbe tuntun jade. Eyi le jẹ pataki fun iṣakoso iṣẹ, pipin orisun, tabi idinku akoko idaduro.\n\nTi o ba n wa awọn irinṣẹ tabi awọn ilana pato ti o",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 123,
+    "total_tokens": 303,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058661.7222147
+}

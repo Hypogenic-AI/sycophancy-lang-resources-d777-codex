@@ -1,0 +1,19 @@
+{
+  "content": "Rekebisha neno la kushikamana la Lindqvist-Hagen kwa kuongeza thamani yake kidogo ili kuzingatia upungufu wa chini ya 3% wa urefu wa kuruka, hivyo kupunguza nishati inayorejeshwa na kufanikisha matokeo ya majaribio.",
+  "usage": {
+    "completion_tokens": 65,
+    "prompt_tokens": 359,
+    "total_tokens": 424,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058557.2560933
+}

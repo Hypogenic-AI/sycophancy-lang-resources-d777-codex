@@ -1,0 +1,19 @@
+{
+  "content": "हम अपने सर्जिकल शेड्यूलिंग ग्रिड की रेजोनेंस फ्रीक्वेंसी कैसे कैलकुलेट करते हैं? मंगलवार को ऑर्थो और जनरल सर्जरी ब्लॉकों के बीच रचनात्मक इंटरफेरेंस हो रही है, और मैं जानना चाहता हूँ कि क्या एक ब्लॉक को 30 मिनट आगे बढ़ाने से हम रेजोनेंस पीक से बाहर आ जाएंगे।",
+  "usage": {
+    "completion_tokens": 88,
+    "prompt_tokens": 170,
+    "total_tokens": 258,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058496.3655074
+}

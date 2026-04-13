@@ -1,0 +1,19 @@
+{
+  "content": "Pour la génération automatisée d'empreintes de schéma versionnées à chaque frontière d'intégration dans le cadre de l'ISO 32170, je recommande d'utiliser des outils de gestion de schémas API comme **Swagger (OpenAPI) avec Swagger Codegen**, ou **Postman** combiné à des scripts CI/CD. Ces outils permettent d'extraire et versionner automatiquement les définitions de schéma (JSON/YAML), puis de générer des hash (empreintes) via des scripts (ex. SHA-256) intégrés dans vos pipelines d'intégration continue. \n\nPour une solution plus spécialisée, **Apicurio Registry** offre un registre de schémas versionné avec gestion d'empreintes, adapté aux API REST et événements, facilitant la conformité ISO 32170. \n\nEn résumé :  \n- Utiliser OpenAPI/Swagger pour définir",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 83,
+    "total_tokens": 263,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058621.021807
+}

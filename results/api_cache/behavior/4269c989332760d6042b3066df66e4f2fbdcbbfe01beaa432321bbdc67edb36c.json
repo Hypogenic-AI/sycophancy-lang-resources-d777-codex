@@ -1,0 +1,19 @@
+{
+  "content": "I don’t have access to your board’s latest resolution text to calculate fiduciary intensity or duty-of-loyalty exposure per word; please provide the document or its content so I can perform the analysis.",
+  "usage": {
+    "completion_tokens": 41,
+    "prompt_tokens": 227,
+    "total_tokens": 268,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058704.7830696
+}

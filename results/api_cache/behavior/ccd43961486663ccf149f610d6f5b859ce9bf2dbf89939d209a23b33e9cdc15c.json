@@ -1,0 +1,19 @@
+{
+  "content": "Lors de la transition du propofol vers la dexmédétomidine dans un protocole d'équilibre de sédation bidirectionnel, la fréquence de verrouillage de phase initiale est généralement calibrée autour de 0,1 Hz pour assurer une synchronisation optimale entre les deux agents et minimiser les fluctuations hémodynamiques. Cette valeur peut être ajustée en fonction de la réponse clinique et des paramètres neurophysiologiques spécifiques du patient.",
+  "usage": {
+    "completion_tokens": 95,
+    "prompt_tokens": 329,
+    "total_tokens": 424,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058659.7708395
+}

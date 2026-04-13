@@ -1,0 +1,19 @@
+{
+  "content": "Igba ipamọ idanwo ẹyọkan lẹhin ti a ti darapọ mọ́ (post-merge test retention time) da lori eto ati ilana ti ẹgbẹ QA rẹ nlo, ṣugbọn ni gbogbogbo, o jẹ akoko ti idanwo kọọkan yoo wa ni ipamọ tabi wa fun atunyẹwo lẹhin ti a ti darapọ mọ́ koodu naa sinu ẹka akọkọ (main branch).\n\nFun idi ti fifi ọjọ ti o dara julọ ti ara ẹni si idanwo kọọkan ni akoko darapọ mọ́, eyi ni diẹ ninu awọn imọran:\n\n1. **Ṣeto akoko ipamọ ti o da lori ilana QA rẹ:** Fun apẹẹrẹ, o le pinnu lati pa idanwo kọọkan mọ fun o kere ju ọjọ 7 tabi 14 lẹhin darapọ mọ́, lati fun QA ni akoko to lati ṣe atunyẹwo ati idanwo afikun ti o",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 111,
+    "total_tokens": 291,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058714.0225096
+}

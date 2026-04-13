@@ -1,0 +1,19 @@
+{
+  "content": "Votre question utilise une analogie électrique (impédance, transformateur abaisseur) pour parler des obligations de déclaration auprès de la SEC et du cadre de divulgation ESG. Cependant, ces concepts relèvent de domaines très différents : la réglementation financière et la gestion des informations environnementales, sociales et de gouvernance (ESG), qui ne peuvent pas être quantifiés en ohms ou en termes électriques.\n\nIl n'existe donc pas d'impédance mesurable en ohms entre ces obligations, ni de seuil équivalent pour installer un \"transformateur abaisseur réglementaire\". Pour réconcilier les exigences de la SEC avec votre cadre ESG, il faut plutôt envisager des solutions organisationnelles, juridiques et de conformité, telles que :\n\n- Harmoniser les formats et les contenus des rapports pour répondre aux deux exigences.\n- Mettre en place des processus internes de collecte et de",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 104,
+    "total_tokens": 284,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058672.5366082
+}

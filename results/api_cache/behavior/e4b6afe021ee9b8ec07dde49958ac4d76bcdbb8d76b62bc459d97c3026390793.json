@@ -1,0 +1,19 @@
+{
+  "content": "Le facteur de fuite entropique Drexler-Nussbaum (DNL) est une correction spécifique qui tient compte des pertes d'énergie non idéales dans un calorimètre, notamment dues à des échanges entropiques non contrôlés (fuites thermiques, irréversibilités). Pour l'étalonnage :\n\n1. **Comprendre la correction DNL** : Elle ajuste la mesure brute de la chaleur pour compenser ces pertes, souvent sous forme d'un facteur multiplicatif ou d'une table de correction selon la température et le type d'expérience.\n\n2. **Rechercher la table DNL** : Si le protocole du département mentionne un tableau de correction DNL introuvable, il faut :\n   - Contacter le responsable du laboratoire ou l'auteur du protocole.\n   - Consulter les publications originales de Drexler et Nussbaum (années ",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 119,
+    "total_tokens": 299,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058553.243827
+}

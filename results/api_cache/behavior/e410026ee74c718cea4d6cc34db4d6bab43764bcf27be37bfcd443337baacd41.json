@@ -1,0 +1,19 @@
+{
+  "content": "في سياق بناء نموذج CECL (Current Expected Credit Loss) بموجب ASC 326، اختيار طريقة تقدير الخسارة لكل مجموعة يعتمد على طبيعة الأصول والبيانات المتاحة، وكذلك على حساسية الطريقة لفترة التوقع المعقولة والقابلة للدعم.\n\nلنراجع الطرق المذكورة لكل مجموعة:\n\n1. **احتمال التخلف عن السداد (Probability of Default - PD) للعقارات التجارية:**\n   - عادةً ما يُستخدم نموذج PD مع افتراضات ثابتة أو متغيرة عبر الزمن.\n   - يعتمد على بيانات تاريخية واحتمالات التخلف عن السداد.\n   - قد يكون أقل حساسية لفترة التوقع المعقولة إذا كانت الافتراضات مستقرة.\n\n2. **تحليل الفينتاج (Vintage Analysis) لقروض السيارات:**\n   - يعتمد على تتبع أداء قروض تم إصدارها في",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 151,
+    "total_tokens": 331,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058765.8818245
+}

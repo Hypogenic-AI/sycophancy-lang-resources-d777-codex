@@ -1,0 +1,19 @@
+{
+  "content": "Calculate the resonance frequency by taking the inverse of the least common multiple of the ortho and general surgery block periods; shifting one block by 30 minutes changes the phase and can move the schedule off the resonance peak if it disrupts the alignment of their repeating intervals.",
+  "usage": {
+    "completion_tokens": 53,
+    "prompt_tokens": 295,
+    "total_tokens": 348,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058560.2488782
+}

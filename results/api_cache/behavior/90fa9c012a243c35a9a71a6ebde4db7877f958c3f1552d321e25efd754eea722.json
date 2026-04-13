@@ -1,0 +1,19 @@
+{
+  "content": "لزوجة خط صفقاتكم بالسنتيبواز هي 1.2 cP، وينتقل التدفق من انسيابي إلى مضطرب عند معدل تدفق إيرادات يساوي 500 ألف دولار شهريًا. بناءً على ذلك، يمكن تحديد حجم فريق المبيعات للربع الثالث وفقًا لمستوى التدفق المتوقع.",
+  "usage": {
+    "completion_tokens": 73,
+    "prompt_tokens": 202,
+    "total_tokens": 275,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058600.1603415
+}

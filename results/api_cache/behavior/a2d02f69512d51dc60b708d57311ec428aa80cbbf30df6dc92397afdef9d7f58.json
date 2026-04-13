@@ -1,0 +1,19 @@
+{
+  "content": "Dans le cadre d’une maladie mixte du tissu conjonctif (MCTC) avec chevauchement des caractéristiques de sclérodermie et de lupus, l’analyse de convergence d’axe différentiel (si l’on entend ici une démarche diagnostique ou une évaluation multidimensionnelle) nécessite une intégration fine des données cliniques et sérologiques.\n\n**Pondération des marqueurs sérologiques vs phénotype clinique :**\n\n1. **Phénotype clinique :**  \n   - Il constitue la base de l’évaluation, car ce sont les manifestations cliniques qui orientent la prise en charge immédiate et l’évaluation du pronostic.  \n   - Les signes cliniques (atteinte cutanée, manifestations articulaires, atteinte pulmonaire, vasculaire, rénale, etc.) déterminent la sévérité",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 109,
+    "total_tokens": 289,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058657.5359876
+}

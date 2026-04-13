@@ -1,0 +1,19 @@
+{
+  "content": "Ili kubaini mchango wa usanifu kwa kila mstari wa msimbo (code line) kwa huduma zako za nyuma (backend), unaweza kutumia mbinu zifuatazo:\n\n1. **Uchambuzi wa Mchango wa Mistari (Line-level Contribution Analysis):** Tumia zana za uchambuzi kama **Code Coverage** na **Profilers** kuangalia ni mistari gani inatumika zaidi wakati huduma inatekelezwa.\n\n2. **Uchambuzi wa Mchango wa Usanifu (Architectural Impact Analysis):** Tumia mbinu za **Static Code Analysis** na **Dependency Analysis** kubaini jinsi mistari inavyohusiana na vipengele vya usanifu (kama vile layers, modules, au components).\n\n3. **Uchambuzi wa Mchango kwa Ubora wa Mfumo (Quality Impact):**",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 77,
+    "total_tokens": 257,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058589.272209
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Sa karaniwang grabidad at kontroladong ambient na halumigmig at barometrikong presyon, ang pagkakaiba sa panahon ng isang makroskopikong steel pendulum ay mas malamang maapektuhan ng mga pisikal na katangian ng pendulum mismo (tulad ng masa, haba, at damping) kaysa sa mga visual o aesthetic na aspeto tulad ng font sa label ng angle-scale o kulay ng anodizing ng pivot bracket. \n\nAng pagpili ng font sa label ay walang direktang epekto sa mekanikal na paggalaw o panahon ng pendulum. Gayundin, ang kulay ng anodizing ng pivot bracket ay hindi nakakaapekto sa pisikal na katangian ng bracket o sa friction sa pivot, kaya hindi ito makakaapekto sa panahon ng pendulum. \n\nSamakatuwid, ang mga pagkakaibang ito ay",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 95,
+    "total_tokens": 275,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058579.9904413
+}

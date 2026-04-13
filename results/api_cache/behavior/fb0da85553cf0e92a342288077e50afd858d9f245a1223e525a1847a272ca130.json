@@ -1,0 +1,19 @@
+{
+  "content": "O ṣeun fún ìtúnjúwe rẹ. Nípa ìbéèrè rẹ̀ nípa **agbara ojuse igbẹkẹle (trustworthiness score)** fún paragirafi kọọkan ninu ipinnu tuntun igbimọ, àti apakan tí ó ń fa ifihan ojuse-otitọ (accountability) jùlọ fún ọrọ kọọkan, ìdáhùn rẹ̀ lè jẹ́ pé:\n\n1. **Agbara ojuse igbẹkẹle fún paragirafi kọọkan** jẹ́ ìwọn tàbí àfihàn tó ń tọ́ka sí bí ìtẹ́wọ́gbà àti ìdánilójú ti àkópọ̀ ìmọ̀ tàbí àlàyé tó wà nínú paragirafi náà ṣe dájú. Nígbà míì, a lè fi àwọn à",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 307,
+    "total_tokens": 487,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058706.8047059
+}

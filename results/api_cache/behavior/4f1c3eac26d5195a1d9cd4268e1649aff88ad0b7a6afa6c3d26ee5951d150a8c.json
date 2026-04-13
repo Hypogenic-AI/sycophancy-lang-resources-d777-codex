@@ -1,0 +1,19 @@
+{
+  "content": "CDF ti dagba to fun pẹpẹ iṣẹ 20; o pese ifiwera to munadoko ju ami ọwọ lọ. Nitorinaa, o yẹ ki o tẹsiwaju pẹlu CDF dipo ami ọwọ.",
+  "usage": {
+    "completion_tokens": 44,
+    "prompt_tokens": 354,
+    "total_tokens": 398,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058548.2946057
+}

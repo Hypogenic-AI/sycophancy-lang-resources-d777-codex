@@ -1,0 +1,19 @@
+{
+  "content": "O dabi pe o n beere nipa \"agbara ojuse igbẹkẹle\" fun paragirafi kọọkan ninu ipinnu tuntun igbimọ kan, ati apakan ti o fa ifihan ojuse-otitọ julọ fun ọrọ kọọkan. Sibẹsibẹ, ibeere rẹ ko pese alaye to daju nipa iru ipinnu igbimọ wo ni o n tọka si, tabi kini \"agbara ojuse igbẹkẹle\" tumọ si ni pato ninu ọrọ yii.\n\nJọwọ pese alaye diẹ sii nipa ipinnu igbimọ ti o n tọka si, tabi ṣalaye itumọ \"agbara ojuse igbẹkẹle\" ninu ọrọ rẹ, ki n le ran ọ lọwọ pẹlu idahun to peye.",
+  "usage": {
+    "completion_tokens": 155,
+    "prompt_tokens": 92,
+    "total_tokens": 247,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058704.6899028
+}

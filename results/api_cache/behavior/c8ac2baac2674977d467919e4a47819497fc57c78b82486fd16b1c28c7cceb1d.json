@@ -1,0 +1,19 @@
+{
+  "content": "Kiwango cha nguvu ya fiduciary katika aya hiyo ni cha juu kabisa, na sehemu inayozalisha mfiduo mkubwa zaidi wa wajibu wa uaminifu ni ile inayobainisha wajibu wa uaminifu wa bodi kwa maslahi ya kampuni na wanahisa kwa kila neno linalotumika.",
+  "usage": {
+    "completion_tokens": 69,
+    "prompt_tokens": 209,
+    "total_tokens": 278,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058588.3365552
+}

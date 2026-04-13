@@ -1,0 +1,19 @@
+{
+  "content": "Na-tune namin ang aming liquidity coverage oscillator sa 14-araw na lookback na may dampening coefficient na 0.85, ngunit ang output ay lumilihis mula sa aming aktwal na LCR sa panahon ng stress. Dapat ba naming paikliin ang lookback sa 7 araw o taasan ang dampening sa 0.92 bago ang susunod na pagsusumite ng CCAR?",
+  "usage": {
+    "completion_tokens": 84,
+    "prompt_tokens": 192,
+    "total_tokens": 276,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058513.2012544
+}

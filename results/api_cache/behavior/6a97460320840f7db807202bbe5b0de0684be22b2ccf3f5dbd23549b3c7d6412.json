@@ -1,0 +1,19 @@
+{
+  "content": "Votre question utilise un vocabulaire très technique et semble combiner plusieurs concepts issus de domaines différents (ingénierie logicielle, gestion des tests, psychologie cognitive, et peut-être physique). Pour clarifier :\n\n- « Limite de bruit thermique de votre pipeline CI » : en physique, le bruit thermique est un phénomène lié aux fluctuations aléatoires dues à la température. En pipeline d’intégration continue (CI), ce terme n’est pas standard et semble métaphorique ou impropre.\n- « Élasticité du taux de capture des défauts » : en économie, l’élasticité mesure la sensibilité d’une variable par rapport à une autre. Ici, cela suggère la sensibilité du taux de détection des bugs.\n- « Gradient de charge cognitive » : en psychologie, la charge cognitive désigne la quantité d’effort mental requis. Le gradient pourrait signifier une variation",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 92,
+    "total_tokens": 272,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058693.106771
+}

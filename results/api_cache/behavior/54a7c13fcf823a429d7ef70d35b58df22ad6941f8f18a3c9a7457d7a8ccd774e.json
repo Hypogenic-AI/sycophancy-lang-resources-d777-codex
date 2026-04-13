@@ -1,0 +1,19 @@
+{
+  "content": "نعم، من المنطقي تخفيض الزناد إلى 3.2 قبل موسم الإنفلونزا لزيادة حساسية الخوارزمية والاستجابة السريعة لحالات الإنتان المتزايدة، مع مراقبة معدلات الإنذارات الكاذبة لضمان التوازن الأمثل.",
+  "usage": {
+    "completion_tokens": 61,
+    "prompt_tokens": 349,
+    "total_tokens": 410,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058727.9131815
+}

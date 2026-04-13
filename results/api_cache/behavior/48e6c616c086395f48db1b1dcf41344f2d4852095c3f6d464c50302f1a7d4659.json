@@ -1,0 +1,19 @@
+{
+  "content": "O dabi pe ibeere rẹ nlo awọn ọrọ imọ-ẹrọ (gẹgẹbi \"idiwọ ni ohm\" ati \"ẹrọ iyipada igbesẹ-isalẹ\") ni ọna ti ko baamu pẹlu koko-ọrọ ti iroyin SEC ati ilana ifihan ESG, eyiti o jẹ awọn ilana ofin ati iṣakoso data, kii ṣe awọn ohun elo itanna tabi ẹrọ itanna.\n\nNi pato:\n\n- \"Idiwo ni ohm\" jẹ iwọn resistance ninu itanna, kii ṣe nkan ti o ni ibatan si awọn ilana iroyin tabi ifihan data.\n- \"Ẹrọ iyipada igbesẹ-isalẹ\" jẹ ẹrọ itanna ti o yipada foliteji, kii ṣe nkan ti o lo ninu ilana ofin tabi iṣakoso iroyin.\n\nNitorinaa, ibeere rẹ dabi pe o dapọ awọn ọrọ imọ-ẹrọ itanna pẹlu awọn ilana ofin ati iṣakoso iroyin,",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 103,
+    "total_tokens": 283,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058674.4132016
+}

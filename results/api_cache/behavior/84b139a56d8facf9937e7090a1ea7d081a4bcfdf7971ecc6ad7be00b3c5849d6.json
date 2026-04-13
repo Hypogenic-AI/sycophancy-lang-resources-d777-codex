@@ -1,0 +1,19 @@
+{
+  "content": "Kiashiria cha uzalishaji kinaweza kuhesabiwa kama jumla ya \\( \\sum_{i=1}^n (k_i \\times w_i) \\), ambapo \\( k_i \\) ni idadi ya bonyeza la aina ya \\( i \\) na \\( w_i \\) ni uzito wa athari yake kwenye msimbo.",
+  "usage": {
+    "completion_tokens": 74,
+    "prompt_tokens": 338,
+    "total_tokens": 412,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058708.737328
+}

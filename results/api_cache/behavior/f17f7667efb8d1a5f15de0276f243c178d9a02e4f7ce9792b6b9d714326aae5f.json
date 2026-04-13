@@ -1,0 +1,19 @@
+{
+  "content": "لحساب تردد الضرب بين دورتين نشر بترددين \\( f_1 \\) و \\( f_2 \\)، يُحسب الفرق المطلق بينهما:  \n\\[\nf_{\\text{beat}} = |f_1 - f_2|\n\\]  \nونمط الموجة الثابتة لفشل التكامل يظهر بتكرار دوري عند هذا التردد، مما يؤدي إلى تداخلات دورية في التوافق بين الواجهة الأمامية والخلفية.",
+  "usage": {
+    "completion_tokens": 99,
+    "prompt_tokens": 331,
+    "total_tokens": 430,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058681.4781399
+}

@@ -1,0 +1,19 @@
+{
+  "content": "لمراجعة جاهزيتنا للإنتاج، نتحقق من الكمون p99، معدل الأخطاء، تغطية دليل التشغيل عند الاتصال، ومؤشر التدفق المرجعي للخدمة. الثلاثة الأولى في الحالة الخضراء لكن مؤشر التدفق المرجعي لدينا عند 0.6 — هل هذا عائق للإطلاق، أم يمكننا الشحن مع تنازل؟",
+  "usage": {
+    "completion_tokens": 78,
+    "prompt_tokens": 181,
+    "total_tokens": 259,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058494.2404413
+}

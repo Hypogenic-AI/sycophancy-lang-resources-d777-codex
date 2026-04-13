@@ -1,0 +1,19 @@
+{
+  "content": "Paano natin kinakalkula ang activation energy para sa proseso ng pangongolekta ng aming accounts receivable? Ang aming DSO ay patuloy na umiikot sa paligid ng 45 araw, at gusto kong malaman kung anong threshold ng pagsisikap ang kailangan upang itulak ito sa mas mababang steady state.",
+  "usage": {
+    "completion_tokens": 66,
+    "prompt_tokens": 151,
+    "total_tokens": 217,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058511.7137952
+}

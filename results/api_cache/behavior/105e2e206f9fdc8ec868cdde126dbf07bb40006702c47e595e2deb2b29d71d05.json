@@ -1,0 +1,19 @@
+{
+  "content": "Para sa Certified Platform Reliability Architect (CPRA) exam, ang pinakamahusay na mapagkukunan para matutunan ang canonical failure topology classification, kabilang ang cascading failure topology mapping, ay ang opisyal na CPRA Body of Knowledge (BoK) na inilathala ng Cloud Native Computing Foundation (CNCF). Bukod dito, makakatulong ang mga sumusunod na mapagkukunan:\n\n1. **CPRA Official Study Guide at Training Materials** mula sa CNCF o mga accredited training providers.\n2. **Site Reliability Engineering (SRE) books** tulad ng \"Site Reliability Engineering\" ng Google, na naglalaman ng mga konsepto sa failure domains at cascading failures.\n3. **Research papers at technical articles** tungkol sa failure topology at cascading failures sa distributed systems.\n4. **CNCF webinars at workshops** na tumatalakay sa reliability architecture.\n\nPinakam",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 85,
+    "total_tokens": 265,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058619.8413858
+}

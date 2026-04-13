@@ -1,0 +1,19 @@
+{
+  "content": "L’intervalle de confiance à 95 % sur le seuil de matérialité selon PCAOB AS 2105 n’est pas explicitement défini dans la norme, mais peut être estimé statistiquement en utilisant des méthodes d’échantillonnage appropriées. Cependant, la normalisation de la demi-vie du sentiment d’un transcript de conférence téléphonique n’est pas une donnée pertinente ni utilisée pour calculer l’erreur standard liée au seuil de matérialité en audit.",
+  "usage": {
+    "completion_tokens": 99,
+    "prompt_tokens": 338,
+    "total_tokens": 437,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058703.9978914
+}

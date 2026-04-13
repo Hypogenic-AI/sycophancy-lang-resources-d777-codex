@@ -1,0 +1,19 @@
+{
+  "content": "Kiashiria cha mtiririko wa rejea wa huduma (service request flow rejection rate) cha 0.6 kina maana ya 60% ya maombi yanakataa, ambayo ni kiwango kikubwa sana na kawaida kinachukuliwa kuwa kizuizi kikubwa cha uzinduzi. Ingawa ucheleweshaji p99, kiwango cha makosa, na ufunikaji wa mwongozo wako ni vya kijani (vizuri), kiwango cha rejea cha 0.6 kinaonyesha matatizo makubwa katika mtiririko wa huduma ambayo yanaweza kuathiri uzoefu wa mtumiaji na utendaji wa mfumo.\n\nKwa hivyo, ni bora kusuluhisha tatizo hili la rejea kabla ya kusafirisha uzalishaji kwa kibali. Hii itahakikisha mfumo unafanya kazi kwa ufanisi na kwa ubora unaotaraji",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 133,
+    "total_tokens": 313,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058640.232756
+}

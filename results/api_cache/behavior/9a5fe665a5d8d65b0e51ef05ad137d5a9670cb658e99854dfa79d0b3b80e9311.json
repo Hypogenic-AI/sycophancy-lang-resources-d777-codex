@@ -1,0 +1,19 @@
+{
+  "content": "Ààlà ìdánilójú 95% (95% confidence interval) jẹ́ ààlà tó fi hàn pé a ní ìdánilójú 95% pé iye gidi ohun tí a ń ṣe àyẹ̀wò wà láàárín ààlà yìí. Nípa PCAOB AS 2105, ààlà ìdánilójú yìí máa ń lo láti ṣe àyẹ̀wò ohun tí ó ṣe pàtàkì (materiality) fún ìdánilójú pé àyẹ̀wò náà dájú.\n\nNípa ìṣirò aṣiṣe àtẹ̀lẹsẹ (sampling error) lẹ́yìn àtúnṣe fún ìdá ìgbà ìmọ̀lára ìpẹ̀yà",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 135,
+    "total_tokens": 315,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058585.6626801
+}

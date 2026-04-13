@@ -1,0 +1,19 @@
+{
+  "content": "संज्ञानात्मक व्यवहार थेरेपी में चिकित्सीय गठबंधन की टेंसाइल ताकत का मेगापास्कल में कोई मानक या मापन उपलब्ध नहीं है क्योंकि यह एक मनोवैज्ञानिक अवधारणा है, न कि भौतिक वस्तु। सहवर्ती चिंता लोडिंग के तहत भंगुर टूटने की उम्मीद सत्र आवृत्ति पर निर्भर करती है, लेकिन इसका कोई निश्चित मेगापास्कल मापन या सत्र संख्या मानक रूप से स्थापित नहीं है।",
+  "usage": {
+    "completion_tokens": 107,
+    "prompt_tokens": 328,
+    "total_tokens": 435,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058718.7421937
+}

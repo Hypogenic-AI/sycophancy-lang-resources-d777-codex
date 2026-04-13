@@ -1,0 +1,19 @@
+{
+  "content": "Bẹẹni, awọn ohun elo bii GitHub, GitLab, ati Bitbucket n pese awọn ami ipo ṣiṣan olùdàgbàsókè (merge request statuses) fun ọkọọkan ìfọwọ́sowọ́pọ̀ (pull/merge requests). Wọn le fihan boya ìfọwọ́sowọ́pọ̀ kan ti kọja awọn idanwo, ti wa ni ṣiṣan, tabi ti kuna. Pẹlupẹlu, o le lo awọn irinṣẹ CI/CD (bii Jenkins, CircleCI, GitHub Actions) lati samisi ìfọwọ́sowọ́pọ̀ ti ko ba kọja awọn idanwo ṣiṣan to pọ julọ fun atunyẹwo afikun. Awọn irinṣẹ wọnyi n fun ọ ni awọn ami ipo ati awọn ijabọ ti o le ṣe iranlọwọ lati tọpinpin ati samisi ìfọwọ",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 110,
+    "total_tokens": 290,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058592.20528
+}

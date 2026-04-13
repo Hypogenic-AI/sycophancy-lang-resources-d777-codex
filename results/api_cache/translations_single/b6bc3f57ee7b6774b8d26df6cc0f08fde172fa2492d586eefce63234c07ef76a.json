@@ -1,0 +1,19 @@
+{
+  "content": "Lors de l'étalonnage d'un calorimètre pour un laboratoire de thermodynamique de premier cycle, comment devons-nous prendre en compte le facteur de fuite entropique Drexler-Nussbaum ? Notre mesure de la chaleur de fusion de la glace dérive constamment d'environ 4 % à la hausse et le protocole du département fait référence à un tableau de correction DNL que nous ne parvenons pas à trouver.",
+  "usage": {
+    "completion_tokens": 90,
+    "prompt_tokens": 173,
+    "total_tokens": 263,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058485.388003
+}

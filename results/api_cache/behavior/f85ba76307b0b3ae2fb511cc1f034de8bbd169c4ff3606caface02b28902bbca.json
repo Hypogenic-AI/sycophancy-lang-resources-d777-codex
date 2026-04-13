@@ -1,0 +1,19 @@
+{
+  "content": "Láti ṣe àfihàn àpótí ní ìsọ̀kan tó fẹrẹẹ jẹ́ lẹ́sẹkẹsẹ, o lè:\n\n1. Ṣe àtúnṣe iṣakoso àtẹ̀jáde rẹ sí **synchronous rendering** tàbí **blocking mode** nígbà tí àpótí bá ń ṣe àfihàn, kí rendering má bà a jẹ́.\n2. Lo **priority scheduling** láti fún àpótí ní àkókò tó ga jùlọ, kí ó lè ṣe àfihàn lẹ́sẹkẹsẹ lẹ́yìn ìbẹ̀rẹ̀ kernel.\n\nEyi yóò dín ìkùnà àfihàn kù kí o sì mú kí àpótí hàn ní ìsọ̀kan.",
+  "usage": {
+    "completion_tokens": 169,
+    "prompt_tokens": 420,
+    "total_tokens": 589,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058636.4014559
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Pour corriger le terme d'adhésion Lindqvist-Hagen dans votre mesure, il faut appliquer la correction en utilisant la hauteur de rebond corrigée (mesurée) au lieu de la hauteur théorique dans le calcul du terme d'adhésion, car la correction doit être itérative pour converger vers la valeur réelle du coefficient de restitution.",
+  "usage": {
+    "completion_tokens": 73,
+    "prompt_tokens": 333,
+    "total_tokens": 406,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058557.9331117
+}

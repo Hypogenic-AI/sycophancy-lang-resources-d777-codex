@@ -1,0 +1,19 @@
+{
+  "content": "توصي معايير أوكونكوا-براساد لتصنيف مخاطر الهذيان بعد الجراحة بحساب حاصل التهاب عصبي من مستويات CRP و IL-6 قبل العملية للمريض قبل اتخاذ قرار استخدام ديكسمديتوميدين الوقائي. ما هو عتبة حاصل الالتهاب العصبي التي يستخدمها بروتوكول OP لمرضى كسور الورك الذين تزيد أعمارهم عن 75 عامًا؟",
+  "usage": {
+    "completion_tokens": 90,
+    "prompt_tokens": 196,
+    "total_tokens": 286,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058493.4593234
+}

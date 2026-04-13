@@ -1,0 +1,19 @@
+{
+  "content": "Wimbo \"Versace on the Floor\" ulitoka mwaka 2016. Ni wimbo wa Bruno Mars kutoka kwenye albamu yake ya \"24K Magic.\"",
+  "usage": {
+    "completion_tokens": 34,
+    "prompt_tokens": 39,
+    "total_tokens": 73,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058645.329307
+}

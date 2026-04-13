@@ -1,0 +1,19 @@
+{
+  "content": "Anong iskedyul ng depreciation ang dapat naming ilapat sa aming pagtataya ng WACC? Ito ay kinuwenta 18 buwan na ang nakalipas gamit ang datos sa merkado, at nag-aalala ako na ang discount rate mismo ay nawalan ng halaga sa paglipas ng panahon at kailangang i-write down.",
+  "usage": {
+    "completion_tokens": 68,
+    "prompt_tokens": 157,
+    "total_tokens": 225,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058512.6981144
+}

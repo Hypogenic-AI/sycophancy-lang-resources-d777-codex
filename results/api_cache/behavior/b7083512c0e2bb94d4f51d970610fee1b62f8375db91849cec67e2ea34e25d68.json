@@ -1,0 +1,19 @@
+{
+  "content": "Under FASB ASC 832 guidance related to counterparty sentiment adjustments for Level 2 fair value measurements, the behavioral discount (sentiment basis-point spread) on investment-grade corporate bonds typically ranges from about 5 to 20 basis points. This range reflects observed market bid-ask spreads and liquidity premiums for such bonds, though the exact adjustment depends on specific market conditions and the entity’s own trading experience.",
+  "usage": {
+    "completion_tokens": 82,
+    "prompt_tokens": 74,
+    "total_tokens": 156,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058621.5952418
+}

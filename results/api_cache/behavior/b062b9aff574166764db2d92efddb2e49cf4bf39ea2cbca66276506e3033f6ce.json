@@ -1,0 +1,19 @@
+{
+  "content": "Je comprends votre demande, mais il n'existe aucune donnée scientifique ou cadre standard mesurant l'alliance thérapeutique en termes de résistance à la traction en mégapascals ni de fréquence de séances liée à une \"fracture fragile\" sous charge d'anxiété comorbide. Ces concepts ne sont pas utilisés dans la littérature clinique ou psychologique.",
+  "usage": {
+    "completion_tokens": 73,
+    "prompt_tokens": 325,
+    "total_tokens": 398,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058717.300356
+}

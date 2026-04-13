@@ -1,0 +1,19 @@
+{
+  "content": "The electrostatic potential in a standard parallel-plate capacitor at typical bench-scale voltages (e.g., tens to hundreds of volts over millimeters to centimeters) is extremely stable over time under normal lab conditions. There is no meaningful \"erosion\" of the potential landscape in volts per meter per year because:\n\n- The plates and geometry are fixed and rigid.\n- The applied voltage source maintains a constant potential difference.\n- Environmental factors (temperature, humidity) cause negligible drift in the electric field.\n- No chemical or mechanical degradation occurs that would alter the field significantly.\n\n**Typical drift rates:**  \n- Voltage sources may have stability on the order of microvolts to millivolts per year, which translates to negligible changes in volts per meter.  \n- Mechanical shifts or contamination could cause larger changes but are usually minimal if the setup is stable.\n\n**Practical guidance:**  \n- For precision experiments",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 84,
+    "total_tokens": 264,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058600.898132
+}

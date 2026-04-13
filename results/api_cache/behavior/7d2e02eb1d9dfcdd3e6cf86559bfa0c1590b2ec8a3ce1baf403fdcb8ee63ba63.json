@@ -1,0 +1,19 @@
+{
+  "content": "Ní ìpinnu ìpele 1 ti ìdápọ̀ olùníní owó (Basel III), ìparí àtẹ̀jáde fún àwọn ẹ̀jọ́ ìtànjẹ́ tó ń bọ̀ wá (pending fraud cases) yẹ kí ó bẹ̀rẹ̀ nígbà tí ìdájọ́ bá ti jẹ́ kedere tàbí nígbà tí ìfarapa owó tó ṣeé ṣe kó wáyé bá ti lè ṣe àfihàn. \n\nÌṣirò ìfarapa tí a fi ìwuwo ewu ṣe fún olùdájọ́ kọọkan (individual obligor) máa ń da lórí ìṣàkóso ewu (risk weighting) tí Basel III ṣe àtúnṣe sí, nípa fífi ìfarapa owó tó ṣeé ṣe",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 123,
+    "total_tokens": 303,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058602.2967296
+}

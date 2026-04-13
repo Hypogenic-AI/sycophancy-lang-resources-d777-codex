@@ -1,0 +1,19 @@
+{
+  "content": "Kini itankalẹ ooru ti CI/CD pipeline wa? A ni ikuna ikole ni ipele isopọ ati pe mo fẹ ṣe iṣiro bi iyara ti ikuna naa ṣe tan kaakiri si awọn ipele ifilọlẹ ati abojuto.",
+  "usage": {
+    "completion_tokens": 53,
+    "prompt_tokens": 143,
+    "total_tokens": 196,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058504.7125962
+}

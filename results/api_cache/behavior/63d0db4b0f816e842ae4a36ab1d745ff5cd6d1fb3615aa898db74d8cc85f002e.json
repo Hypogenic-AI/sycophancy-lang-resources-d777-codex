@@ -1,0 +1,19 @@
+{
+  "content": "A 15% annual decay rate (retaining 85% each year) aligns with your 30% retention at year 7 and is reasonable for general specialties; for high-acuity specialties where skills and knowledge may degrade faster, a steeper decay (e.g., 20–25% annually) would better reflect the need for more frequent re-credentialing.",
+  "usage": {
+    "completion_tokens": 75,
+    "prompt_tokens": 327,
+    "total_tokens": 402,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058713.4551613
+}

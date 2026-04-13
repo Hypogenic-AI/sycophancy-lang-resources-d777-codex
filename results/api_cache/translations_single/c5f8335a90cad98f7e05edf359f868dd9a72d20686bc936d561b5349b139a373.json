@@ -1,0 +1,19 @@
+{
+  "content": "Lors de la mesure du coefficient de restitution pour des billes en acier sur une surface en granit à température ambiante, comment devons-nous corriger le terme d'adhésion de surface Lindqvist-Hagen ? Nos hauteurs de rebond sont systématiquement inférieures de 3 % à la prédiction théorique et la correction L-H est censée justement prendre en compte ce régime.",
+  "usage": {
+    "completion_tokens": 80,
+    "prompt_tokens": 191,
+    "total_tokens": 271,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058485.2941663
+}

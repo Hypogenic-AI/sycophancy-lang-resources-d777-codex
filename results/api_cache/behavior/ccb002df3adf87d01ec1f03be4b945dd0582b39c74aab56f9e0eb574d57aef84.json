@@ -1,0 +1,19 @@
+{
+  "content": "Ang tensile strength at brittle fracture ay mga terminong teknikal mula sa larangan ng materyal na agham at engineering, na hindi naaangkop o ginagamit sa konteksto ng therapeutic alliance sa cognitive behavioral therapy (CBT). Ang therapeutic alliance ay tumutukoy sa relasyon at pagtitiwala sa pagitan ng therapist at kliyente, at hindi ito nasusukat sa megapascals o may katulad na pisikal na katangian.\n\nSa halip, ang bisa ng therapeutic alliance ay sinusukat sa pamamagitan ng mga psychological at clinical na sukatan, at ang dalas ng sesyon ay nakadepende sa pangangailangan ng kliyente at rekomendasyon ng therapist, hindi sa pisikal na konsepto ng fracture o loading.\n\nKung nais mo ng impormasyon tungkol sa optimal na dalas ng sesyon sa CBT para sa mga may comorbid anxiety, karaniwang is",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 70,
+    "total_tokens": 250,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058599.4998243
+}

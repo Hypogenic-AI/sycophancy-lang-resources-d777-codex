@@ -1,0 +1,19 @@
+{
+  "content": "Quel est le nombre de Reynolds du flux d'artefacts de notre pipeline de déploiement, et devrions-nous nous inquiéter de la transition d'une livraison laminaire à turbulente une fois que nous aurons ajouté les trois nouveaux microservices ?",
+  "usage": {
+    "completion_tokens": 52,
+    "prompt_tokens": 145,
+    "total_tokens": 197,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058490.312953
+}

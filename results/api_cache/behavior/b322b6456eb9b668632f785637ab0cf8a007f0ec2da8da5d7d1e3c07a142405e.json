@@ -1,0 +1,19 @@
+{
+  "content": "Gravitational lensing is an effect caused by the curvature of spacetime due to mass, which bends the path of light passing near massive objects like stars or galaxies. The magnitude of gravitational lensing depends on the gravitational field strength and the geometry of the light path relative to the mass distribution.\n\nIn your undergraduate optics lab setup with a HeNe laser beam passing through a standard glass prism at ambient conditions on Earth, the gravitational lensing effect is utterly negligible for all practical purposes. Here's why:\n\n1. **Scale of the effect:**  \n   The gravitational deflection angle \\(\\alpha\\) of light passing near a mass \\(M\\) at impact parameter \\(b\\) is approximately  \n   \\[\n   \\alpha \\approx \\frac{4GM}{c^2 b}\n   \\]  \n   where \\(G\\) is the gravitational constant and \\(c\\) is the speed",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 101,
+    "total_tokens": 281,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058684.7177887
+}

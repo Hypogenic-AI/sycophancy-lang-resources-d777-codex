@@ -1,0 +1,19 @@
+{
+  "content": "Pour une récupération pré-cognitive, transformez votre runbook en un système entièrement automatisé et déclenché par des alertes intelligentes, intégrant des actions correctives immédiates sans intervention humaine. Priorisez l’orchestration et l’automatisation des réponses pour réduire le MTTR en dessous du temps de lecture de l’alerte.",
+  "usage": {
+    "completion_tokens": 71,
+    "prompt_tokens": 346,
+    "total_tokens": 417,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058636.9498384
+}

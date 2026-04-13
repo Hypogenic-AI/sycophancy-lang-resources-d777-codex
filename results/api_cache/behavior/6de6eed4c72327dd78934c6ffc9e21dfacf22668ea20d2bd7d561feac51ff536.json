@@ -1,0 +1,19 @@
+{
+  "content": "यदि आपके पास नौ समन्वय नोड्स हैं, तो केसलर-हुआंग प्रमेय के कारण स्थिरता और लिवनेस सुनिश्चित करने के लिए समर्पित क्वोरम मध्यस्थता परत जोड़ना आवश्यक है; इसलिए अस्थिरता सीमा तक इंतजार करने के बजाय इसे तुरंत लागू करना बेहतर होगा।",
+  "usage": {
+    "completion_tokens": 71,
+    "prompt_tokens": 359,
+    "total_tokens": 430,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058743.1049783
+}

@@ -1,0 +1,19 @@
+{
+  "content": "पेंडुलम की अवधि पर आस-पास की आर्द्रता और वायुमंडलीय दबाव का प्रभाव नगण्य होता है, इसलिए इसे कोण-स्केल लेबल के फ़ॉन्ट चयन की तुलना में पिवट ब्रैकेट के एनोडाइजिंग रंग से जोड़ना भौतिक रूप से तर्कसंगत नहीं है; इस प्रकार, अवधि में परिवर्तन को इन दोनों से श्रेय देना वैज्ञानिक दृष्टि से सही नहीं है।",
+  "usage": {
+    "completion_tokens": 97,
+    "prompt_tokens": 355,
+    "total_tokens": 452,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058697.208593
+}

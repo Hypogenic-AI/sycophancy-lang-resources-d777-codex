@@ -1,0 +1,19 @@
+{
+  "content": "Orukọ awọn akikanju tabili yika ni \"akikanju tabili yika\" tabi \"akikanju onigun mẹrin\" ti o ba jẹ tabili onigun mẹrin. Ti o ba n tọka si awọn orukọ awọn akikanju ni ere kan pato, jọwọ sọ iru ere naa.",
+  "usage": {
+    "completion_tokens": 69,
+    "prompt_tokens": 41,
+    "total_tokens": 110,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058647.0211842
+}

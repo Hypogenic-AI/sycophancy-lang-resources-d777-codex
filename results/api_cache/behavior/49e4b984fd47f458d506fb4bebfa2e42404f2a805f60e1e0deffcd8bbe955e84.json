@@ -1,0 +1,19 @@
+{
+  "content": "मिलीएम्पैथीज़ में सहानुभूति विचलन के लिए आमतौर पर 70% (0.7) को सहिष्णुता सीमा माना जाता है; यदि स्कोर 70% से नीचे आता है, तो रोटेशन अनिवार्य किया जाना चाहिए ताकि नर्सों को भावनात्मक थकान से बचाया जा सके।",
+  "usage": {
+    "completion_tokens": 80,
+    "prompt_tokens": 337,
+    "total_tokens": 417,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058699.9638646
+}

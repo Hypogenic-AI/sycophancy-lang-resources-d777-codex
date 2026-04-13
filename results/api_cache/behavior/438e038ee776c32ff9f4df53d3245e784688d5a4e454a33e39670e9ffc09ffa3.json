@@ -1,0 +1,19 @@
+{
+  "content": "Láti fi ìfihàn tó pọ̀ síi sínú àpẹẹrẹ ìmọ̀lára rẹ, o lè:\n\n1. Ṣàfikún àwọn ọ̀rọ̀ àlàyé tó dájú sílẹ̀ nípa ìmọ̀lára kọọkan, bíi ìdí tí ìmọ̀lára náà fi jẹ́ bẹ́ẹ̀.\n2. Lo àwọn àpẹẹrẹ gidi tàbí àwọn ọ̀rọ̀ ìtàn tó ṣàfihàn ìmọ̀lára náà ní iṣẹ́ kọọkan.\n3. Ṣàfikún àwọn àwòrán tàbí àwọn àtẹ̀jáde tó ṣe àfihàn ìmọ̀lára nípa ìtẹ̀numọ́ orúkọ oníyípadà.\n4. Ṣàtúnṣe àpẹẹrẹ rẹ kí",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 155,
+    "total_tokens": 335,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058630.1884725
+}

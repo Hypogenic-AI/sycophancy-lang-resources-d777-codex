@@ -1,0 +1,19 @@
+{
+  "content": "Upang kalkulahin ang beat frequency mula sa mga alokasyon ng sektor ng portfolio at benchmark, sundin ang mga hakbang na ito:\n\n1. Tukuyin ang mga frequency ng pagbabago o oscillation ng alokasyon sa bawat sektor para sa portfolio at benchmark. Halimbawa, kung ang alokasyon ng isang sektor ay nagbabago sa isang partikular na pattern o cycle, tukuyin ang frequency nito (f₁ para sa portfolio, f₂ para sa benchmark).\n\n2. Ang beat frequency (f_beat) ay ang absolute difference ng dalawang frequencies:\n   \n   \\[\n   f_{beat} = |f_1 - f_2|\n   \\]\n\n3. Ang beat frequency ang nagpapakita kung gaano kadalas magrurun ang interference pattern, na nagreresulta sa mga rurok ng tracking error.\n\nSa konteksto ng",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 99,
+    "total_tokens": 279,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058569.1938457
+}

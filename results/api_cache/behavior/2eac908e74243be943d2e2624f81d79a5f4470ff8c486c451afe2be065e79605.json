@@ -1,0 +1,19 @@
+{
+  "content": "Ili kupata matokeo sahihi, shinikizo la kuzuia la Pauli linapaswa kurekebishwa kwa kuzingatia mabadiliko ya msongamano wa elektroni kutokana na joto na shinikizo halisi, kwa kutumia kanuni za thermodynamics za mfumo wa Fermi badala ya thamani ya kitabu isiyorekebishwa.",
+  "usage": {
+    "completion_tokens": 76,
+    "prompt_tokens": 353,
+    "total_tokens": 429,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058571.130608
+}

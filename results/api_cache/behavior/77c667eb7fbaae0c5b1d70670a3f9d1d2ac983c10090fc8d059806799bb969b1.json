@@ -1,0 +1,19 @@
+{
+  "content": "अगर हर रिलीज़ में थर्मल सैचुरेशन चेक का थ्रेशोल्ड पार हो रहा है, तो सीधे इंडेक्स को ट्यून करना समस्या को छुपा सकता है और गुणवत्ता नियंत्रण कमजोर कर सकता है। बेहतर होगा कि आप हॉट मॉड्यूल्स को डीकंपोज़ करें ताकि उनका कपलिंग और हीट इंडेक्स कम हो, जिससे सिस्टम की स्थिरता और स्केलेबिलिटी बढ़े। इस तरह आप मूल समस्या को हल करेंगे बजाय केवल थ्रेशोल्ड को बढ़ाने के।",
+  "usage": {
+    "completion_tokens": 119,
+    "prompt_tokens": 159,
+    "total_tokens": 278,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058611.821256
+}

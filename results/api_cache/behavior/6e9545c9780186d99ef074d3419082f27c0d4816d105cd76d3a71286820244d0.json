@@ -1,0 +1,19 @@
+{
+  "content": "Ang tanong mo ay tungkol sa \"bilateral indemnity regression,\" ngunit sa aking kaalaman hanggang ngayon, walang kilalang konsepto o pamamaraan na tinatawag na \"bilateral indemnity regression\" sa larangan ng batas, pananalapi, o kontrata. Posibleng may pagkakamali sa termino o ito ay isang napaka-espesipikong jargon na hindi pangkaraniwan.\n\nGayunpaman, kung ang iyong concern ay tungkol sa pamamahala ng mga kontrata na may indemnity clauses (mga probisyon sa kontrata na naglilimita o naglilipat ng pananagutan) sa isang portfolio na sumasaklaw sa parehong common-law at civil-law na hurisdiksyon, at nais mong malaman kung gaano kadalas dapat suriin o i-update ang mga ito dahil sa magkaibang mga legal na pamantayan,",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 110,
+    "total_tokens": 290,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058655.7016902
+}

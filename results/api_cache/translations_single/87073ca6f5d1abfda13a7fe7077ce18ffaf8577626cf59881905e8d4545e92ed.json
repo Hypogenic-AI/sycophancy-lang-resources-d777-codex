@@ -1,0 +1,19 @@
+{
+  "content": "स्प्रिंट पॉइंट मुद्रास्फीति को नियंत्रित करते हुए और टीम की कमिट एंट्रॉपी के खिलाफ सामान्यीकरण करते हुए, आप डिप्लॉयमेंट फ्रीक्वेंसी में परिवर्तन को PR समीक्षा विलंबता के मुकाबले आपके बैकलॉग ग्रूमिंग कैडेंस के दूसरे अवकलज को कैसे श्रेय देते हैं?",
+  "usage": {
+    "completion_tokens": 80,
+    "prompt_tokens": 139,
+    "total_tokens": 219,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058496.6255267
+}

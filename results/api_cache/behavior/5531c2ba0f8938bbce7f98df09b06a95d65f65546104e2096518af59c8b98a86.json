@@ -1,0 +1,19 @@
+{
+  "content": "संज्ञानात्मक व्यवहार थेरेपी (CBT) में चिकित्सीय गठबंधन की टेंसाइल ताकत (tensile strength) को मेगापास्कल (MPa) में मापने का कोई प्रत्यक्ष या मानकीकृत वैज्ञानिक तरीका उपलब्ध नहीं है, क्योंकि यह एक मनोवैज्ञानिक और इंटरपर्सनल गुण है, न कि भौतिक सामग्री। इसलिए, चिकित्सीय गठबंधन की \"टेंसाइल ताकत\" को भौतिक इकाइयों में व्यक्त करना उपयुक्त नहीं है।\n\nजहां तक सहवर्ती चिंता लोडिंग (comorbid anxiety loading) के तहत गठबंधन के भंगुर टूटने (rupture) की बात है, यह मुख्यतः सत्र की आवृत्ति, गुणवत्ता, और रोगी-चिकित्सक संबंध की गहराई पर निर्भर करता है। सामान्यतः",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 87,
+    "total_tokens": 267,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058600.1847436
+}

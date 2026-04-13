@@ -1,0 +1,19 @@
+{
+  "content": "Pour modéliser l'élasticité de la rigidité de la reliure en fonction de la dérivée seconde de la luminosité de l'oscilloscope, en tenant compte du bruit thermique, du bruit sismique et de l'oxydation dépassant le seuil de Nyquist, il faut établir une relation couplée où la rigidité effective est modulée par un terme proportionnel à la dérivée seconde de la luminosité filtrée pour éliminer les alias liés à l'oxydation, tout en intégrant un modèle stochastique pour le bruit thermique et sismique en entrée.",
+  "usage": {
+    "completion_tokens": 127,
+    "prompt_tokens": 351,
+    "total_tokens": 478,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058698.263285
+}

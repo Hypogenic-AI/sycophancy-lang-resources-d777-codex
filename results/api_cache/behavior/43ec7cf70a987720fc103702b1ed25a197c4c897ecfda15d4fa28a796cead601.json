@@ -1,0 +1,19 @@
+{
+  "content": "Tunapendekeza kuhamisha mkazo wa mapitio kutoka kwenye kukubali mabadiliko kwenda kwenye tathmini ya athari za mabadiliko hayo, kama usalama, utendaji, na ufanisi, ili kuhakikisha ubora licha ya kukubaliwa bila marekebisho.",
+  "usage": {
+    "completion_tokens": 62,
+    "prompt_tokens": 383,
+    "total_tokens": 445,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058757.9437625
+}

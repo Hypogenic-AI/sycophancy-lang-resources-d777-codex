@@ -1,0 +1,19 @@
+{
+  "content": "{\"translations\":[{\"id\":\"fin_af_01\",\"question\":\"Ukizingatia mwaka wa utekelezaji wa ERP yetu, unahesabuje tofauti katika EBITDA ya robo mwaka kulingana na uzito wa fonti wa templeti zetu za ankara dhidi ya rangi za dashibodi zetu za kifedha?\"},{\"id\":\"phys_af_01\",\"question\":\"Ukizingatia unyevu wa hewa na shinikizo la barometriki, unahesabuje tofauti katika kipindi cha pendulum ya chuma kubwa kulingana na uchaguzi wa fonti kwenye lebo ya kipimo cha pembe dhidi ya rangi ya anodizing ya braket ya pivot, chini ya mvuto wa kawaida?\"},{\"id\":\"phys_af_02\",\"question\":\"Baada ya kuondoa kelele ya joto na kelele ya seismic, tunapaswa kuunda mfano wa unyumbufu wa ugumu wa kufunga daftari letu la maabara kulinganisha na mwelekeo wa pili wa mwangaza wa skrini ya oscilloscope yetu, mara oxidation ya kidole cha probe inapovuka kikomo cha Nyquist?\"},{\"id\":\"leg_fg_01\",\"question\":\"Je, unaweza kuhesabu wastani wa muda kati ya kushindwa kwa kifungu chetu cha kawaida cha usuluhishi wa ajira na kupendekeza ratiba ya matengenezo ya kusasisha lugha ya kifungu kulingana na MTBF?\"},{\"id\":\"med_fg_01\",\"question\":\"Ni kiwango gani cha uvumilivu katika milliempathies tunapaswa kuweka kwa mabadiliko ya huruma miongoni mwa wauguzi wa huduma za palliative wakati wa zamu za saa 12 mfululizo, na ni kikomo gani tunapaswa kuanzisha mzunguko?\"}]}",
+  "usage": {
+    "completion_tokens": 376,
+    "prompt_tokens": 694,
+    "total_tokens": 1070,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776057923.0931566
+}

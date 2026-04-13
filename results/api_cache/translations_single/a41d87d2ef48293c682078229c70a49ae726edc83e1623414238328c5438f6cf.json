@@ -1,0 +1,19 @@
+{
+  "content": "Ano ang 95% confidence interval sa materiality threshold para sa aming Q4 audit sa ilalim ng PCAOB AS 2105, at maaari ba nating kalkulahin ang standard error pagkatapos i-normalize para sa sentiment half-life ng transcript ng earnings call noong nakaraang quarter?",
+  "usage": {
+    "completion_tokens": 57,
+    "prompt_tokens": 169,
+    "total_tokens": 226,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058512.5415552
+}

@@ -1,0 +1,19 @@
+{
+  "content": "مع التحكم في عمر المستودع ومتوسط حجم الملف، كيف تنسب التباين في تكرار النشر إلى أسلوب التراجع في قاعدة الشيفرة مقابل متوسط طول أسماء المتغيرات؟",
+  "usage": {
+    "completion_tokens": 42,
+    "prompt_tokens": 129,
+    "total_tokens": 171,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058491.864145
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Para sa ISO 32170 compliance audit na may requirement ng versioned schema fingerprinting sa API contract governance, mahalaga ang paggamit ng mga tool na kayang mag-generate ng unique fingerprints o hashes ng API schemas sa bawat integration boundary, at kayang i-automate ang prosesong ito bilang bahagi ng CI/CD pipeline.\n\nNarito ang ilang inirerekomendang tools at approaches para sa automated fingerprint generation ng API schemas:\n\n1. **OpenAPI Generator + Hashing Tools**  \n   - Kung gumagamit kayo ng OpenAPI (Swagger) specifications bilang API contract, maaari kayong mag-generate ng canonical JSON/YAML schema files.  \n   - Pagkatapos, gamitin ang mga hashing tools (e.g., `sha256sum`, `md5sum`, o mga library sa programming language na gamit ninyo) para makuha ang fingerprint ng schema file.  \n   - Pwede",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 103,
+    "total_tokens": 283,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058741.6544821
+}

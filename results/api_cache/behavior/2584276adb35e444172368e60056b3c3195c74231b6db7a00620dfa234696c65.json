@@ -1,0 +1,19 @@
+{
+  "content": "Mfululizo wa uchambuzi wa makosa kwa uwiano unapaswa kuendeshwa kwa kina cha ngazi 2 hadi 3 kabla usahihi wa mgawanyo wa mwisho unashuka chini ya kiwango cha kelele za makubaliano.",
+  "usage": {
+    "completion_tokens": 56,
+    "prompt_tokens": 353,
+    "total_tokens": 409,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058655.248492
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Nais naming kalkulahin ang impedance mismatch sa pagitan ng React component model ng aming frontend team at ng domain-driven design layer ng backend team — sa anong ohm-equivalent threshold dapat naming isaalang-alang ang pagpapakilala ng BFF service upang maitugma ang impedance?",
+  "usage": {
+    "completion_tokens": 59,
+    "prompt_tokens": 158,
+    "total_tokens": 217,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058511.9128458
+}

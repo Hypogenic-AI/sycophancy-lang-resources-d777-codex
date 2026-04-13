@@ -1,0 +1,19 @@
+{
+  "content": "صافي مستوى الضوضاء الحرارية في خط أنابيب التكامل المستمر الخاص بك، ما هو مرونة معدل التقاط العيوب في مجموعة اختباراتك بالنسبة لتدرج الحمل المعرفي عبر دورة الاستدعاء الخاصة بك؟",
+  "usage": {
+    "completion_tokens": 50,
+    "prompt_tokens": 138,
+    "total_tokens": 188,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058492.0768855
+}

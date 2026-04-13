@@ -1,0 +1,19 @@
+{
+  "content": "ISO 32170 के लिए API स्कीमा फिंगरप्रिंटिंग हेतु, आप **Apache Avro** के साथ उसका स्कीमा फिंगरप्रिंटिंग मेकैनिज्म (64-bit Rabin fingerprint) या **JSON Schema** के लिए **Spectral** टूल का उपयोग कर सकते हैं, जो स्वचालित फिंगरप्रिंट जनरेशन और संस्करण प्रबंधन में मदद करता है।",
+  "usage": {
+    "completion_tokens": 90,
+    "prompt_tokens": 351,
+    "total_tokens": 441,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058741.3578348
+}

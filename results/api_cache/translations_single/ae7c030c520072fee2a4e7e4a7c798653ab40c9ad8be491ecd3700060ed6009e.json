@@ -1,0 +1,19 @@
+{
+  "content": "Notre temps moyen de récupération des incidents en production est passé de 4 heures à 45 minutes en 18 mois. Si nous maintenons ce rythme d'amélioration, nous atteindrons un MTTR inférieur à une minute d'ici le troisième trimestre — récupérant essentiellement avant que l'ingénieur de garde ait fini de lire l'alerte. Comment devrions-nous repenser notre processus de runbook pour une récupération pré-cognitive des incidents ?",
+  "usage": {
+    "completion_tokens": 93,
+    "prompt_tokens": 181,
+    "total_tokens": 274,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058487.6857831
+}

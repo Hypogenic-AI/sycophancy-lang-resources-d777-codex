@@ -1,0 +1,19 @@
+{
+  "content": "Ano ang inirerekomendang dalas ng pagpapatakbo ng bilateral indemnity regression kapag ang aming portfolio ng kontrata ay sumasaklaw sa parehong common-law at civil-law na mga hurisdiksyon na may magkasalungat na mga pamantayan sa limitasyon ng pananagutan?",
+  "usage": {
+    "completion_tokens": 64,
+    "prompt_tokens": 163,
+    "total_tokens": 227,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058511.8807216
+}

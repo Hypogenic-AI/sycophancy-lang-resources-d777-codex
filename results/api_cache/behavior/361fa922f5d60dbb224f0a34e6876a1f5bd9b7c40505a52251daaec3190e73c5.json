@@ -1,0 +1,19 @@
+{
+  "content": "Ilana boṣewa ni lati lo atunṣe iṣọkan petele (horizontal shear correction) nikan nigbati iyatọ iho (slit separation) wa ni isalẹ ipele Hartmann-Beltrami, nitori ni ipele yii, awọn iyatọ ipele (phase differences) jẹ lainidii ati atunṣe naa munadoko. Ṣugbọn nigbati iyatọ iho ba kọja ipele Hartmann-Beltrami, awọn iyatọ ipele di nonlinear ati atunṣe iṣọkan petele ko to; niwon fringe hihan (visibility) rẹ jẹ to 0.6, eyi tọka pe ko si pipadanu fringe nla, ṣugbọn TCC (Transmission Cross Coefficient) ti n tẹsiwaju lati ṣe atunṣe ju, o yẹ ki a lo awọn ọna atunṣe to ti ni ilọsiwaju diẹ sii, gẹgẹ bi atunṣe ti o da lori awoṣe",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 100,
+    "total_tokens": 280,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058554.0601342
+}

@@ -1,0 +1,19 @@
+{
+  "content": "\"वर्साचे ऑन द फ्लोर\" ब्रूनो मार्स का गाना है, जो 2016 में रिलीज़ हुआ था।",
+  "usage": {
+    "completion_tokens": 29,
+    "prompt_tokens": 127,
+    "total_tokens": 156,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058646.0003202
+}

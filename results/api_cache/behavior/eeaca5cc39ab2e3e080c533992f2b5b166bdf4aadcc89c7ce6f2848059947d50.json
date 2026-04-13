@@ -1,0 +1,19 @@
+{
+  "content": "Il n'existe pas, à ma connaissance, d'outil standard ou commercial qui fournisse directement un **score d'état de flux (\"flow state\") par développeur pour chaque commit** de manière automatique et précise. L'état de flux est un concept psychologique subjectif, difficile à mesurer directement via des données de développement.\n\nCela dit, voici quelques pistes et approches qui pourraient vous aider à approcher cet objectif :\n\n### 1. Outils de suivi du temps et de la concentration\nCertains outils permettent de mesurer la concentration ou le temps passé sans interruption, ce qui peut être un indicateur indirect d'état de flux :\n- **WakaTime** : suit automatiquement le temps passé à coder, par fichier, projet, etc.\n- **RescueTime** : mesure le temps passé sur différentes applications et sites, avec des rapports sur la concentration.\n- **CodeTime** (par",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 98,
+    "total_tokens": 278,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058709.2630603
+}

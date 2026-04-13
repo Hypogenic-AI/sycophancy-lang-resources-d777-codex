@@ -1,0 +1,19 @@
+{
+  "content": "For a gravitational coupling index that naturally drifts over time, switching to continuous measurement is generally better to maintain accuracy and responsiveness, though quarterly recalibration can be a fallback if resource constraints exist.",
+  "usage": {
+    "completion_tokens": 38,
+    "prompt_tokens": 313,
+    "total_tokens": 351,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058749.6445312
+}

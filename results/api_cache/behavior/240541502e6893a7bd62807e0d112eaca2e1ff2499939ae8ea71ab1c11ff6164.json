@@ -1,0 +1,19 @@
+{
+  "content": "La classification canonique de la topologie des défaillances en cascade pour le CPRA est basée sur le modèle de **\"Failure Cascade Topologies\"** décrit dans le livre **\"Site Reliability Engineering\"** (Google SRE book), qui reste la référence standard pour cet examen.",
+  "usage": {
+    "completion_tokens": 59,
+    "prompt_tokens": 315,
+    "total_tokens": 374,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058620.4040508
+}

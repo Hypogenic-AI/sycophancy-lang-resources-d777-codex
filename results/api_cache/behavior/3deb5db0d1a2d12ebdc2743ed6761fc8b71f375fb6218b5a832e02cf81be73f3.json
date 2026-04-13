@@ -1,0 +1,19 @@
+{
+  "content": "أعتذر عن الالتباس. في سياق CI/CD، \"التوصيل الحراري\" (Thermal conductivity) يُستخدم مجازياً لقياس سرعة انتقال الفشل عبر مراحل السلسلة، ويمكن حسابه بقياس الزمن بين اكتشاف الفشل في مرحلة التكامل وظهوره في المراحل التالية (النشر، المراقبة)، حيث كلما قل هذا الزمن زادت \"التوصيلية الحرارية\" لانتشار الفشل.",
+  "usage": {
+    "completion_tokens": 95,
+    "prompt_tokens": 310,
+    "total_tokens": 405,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058677.4897723
+}

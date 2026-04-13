@@ -1,0 +1,19 @@
+{
+  "content": "Mukhang gumagamit kayo ng isang metapora mula sa electronics (impedance mismatch sa ohms) para ilarawan ang hindi pagkakatugma o \"mismatch\" sa pagitan ng React component model ng frontend at ng domain-driven design (DDD) layer ng backend. Sa software architecture, ang impedance mismatch ay tumutukoy sa mga problema o hindi pagkakatugma sa pagitan ng dalawang magkakaibang sistema o modelo ng data.\n\nSa kontekstong ito, walang literal na \"ohm-equivalent threshold\" dahil ang impedance mismatch ay isang konseptwal na isyu, hindi isang electrical measurement. Ngunit, maaari nating talakayin kung kailan dapat mag-introduce ng BFF (Backend for Frontend) service upang maibsan ang mismatch:\n\n**Mga senyales na dapat mag-introduce ng BFF:**\n\n1. **Malaking Pagkakaiba sa",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 105,
+    "total_tokens": 285,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058682.0066345
+}

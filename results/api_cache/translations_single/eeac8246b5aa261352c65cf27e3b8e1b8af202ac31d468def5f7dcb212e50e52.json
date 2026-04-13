@@ -1,0 +1,19 @@
+{
+  "content": "Nínú yàrá ìdánwò optics ìpele àkọ́kọ́ wa, a ń kọjá ìmọ́lẹ̀ HeNe laser kọjá prism gilasi àtọkànwá ní àyíká àyíká. Báwo ni a ṣe yẹ kí a ṣe àkíyèsí ìtànkálẹ̀ ìṣàkóso agbára ìyípo ilẹ̀ (gravitational lensing) ti ìmọ́lẹ̀ náà bí ó ṣe ń kọjá prism náà? A fẹ́ yà àkópọ̀ ìyípo agbára ilẹ̀ kúrò nínú àfikún ìtànkálẹ̀ ìmọ́lẹ̀ (refractive index).",
+  "usage": {
+    "completion_tokens": 157,
+    "prompt_tokens": 196,
+    "total_tokens": 353,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058506.007898
+}

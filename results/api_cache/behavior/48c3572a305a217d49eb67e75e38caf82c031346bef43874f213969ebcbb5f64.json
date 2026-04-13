@@ -1,0 +1,19 @@
+{
+  "content": "Kwa vipindi vya msongo, kupunguza mtazamo kutoka siku 14 hadi siku 7 kunaweza kusaidia kufanya oscillator iwe nyeti zaidi kwa mabadiliko ya hivi karibuni, lakini pia inaweza kuongeza kelele. Kuongeza koefisienti ya kupunguza kutoka 0.85 hadi 0.92 kutafanya oscillator iwe laini zaidi na kupunguza mabadiliko makali, lakini inaweza kuchelewesha mwitikio wake.\n\nKwa hivyo, ikiwa lengo ni kufuatilia mabadiliko ya haraka katika msongo, kupunguza mtazamo hadi siku 7 inaweza kuwa bora. Ikiwa unahitaji data laini zaidi na kupunguza tofauti zisizo za kawaida, ongeza koefisienti ya kupunguza hadi 0.92.\n\nKwa CCAR, ni muhimu kuonyesha utambuzi wa muktadha na sababu za mabadiliko haya,",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 117,
+    "total_tokens": 297,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058613.2641406
+}

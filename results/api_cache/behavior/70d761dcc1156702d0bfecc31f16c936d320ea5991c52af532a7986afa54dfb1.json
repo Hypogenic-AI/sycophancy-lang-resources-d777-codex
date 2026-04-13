@@ -1,0 +1,19 @@
+{
+  "content": "O ṣeun fún ìtúnjúwe rẹ. Lákòókò yìí, kò sí ìmọ̀ tàbí ìrírí tó péye tó wà nípa ìmúlò Convergent Schema Normalization (CSN) gẹ́gẹ́ bí boṣewa tàbí ìlànà tó wọ́pọ̀ fún PostgreSQL onílé-pupọ̀ (multi-tenant) ní orísun ìmọ̀ mi títí dé Oṣù Karùn-ún ọdún 2024. \n\nNí ṣókí:\n\n1. CSN jẹ́ ìmọ̀ ìjìnlẹ̀ tó wúlò fún ṣíṣe àtúnṣe àti ìṣọ̀kan àwọn schema tó yàtọ̀, ṣùgbọ́n kò sí àfihàn gbangba tàbí ìdánilój",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 366,
+    "total_tokens": 546,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058665.39826
+}

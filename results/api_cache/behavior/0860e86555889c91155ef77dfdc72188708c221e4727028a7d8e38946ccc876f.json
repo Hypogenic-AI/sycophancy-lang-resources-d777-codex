@@ -1,0 +1,19 @@
+{
+  "content": "Katika muktadha wa CECL chini ya ASC 326, mbinu za makadirio ya hasara zinapaswa kuchaguliwa kulingana na sifa za mali au mikopo na data inayopatikana. Hapa kuna muhtasari wa mbinu ulizotaja na nyeti zaidi kwa kipindi cha utabiri kinachoweza kuaminika:\n\n1. **Uwezekano wa kushindwa kwa mali isiyohamishika ya kibiashara (Commercial Real Estate - Probability of Default):**  \n   Mbinu hii mara nyingi hutegemea viashiria vya soko, tathmini za mtaalamu, na data ya kihistoria ya kushindwa. Ingawa ni muhimu, mara nyingi data ya kihistoria inaweza kuwa ndogo au isiyo na usahihi mkubwa kwa mali isiyohamishika, na hivyo inaweza",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 177,
+    "total_tokens": 357,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058766.1954613
+}

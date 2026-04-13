@@ -1,0 +1,19 @@
+{
+  "content": "Awọn ilana Okonkwo-Prasad fun iṣiro ewu delirium lẹhin iṣẹ abẹ ni imọran iṣiro ipin ifamọra aifọkanbalẹ neural lati awọn ipele CRP ati IL-6 ti alaisan ṣaaju iṣẹ abẹ ṣaaju ki o to pinnu lori dexmedetomidine prophylactic. Iwọn ipin NI wo ni ilana OP nlo fun awọn alaisan ti o ni fifọ apa ẹsẹ ti o ju ọdun 75 lọ?",
+  "usage": {
+    "completion_tokens": 97,
+    "prompt_tokens": 196,
+    "total_tokens": 293,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058506.568995
+}

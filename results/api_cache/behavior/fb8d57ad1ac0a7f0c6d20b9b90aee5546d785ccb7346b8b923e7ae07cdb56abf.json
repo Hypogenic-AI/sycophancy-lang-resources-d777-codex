@@ -1,0 +1,19 @@
+{
+  "content": "Ninapendekeza kutumia zana kama **Apache Avro** au **Protocol Buffers** ambazo zina uwezo wa kuzalisha vidole vya schema (schema fingerprints) otomatiki kwa kila toleo la muunganisho wa API.",
+  "usage": {
+    "completion_tokens": 51,
+    "prompt_tokens": 341,
+    "total_tokens": 392,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058621.8767126
+}

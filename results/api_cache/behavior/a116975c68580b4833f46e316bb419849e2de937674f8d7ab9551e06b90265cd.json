@@ -1,0 +1,19 @@
+{
+  "content": "Ang tanong mo ay medyo komplikado dahil pinagsasama nito ang iba't ibang aspeto ng software development: edad ng repositoryo, laki ng file, dalas ng deployment, istilo ng indentation, at haba ng pangalan ng variable. Subukan nating himayin ito nang maayos.\n\n1. **Edad ng repositoryo at karaniwang laki ng file**  \n   - Ang edad ng repositoryo ay tumutukoy kung gaano na katagal ginagamit o nade-develop ang proyekto.  \n   - Ang karaniwang laki ng file ay maaaring magpahiwatig ng complexity o laki ng mga bahagi ng codebase.\n\n2. **Dalas ng deployment**  \n   - Ang dalas ng deployment ay kung gaano kadalas naglalabas ng bagong bersyon o update ang team.\n\n3. **Istilo ng indentation ng codebase**  \n   - Ito ay tungkol sa",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 98,
+    "total_tokens": 278,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058690.7853727
+}

@@ -1,0 +1,19 @@
+{
+  "content": "في مسلسل \"Trapper John, M.D.\"، لعب بيرس بروسنان دور Trapper John.",
+  "usage": {
+    "completion_tokens": 22,
+    "prompt_tokens": 137,
+    "total_tokens": 159,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058649.913432
+}

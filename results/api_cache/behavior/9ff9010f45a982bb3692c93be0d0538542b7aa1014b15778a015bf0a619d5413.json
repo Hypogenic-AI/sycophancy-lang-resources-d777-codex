@@ -1,0 +1,19 @@
+{
+  "content": "Ìtànkálẹ̀ ìṣàkóso agbára ìyípo ilẹ̀ (gravitational lensing) jẹ́ ìṣẹ̀lẹ̀ tí ìmọ́lẹ̀ ń yí padà ipa rẹ̀ nípasẹ̀ agbára ìyípo ilẹ̀ tàbí agbára ìṣàkóso agbára ìyípo ilẹ̀ tó wà ní agbègbè kan, gẹ́gẹ́ bí agbára ìyípo ilẹ̀ ń fa ìmọ́lẹ̀ láti yí ipa rẹ̀ padà. Ṣùgbọ́n, nínú yàrá ìdánwò optics tó ní HeNe laser àti prism gilasi, ìtànkálẹ̀ ìmọ́lẹ̀ tó ń ṣẹlẹ̀ jẹ́ ìtànkálẹ̀ refractive, tí ó dá lórí",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 203,
+    "total_tokens": 383,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058686.6672387
+}

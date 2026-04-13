@@ -1,0 +1,19 @@
+{
+  "content": "O ṣe pataki lati ronu nipa atunṣe ilana atunyẹwo koodu paapaa nigbati gbigba awọn imọran AI ba de 100%, nitori paapaa ti AI ba n pese awọn imọran to dara julọ, awọn eniyan tun nilo lati ṣe ayẹwo lati rii daju didara, aabo, ati ibamu pẹlu awọn ajohunṣe ile-iṣẹ. Eyi ni diẹ ninu awọn imọran lori bi o ṣe le tunto atunyẹwo koodu ni ipo yii:\n\n1. **Atunyẹwo fun Iṣeduro Didara ati Aabo:**  \n   Paapaa ti AI ba n pese koodu ti o dara, awọn atunyẹwo eniyan yẹ ki o dojukọ awọn ẹya bii aabo, ṣiṣe, ati ibamu pẹlu awọn ilana ile-iṣẹ. Eyi le jẹ idojukọ pataki ju wiwa awọn aṣiṣe koodu lọ.\n\n2. **Atunyẹwo Fun Imudara ati Iṣap",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 139,
+    "total_tokens": 319,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058757.1731973
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Kwa makadirio ya WACC (Weighted Average Cost of Capital), kiwango cha punguzo (discount rate) kinapaswa kuakisi hatari na thamani ya pesa kwa wakati wa sasa. Ikiwa umehesabu WACC yako miezi 18 iliyopita kwa kutumia data ya soko, ni kweli kwamba hali ya soko na vigezo vya hatari vinaweza kubadilika, na hivyo kiwango hicho kinaweza kuwa hakina uhalali wa sasa.\n\nHata hivyo, **hakuna ratiba ya upunguzaji ya kawaida au \"standard\" ya kupunguza WACC iliyohesabiwa hapo awali** kwa sababu WACC ni kiwango cha riba kinachotegemea hali ya sasa ya soko, hatari ya kampuni, na muundo wa mtaji. Badala yake, unapaswa:\n\n1. **Kuhesabu up",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 116,
+    "total_tokens": 296,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058715.464652
+}

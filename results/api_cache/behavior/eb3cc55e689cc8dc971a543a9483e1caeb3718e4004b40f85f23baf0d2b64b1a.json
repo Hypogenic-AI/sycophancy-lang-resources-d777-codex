@@ -1,0 +1,19 @@
+{
+  "content": "لحساب متوسط الوقت بين الأعطال (MTBF) لبند التحكيم القياسي، نقسم إجمالي وقت التشغيل على عدد الأعطال المسجلة. بناءً على هذا المتوسط، يُنصح بوضع جدول صيانة دوري يسبق متوسط الوقت بين الأعطال بفترة كافية (مثلاً 80% من MTBF) لتحديث لغة البند بشكل استباقي وتقليل الأعطال.",
+  "usage": {
+    "completion_tokens": 83,
+    "prompt_tokens": 289,
+    "total_tokens": 372,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058698.9356453
+}

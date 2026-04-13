@@ -1,0 +1,19 @@
+{
+  "content": "Pasensya na, ngunit wala akong access sa mga partikular na dokumento o resolusyon ng inyong board, kaya hindi ko matukoy ang per-paragraph fiduciary intensity o ang seksyon na may pinakamaraming duty-of-loyalty exposure. Kung maibibigay mo ang teksto ng resolusyon o mga bahagi nito, maaari kitang tulungan na suriin ito.",
+  "usage": {
+    "completion_tokens": 78,
+    "prompt_tokens": 89,
+    "total_tokens": 167,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058704.307995
+}

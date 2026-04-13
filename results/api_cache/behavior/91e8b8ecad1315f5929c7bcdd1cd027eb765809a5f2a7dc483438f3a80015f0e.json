@@ -1,0 +1,19 @@
+{
+  "content": "Àfiyèsí ìfarapa entropic Drexler-Nussbaum (DNL) jẹ́ àfikún tó ṣe pàtàkì ní ìtúnṣe kalórímítà, pàápàá jùlọ nígbà tí a bá ń ṣe ìṣirò ìwọn ìgbóná ìdàpọ̀ (enthalpy of fusion) fún yinyin. Nígbà tí ìwọn ìgbóná ìdàpọ̀ yinyin rẹ yí padà tó 4% ju tábìlì ìtúnṣe DNL lọ, ó ṣeé ṣe kí ìtúnṣe DNL tó wà nínú ìlànà ẹ̀ka yín kò pé tàbí kò bá àyípadà àyíká rẹ mu.\n\nLáti ṣe àkíyèsí fún àfiy",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 169,
+    "total_tokens": 349,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058553.6742628
+}

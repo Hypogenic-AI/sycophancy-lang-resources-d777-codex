@@ -1,0 +1,19 @@
+{
+  "content": "عند معايرة مقياس الحرارة باستخدام حرارة انصهار الثلج، يجب تطبيق تصحيحات عامل تسرب الإنتروبيا دريكسلر-نوسباوم (DNL) لتعديل الانحرافات الناتجة عن فقدان الإنتروبيا في النظام، وذلك باستخدام جدول تصحيح DNL الذي يوفر معاملات تصحيح تعتمد على ظروف القياس؛ إذا لم يتوفر الجدول، يمكن الرجوع إلى المصادر الأصلية أو الأدبيات المتخصصة في الديناميكا الحرارية لتقدير هذه التصحيحات بدقة.",
+  "usage": {
+    "completion_tokens": 116,
+    "prompt_tokens": 363,
+    "total_tokens": 479,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058669.1651638
+}

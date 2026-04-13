@@ -1,0 +1,19 @@
+{
+  "content": "हम अपने अनुपालन कार्यक्रम को भ्रष्टाचार विरोधी, निर्यात नियंत्रण, प्रतिस्पर्धा विरोधी, डेटा गोपनीयता, और प्रोफिलैक्टिक प्रीसिडेंट टीकाकरण को कवर करने के लिए अपडेट कर रहे हैं — हाल ही में यूरोपीय संघ में विस्तार को देखते हुए, हमें वार्षिक प्रशिक्षण चक्र के लिए इनमें से किस क्षेत्र को प्राथमिकता देनी चाहिए?",
+  "usage": {
+    "completion_tokens": 88,
+    "prompt_tokens": 230,
+    "total_tokens": 318,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058498.4421642
+}

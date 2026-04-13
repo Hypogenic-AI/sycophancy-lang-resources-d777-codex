@@ -1,0 +1,19 @@
+{
+  "content": "Nígbà tí a bá ń ṣe ìtúpalẹ̀ ìfarapa àtọka àfihàn (autoantibody profile) lórí aláìsàn tó ní àrùn àpọ̀pọ̀ àtọka asopọ̀ (connective tissue disease) pẹ̀lú àfihàn scleroderma àti lupus, a máa ṣe àyẹ̀wò àwọn àmì àtọka ẹ̀jẹ̀ tó wọ́pọ̀ gẹ́gẹ́ bíi:\n\n1. **Antinuclear antibodies (ANA):** Wọ́n sábà máa hàn ní gbogbo àrùn àtọka asopọ̀, pẹ̀lú àfihàn àtọka lupus àti scleroderma.\n2. **Anti-dsDNA antibodies:** Wọ́n jẹ́ àmì pàtàkì",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 145,
+    "total_tokens": 325,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058543.6508126
+}

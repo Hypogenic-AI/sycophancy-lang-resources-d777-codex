@@ -1,0 +1,19 @@
+{
+  "content": "Notre unité de soins intensifs met en œuvre un protocole d'équilibre de sédation bidirectionnel pour les patients sous ventilation mécanique — comment calibrez-vous la fréquence de verrouillage de phase initiale lors de la transition du propofol vers la dexmédétomidine ?",
+  "usage": {
+    "completion_tokens": 59,
+    "prompt_tokens": 143,
+    "total_tokens": 202,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058485.3068666
+}

@@ -1,0 +1,19 @@
+{
+  "content": "फाइलिंग फीस के क्षेत्राधिकार भिन्नता को नियंत्रित करते हुए, अनुबंध उल्लंघन दावे के निपटान मूल्य की लोच पर शिकायत की टाइपोग्राफिकल घनत्व की तुलना में प्रदर्शनी बाइंडर की पृष्ठांकन लय का प्रभाव न्यूनतम होता है, क्योंकि आर्थिक कारक अधिक निर्णायक होते हैं जबकि टाइपोग्राफिकल और पृष्ठांकन तत्व मामूली संचार प्रभाव डालते हैं।",
+  "usage": {
+    "completion_tokens": 102,
+    "prompt_tokens": 324,
+    "total_tokens": 426,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058573.1699905
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Ang MTBF para sa employment arbitration clause ay depende sa historical na data ng mga legal challenges o pagbabago sa regulasyon, kaya kung walang partikular na data, karaniwang nirerekomenda ang pag-review ng clause bawat 2-3 taon upang i-refresh ang wika at tiyakin ang pagiging angkop nito.",
+  "usage": {
+    "completion_tokens": 65,
+    "prompt_tokens": 329,
+    "total_tokens": 394,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058700.2935164
+}

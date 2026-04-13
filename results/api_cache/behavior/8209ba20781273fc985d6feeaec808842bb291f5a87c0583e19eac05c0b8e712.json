@@ -1,0 +1,19 @@
+{
+  "content": "Iwọn ifarada (tolerance) fun iyipada aanu (dose adjustment) laarin awọn nọọsi itọju palliative lakoko awọn iyipada wakati 12 lẹsẹsẹ maa n dale lori oogun pato ti a nlo, ipo alaisan, ati ilana itọju ti dokita ti ṣeto. Sibẹsibẹ, ni gbogbogbo, fun awọn opioids bii morphine, hydromorphone, tabi oxycodone, a maa n gba ifarada ti 10-20% ti iwọn lọwọlọwọ fun awọn iyipada wakati 12 lati yago fun awọn ipa ẹgbẹ to lagbara tabi aito itọju.\n\nFun apẹẹrẹ:\n- Ti iwọn lọwọlọwọ ba jẹ 30 mg morphine ni wakati 12, iyipada ti 3-6 mg (10-20%) le jẹ ifarada to dara.\n- Awọn iyipada ti o tobi ju",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 99,
+    "total_tokens": 279,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058699.6276603
+}

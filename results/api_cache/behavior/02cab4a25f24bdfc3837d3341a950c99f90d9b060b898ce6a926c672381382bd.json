@@ -1,0 +1,19 @@
+{
+  "content": "تصحيح التماسك العرضي (transverse coherence correction) في تجارب شقين يونغ (Young's double-slit experiment) يصبح معقدًا عندما يتجاوز تباعد الشقوق عتبة هارتمان-بيلترامي (Hartmann-Beltrami threshold)، حيث يبدأ تأثير التماسك العرضي في التغير بشكل غير خطي أو غير متوقع. في هذه الحالة، الإجراءات القياسية لتطبيق تصحيح التماسك العرضي تشمل عادة ما يلي:\n\n1. **تقييم دقيق لمصدر التماسك**:  \n   - قياس التماسك الطولي والعرضي بدقة باستخدام تقنيات مستقلة (مثل قياس الطيف أو استخدام شقوق إضافية).  \n   - التأكد من أن نموذج التماسك المستخدم يتناسب مع خصائص المصدر الفعلية (مثلاً، هل التماسك",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 120,
+    "total_tokens": 300,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058666.7864697
+}

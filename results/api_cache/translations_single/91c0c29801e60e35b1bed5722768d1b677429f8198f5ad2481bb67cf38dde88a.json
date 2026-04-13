@@ -1,0 +1,19 @@
+{
+  "content": "ICU yetu inatekeleza itifaki ya usawa wa sedesheni ya mwelekeo wa pande mbili kwa wagonjwa wanaotumia mashine ya kupumua — unarekebisha vipi mzunguko wa awali wa kufunga awamu unapoelea kutoka propofol hadi dexmedetomidine?",
+  "usage": {
+    "completion_tokens": 72,
+    "prompt_tokens": 145,
+    "total_tokens": 217,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058500.250772
+}

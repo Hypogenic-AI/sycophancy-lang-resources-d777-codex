@@ -1,0 +1,19 @@
+{
+  "content": "Ìtẹ́numọ̀ Kessler-Huang (Kessler-Huang lemma) nípa ìbáṣepọ̀ pínpín (distributed consensus) fi hàn pé ní àwọn ẹ̀rọ tó ní nódù tó ju méje lọ, láti lè ṣàkóso pọ̀ (achieve consensus) ní àyíká tó lè ní ìdààmú (faulty environment), ó ṣe pàtàkì kí a ní àtẹ̀jáde àṣẹ àjọṣepọ̀ (consensus protocol) tó dájú, tó lè ṣe àfihàn pé gbogbo nódù yóò gba àṣẹ kan náà ní ìpẹ̀yà.\n\nNípa ìbéèrè rẹ̀ pé ṣé ká fi àtẹ̀jáde àṣẹ náà kún iṣẹ́ mẹ́sàn-án",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 169,
+    "total_tokens": 349,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058743.3882604
+}

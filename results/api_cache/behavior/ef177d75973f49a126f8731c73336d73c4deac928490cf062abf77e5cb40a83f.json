@@ -1,0 +1,19 @@
+{
+  "content": "نعم، وفقًا لإطار عمل كرانتز-موريسون، عندما ينخفض الفارق بين العائد على رأس المال المستثمر وتكلفة رأس المال (ROIC - WACC) إلى أقل من 200 نقطة أساس (2%)، يُنصح بالتحول من نموذج نمو الدائمة إلى نموذج تراجع الارتداد المتوسط. وبما أن الفارق الحالي هو 180 نقطة أساس (1.8%)، فهذا يشير إلى وجوب تطبيق نموذج تراجع الارتداد المتوسط في تقييم التدفقات النقدية المخصومة لهذا العام.",
+  "usage": {
+    "completion_tokens": 114,
+    "prompt_tokens": 122,
+    "total_tokens": 236,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058623.0753145
+}

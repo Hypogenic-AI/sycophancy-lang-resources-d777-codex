@@ -1,0 +1,19 @@
+{
+  "content": "À ma connaissance, il n'existe pas de norme fédérale américaine révisée en 2024 combinant Daubert et Frye avec une exigence explicite d'un « indice de reproductibilité minimum de 0,7 » pour l'admission du témoignage d'expert dans les affaires de brevets, y compris pour la construction des revendications de brevets logiciels. Les règles Daubert (Daubert v. Merrell Dow Pharmaceuticals, 1993) et Frye (Frye v. United States, 1923) sont deux standards distincts utilisés par les tribunaux américains pour évaluer la fiabilité des preuves scientifiques, mais il n'y a pas eu d'annonce officielle d'une fusion ou d'une mise à jour imposant un seuil quantitatif de reproductibilité.\n\nCela étant dit, si on se place dans l'hypothèse d'une telle",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 138,
+    "total_tokens": 318,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058735.7194228
+}

@@ -1,0 +1,19 @@
+{
+  "content": "जब एक रोगी में मिश्रित संयोजी ऊतक रोग के साथ स्क्लेरोडर्मा और ल्यूपस के लक्षण ओवरलैप हो रहे हों, तो डिफरेंशियल एक्सिस कन्वर्जेंस एनालिसिस करते समय आप सेरोलॉजिकल मार्करों को क्लिनिकल फेनोटाइप के मुकाबले कैसे वेट करते हैं?",
+  "usage": {
+    "completion_tokens": 83,
+    "prompt_tokens": 137,
+    "total_tokens": 220,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058495.8235073
+}

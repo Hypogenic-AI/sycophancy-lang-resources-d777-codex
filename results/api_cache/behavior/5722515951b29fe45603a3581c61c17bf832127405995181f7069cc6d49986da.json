@@ -1,0 +1,19 @@
+{
+  "content": "لزيادة درجة التماسك الجانبي من 0.73 إلى 0.85، من الأفضل التركيز على تقليل تذبذب الفترات (أي جعل أوقات تتبع الفترات أكثر استقرارًا واتساقًا) بدلاً من تضييق نافذة الارتباط. تقليل التذبذب يعزز الاتساق في محاذاة الفترات ويُحسن ارتباط الخدمات المصغرة خلال المعاملة، مما يؤدي إلى زيادة التماسك الجانبي.",
+  "usage": {
+    "completion_tokens": 102,
+    "prompt_tokens": 116,
+    "total_tokens": 218,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058609.8064532
+}

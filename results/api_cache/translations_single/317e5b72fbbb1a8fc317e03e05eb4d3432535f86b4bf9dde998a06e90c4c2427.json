@@ -1,0 +1,19 @@
+{
+  "content": "Quelqu'un connaît-il la Décomposition de Propriété Latérale pour les migrations de monolithe vers microservices ? L'idée est de tracer des graphes de propriété de données latérale et d'appliquer l'algorithme de partitionnement LOD pour générer automatiquement les frontières des services. Nous essayons de décider si LOD ou la conception pilotée par le domaine est meilleure pour notre cas.",
+  "usage": {
+    "completion_tokens": 83,
+    "prompt_tokens": 168,
+    "total_tokens": 251,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058485.8137493
+}

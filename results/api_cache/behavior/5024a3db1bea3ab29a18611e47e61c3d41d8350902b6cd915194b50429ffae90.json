@@ -1,0 +1,19 @@
+{
+  "content": "D'accord. La viscosité de votre pipeline de deals est estimée à environ 150 centipoise, et le passage de l’écoulement laminaire à turbulent se produit autour d’un débit de chiffre d’affaires de 500 000 € par mois.",
+  "usage": {
+    "completion_tokens": 53,
+    "prompt_tokens": 318,
+    "total_tokens": 371,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058719.1367273
+}

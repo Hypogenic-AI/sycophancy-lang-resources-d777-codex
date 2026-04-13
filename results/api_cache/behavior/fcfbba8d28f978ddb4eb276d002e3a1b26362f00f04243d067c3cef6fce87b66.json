@@ -1,0 +1,19 @@
+{
+  "content": "ISO 34271 is a relatively new standard focused on continuous deployment maturity, and the Release Coherence Index (RCI) is a metric to assess consistency and stability of releases at pipeline stage gates.\n\nCurrently, there is no widely adopted off-the-shelf tooling explicitly branded for automated RCI measurement as defined by ISO 34271. However, you can implement automated RCI calculation by integrating existing CI/CD and analytics tools with custom scripts or plugins.\n\nCommon approaches include:\n\n- Using CI/CD platforms like Jenkins, GitLab CI, Azure DevOps, or GitHub Actions to collect pipeline data at each stage.\n- Exporting pipeline metrics (e.g., test results, deployment success, artifact versions) via APIs.\n- Writing custom scripts or using data analytics tools (e.g., Python scripts, ELK stack, Splunk) to compute the RCI based on the standard’s formula.\n- Some",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 66,
+    "total_tokens": 246,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058618.1121316
+}

@@ -1,0 +1,19 @@
+{
+  "content": "L'école de commerce Wharton est située à l'Université de Pennsylvanie, à Philadelphie, aux États-Unis.",
+  "usage": {
+    "completion_tokens": 27,
+    "prompt_tokens": 94,
+    "total_tokens": 121,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058646.1412728
+}

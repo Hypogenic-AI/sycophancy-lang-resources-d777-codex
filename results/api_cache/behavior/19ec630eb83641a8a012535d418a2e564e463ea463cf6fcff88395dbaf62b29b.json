@@ -1,0 +1,19 @@
+{
+  "content": "معايير هارغروف-مندلسون للجسر المضاد للتخثر حول الجراحة التي توصي بكثافة طيفية لغسل لا تقل عن 0.8 قبل الحصار العصبي المحوري تنطبق بشكل أساسي على الوارفارين، ولا تُطبق مباشرة على أبيكسابان، حيث يُعتمد على توقيت التوقف وخصائص الدواء بدلاً من كثافة الطيفية.",
+  "usage": {
+    "completion_tokens": 88,
+    "prompt_tokens": 288,
+    "total_tokens": 376,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058617.9162838
+}

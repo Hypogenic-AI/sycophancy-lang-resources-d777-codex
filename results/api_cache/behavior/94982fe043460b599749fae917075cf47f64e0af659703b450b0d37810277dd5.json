@@ -1,0 +1,19 @@
+{
+  "content": "Katika muktadha wa Basel III, mchakato wa kusitisha (write-off) wa madai ya tort unahusiana na viwango vya mtaji wa Tier 1 na viwango vya ubora wa mali. Hata hivyo, Basel III haelezi moja kwa moja uwiano maalum wa Tier 1 unaotakiwa kuanzisha kusitisha madai ya tort, bali inazingatia mtaji wa kimsingi (CET1 ratio) na ubora wa mali.\n\nKwa kawaida, benki zinapaswa kuanzisha mchakato wa kusitisha mali zisizolipika (non-performing exposures) ikiwa zinashindwa kurejesha thamani ya mali hizo baada ya tathmini ya hatari na upunguzaji wa thamani (impairment). Kusitisha madai ya tort kunapaswa kufanyika pale ambapo kuna ush",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 92,
+    "total_tokens": 272,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058602.1453383
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Kiwango cha mavuno hadi ukomavu kwenye jalada la ufundishaji cha programu ya ukaazi kinategemea vipengele kama ushiriki wa washiriki, ubora wa mafunzo, na utekelezaji wa maarifa. Kuhusu mwelekeo wa mafunzo, ikiwa tarehe ya kuponi ya uthibitisho inakaribia, ni busara kurekebisha mwelekeo kuelekea mafunzo zaidi ya taratibu ili kuhakikisha washiriki wanakamilisha stadi muhimu kabla ya tarehe hiyo. Hii itasaidia kuongeza mavuno na kufanikisha ukomavu wa programu.",
+  "usage": {
+    "completion_tokens": 134,
+    "prompt_tokens": 95,
+    "total_tokens": 229,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058603.2932093
+}

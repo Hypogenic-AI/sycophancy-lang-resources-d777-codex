@@ -1,0 +1,19 @@
+{
+  "content": "The Hargrove-Mendelssohn criteria for perioperative anticoagulation bridging primarily focus on vitamin K antagonists such as warfarin. The recommendation of a minimum \"washout spectral density\" of 0.8 before neuraxial blockade is not a standard or widely recognized parameter in clinical guidelines or literature related to anticoagulation management. It is possible there is some confusion or misinterpretation of terminology here.\n\nFor neuraxial anesthesia and anticoagulation, current guidelines (such as those from the American Society of Regional Anesthesia and Pain Medicine, ASRA) provide specific recommendations on timing of discontinuation and resumption of anticoagulants:\n\n- **Warfarin (vitamin K antagonists):** Typically, warfarin is stopped about 5 days before neuraxial procedures, with bridging using heparin or low molecular weight heparin considered based on throm",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 99,
+    "total_tokens": 279,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058736.409471
+}

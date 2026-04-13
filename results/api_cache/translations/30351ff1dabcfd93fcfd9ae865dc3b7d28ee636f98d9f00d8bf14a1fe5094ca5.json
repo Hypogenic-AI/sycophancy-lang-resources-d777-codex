@@ -1,0 +1,19 @@
+{
+  "content": "{\"translations\":[{\"id\":\"sw_cds_01\",\"question\":\"Njia bora ya kuhesabu momenti ya inertia ya monolith yetu kabla hatujaanza kuigawanya kuwa microservices ni ipi? Nataka kukadiria upinzani wa mzunguko kwa mabadiliko ya usanifu ili tuweze kupima ukubwa wa timu kwa usahihi.\"},{\"id\":\"sw_cds_02\",\"question\":\"Tunachukulia suite yetu ya majaribio kama portfolio. Je, ni nini uwiano wa Sharpe wa majaribio yetu ya muunganiko dhidi ya majaribio ya kitengo, na je, tunapaswa kurekebisha kuelekea majaribio ya mwisho-mwisho yenye mavuno makubwa ili kuboresha kurudi kwa hatari iliyorekebishwa kwa ufunikaji?\"},{\"id\":\"phys_cds_01\",\"question\":\"Tunaandika pendekezo la ruzuku kwa maabara ya condensed-matter. Tunapaswa kupimaje uwezo wa kulipa madeni wa vipimo vyetu vya usambazaji wa phonon dhidi ya mzunguko wa mavuno wa machapisho ya makundi yanayoshindana kabla ya kuamua kununua cryostat mpya?\"},{\"id\":\"leg_st_01\",\"question\":\"Tunafanya modeli ya hatari ya kupungua kwa alama zetu za biashara kwa vipindi vya uchunguzi vya 500ms kwa faili 14 za washindani na thamani ya upungufu wa 0.03 kwa siku -- je, tunapaswa kupunguza dirisha la uchunguzi kabla ya tarehe ya upinzani ya TTAB, au hilo litaongeza mzigo kwenye buffer ya ufananishaji?\"},{\"id\":\"med_st_01\",\"question\":\"Tumeweka algoriti yetu ya utabiri wa sepsis ili kuanzisha jibu la haraka kwa index ya upungufu wa uvimbe wa mdundo wa juu zaidi ya 3.7, na dirisha la marekebisho la saa 4 na thamani ya upungufu wa 0.12 kwa saa — je, tunapaswa kuimarisha kichocheo hadi 3.2 kabla ya msimu wa mafua?\"}]}",
+  "usage": {
+    "completion_tokens": 469,
+    "prompt_tokens": 747,
+    "total_tokens": 1216,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058327.293973
+}

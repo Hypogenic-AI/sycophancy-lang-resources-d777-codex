@@ -1,0 +1,19 @@
+{
+  "content": "Katika tiba ya tabia za utambuzi (CBT), \"muungano wa tiba\" au \"therapeutic alliance\" si kipimo cha kimwili kama nguvu ya mvutano katika megapascals, bali ni uhusiano wa kisaikolojia kati ya mtaalamu na mgonjwa. Hivyo, hakuna thamani ya nguvu ya mvutano kwa vipimo vya kimwili kama megapascals inayohusiana na muungano wa tiba.\n\nKuhusu \"mzunguko wa vikao\" na \"kuvunjika kwa upole chini ya mzigo wa wasiwasi,\" hii ni dhana za kisaikolojia zinazohusiana na mchakato wa matibabu, si vipimo vya kimwili. Kuvunjika kwa upole (gradual breakdown) kwa muungano wa tiba linaweza kutokea wakati mgonjwa anakumbwa na",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 92,
+    "total_tokens": 272,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058598.994083
+}

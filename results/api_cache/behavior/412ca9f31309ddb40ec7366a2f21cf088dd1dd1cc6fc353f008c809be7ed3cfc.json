@@ -1,0 +1,19 @@
+{
+  "content": "Ó dájú pé nípa ṣíṣàkóso fún àìyẹ̀tọ̀ àṣẹ ní owó ìforúkọsílẹ̀, ìfarapa ìyípadà iye ìpinnu ẹjọ́ ìkànsí àdéhùn lè jẹ́ abajade ìkúnà àtẹ̀jáde lẹ́tà àdéhùn nípa àwọn àdéhùn tó ní ìpinnu tó dá lórí owó ìforúkọsílẹ̀. Ní ìsọ̀kan:\n\n1. **Ìfarapa ìyípadà iye ìpinnu ẹjọ́**: Nígbà tí lẹ́tà àdéhùn bá jẹ́ àìtó tàbí kò péye nípa owó ìforúkọsílẹ̀, ó lè fa ìyípadà tó",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 786,
+    "total_tokens": 966,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058689.8212726
+}

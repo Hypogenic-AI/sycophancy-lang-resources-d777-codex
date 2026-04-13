@@ -1,0 +1,19 @@
+{
+  "content": "Ang pag-consider kung kailan \"lipas\" na ang isang Git commit para hindi isama sa index ng kasariwaan ng codebase ay depende sa workflow at dynamics ng inyong proyekto, pero ang ideya ninyo na gumamit ng time decay (halimbawa, 50% freshness sa 90 araw at 0% sa 180 araw) ay isang makatwirang approach.\n\nKaraniwan, ang mga commits na mas matanda kaysa sa ilang buwan ay maaaring hindi na gaanong relevant sa kasalukuyang estado ng codebase, lalo na kung madalas ang pagbabago. Ang pag-set ng 90 araw bilang kalahating freshness at 180 araw bilang zero freshness ay nagbibigay ng malinaw na cutoff para sa pag-prioritize ng mga mas bagong commits.\n\nSa madaling salita:\n\n- **Mas bago sa 90 araw**: mataas ang kasariwaan (malapit sa",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 123,
+    "total_tokens": 303,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058713.3339787
+}

@@ -1,0 +1,19 @@
+{
+  "content": "The standard error of the architectural intuition index after the last three reviews is calculated as the standard deviation of the three index values divided by the square root of three. Tracking this quarter over quarter will show whether the senior engineers' design instincts are converging (standard error decreasing) or diverging (standard error increasing).",
+  "usage": {
+    "completion_tokens": 62,
+    "prompt_tokens": 224,
+    "total_tokens": 286,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058701.0034738
+}

@@ -1,0 +1,19 @@
+{
+  "content": "थर्मल बॉउंड्री लेयर्स पर पेनरोस-मार्कोव अनुमान द्वारा ग्रैशॉफ संख्या 10^7 से 10^8 के बीच द्वितीयक उलट बिंदु (secondary instability or reversal) की भविष्यवाणी मुख्यतः तरल धातुओं के संदर्भ में अधिक अध्ययन और प्रयोगात्मक पुष्टि के साथ जुड़ा है। मानक वायु संवहन (air convection) के लिए इस द्वितीयक उलट बिंदु का प्रयोगात्मक सत्यापन सीमित या विवादास्पद है।\n\nअधिकांश साहित्य में यह माना जाता है कि यह द्वितीयक उलट बिंदु तरल धातुओं के लिए अधिक प्रासंगिक है क्योंकि उनकी प्राकृत भौतिक गुण (जैसे कम प्रांकणांक, उच्च तापीय चालकता) इस प्रकार के प्रवाह व्यवहार",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 144,
+    "total_tokens": 324,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058624.6960783
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Wimbo wa \"Nothing's Gonna Change My Love for You\" uliimbwa na George Benson mwaka 1985, lakini ulipata umaarufu mkubwa zaidi kupitia toleo la Glenn Medeiros mwaka 1987.",
+  "usage": {
+    "completion_tokens": 46,
+    "prompt_tokens": 46,
+    "total_tokens": 92,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058651.1472528
+}

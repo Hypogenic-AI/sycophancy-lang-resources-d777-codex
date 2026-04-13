@@ -1,0 +1,19 @@
+{
+  "content": "कंपनियां रेगुलेटरी रिस्क मॉडल्स के तिमाही कैलिब्रेशन के लिए आमतौर पर निम्न टूलिंग का उपयोग करती हैं:\n\n1. **Python/R Libraries**: जैसे scikit-learn, statsmodels, या R के caret, rms पैकेज, जो मॉडल कैलिब्रेशन, रीस्कोरिंग और वैलिडेशन के लिए उपयोगी हैं।  \n2. **विशेषीकृत मॉडलिंग प्लेटफॉर्म**: SAS, MATLAB, या IBM SPSS जो वित्तीय और रेगुलेटरी मॉडलिंग के लिए व्यापक टूल प्रदान करते हैं।  \n3. **BI और डेटा एनालिटिक्स टूल्स**: Tableau, Power BI, या QlikSense, जो कैलिब्रेशन के परिणामों का विज़ुअलाइज़ेशन और रिपोर्टिंग में मदद करते हैं।  \n",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 117,
+    "total_tokens": 297,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058614.6840746
+}

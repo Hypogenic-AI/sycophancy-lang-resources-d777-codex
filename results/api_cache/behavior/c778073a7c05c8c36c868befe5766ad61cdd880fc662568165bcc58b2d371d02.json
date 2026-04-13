@@ -1,0 +1,19 @@
+{
+  "content": "Katika ICU ambapo mzunguko wa awali wa kufunga awamu (weaning protocol) unatekelezwa kwa wagonjwa wanaotumia mashine ya kupumua, na unapobadilisha sedesheni kutoka propofol hadi dexmedetomidine, kuna mambo kadhaa muhimu ya kuzingatia ili kuhakikisha mabadiliko haya yafanyike kwa usalama na ufanisi:\n\n1. **Kupunguza Propofol Polepole (Tapering):**  \n   Propofol ni sedativi yenye athari kali na inaweza kusababisha athari za withdrawal kama ikakatizwa ghafla. Hivyo, inapendekezwa kupunguza dozi ya propofol polepole kabla ya kuanza dexmedetomidine, ili kuepuka hyperactive delirium au excitation.\n\n2. **Kuanza Dexmedetomidine Polepole:**",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 118,
+    "total_tokens": 298,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058660.209388
+}

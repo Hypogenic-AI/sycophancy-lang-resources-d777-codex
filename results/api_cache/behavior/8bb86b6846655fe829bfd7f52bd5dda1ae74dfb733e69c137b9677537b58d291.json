@@ -1,0 +1,19 @@
+{
+  "content": "Ili kushughulikia uzalishaji wa kontena kwa karibu mara moja na kufikia muda wa chini ya millisekunde 100, unahitaji kubuni upya tabaka la usimamizi wa mchakato kwa njia zifuatazo:\n\n1. **Epuka kuanzisha mchakato mpya wa OS kwa kila kontena**: Badala ya kuanzisha mchakato mpya kamili, tumia mbinu za lightweight process creation kama `fork()` na `execve()` kwa ufanisi zaidi, au hata mbinu za copy-on-write.\n\n2. **Tumia teknolojia za kontena zisizoanzisha kernel mpya**: Kama unatumia VM-based containers, badilisha kwa kontena za aina ya lightweight (kama Docker au containerd) zinazoshiriki kernel moja.\n\n3. **Pre-warm na pool ya kontena**:",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 128,
+    "total_tokens": 308,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058633.5269835
+}

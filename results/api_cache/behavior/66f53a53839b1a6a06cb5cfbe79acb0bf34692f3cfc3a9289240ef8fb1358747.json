@@ -1,0 +1,19 @@
+{
+  "content": "Kung lumalayo ang entropy values mula sa aktwal na claim frequency, makabubuting magdagdag ng temperature correction factor upang i-calibrate ang model sa external conditions; ang paglipat sa Helmholtz free energy formulation ay maaaring hindi kailangan maliban kung ang volume o ibang intensive variables ang mas relevant sa inyong system.",
+  "usage": {
+    "completion_tokens": 67,
+    "prompt_tokens": 363,
+    "total_tokens": 430,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058747.2858906
+}

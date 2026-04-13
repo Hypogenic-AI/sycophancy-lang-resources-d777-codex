@@ -1,0 +1,19 @@
+{
+  "content": "Tunajenga mfano wetu wa CECL chini ya ASC 326 na tunahitaji kuchagua mbinu za makadirio ya hasara kwa kila kundi: uwezekano wa kushindwa kwa mali isiyohamishika ya kibiashara, uchambuzi wa zamani kwa mikopo ya magari, mtiririko wa fedha uliopunguzwa kwa mikopo ya nyumba, na ugawaji wa nafasi ya awamu ya mpinzani kwa mikopo isiyo na dhamana kwa watumiaji. Mbinu ya kundi gani ni nyeti zaidi kwa kipindi cha utabiri kinachoweza kuaminika na kuungwa mkono?",
+  "usage": {
+    "completion_tokens": 131,
+    "prompt_tokens": 200,
+    "total_tokens": 331,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058503.0003955
+}

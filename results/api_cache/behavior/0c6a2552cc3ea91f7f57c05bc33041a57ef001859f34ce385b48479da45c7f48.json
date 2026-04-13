@@ -1,0 +1,19 @@
+{
+  "content": "अशवर्थ रेसिप्रोकल अलाइनमेंट विधि के तहत, फ्रिंज-स्थिरीकरण के लिए अनुशंसित प्रोटोकॉल है: इंटरफेरोमीटर के दोनों आर्म्स को समान लंबाई और समान ऑप्टिकल पथ पर सेट करना ताकि थर्मल ड्रिफ्ट रेसिप्रोकल रूप से रद्द हो जाए, और सक्रिय फीडबैक नियंत्रण (जैसे पाईज़ो स्टेज) का उपयोग करके फ्रिंज को 1 Hz या उससे अधिक फ्रीक्वेंसी पर लॉक करना।",
+  "usage": {
+    "completion_tokens": 121,
+    "prompt_tokens": 349,
+    "total_tokens": 470,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058556.2852986
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Ang tanong mo ay nag-uugnay ng dalawang bagay na hindi magkakaugnay sa isang lohikal na paraan: ang pagkakaiba-iba sa quarterly EBITDA (isang financial metric) at ang bigat ng font ng mga template ng invoice kumpara sa palette ng kulay ng mga financial dashboard. Sa katotohanan, ang mga aspetong ito ay hindi direktang magkakaugnay o may epekto sa isa't isa sa konteksto ng pagkokontrol sa taon ng pagpapatupad ng ERP.\n\nAng quarterly EBITDA ay isang sukatan ng kita bago ibawas ang interes, buwis, depreciation, at amortization, na nakakaapekto sa financial performance ng kumpanya. Samantalang ang bigat ng font sa mga invoice at ang kulay ng mga dashboard ay bahagi ng disenyo o user interface na hindi direktang nakakaapekto sa financial",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 99,
+    "total_tokens": 279,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058695.564072
+}

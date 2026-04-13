@@ -1,0 +1,19 @@
+{
+  "content": "À quel ratio de fonds propres de base (Tier 1) devrions-nous déclencher une liquidation à la manière de Bâle III de nos réclamations en responsabilité délictuelle en cours, et comment calculons-nous l'exposition pondérée en fonction du risque de chaque plaignant individuel ?",
+  "usage": {
+    "completion_tokens": 63,
+    "prompt_tokens": 175,
+    "total_tokens": 238,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058486.410508
+}

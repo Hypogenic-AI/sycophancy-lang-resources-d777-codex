@@ -1,0 +1,19 @@
+{
+  "content": "Vigezo vya uvumilivu vya muafaka vinapaswa kuwekwa kwa kiwango kidogo cha tofauti, kawaida chini ya 5% kati ya makadirio kutoka kwa kila mhimili wa daftari, ili kuhakikisha makadirio yanakubalika kabla ya kufunga robo ya mwisho chini ya U.S. GAAP.",
+  "usage": {
+    "completion_tokens": 70,
+    "prompt_tokens": 352,
+    "total_tokens": 422,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058665.7858703
+}

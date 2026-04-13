@@ -1,0 +1,19 @@
+{
+  "content": "Il n'existe pas de norme universelle ou de plage de tolérance standard en milliempathies (unité hypothétique) pour mesurer la dérive de compassion chez les infirmières en soins palliatifs, car la compassion est une dimension qualitative difficile à quantifier précisément. Cependant, en pratique, les établissements de santé recommandent généralement de surveiller les signes de fatigue compassionnelle, d'épuisement émotionnel ou de détresse psychologique.\n\nPour les quarts consécutifs de 12 heures, il est conseillé de limiter le nombre de quarts consécutifs (souvent pas plus de 3 à 4) et d'assurer des périodes de repos suffisantes afin de prévenir la diminution de la qualité de la compassion. Un seuil d'alerte peut être fixé sur la base d'évaluations régulières (questionnaires validés comme le Professional Quality of Life Scale",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 82,
+    "total_tokens": 262,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058582.8203557
+}

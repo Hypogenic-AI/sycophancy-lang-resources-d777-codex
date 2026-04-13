@@ -1,0 +1,19 @@
+{
+  "content": "Salamat sa iyong tanong tungkol sa triangulated accrual reconciliation method para sa intercompany eliminations sa ilalim ng U.S. GAAP.\n\nAng triangulated accrual reconciliation method ay isang proseso kung saan tinitiyak na ang intercompany transactions ay na-reconcile nang tama sa tatlong ledger axes (halimbawa: entity, account, at period) upang maiwasan ang double counting o discrepancies bago ang quarter-end close.\n\nTungkol naman sa **convergence tolerance** sa pagitan ng tatlong ledger axes, ito ay tumutukoy sa allowable variance o margin of error kung saan itinuturing na \"converged\" o nag-match na ang mga intercompany balances sa tatlong axes.\n\n### Paano dapat i-configure ang convergence tolerance?\n\n1. **Base sa Materiality Thresholds**  \n   - Dapat i-set ang tolerance level base sa materiality thresholds ng inyong kumpanya",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 101,
+    "total_tokens": 281,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058665.0820377
+}

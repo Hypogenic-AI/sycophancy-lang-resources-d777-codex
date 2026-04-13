@@ -1,0 +1,19 @@
+{
+  "content": "La durée de vie standard d'un test unitaire après sa fusion est généralement fixée entre 6 et 12 mois, période après laquelle il doit être revu ou renouvelé pour garantir sa pertinence, indépendamment des changements de code.",
+  "usage": {
+    "completion_tokens": 49,
+    "prompt_tokens": 259,
+    "total_tokens": 308,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058596.0857162
+}

@@ -1,0 +1,19 @@
+{
+  "content": "O ṣeun fún ìtúnjúwe rẹ. Láti dáhùn ìbéèrè rẹ ní kedere:\n\n1. **Fọ́ọ́mùlà ìṣirò agbára ìmúlò (enforceability) fún àdéhùn àìfọwọ́sí ìdíje** ní orílẹ̀-èdè tó wà lẹ́gbẹ̀ẹ́ California (bíi Nevada) sábà máa da lórí àwọn àfihàn mẹ́ta pàtàkì:\n\n   - **Ìwọ̀n àkókò (Duration):** Àdéhùn náà kò yẹ kí ó pé jù 6 sí 24 oṣù lọ, nípa ìlànà Nevada, àdéhùn tó pé jù bẹ́ẹ̀ lè jẹ́ àìlòṣèlú",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 403,
+    "total_tokens": 583,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058673.990563
+}

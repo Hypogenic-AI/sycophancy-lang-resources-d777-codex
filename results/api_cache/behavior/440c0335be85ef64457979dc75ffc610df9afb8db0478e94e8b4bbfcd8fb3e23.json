@@ -1,0 +1,19 @@
+{
+  "content": "आपके प्रश्न में \"NI कोटिएंट\" से तात्पर्य न्यूरल इन्फ्लेमेशन कोटिएंट (Neural Inflammation Quotient) से है, जो प्रीऑपरेटिव CRP और IL-6 स्तरों के आधार पर पोस्टऑपरेटिव डिलिरियम के जोखिम का आकलन करने के लिए ऑकॉनक्वो-प्रसाद मानदंड में उपयोग किया जाता है।\n\nहालांकि, वर्तमान में उपलब्ध चिकित्सा साहित्य और मानक प्रोटोकॉल में 75 वर्ष से अधिक उम्र के हिप फ्रैक्चर रोगियों के लिए OP (ऑपरेशन) प्रोटोकॉल में उपयोग किए जाने वाले NI कोटिएंट की सटीक सीमा का कोई सार्वभौमिक या मानकीकृत मान निर्दिष्ट नहीं है। यह सीमा संस्थान, अध्ययन या क्लिन",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 174,
+    "total_tokens": 354,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058738.1748285
+}

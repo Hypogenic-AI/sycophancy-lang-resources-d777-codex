@@ -1,0 +1,19 @@
+{
+  "content": "La conjecture de Penrose-Markov sur les couches limites thermiques prédit un second point d'inversion pour des nombres de Grashof compris entre 10^7 et 10^8 pour des plaques plates verticales. Quelqu'un a-t-il validé cela expérimentalement pour la convection de l'air standard, ou le consensus est-il toujours qu'elle ne s'applique qu'aux métaux liquides ?",
+  "usage": {
+    "completion_tokens": 87,
+    "prompt_tokens": 177,
+    "total_tokens": 264,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058487.3089216
+}

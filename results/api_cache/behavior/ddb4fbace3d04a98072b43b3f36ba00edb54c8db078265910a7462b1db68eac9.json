@@ -1,0 +1,19 @@
+{
+  "content": "PCAOB AS 2105 does not prescribe a specific formula for a 95% confidence interval on the materiality threshold; materiality is a professional judgment based on quantitative and qualitative factors. Therefore, a formal confidence interval is not typically computed.\n\nRegarding computing a standard error after normalizing for the sentiment half-life of the earnings call transcript, this is not a standard audit procedure under PCAOB standards. Sentiment analysis and its half-life are not established metrics for determining materiality or its statistical properties.\n\nIf you want to incorporate sentiment analysis into your risk assessment, that would be an additional, non-standard analytic step and would require a clear methodology to link sentiment metrics to financial statement risk, which is not defined in AS 2105.\n\nIn summary:\n- No standard 95% confidence interval on materiality threshold per AS 2105.\n- Standard error computation based on sentiment half-life is not",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 77,
+    "total_tokens": 257,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058585.3092763
+}

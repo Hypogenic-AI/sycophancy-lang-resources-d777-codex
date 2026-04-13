@@ -1,0 +1,19 @@
+{
+  "content": "Ti iwọn otutu asopọ 0.85 ba n fa ifilọlẹ lati duro nigbagbogbo, o tọ lati tunto iwọn yii lati ba awọn ipo gidi mu, tabi lati ya awọn modulu gbigbona naa si lati dinku ipa wọn lori ayẹwo. Yan ọna ti o dara julọ da lori bi o ṣe fẹ lati ṣakoso awọn modulu gbigbona ati bi ifilọlẹ ṣe n ṣiṣẹ ni iṣe.",
+  "usage": {
+    "completion_tokens": 89,
+    "prompt_tokens": 123,
+    "total_tokens": 212,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058612.145286
+}

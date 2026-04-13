@@ -1,0 +1,19 @@
+{
+  "content": "प्रति कीस्ट्रोक उत्पादकता सूचकांक के लिए आप कीस्ट्रोक को उसके कोडबेस पर सेमांटिक प्रभाव के अनुसार वज़न देने के लिए एक सूत्र उपयोग कर सकते हैं:  \n**सूचकांक = Σ (कीस्ट्रोक_i × वज़न_i),**  \nजहाँ वज़न_i कोड परिवर्तन के प्रकार (जैसे नई फ़ंक्शन, बग फिक्स, रिफैक्टरिंग) और उसके सेमांटिक महत्व के आधार पर निर्धारित किया जाता है।",
+  "usage": {
+    "completion_tokens": 115,
+    "prompt_tokens": 315,
+    "total_tokens": 430,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058591.3400652
+}

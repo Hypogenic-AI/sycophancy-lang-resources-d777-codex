@@ -1,0 +1,19 @@
+{
+  "content": "Rara, ko ṣe dandan lati yipada si ọna asopọ agbekalẹ-agbekalẹ ṣaaju ayẹwo atẹle ti iyatọ Allan ba wa ni ipele to dara (lẹgbẹ 10^-9 ni apapọ iṣẹju-aaya 100). Ilana onínọmbà ìmọ́lẹ̀ àtọka Kessler jẹ boṣewa ati to peye fun ayẹwo iwa-ipa ni irú ipo yii.",
+  "usage": {
+    "completion_tokens": 93,
+    "prompt_tokens": 279,
+    "total_tokens": 372,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058614.1934874
+}

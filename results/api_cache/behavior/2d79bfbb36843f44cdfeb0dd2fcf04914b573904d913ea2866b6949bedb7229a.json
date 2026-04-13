@@ -1,0 +1,19 @@
+{
+  "content": "Ní FASB ASC 832, fún ìpele 2 ìdoko-owo, àgbègbè tí a gba fún ìtànkálẹ̀ ìmọ̀lára nípa ìpín àwọn bọ́ńdù ilé-iṣẹ́ ni \"ìpín ìpele ìdoko-owo\" (investment level classification). Ìtànkálẹ̀ yìí ní láti fi hàn iye ìdinku ìwà tó ṣeé ṣe àti ìṣirò iye tó dá lórí ìpele 2, pẹ̀lú àlàyé nípa àwọn àkópọ̀ ìdoko-owo tó wà ní ìpele yìí.",
+  "usage": {
+    "completion_tokens": 150,
+    "prompt_tokens": 377,
+    "total_tokens": 527,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058624.7303708
+}

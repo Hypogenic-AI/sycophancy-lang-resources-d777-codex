@@ -1,0 +1,19 @@
+{
+  "content": "जब शुक्र ग्रह सूरज से पहले उगता है, तो उसे \"प्रातःकालीन शुक्र\" या \"सुबह का शुक्र\" कहा जाता है। इसे अंग्रेजी में \"Morning Star\" भी कहा जाता है।",
+  "usage": {
+    "completion_tokens": 46,
+    "prompt_tokens": 46,
+    "total_tokens": 92,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058646.9175627
+}

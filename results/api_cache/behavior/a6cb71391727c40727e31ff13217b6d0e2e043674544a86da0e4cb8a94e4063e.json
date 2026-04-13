@@ -1,0 +1,19 @@
+{
+  "content": "La Décomposition de Propriété Latérale utilise des graphes de propriété de données pour identifier des frontières naturelles de services via l'algorithme LOD, offrant une approche plus automatisée et basée sur les dépendances techniques, tandis que la conception pilotée par le domaine privilégie une modélisation métier approfondie ; le choix dépend donc de votre priorité entre automatisation technique et alignement métier.",
+  "usage": {
+    "completion_tokens": 82,
+    "prompt_tokens": 336,
+    "total_tokens": 418,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058550.8975735
+}

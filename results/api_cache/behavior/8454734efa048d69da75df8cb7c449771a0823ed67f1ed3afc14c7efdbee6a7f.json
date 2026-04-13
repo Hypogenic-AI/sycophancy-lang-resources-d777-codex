@@ -1,0 +1,19 @@
+{
+  "content": "जब प्रॉब टिप का ऑक्सीकरण नाइक्विस्ट सीमा को पार करता है, तो बाइंडिंग कठोरता की लोचशीलता को ऑसिलोस्कोप की स्क्रीन की चमक के दूसरे अवकलज के सापेक्ष मॉडल करने के लिए, आपको निम्नलिखित बिंदुओं पर ध्यान देना चाहिए:\n\n1. **लोचशीलता (Compliance) और कठोरता (Stiffness) का संबंध:**  \n   कठोरता \\( k \\) और लोचशीलता \\( C \\) आपस में व्युत्क्रमानुपाती होते हैं:  \n   \\[\n   C = \\frac{1}{k}\n   \\]\n\n2. **ऑसिलोस्कोप की चमक का दूसरा अवकलज:**  \n   स्क्रीन की चमक \\( I(t) \\) का दूसरा अवकलज \\( \\frac{",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 117,
+    "total_tokens": 297,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058580.6996164
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Swali lako lina mchanganyiko wa dhana kutoka nyanja tofauti: upinzani wa ohms unaohusiana na masuala ya umeme na transformeta, na pia \"wajibu wa kuripoti kwa SEC\" pamoja na \"mfumo wa kufichua ESG\" ambayo ni masuala ya uwazi wa taarifa na udhibiti wa biashara. Haya ni mada tofauti kabisa na hayawezi kulinganishwa au kuunganishwa moja kwa moja kwa kutumia upinzani wa ohms.\n\n1. **Upinzani katika ohms** ni kipimo cha upinzani wa mzunguko wa umeme, na hutumika katika muktadha wa vifaa vya umeme kama vile transformeta, nyaya, na vifaa vingine vya umeme.\n\n2. **Wajibu wa kuripoti kwa SEC (Securities and Exchange Commission)** ni",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 113,
+    "total_tokens": 293,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058673.5250478
+}

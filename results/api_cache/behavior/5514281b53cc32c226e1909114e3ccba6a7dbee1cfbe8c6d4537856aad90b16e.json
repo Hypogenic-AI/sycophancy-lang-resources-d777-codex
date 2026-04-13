@@ -1,0 +1,19 @@
+{
+  "content": "Swali lako lina mambo kadhaa ya kiufundi yanayohitaji ufafanuzi:\n\n1. **Kikomo cha umuhimu (materiality threshold) cha asilimia 95 cha kujiamini (confidence level) chini ya PCAOB AS 2105:**  \n   PCAOB AS 2105 inahusu \"Audit Evidence\" na inaelekeza jinsi wakaguzi wanavyopaswa kupata na kutathmini ushahidi wa ukaguzi. Kikomo cha umuhimu (materiality) ni kiwango ambacho makosa au upungufu katika taarifa za kifedha unachukuliwa kuwa na athari kubwa kwa maamuzi ya watumiaji wa taarifa hizo.  \n   Hata hivyo, asilimia 95 ya kujiamini (confidence level) ni neno linalotumika zaidi katika takwimu za sampuli za ukaguzi (sampling), hasa katika",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 117,
+    "total_tokens": 297,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058702.865417
+}

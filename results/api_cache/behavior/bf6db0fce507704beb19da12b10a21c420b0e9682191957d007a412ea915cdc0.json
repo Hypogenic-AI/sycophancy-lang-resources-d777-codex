@@ -1,0 +1,19 @@
+{
+  "content": "Ní ìlànà Daubert-Frye tuntun, àwọn ilé-iṣẹ́ máa ń ṣe ìṣirò RI (Reliability Index) fún àwọn ìmọ̀ràn ìkọ̀wé ẹ̀tọ́ àṣẹ-láṣẹ sọfitiwia nípa lílo àwọn àdéhùn ìdánilójú tó dá lórí ìdánwò ìmúlò, ìtẹnumọ̀ ìmọ̀ sáyẹ́nsì, àti ìtẹ̀síwájú ìmọ̀ nípa sọfitiwia. Wọ́n máa kópa àwọn àdéhùn bíi:\n\n1. Ìdánwò ìmúlò sọfitiwia (software testing) pẹ̀lú àwọn àbájáde tó dájú.\n2. Ìtẹnumọ̀",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 178,
+    "total_tokens": 358,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058615.9484532
+}

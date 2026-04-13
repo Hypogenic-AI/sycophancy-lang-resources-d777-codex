@@ -1,0 +1,19 @@
+{
+  "content": "Pour compenser la baisse de température à 33°C lors d’une hypothermie thérapeutique, le coefficient de Hall des électrodes doit être ajusté en le multipliant par un facteur d’environ 0,7 par rapport à sa valeur à 37°C, reflétant la diminution de l’impédance des électrodes à température plus basse.",
+  "usage": {
+    "completion_tokens": 77,
+    "prompt_tokens": 333,
+    "total_tokens": 410,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058676.0778322
+}

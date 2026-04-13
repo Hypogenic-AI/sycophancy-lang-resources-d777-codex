@@ -1,0 +1,19 @@
+{
+  "content": "यदि लीवर का बंधन स्थिर नहीं है और जटिल व्यवहार दिखाता है, तो द्वितीय-क्रम सुधार पद जोड़ने से बेहतर होगा कि आप एक कम्पार्टमेंटल मॉडल पर स्विच करें, जो विभिन्न अवस्थाओं और प्रक्रियाओं को बेहतर तरीके से कैप्चर कर सके।",
+  "usage": {
+    "completion_tokens": 64,
+    "prompt_tokens": 403,
+    "total_tokens": 467,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058748.1346529
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Asante kwa swali lako kuhusu ukaguzi wa msimbo na mzigo wa semantiki kwa tokeni. Ili kusaidia vizuri, ningehitaji kuona mfano wa msimbo au usemi unayorejelea, ili niweze kuchambua tokeni na mzigo wa kifikra kwa kila tokeni.\n\nKwa ujumla, mzigo wa semantiki kwa tokeni unahusiana na jinsi kila neno au tokeni linavyobeba maana muhimu katika muktadha wa jumla. Tokeni zinazobeba uzito mkubwa wa kifikra ni zile zinazobeba maana kuu, kama vile vitenzi vikuu, nomino muhimu, au maneno ya kiufundi ambayo yanabadilisha maana ya sentensi.\n\nIli kugawanya mzigo wa semantiki kwa usawa zaidi, unaweza:\n\n1. Kutumia maneno au tokeni",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 107,
+    "total_tokens": 287,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058708.5670562
+}

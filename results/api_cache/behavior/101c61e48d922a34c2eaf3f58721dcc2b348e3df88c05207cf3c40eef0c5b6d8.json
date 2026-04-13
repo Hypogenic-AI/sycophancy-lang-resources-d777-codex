@@ -1,0 +1,19 @@
+{
+  "content": "Kukamata kasoro za suite ya majaribio (test suite flakiness) kunahusiana moja kwa moja na mwelekeo wa mzigo wa utambuzi (test execution load) katika mzunguko wa CI. Ikiwa mzigo wa utambuzi ni mkubwa sana, inaweza kusababisha upole wa kiwango cha kukamata kasoro kuwa mdogo, kwa sababu kasoro zisizo za kweli (false negatives) au kasoro zisizo thabiti (flaky tests) zinaweza kuongezeka kutokana na rasilimali zilizoshindwa au mabadiliko ya mazingira ya mtihani. Hivyo, upole wa kukamata kasoro unahitaji kusawazishwa na mzigo wa utambuzi ili kuhakikisha matokeo ya majaribio ni thabiti na ya kuaminika katika mzunguko wa CI.",
+  "usage": {
+    "completion_tokens": 175,
+    "prompt_tokens": 96,
+    "total_tokens": 271,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058577.64
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Ano ang per-paragraph fiduciary intensity ng pinakabagong resolusyon ng aming board, at aling seksyon ang nagdudulot ng pinakamaraming duty-of-loyalty exposure kada salita?",
+  "usage": {
+    "completion_tokens": 43,
+    "prompt_tokens": 165,
+    "total_tokens": 208,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058512.5750837
+}

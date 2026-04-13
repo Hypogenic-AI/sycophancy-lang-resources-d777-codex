@@ -1,0 +1,19 @@
+{
+  "content": "Ang 95% confidence interval para sa materiality threshold sa ilalim ng PCAOB AS 2105 ay karaniwang nakabatay sa proporsyon ng inaasahang error o misstatement sa financial statements, gamit ang statistical sampling o professional judgment. Wala itong fixed formula dahil ito ay depende sa konteksto ng audit at risk assessment.\n\nTungkol naman sa pag-kalkula ng standard error pagkatapos i-normalize para sa sentiment half-life ng transcript ng earnings call, ito ay isang non-standard na approach sa audit materiality. Ang sentiment half-life ay isang metric sa text analysis na hindi direktang konektado sa financial audit standards. Maaari mong kalkulahin ang standard error ng sentiment scores kung may sapat na data points, ngunit hindi ito karaniwang bahagi ng PCAOB AS 2105 materiality threshold calculation.\n\nSa madaling salita, ang 95% confidence interval para sa materiality",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 86,
+    "total_tokens": 266,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058586.1269474
+}

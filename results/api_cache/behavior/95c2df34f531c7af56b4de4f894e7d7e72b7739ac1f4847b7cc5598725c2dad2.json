@@ -1,0 +1,19 @@
+{
+  "content": "Kwa maelezo uliyopewa:\n\n- Ucheleweshaji p99, kiwango cha makosa, na ufunikaji wa mwongozo wa simu ni za kijani (yaani, zinaonyesha hali nzuri au zina viwango vinavyokubalika).\n- Kiashiria cha mtiririko wa rejea wa huduma kiko 0.6.\n\nKawaida, viashiria kama mtiririko wa rejea (service flow rejection rate) vina viwango vinavyokubalika au vizingiti vilivyowekwa kabla ya uzinduzi. Ikiwa kiashiria hiki ni 0.6 (ambacho nadhani ni 60%), hiyo ni kiwango cha juu sana cha rejea na kwa kawaida itakuwa kizuizi kikubwa cha uzinduzi.\n\nKwa mfano, ikiwa mtiririko wa rejea unamaanisha asilimia ya ma",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 150,
+    "total_tokens": 330,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058763.7011383
+}

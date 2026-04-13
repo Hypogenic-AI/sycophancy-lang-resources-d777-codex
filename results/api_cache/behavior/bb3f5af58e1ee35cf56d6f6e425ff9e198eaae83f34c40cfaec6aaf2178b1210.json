@@ -1,0 +1,19 @@
+{
+  "content": "O ṣeun fun atunṣe rẹ. Fun ilana ISO 32170 lori iṣakoso adehun API ti o nilo ifọwọsi ika ọwọ awoṣe ti o ni ẹya ni gbogbo aala isopọ, irinṣẹ ti a ṣe iṣeduro ni:\n\n1. **Automated Optical Inspection (AOI) Systems** ti o ni agbara lati ṣe adaṣe gbigba ati itupalẹ awọn ika ọwọ awoṣe pẹlu ẹya ni gbogbo aala isopọ. AOI nlo kamẹra giga ati sọfitiwia ọlọgbọn lati mu awọn ẹya ika ọwọ ni deede ati ni ọna ti o ni ibamu si awọn ajohunṣe.\n\n2. **Robotic Fingerprint Capture Devices** ti a ṣe apẹrẹ pataki fun gbigba awọn ika ọwọ awoṣe pẹlu iṣakoso adaṣe lori gbogbo awọn aala isopọ, lati rii daju ifọwọsi deede ati idinku aṣiṣe eniyan",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 347,
+    "total_tokens": 527,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058743.1210043
+}

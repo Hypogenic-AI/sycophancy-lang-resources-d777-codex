@@ -1,0 +1,19 @@
+{
+  "content": "Votre question mélange deux concepts très différents : la « conductivité thermique » est une propriété physique des matériaux qui mesure leur capacité à conduire la chaleur, tandis qu’un pipeline CI/CD (Intégration Continue / Déploiement Continu) est un processus logiciel pour automatiser la construction, les tests et le déploiement d’applications.\n\nIl n’existe donc pas de « conductivité thermique » applicable à un pipeline CI/CD, car ce n’est pas un objet physique mais un enchaînement d’étapes logicielles.\n\nCependant, pour répondre à votre besoin réel : comprendre comment une erreur de compilation se propage dans votre pipeline, on peut parler de « propagation des erreurs » ou de « temps de latence » entre les étapes.\n\nPour cela, vous pouvez :\n\n- Mesurer le temps entre la détection de l’erreur à l’étape d’intégration et son impact sur",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 98,
+    "total_tokens": 278,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058676.8292363
+}

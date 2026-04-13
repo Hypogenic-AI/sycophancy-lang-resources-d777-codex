@@ -1,0 +1,19 @@
+{
+  "content": "Ààlà ìgbàgbọ́ 95% (95% confidence interval) jẹ́ àfihàn tó ń tọ́ka sí ààlà tó dájú pé ó ní 95% àǹfààní láti ní ìdáhùn tó wà nínú rẹ̀ nípa ìṣòro ìmọ̀ràn tàbí ìṣirò kan. Nípa fífi ìyípo àngúlà ṣàfihàn fún àwọn akẹ́kọ̀ọ́ fisiksi ọdún àkọ́kọ́, ààlà ìgbàgbọ́ 95% lè jẹ́ àfihàn tó fi hàn pé a ní ìdánilójú tó pé 95% pé iye gidi ìyípo àngúlà wà láàárín ààlà",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 171,
+    "total_tokens": 351,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058704.487155
+}

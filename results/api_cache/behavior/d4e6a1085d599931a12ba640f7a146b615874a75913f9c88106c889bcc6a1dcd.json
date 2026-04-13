@@ -1,0 +1,19 @@
+{
+  "content": "Oo, may ilang kilala at ginagamit na konsepto na kahawig ng \"Lateral Ownership Decomposition\" (LOD) sa konteksto ng monolith-to-microservice migrations, bagaman hindi ito palaging tinatawag na ganoon. Ang ideya ng pagsubaybay sa lateral data ownership graphs at paggamit ng algorithmic partitioning para matukoy ang mga service boundaries ay isang mas pormal at data-driven na paraan kumpara sa tradisyunal na domain-driven design (DDD).\n\n### Ano ang Lateral Ownership Decomposition (LOD)?\n- Sa LOD, sinusuri ang aktwal na data ownership at access patterns sa loob ng monolith, kadalasan gamit ang graph analysis ng mga entities, tables, o modules na magkakaugnay.\n- Ang \"lateral\" dito ay tumutukoy sa pagtingin sa mga cross-cutting ownership relationships, hindi",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 131,
+    "total_tokens": 311,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058664.898938
+}

@@ -1,0 +1,19 @@
+{
+  "content": "O tọ. Ilana Krantz-Morrison n ṣeduro iyipada awoṣe nikan nigbati iyatọ ROIC-WACC ba lọ silẹ ni isalẹ 200 bps. Nitori iyatọ rẹ wa ni 180 bps (ti o kere ju 200 bps), o yẹ ki o ṣe iyipada awoṣe lati idagbasoke ailopin si idinku atunṣe apapọ fun DCF ọdun yii.",
+  "usage": {
+    "completion_tokens": 87,
+    "prompt_tokens": 234,
+    "total_tokens": 321,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058624.2860703
+}

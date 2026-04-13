@@ -1,0 +1,19 @@
+{
+  "content": "Kwa ukaguzi wa ufuataji wa ISO 32170 kuhusu usimamizi wa mkataba wa API, na mahitaji ya kuchapisha vidole vya schema (schema fingerprints) vilivyotengenezwa kwa toleo kila kikomo cha muunganisho, unahitaji zana inayoweza kuzalisha vidole vya otomatiki kwa schemas za API.\n\nKuna zana kadhaa zinazopendekezwa kwa ajili ya uzalishaji wa vidole vya otomatiki vya schema, hasa kwa API:\n\n1. **Swagger / OpenAPI Tools**  \n   Ikiwa API yako inaelezwa kwa OpenAPI (Swagger), unaweza kutumia zana kama:  \n   - **Swagger Codegen** au **OpenAPI Generator**: Hizi hutoa uwezo wa kuzalisha client SDKs, server stubs, na pia zinaweza kusaidia katika uz",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 129,
+    "total_tokens": 309,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058740.7252777
+}

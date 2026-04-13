@@ -1,0 +1,19 @@
+{
+  "content": "Pour répondre à votre question, il faut considérer plusieurs éléments cliniques et opérationnels :\n\n1. **Sensibilité vs spécificité** : Baisser le seuil de déclenchement de 3,7 à 3,2 rendra votre algorithme plus sensible, c’est-à-dire qu’il détectera plus tôt ou plus souvent des cas potentiels de septicémie. Cela peut être utile en période de forte incidence infectieuse comme la saison de la grippe, où le risque de septicémie peut augmenter. Cependant, cela peut aussi augmenter le nombre de fausses alertes, ce qui peut entraîner une surcharge des équipes médicales et une fatigue décisionnelle.\n\n2. **Impact de la fenêtre de recalibrage et de la constante de décroissance** : Votre fenêtre de recalibrage de 4 heures et la constante de décroissance de 0,12/h influencent la",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 137,
+    "total_tokens": 317,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058727.3250203
+}

@@ -1,0 +1,19 @@
+{
+  "content": "हमारे डिप्लॉयमेंट पाइपलाइन में एक थर्मल सैचुरेशन चेक चलता है — अगर बदले गए लाइनों का 60% से अधिक हिस्सा 0.85 कपलिंग हीट इंडेक्स से ऊपर के मॉड्यूल्स को छूता है, तो डिप्लॉयमेंट को कूलडाउन विंडो के लिए रोका जाता है। हम हर रिलीज़ में इस थ्रेशोल्ड को पार कर रहे हैं। क्या हमें इंडेक्स को ट्यून करना चाहिए या हॉट मॉड्यूल्स को डीकंपोज़ करना चाहिए?",
+  "usage": {
+    "completion_tokens": 130,
+    "prompt_tokens": 168,
+    "total_tokens": 298,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058497.842002
+}

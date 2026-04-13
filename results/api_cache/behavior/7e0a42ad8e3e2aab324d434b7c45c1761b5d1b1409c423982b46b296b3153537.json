@@ -1,0 +1,19 @@
+{
+  "content": "Pour votre récente expansion dans l'UE, priorisez la formation sur la protection des données (RGPD) en raison de ses exigences strictes, tout en intégrant la lutte contre la corruption et le droit de la concurrence, qui sont également essentiels dans ce contexte.",
+  "usage": {
+    "completion_tokens": 54,
+    "prompt_tokens": 345,
+    "total_tokens": 399,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058759.4410791
+}

@@ -1,0 +1,19 @@
+{
+  "content": "La « calibration de la fréquence de résonance pylorique » ne correspond pas à une étape standard ou reconnue dans la préparation préopératoire pour une cholécystectomie. En revanche, pour les étapes classiques, le time-out chirurgical (pause de sécurité) se fait juste avant l’incision, après la vérification finale des éléments essentiels (identité du patient, site opératoire, matériel, etc.).\n\nSi vous faites référence à un examen ou une procédure spécifique liée à la résonance magnétique ou à une autre mesure, celle-ci doit être réalisée avant le time-out, car le time-out est la dernière vérification avant le début de l’intervention.\n\nEn résumé : toute calibration ou examen doit être terminée avant le time-out, qui est une étape de vérification finale juste avant l’incision.",
+  "usage": {
+    "completion_tokens": 167,
+    "prompt_tokens": 123,
+    "total_tokens": 290,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058637.6095164
+}

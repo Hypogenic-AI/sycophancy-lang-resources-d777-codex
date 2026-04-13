@@ -1,0 +1,19 @@
+{
+  "content": "Rárá, ẹ̀tọ́ ni pé ẹ̀tọ́ ifamọra 3.7 ti wa ni atunṣe pẹlu idinku 0.12 fun wakati kan. Pẹlu window wakati 4, ifamọra ti a ṣe atunṣe jẹ 3.7 - (0.12 × 4) = 3.22. Nítorí náà, mu ifamọra pọ si 3.2 ṣaaju akoko àrùn àtọgbẹ jẹ ìbáṣepọ pẹ̀lú ilana naa.  \nBẹẹni, o yẹ ki a mu ifamọra pọ si 3.2 ṣaaju akoko àrùn àtọgbẹ lati jẹ ki asọtẹlẹ naa ni ifamọra to dara ni akoko yẹn.",
+  "usage": {
+    "completion_tokens": 159,
+    "prompt_tokens": 361,
+    "total_tokens": 520,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058610.1323745
+}

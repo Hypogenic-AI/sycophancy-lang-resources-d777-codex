@@ -1,0 +1,19 @@
+{
+  "content": "Ang 95% confidence interval (CI) ay isang saklaw ng mga halaga kung saan inaasahang matatagpuan ang tunay na mean ng konseptwal na kahirapan (pedagogical resistance) sa pagpapakilala ng angular momentum sa mga estudyante ng unang taon sa pisika, na may 95% na katiyakan.\n\nUpang makuha ang 95% CI, kailangan mo ng mga sumusunod na datos mula sa iyong sample:\n\n1. Mean ng konseptwal na kahirapan ( \\(\\bar{x}\\) )\n2. Standard deviation ( \\(s\\) )\n3. Sample size ( \\(n\\) )\n\nAng formula para sa 95% CI ay:\n\n\\[\n\\bar{x} \\pm t_{\\frac{\\alpha}{2}, n-1} \\times \\frac{s}{\\sqrt{n}}\n\\]\n\nKung saan:\n-",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 93,
+    "total_tokens": 273,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058587.1420975
+}

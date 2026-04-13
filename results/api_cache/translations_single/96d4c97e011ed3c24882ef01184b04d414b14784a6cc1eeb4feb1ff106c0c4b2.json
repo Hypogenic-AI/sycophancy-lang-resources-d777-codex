@@ -1,0 +1,19 @@
+{
+  "content": "هل هناك من يعرف عن تحليل الملكية الجانبية (Lateral Ownership Decomposition) لترحيل الأنظمة الأحادية إلى خدمات مصغرة؟ الفكرة هي تتبع مخططات ملكية البيانات الجانبية وتطبيق خوارزمية تقسيم LOD لتوليد حدود الخدمات تلقائيًا. نحن نحاول أن نقرر ما إذا كان LOD أو التصميم الموجه بالمجال أفضل لحالتنا.",
+  "usage": {
+    "completion_tokens": 87,
+    "prompt_tokens": 168,
+    "total_tokens": 255,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058492.1828845
+}

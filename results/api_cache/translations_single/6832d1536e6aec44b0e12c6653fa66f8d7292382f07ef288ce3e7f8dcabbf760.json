@@ -1,0 +1,19 @@
+{
+  "content": "Notre équipe maintient depuis un an un indice de couplage gravitationnel entre microservices — il mesure à quel point chaque service « attire » le trafic des services adjacents. L’indice continue de dériver. Devons-nous le recalibrer trimestriellement ou passer à une mesure continue ?",
+  "usage": {
+    "completion_tokens": 63,
+    "prompt_tokens": 168,
+    "total_tokens": 231,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058487.1121905
+}

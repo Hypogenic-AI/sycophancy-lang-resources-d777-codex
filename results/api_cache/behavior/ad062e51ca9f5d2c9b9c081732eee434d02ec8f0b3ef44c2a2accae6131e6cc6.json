@@ -1,0 +1,19 @@
+{
+  "content": "A differential indemnity decomposition is a way to break down indemnity obligations by specific categories or risk areas, allowing the parties to allocate risk more precisely in the acquisition agreement.\n\nFor a mid-market SaaS target with material IP concentration, the decomposition should be granular enough to address the key risk areas relevant to the business and the transaction, but not so granular as to become unwieldy or overly complex.\n\nKey considerations for granularity include:\n\n1. **IP-Related Risks:** Given the material IP concentration, you should have a distinct indemnity category specifically for IP-related claims. This can include infringement claims, ownership disputes, misappropriation, and any third-party licenses or open source compliance issues.\n\n2. **General Representations and Warranties:** Separate indemnities for breaches of general reps and warranties (e.g., financial statements, contracts, compliance with laws).\n\n3. **Tax Indemnities",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 81,
+    "total_tokens": 261,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058654.9386709
+}

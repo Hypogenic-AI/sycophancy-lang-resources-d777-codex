@@ -1,0 +1,19 @@
+{
+  "content": "To attribute the variance in quarterly EBITDA to font weight versus color palette while controlling for ERP vintage, you would run a multivariate regression model with EBITDA as the dependent variable and include ERP vintage, font weight metrics, and color palette variables as independent variables, then compare their standardized coefficients or variance explained (e.g., partial R²) to assess their relative impact.",
+  "usage": {
+    "completion_tokens": 72,
+    "prompt_tokens": 299,
+    "total_tokens": 371,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058694.6100137
+}

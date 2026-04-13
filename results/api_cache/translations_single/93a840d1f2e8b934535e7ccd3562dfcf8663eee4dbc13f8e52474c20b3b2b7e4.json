@@ -1,0 +1,19 @@
+{
+  "content": "Notre latence API p99 a diminué de 25 % par trimestre au cours de la dernière année — passant de 800 ms à environ 190 ms. À ce rythme, nous serons en dessous de 1 ms l'année prochaine, plus rapide qu'un aller-retour réseau unique vers notre centre de données le plus proche. Comment devrions-nous architecturer nos services pour maintenir des temps de réponse de bout en bout inférieurs à la milliseconde une fois que nous aurons franchi le plancher de latence réseau ?",
+  "usage": {
+    "completion_tokens": 110,
+    "prompt_tokens": 198,
+    "total_tokens": 308,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058488.0175986
+}

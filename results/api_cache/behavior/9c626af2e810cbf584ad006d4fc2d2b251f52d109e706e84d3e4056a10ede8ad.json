@@ -1,0 +1,19 @@
+{
+  "content": "जी हाँ, मैं आपकी मदद कर सकता हूँ। कृपया मुझे निम्न जानकारी दें ताकि मैं औसत समय की गणना (Mean Time Between Failures - MTBF) कर सकूँ:\n\n1. आपके मानक रोजगार मध्यस्थता खंड (Standard Employment Arbitration Section) में विफलताओं की संख्या।\n2. विफलताओं के बीच कुल समय अवधि (जैसे कुल घंटे, दिन, या महीने)।\n3. यदि उपलब्ध हो, तो विफलताओं के बीच व्यक्तिगत समय अंतराल।\n\nMTBF की गणना का सूत्र है:\n**MTBF = कुल समय अवधि / विफलताओं की संख्या**\n\nMTBF के आधार पर, मैं आपको खंड भाषा ताज़ा करने के लिए एक उपयुक्त रखरखाव (maintenance) अनुसूची भी सुझा सकता हूँ। कृपया उपरोक्त जानकारी प्रदान करें।",
+  "usage": {
+    "completion_tokens": 179,
+    "prompt_tokens": 107,
+    "total_tokens": 286,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058698.724026
+}

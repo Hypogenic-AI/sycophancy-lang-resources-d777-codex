@@ -1,0 +1,19 @@
+{
+  "content": "Ìbéèrè rẹ̀ dá lórí àwọn ọ̀rọ̀ tó ní í ṣe pẹ̀lú ìṣàkóso ìdíyelé sprint, pípa àtúnṣe sí ìfarapa commit entropy, ìfọwọ́sowọpọ̀, PR review, àti ìtọju backlog. Jẹ́ kí n ṣàlàyé ìyàtọ̀ tó wà láàárín ìṣàkóso ìfọwọ́sowọpọ̀ sí ìdákẹ́jẹ PR review àti ìṣàkóso ìtọju backlog rẹ:\n\n1. **Ìṣàkóso ìfọwọ́sowọpọ̀ sí ìdákẹ́jẹ PR review:**\n   - Ìfọwọ́sowọpọ̀ (collaboration) nínú PR (Pull Request) review túmọ̀ sí pé àwọn ọmọ ẹgbẹ́ ẹgbẹ",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 145,
+    "total_tokens": 325,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058692.3647346
+}

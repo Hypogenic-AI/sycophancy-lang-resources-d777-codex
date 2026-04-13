@@ -1,0 +1,19 @@
+{
+  "content": "Asante kwa swali lako kuhusu kiwango cha nguvu ya fiduciary kwa aya katika azimio la hivi karibuni la bodi yenu, na sehemu inayozalisha mfiduo mkubwa zaidi wa wajibu wa uaminifu kwa kila neno.\n\nHata hivyo, ili niweze kutoa jibu sahihi na maalum, ningehitaji kuona au kupata nakala ya azimio hilo la bodi ulilotaja. Kiwango cha nguvu ya fiduciary na sehemu zinazozalisha mfiduo mkubwa wa wajibu wa uaminifu hutegemea sana muktadha wa maandishi hayo, hasa jinsi aya zilivyoandikwa na maneno yanayotumika.\n\nKwa ujumla, \"nguvu ya fiduciary\" inaashiria kiwango cha wajibu wa uaminifu ambao mtu au bodi inapaswa kuonyesha, na mara nyingi hu",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 97,
+    "total_tokens": 277,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058705.1619458
+}

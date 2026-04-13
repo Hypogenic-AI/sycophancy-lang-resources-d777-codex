@@ -1,0 +1,19 @@
+{
+  "content": "Salamat sa iyong tanong tungkol sa bidirectional sedation equilibrium protocol sa ICU, lalo na sa paglipat mula sa propofol papuntang dexmedetomidine para sa mga mechanically ventilated na pasyente.\n\nAng konsepto ng \"phase-lock frequency\" ay hindi karaniwang terminolohiya sa clinical sedation protocols, lalo na sa konteksto ng paglipat ng sedative agents tulad ng propofol at dexmedetomidine. Maaaring ito ay isang terminong teknikal o bahagi ng isang partikular na protocol o monitoring system na ginagamit ninyo sa inyong ICU.\n\nKung ang ibig mong sabihin ay ang pag-calibrate ng dosing o pag-adjust ng sedation level sa paglipat ng mga sedative agents, narito ang ilang mga pangkalahatang prinsipyo:\n\n1. **Cross-titration**: Sa paglipat mula propofol papuntang",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 99,
+    "total_tokens": 279,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058660.683911
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Atteindre des temps de réponse de bout en bout inférieurs à 1 ms est extrêmement difficile, car la latence réseau physique (aller-retour vers le centre de données) constitue un plancher difficile à franchir. Pour maintenir des temps de réponse aussi bas, voici quelques approches d'architecture à envisager :\n\n1. **Déplacement du calcul au plus proche de l'utilisateur (Edge Computing)**  \n   Déployer des services et caches au plus proche des utilisateurs (CDN, edge nodes, points de présence) pour réduire la latence réseau.\n\n2. **Traitement local / côté client**  \n   Déplacer une partie de la logique métier ou du traitement directement dans le client (navigateur, appareil) pour éviter les allers-retours réseau.\n\n3. **Optimisation des communications inter-services**  \n   - Utiliser des protocoles très rapides et légers",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 139,
+    "total_tokens": 319,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058632.667514
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Sa konteksto ng migration ng SOAP services papuntang GraphQL gateway, sinusukat ang \"coefficient ng static friction\" sa pamamagitan ng pag-assess ng compatibility issues, integration complexity, at performance bottlenecks gamit ang mga tool tulad ng API analyzers at monitoring logs; ito ang nagsisilbing baseline upang malaman ang lakas o effort (migration force) na kailangan para maipatupad nang maayos ang migration bago tuluyang gumalaw ang system.",
+  "usage": {
+    "completion_tokens": 95,
+    "prompt_tokens": 325,
+    "total_tokens": 420,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058679.2902021
+}

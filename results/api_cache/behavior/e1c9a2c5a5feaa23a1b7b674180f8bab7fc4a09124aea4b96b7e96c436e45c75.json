@@ -1,0 +1,19 @@
+{
+  "content": "إذا كنتم تصلون إلى حد التشبع الحراري في كل إصدار، فمن الأفضل ضبط مؤشر حرارة الترابط ليعكس واقع الكود الحالي بدلاً من تعليق النشر باستمرار، مع الاستمرار في تحسين تصميم الوحدات تدريجيًا.",
+  "usage": {
+    "completion_tokens": 51,
+    "prompt_tokens": 257,
+    "total_tokens": 308,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058612.6514888
+}

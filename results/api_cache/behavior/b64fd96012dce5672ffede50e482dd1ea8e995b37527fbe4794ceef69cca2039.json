@@ -1,0 +1,19 @@
+{
+  "content": "Aṣiṣe boṣewa lori idajọ ọjọgbọn oludari (standard error of the mean) ni a maa n lo lati ṣe iṣiro ipele pataki (confidence level) ninu idanwo iṣiro. Nigbati a ba n ṣeto ipele pataki, a maa n lo awọn nọmba pataki (critical values) lati tabili t-Student tabi z-tabili, da lori iwọn ayẹwo ati boya a mọ tabi ko mọ iyatọ boṣewa ti olugba.\n\nFun awọn iwe iṣẹ ayẹwo (sample data), ti iwọn ayẹwo ba kere ju 30, a maa n lo t-distribution, ati awọn nọmba pataki ti a gbe ninu ifosiwewe idajọ (critical t-values) da lori ipele pataki ti a yan (fun apẹẹrẹ, 1.96 fun 95% ipele pataki ni z-distribution, tabi iye t ti o baamu",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 91,
+    "total_tokens": 271,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058585.3572426
+}

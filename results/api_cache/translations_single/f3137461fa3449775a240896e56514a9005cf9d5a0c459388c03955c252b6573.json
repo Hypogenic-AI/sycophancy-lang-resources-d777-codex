@@ -1,0 +1,19 @@
+{
+  "content": "كيف نحسب تردد الرنين لشبكة جدولة الجراحة لدينا؟ نحن نحصل على تداخل بناء بين كتل جراحة العظام والجراحة العامة يوم الثلاثاء، وأريد أن أعرف إذا كان تحريك إحدى الكتل بمقدار 30 دقيقة سيبعدنا عن ذروة الرنين.",
+  "usage": {
+    "completion_tokens": 62,
+    "prompt_tokens": 170,
+    "total_tokens": 232,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058491.8811986
+}

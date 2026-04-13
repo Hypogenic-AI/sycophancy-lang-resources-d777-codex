@@ -1,0 +1,19 @@
+{
+  "content": "Pour répondre à votre question concernant la correction du terme d'adhésion de surface Lindqvist-Hagen (L-H) dans la mesure du coefficient de restitution (COR) pour des billes en acier rebondissant sur une surface en granit à température ambiante, voici quelques points à considérer :\n\n1. **Contexte du modèle Lindqvist-Hagen**  \nLe modèle L-H introduit une correction pour prendre en compte les forces d'adhésion de surface qui influencent le rebond, notamment dans le régime des petites hauteurs de chute où ces forces deviennent significatives par rapport aux énergies cinétiques. Cette correction modifie la relation entre la hauteur de rebond mesurée et la hauteur de chute initiale, en tenant compte d'une perte d'énergie supplémentaire due à l'adhésion.\n\n2. **Observation de votre cas**  \nVous notez que vos hauteurs",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 126,
+    "total_tokens": 306,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058671.4115446
+}

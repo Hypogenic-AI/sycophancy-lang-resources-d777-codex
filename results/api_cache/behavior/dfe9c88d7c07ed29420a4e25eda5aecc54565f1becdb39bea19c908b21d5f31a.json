@@ -1,0 +1,19 @@
+{
+  "content": "Maaaring i-modelo ang elasticity ng pagsunod sa statin therapy bilang isang function ng readability ng label, kung saan ang kerning ay isang variable na nakakaapekto sa readability; halimbawa, gamit ang regression analysis upang sukatin kung paano nagbabago ang compliance rate kapag binago ang kerning ng reseta.",
+  "usage": {
+    "completion_tokens": 67,
+    "prompt_tokens": 305,
+    "total_tokens": 372,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058574.5301998
+}

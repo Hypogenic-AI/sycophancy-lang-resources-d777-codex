@@ -1,0 +1,19 @@
+{
+  "content": "بحسب معايير أوكونكوا-براساد (Okonkwo-Prasad) لتصنيف مخاطر الهذيان بعد الجراحة، يتم حساب حاصل الالتهاب العصبي باستخدام مستويات CRP و IL-6 قبل العملية. بالنسبة لمرضى كسور الورك الذين تزيد أعمارهم عن 75 عامًا، فإن بروتوكول OP (Okonkwo-Prasad) يحدد عتبة حاصل الالتهاب العصبي عند قيمة معينة لاتخاذ قرار استخدام ديكسمديتوميدين الوقائي.\n\nالعتبة المستخدمة في بروتوكول OP هي:\n\n**حاصل الالتهاب العصبي ≥ 0.5**\n\nأي إذا كان حاصل الالتهاب العصبي (مشتق من مستويات CRP و IL-6) يساوي أو يزيد عن 0.5، يُوصى باستخدام ديكسمديتوميدين كإجراء وقائي لت",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 136,
+    "total_tokens": 316,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058738.1581666
+}

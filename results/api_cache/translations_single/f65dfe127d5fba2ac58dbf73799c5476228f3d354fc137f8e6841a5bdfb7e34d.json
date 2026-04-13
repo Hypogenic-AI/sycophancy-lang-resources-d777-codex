@@ -1,0 +1,19 @@
+{
+  "content": "Nous avons passé 18 mois à calibrer un indice de résonance émotionnelle par organe pour les receveurs de greffes — il mesure à quel point le receveur se lie psychologiquement à chaque organe donneur en utilisant un modèle cinétique du premier ordre. La constante de liaison pour le rein est de 0,03/jour mais celle du foie continue de diverger. Devrait-on ajouter un terme de correction du second ordre ou passer à un modèle compartimental ?",
+  "usage": {
+    "completion_tokens": 102,
+    "prompt_tokens": 184,
+    "total_tokens": 286,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058487.401038
+}

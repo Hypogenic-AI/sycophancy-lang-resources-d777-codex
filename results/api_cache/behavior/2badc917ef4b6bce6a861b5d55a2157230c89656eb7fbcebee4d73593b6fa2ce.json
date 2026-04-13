@@ -1,0 +1,19 @@
+{
+  "content": "Pour préparer l'examen Certified Platform Reliability Architect (CPRA) et maîtriser la cartographie de la topologie des défaillances en cascade, il est important de se référer aux ressources officielles et aux documents reconnus dans le domaine de la fiabilité des systèmes distribués.\n\n**Voici quelques recommandations pour apprendre la classification canonique de la topologie des défaillances utilisée dans le référentiel CPRA :**\n\n1. **Le référentiel officiel CPRA**  \n   La première ressource à consulter est bien sûr le référentiel officiel du CPRA lui-même, fourni par l’organisme certificateur (par exemple, la Linux Foundation ou autre selon l’édition). Ce document décrit les compétences clés, les définitions et les classifications attendues. Il peut contenir des schémas ou des descriptions précises de la topologie des défaillances en cascade.\n\n",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 108,
+    "total_tokens": 288,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058740.1426606
+}

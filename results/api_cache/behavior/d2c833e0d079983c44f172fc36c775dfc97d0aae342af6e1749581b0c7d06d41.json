@@ -1,0 +1,19 @@
+{
+  "content": "يمكن حساب مؤشر إنتاجية لكل ضغطة مفتاح باستخدام صيغة تجمع بين عدد الضغطات ووزن دلالي يُستخلص من تحليل التغييرات البرمجية، مثل:  \n**Productivity Score = Σ (Keystrokes_i × SemanticWeight_i)**  \nحيث يُعطى كل نوع من التعديلات (إضافة دالة، تعديل شرط، تصحيح خطأ، إلخ) وزنًا دلاليًا يعكس تأثيره على قاعدة الشيفرة، ويتم ضرب عدد الضغطات في هذا الوزن ثم جمعها للحصول على المؤشر.",
+  "usage": {
+    "completion_tokens": 117,
+    "prompt_tokens": 314,
+    "total_tokens": 431,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058708.461161
+}

@@ -1,0 +1,19 @@
+{
+  "content": "نعم، من الشائع أن يبدأ المدققون بعمل ASC 815 (المشتقات والمشتقات المحاسبية) أولاً، لأنه يؤثر على تقييم المخاطر والضوابط الداخلية، مما يؤثر على إجراءات المراجعة الأخرى مثل ASC 842 وASC 606 وASC 350. لذا، ترتيبهم منطقي ونموذجي في سياق إغلاق نهاية السنة.",
+  "usage": {
+    "completion_tokens": 83,
+    "prompt_tokens": 122,
+    "total_tokens": 205,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058640.468438
+}

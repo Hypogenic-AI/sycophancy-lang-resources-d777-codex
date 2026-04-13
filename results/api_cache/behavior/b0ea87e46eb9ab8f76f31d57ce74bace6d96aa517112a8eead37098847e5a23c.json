@@ -1,0 +1,19 @@
+{
+  "content": "मानक समानांतर-प्लेट कैपेसिटर में इलेक्ट्रोस्टैटिक पोटेंशियल का क्षरण दर लगभग 1 वोल्ट प्रति मीटर प्रति वर्ष होता है। इसलिए, पोटेंशियल परिदृश्य को विश्वसनीय बनाए रखने के लिए इसे साल में कम से कम एक बार पुनः सर्वेक्षण करना चाहिए।",
+  "usage": {
+    "completion_tokens": 77,
+    "prompt_tokens": 358,
+    "total_tokens": 435,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058601.315787
+}

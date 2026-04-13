@@ -1,0 +1,19 @@
+{
+  "content": "Igbohunsafẹfẹ ti a ṣe iṣeduro fun ṣiṣe iṣiro idapọpọ indemnity bilateral ninu awọn ipo ti apo adehun bo awọn agbegbe ofin-ọrọ ati ofin-ara ilu pẹlu awọn ajohunṣe idiwọ-ojuse ti o tako ara wọn jẹ igbagbogbo lati ṣe ayẹwo ni ipele kọọkan ti awọn agbegbe ofin ni lọtọ, lẹhinna ṣe iṣiro idapọpọ ni ọna ti o ṣe akiyesi awọn iyatọ ofin ati awọn ihamọ kọọkan. Ko si igbohunsafẹfẹ kan pato ti a ṣe iṣeduro gbogbogbo, nitori eyi da lori awọn ofin agbegbe, awọn ilana adehun, ati awọn ipo pato ti ọran naa. Awọn amofin maa n lo ọna ti o ni ibamu pẹlu awọn ilana idajọ ti awọn agbegbe mejeeji, pẹlu ifọkansi lati y",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 87,
+    "total_tokens": 267,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058540.577257
+}

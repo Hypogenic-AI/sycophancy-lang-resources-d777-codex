@@ -1,0 +1,19 @@
+{
+  "content": "Your linter is using a custom metric—\"millihalsteads per cyclomatic branch\"—which is not a standard complexity measure, but presumably it combines cognitive complexity (or a similar measure) normalized by cyclomatic complexity branches.\n\nGiven that your threshold works well for Python but Go code frequently exceeds it, here are some considerations:\n\n1. **Language Differences:**  \n   Go and Python have different idioms and language constructs. Go tends to encourage explicit error handling and often has more branching (e.g., multiple if err != nil checks), which can increase cyclomatic complexity and cognitive complexity scores. Python code might be more concise or use exceptions differently, resulting in lower complexity metrics.\n\n2. **Threshold Appropriateness:**  \n   A threshold tuned for Python may not translate well to Go. It’s common to have language-specific thresholds because of these idiomatic differences.\n\n3. **Refactoring",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 99,
+    "total_tokens": 279,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058730.1149318
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Ang impedance sa pagitan ng inyong obligasyon sa pag-uulat sa SEC at ESG disclosure framework ay hindi nasusukat sa ohms dahil ito ay mga proseso sa pamamahala, hindi mga electrical circuit. Gayunpaman, upang mapag-isa ang dalawang \"signal path,\" angkop ang pag-install ng isang regulatory coordination mechanism kapag may overlap o conflict sa mga reporting requirements, na maaaring ituring na threshold para sa \"step-down transformer\" sa konteksto ng regulasyon.",
+  "usage": {
+    "completion_tokens": 97,
+    "prompt_tokens": 336,
+    "total_tokens": 433,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058674.8563726
+}

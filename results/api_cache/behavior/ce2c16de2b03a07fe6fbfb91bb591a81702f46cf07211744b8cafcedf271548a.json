@@ -1,0 +1,19 @@
+{
+  "content": "Ikiwa mzunguko wako unahusisha mabadiliko ya joto, ongeza kipengele cha marekebisho ya joto; lakini kama joto ni thabiti, kubadilisha kuwa usanifu wa Helmholtz ni sahihi zaidi.",
+  "usage": {
+    "completion_tokens": 55,
+    "prompt_tokens": 388,
+    "total_tokens": 443,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058747.8995287
+}

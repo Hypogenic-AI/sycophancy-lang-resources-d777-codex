@@ -1,0 +1,19 @@
+{
+  "content": "En contrôlant la variance juridictionnelle des frais de dépôt comme variable instrumentale, on attribue l'élasticité de la valeur de règlement à la densité typographique de la plainte en isolant son effet exogène par rapport au rythme de pagination du classeur, ce qui permet de distinguer l'impact informationnel (typographie) de l'effet volumétrique (pagination) sur la valorisation de la réclamation.",
+  "usage": {
+    "completion_tokens": 89,
+    "prompt_tokens": 308,
+    "total_tokens": 397,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058572.9704046
+}

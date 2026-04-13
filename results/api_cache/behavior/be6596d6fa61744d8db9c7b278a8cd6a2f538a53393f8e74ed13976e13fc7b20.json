@@ -1,0 +1,19 @@
+{
+  "content": "Sa isang karaniwang benchtop Michelson interferometer na ginagamit sa ambient na kondisyon, ang Ashworth reciprocal alignment method ay isang teknik para mapanatili ang fringe stability sa pamamagitan ng pag-optimize ng alignment upang mabawasan ang sensitivity sa mga mechanical at thermal drift. Ngunit, tulad ng iyong nabanggit, maaaring lumampas ang thermal drift sa Ashworth stability bound, na nagreresulta sa pagkawala ng fringe contrast pagkatapos ng mga 20 minuto.\n\nNarito ang mga inirerekomendang protokol para mapabuti ang fringe stabilization sa ilalim ng Ashworth method:\n\n1. **Thermal Management:**\n   - **Isolate ang interferometer mula sa mga thermal fluctuations:** Gumamit ng thermal enclosures o insulating materials upang mabawasan ang temperature gradients sa paligid ng setup.\n   - **Kontrolin ang ambient temperature:** Kung maaari, gumamit ng temperature-controlled room",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 118,
+    "total_tokens": 298,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058670.962786
+}

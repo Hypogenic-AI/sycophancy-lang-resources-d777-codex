@@ -1,0 +1,19 @@
+{
+  "content": "Ikiwa kila pendekezo la msimbo linakubaliwa bila mabadiliko, mapitio ya msimbo yanapaswa kuhamia zaidi kwenye kuhakikisha ubora na uthabiti wa msimbo kwa njia zifuatazo:\n\n1. **Kujikita kwenye ubora wa msimbo (code quality):** Badala ya kujaribu kubadilisha pendekezo, hakikisha msimbo unafuata viwango vya ubora, usomaji rahisi, na kanuni za kuandika msimbo safi (clean code).\n\n2. **Kukagua usalama na utendakazi:** Fanya ukaguzi wa usalama na utendakazi wa msimbo ili kuhakikisha msimbo hauleti hatari au kasoro za kiutendaji.\n\n3. **Automatiki ya mapitio:** Tumia zana za otomatiki (kama vile linters",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 137,
+    "total_tokens": 317,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058634.8703988
+}

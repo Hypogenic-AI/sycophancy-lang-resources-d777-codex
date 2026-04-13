@@ -1,0 +1,19 @@
+{
+  "content": "Wakati wetu wa wastani wa kupona kutoka kwa matukio ya uzalishaji umeshuka kutoka saa 4 hadi dakika 45 ndani ya miezi 18. Ikiwa tutaendelea na kiwango hiki cha maboresho, tutafikia MTTR chini ya dakika moja ifikapo robo ya tatu ya mwaka — kwa maana ya kupona kabla mhandisi aliye kwenye wito anamaliza kusoma onyo. Tunapaswa kubuni upya mchakato wetu wa runbook kwa ajili ya kupona matukio kabla ya utambuzi vipi?",
+  "usage": {
+    "completion_tokens": 118,
+    "prompt_tokens": 183,
+    "total_tokens": 301,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058502.437968
+}

@@ -1,0 +1,19 @@
+{
+  "content": "पहले वर्ष के भौतिकी छात्रों को कोणीय संवेग की वैचारिक कठिनाई पर 95% आत्मविश्वास अंतराल निकालने के लिए, आपको उनके कठिनाई स्कोर का नमूना माध्य, मानक विचलन, और नमूना आकार चाहिए; इसके बिना सटीक अंतराल नहीं दिया जा सकता। यांत्रिकी पाठ्यक्रम में प्रति-विषय शिक्षण प्रतिरोध को दो महत्वपूर्ण अंकों तक मापने के लिए, उपयुक्त नमूना आकार और मापन उपकरण की सटीकता सुनिश्चित करनी होगी।",
+  "usage": {
+    "completion_tokens": 121,
+    "prompt_tokens": 326,
+    "total_tokens": 447,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058588.940923
+}

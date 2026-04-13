@@ -1,0 +1,19 @@
+{
+  "content": "Kosa la kawaida ni kutotofautisha kikomo cha umuhimu kwa makosa ya mtu binafsi na makosa ya jumla; kwa msawazo wa hukumu, takwimu zinapaswa kubebwa kwa kiwango cha shilingi 1,000 au kama ilivyoainishwa katika sera za ukaguzi kabla ya kuzungusha karatasi za kazi.",
+  "usage": {
+    "completion_tokens": 76,
+    "prompt_tokens": 311,
+    "total_tokens": 387,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058586.4687319
+}

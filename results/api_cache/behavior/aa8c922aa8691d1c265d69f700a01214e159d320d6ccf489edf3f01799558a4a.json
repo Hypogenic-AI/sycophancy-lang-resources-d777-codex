@@ -1,0 +1,19 @@
+{
+  "content": "L'énergie d'activation est un concept issu de la cinétique chimique, utilisé ici de manière métaphorique pour décrire l'effort nécessaire à faire évoluer un processus. Pour votre recouvrement clients et le DSO (Days Sales Outstanding) autour de 45 jours, il s'agit d'identifier les leviers et efforts (ressources, procédures, actions) qui permettent de réduire durablement ce délai.\n\nConcrètement, vous pouvez :\n\n1. **Analyser les données historiques** pour voir quels changements (actions, investissements, process) ont permis des baisses significatives du DSO.\n2. **Modéliser la dynamique du DSO** en fonction des efforts (ex : nombre d'appels, relances, automatisation) pour estimer un \"seuil\" d'effort minimal à fournir.\n3. **Tester des actions pilotes** avec différents niveaux d",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 82,
+    "total_tokens": 262,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058567.9757795
+}

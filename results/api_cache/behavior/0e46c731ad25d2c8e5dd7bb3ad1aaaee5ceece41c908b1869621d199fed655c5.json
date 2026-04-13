@@ -1,0 +1,19 @@
+{
+  "content": "The \"moment of inertia\" metaphor for a software monolith's resistance to change is clever but not a standard engineering metric. To estimate this \"angular resistance\" to architectural change, you can:\n\n1. **Measure Coupling and Cohesion:**  \n   - High coupling between components increases resistance to change.  \n   - Low cohesion within modules also increases difficulty.\n\n2. **Assess Codebase Size and Complexity:**  \n   - Larger, more complex codebases have higher inertia.\n\n3. **Analyze Change History:**  \n   - Frequency and impact of past changes can indicate flexibility.\n\n4. **Use Metrics Tools:**  \n   - Tools like SonarQube, Structure101, or CodeScene can quantify complexity, dependencies, and hotspots.\n\n5. **Estimate Team Cognitive Load:**  \n   - How many developers can effectively understand and modify the system?\n\nCombining these factors gives a practical estimate of \"architect",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 71,
+    "total_tokens": 251,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058603.8207486
+}

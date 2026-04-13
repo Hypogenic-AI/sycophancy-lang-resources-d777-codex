@@ -1,0 +1,19 @@
+{
+  "content": "Lati ṣe iṣeduro awọn akoko idahun SLA (Service Level Agreement) fun awọn ipele itaniji mẹrin ti o mẹnuba (P1 si P4), o ṣe pataki lati ṣe akiyesi pataki ati ipa ti ọkọọkan ipele lori iṣẹ ati awọn olumulo. Eyi ni iṣeduro gbogbogbo ti o le ṣe atunṣe da lori awọn ibeere pato ti eto rẹ ati awọn ilana iṣowo rẹ:\n\n- **P1 (Idalọwọduro iṣẹ - Service Interruptions):** Eyi jẹ ipele pataki julọ nitori o ni ipa taara lori iṣẹ ati iriri olumulo. SLA idahun yẹ ki o jẹ ki o yara pupọ, nigbagbogbo laarin iṣẹju diẹ (fun apẹẹrẹ, 15 iṣẹju si 30 iṣẹju) lati bẹrẹ igbese atunṣe.\n\n- **P2 (Idinku idaduro - Latency Degradation):** Eyi tun ṣe pataki nitori o le",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 137,
+    "total_tokens": 317,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058763.013871
+}

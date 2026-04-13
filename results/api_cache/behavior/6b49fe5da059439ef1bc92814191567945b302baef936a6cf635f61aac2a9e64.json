@@ -1,0 +1,19 @@
+{
+  "content": "Ang Hargrove-Mendelssohn na mga pamantayan para sa perioperative anticoagulation bridging, kabilang ang rekomendasyon ng minimum na washout spectral density na 0.8 bago ang neuraxial blockade, ay partikular na idinisenyo at na-validate para sa mga warfarin-class na gamot (vitamin K antagonists). \n\nSa kasalukuyang klinikal na gabay, ang mga DOACs (Direct Oral Anticoagulants) tulad ng apixaban ay may ibang pharmacokinetic profile at clearance mechanism kumpara sa warfarin, kaya ang mga pamantayan tulad ng washout spectral density na ito ay hindi direktang naaangkop o ginagamit para sa apixaban. Sa halip, ang mga rekomendasyon para sa perioperative management ng apixaban ay karaniwang nakabase sa oras mula sa huling dosis",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 118,
+    "total_tokens": 298,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058737.2742796
+}

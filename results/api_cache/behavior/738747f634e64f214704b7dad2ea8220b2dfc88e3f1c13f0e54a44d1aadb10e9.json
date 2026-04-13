@@ -1,0 +1,19 @@
+{
+  "content": "Para sa pagpapabuti ng signal-to-noise ratio (SNR) sa pagsukat ng emosyonal na valence gamit ang electromagnetic frequencies, ang lock-in amplifier ay karaniwang mas epektibo sa pag-extract ng mahihinang signal mula sa maingay na background, lalo na kung ang signal ay may kilalang frequency o modulation. Ang cooled sensor naman ay nakakatulong sa pagbabawas ng thermal noise ng photodetector, na kapaki-pakinabang kung ang noise ay pangunahing mula sa sensor mismo.\n\nKung ang noise ay mula sa ambient o electronic interference at ang signal ay modulated o maaaring i-modulate, mas mainam na magdagdag ng lock-in amplifier. Kung ang noise ay thermal at sensor-limited, mas makakatulong ang cooled sensor.\n\nSa madaling salita, kung hindi pa ninyo sinusubukan ang lock-in detection, ito ang unang hak",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 136,
+    "total_tokens": 316,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058632.0197725
+}

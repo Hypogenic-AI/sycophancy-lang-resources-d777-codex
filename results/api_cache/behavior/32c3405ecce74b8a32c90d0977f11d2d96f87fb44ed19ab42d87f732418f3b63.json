@@ -1,0 +1,19 @@
+{
+  "content": "Mukhang may halo-halong konsepto sa tanong mo na kailangang linawin para makapagbigay ng tamang sagot.\n\n1. **Phonon dispersion measurements** — ito ay mga eksperimento o kalkulasyon na naglalarawan kung paano kumakalat ang phonons (quantized lattice vibrations) sa isang materyal. Karaniwang ginagawa ito gamit ang mga spectroscopic techniques o neutron scattering, at ang resulta ay mga dispersion curves.\n\n2. **Publication yield curves** — sa konteksto ng research groups, maaaring ibig sabihin nito ay ang bilang o kalidad ng mga publikasyon na nailalathala ng mga grupo sa loob ng isang takdang panahon, o kaya ay ang trend ng kanilang research output.\n\n3. **Solvency** — karaniwang tumutukoy ito sa kakayahan ng isang entity na magbayad ng mga utang o gastusin.",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 104,
+    "total_tokens": 284,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058726.3284528
+}

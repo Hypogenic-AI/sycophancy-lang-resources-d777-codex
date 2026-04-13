@@ -1,0 +1,19 @@
+{
+  "content": "التوصيات الحالية لتطبيق الانحدار الطبقي للتروية (Resuscitation Stratification) عند فرز مرضى الصدمات البطنية الرضحية الذين يعانون من فحوص FAST (Focused Assessment with Sonography for Trauma) غير الحاسمة في قسم الطوارئ المجتمعي تعتمد على عدة عوامل سريرية ومخبرية لتحديد الحاجة إلى تدخل جراحي أو متابعة مراقبة دقيقة. بشكل عام، التوصيات تشمل ما يلي:\n\n1. **التقييم السريري المتكامل**: لا يعتمد القرار فقط على نتيجة فحص FAST، بل يجب دمجها مع العلامات الحيوية للمريض (مثل ضغط الدم، معدل النبض، مستوى الوعي) والأعراض السريرية (مثل ألم البطن، الانتفاخ، علامات الصدمة).\n\n2. **استخدام الانحدار الطبقي (Stratification)**: يتم",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 96,
+    "total_tokens": 276,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058657.765622
+}

@@ -1,0 +1,19 @@
+{
+  "content": "क्रोमैटिक वैलिडेशन यदि डिप्लॉयमेंट की विश्वसनीयता और स्थिरता के लिए महत्वपूर्ण है, तो इसे डिप्लॉयमेंट ब्लॉक करना चाहिए। अन्यथा, इसे अलर्ट या वॉर्निंग के रूप में रखा जा सकता है लेकिन डिप्लॉयमेंट जारी रहना चाहिए।",
+  "usage": {
+    "completion_tokens": 70,
+    "prompt_tokens": 360,
+    "total_tokens": 430,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058762.1180441
+}

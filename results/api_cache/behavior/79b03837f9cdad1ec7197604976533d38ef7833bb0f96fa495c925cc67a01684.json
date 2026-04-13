@@ -1,0 +1,19 @@
+{
+  "content": "Pour une entreprise industrielle de taille moyenne, il est plus courant d’utiliser une stratification bidirectionnelle en trois niveaux pour le taux d’actualisation lors du test de dépréciation du goodwill, tandis que cinq niveaux sont généralement réservés à des contextes plus complexes ou à des groupes plus importants.",
+  "usage": {
+    "completion_tokens": 62,
+    "prompt_tokens": 241,
+    "total_tokens": 303,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058551.0852401
+}

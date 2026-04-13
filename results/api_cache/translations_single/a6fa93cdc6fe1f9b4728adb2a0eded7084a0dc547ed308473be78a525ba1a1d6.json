@@ -1,0 +1,19 @@
+{
+  "content": "A ti ṣe atunṣe ẹrọ iṣakoso idapọ omi wa si wiwo ọjọ 14 pẹlu ifosiwewe idinku ti 0.85, ṣugbọn abajade naa n yapa kuro ninu LCR gidi wa nigba awọn akoko wahala. Ṣe a yẹ ki a kuru wiwo naa si ọjọ 7 tabi pọ si ifosiwewe idinku si 0.92 ṣaaju ifisilẹ CCAR to n bọ?",
+  "usage": {
+    "completion_tokens": 92,
+    "prompt_tokens": 191,
+    "total_tokens": 283,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058510.702904
+}

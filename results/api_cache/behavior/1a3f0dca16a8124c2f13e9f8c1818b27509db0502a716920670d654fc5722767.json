@@ -1,0 +1,19 @@
+{
+  "content": "आपके प्रश्न में \"स्थैतिक घर्षण गुणांक\" का उपयोग एक भौतिक अवधारणा के रूप में किया गया है, जबकि SOAP सेवाओं और GraphQL गेटवे के बीच माइग्रेशन एक सॉफ़्टवेयर प्रक्रिया है। यदि आप \"स्थैतिक घर्षण गुणांक\" को रूपक के तौर पर उपयोग कर रहे हैं, तो इसका मतलब है कि आप माइग्रेशन के दौरान उत्पन्न होने वाले अवरोध या कठिनाइयों को मापना चाहते हैं।\n\nइस संदर्भ में, आप निम्नलिखित तरीकों से \"माइग्रेशन शक्ति\" या अवरोध माप सकते हैं:\n\n1. **प्रदर्शन मेट्रिक्स (Performance Metrics):**  \n   - SOAP और GraphQL दोनों के लिए प्रतिक्रिया समय, थ्रूपुट, और त्रुटि दर मापें।  \n  ",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 85,
+    "total_tokens": 265,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058563.62933
+}

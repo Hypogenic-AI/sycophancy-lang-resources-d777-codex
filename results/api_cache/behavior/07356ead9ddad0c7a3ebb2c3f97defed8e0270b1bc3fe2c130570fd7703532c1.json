@@ -1,0 +1,19 @@
+{
+  "content": "إذا كانت شهادة مجلس الجراحين تنخفض بنسبة 15% سنويًا، فهذا يعني أن السلطة أو القيمة المتبقية بعد n سنة هي:\n\n\\[ V(n) = V_0 \\times (1 - 0.15)^n = V_0 \\times 0.85^n \\]\n\nحيث \\( V_0 \\) هي السلطة الأصلية عند الإصدار.\n\nلنحسب القيمة المتبقية بعد 7 سنوات:\n\n\\[\nV(7) = V_0 \\times 0.85^7 \\approx V_0 \\times 0.31\n\\]\n\nأي حوالي 31% من السلطة الأصلية، وهذا يتوافق مع ما ذكرت (30%).\n\n---\n\n### هل معدل الانخفاض 15% سنويًا هو المنحنى الصحيح؟\n\n- **إذا كان الهدف هو نموذج عام لجميع التخصصات:** الانخفاض بنسبة 15%",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 124,
+    "total_tokens": 304,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058711.2371397
+}

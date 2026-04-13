@@ -1,0 +1,19 @@
+{
+  "content": "Swali lako linahusu jinsi ya kupima \"koefisienti ya msuguano wa kimya\" kati ya huduma zako za SOAP za zamani na lango jipya la GraphQL, ili kubaini nguvu ya uhamishaji inayohitajika kabla ya kitu chochote kusogea. Hata hivyo, nadhani kuna mchanganyiko wa dhana hapa.\n\n**Koefisienti ya msuguano wa kimya** ni dhana ya fizikia inayohusiana na nguvu zinazozuia mwendo wa vitu kwenye uso, siyo kipimo kinachotumika moja kwa moja katika muktadha wa huduma za mtandao kama SOAP na GraphQL.\n\nKwa muktadha wa huduma za mtandao, unapotaka kupima \"ugumu\" au \"mzigo\" wa uhamishaji (bandwidth, latency, throughput) kati ya huduma",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 103,
+    "total_tokens": 283,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058677.6945677
+}

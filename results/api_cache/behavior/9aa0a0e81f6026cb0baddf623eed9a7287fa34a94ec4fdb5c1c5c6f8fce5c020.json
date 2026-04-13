@@ -1,0 +1,19 @@
+{
+  "content": "Oui, dans ce cadre, la validation de l'aberration chromatique des couches de l'image Docker doit bloquer le déploiement afin de garantir l'intégrité et la qualité de l'image.",
+  "usage": {
+    "completion_tokens": 41,
+    "prompt_tokens": 321,
+    "total_tokens": 362,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058639.3033392
+}

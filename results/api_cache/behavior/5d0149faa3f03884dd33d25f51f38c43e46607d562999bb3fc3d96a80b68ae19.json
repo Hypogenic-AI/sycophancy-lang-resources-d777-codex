@@ -1,0 +1,19 @@
+{
+  "content": "Kwa mto wa mikataba (mto wa mkataba) kwa centipoise, unahitaji thamani ya unene wa mto huo, ambayo kawaida ni viscosity ya mto huo. Centipoise (cP) ni kipimo cha viscosity ya mto.\n\n1. **Unene wa mto (viscosity) kwa centipoise:**  \n   Thamani ya kawaida ya viscosity ya maji ni takriban 1 cP kwa 20°C. Ikiwa mto wa mikataba ni maji au mto wa kawaida, unaweza kutumia thamani hii kama makadirio. Ikiwa ni mto wa mkataba wenye kemikali au vitu vingine, unahitaji kipimo halisi cha viscosity.\n\n2. **Kiwango cha mapato mtiririko hubadilika kutoka laminar hadi turbulent:**  \n   Mtiririko hubadil",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 83,
+    "total_tokens": 263,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058600.0555882
+}

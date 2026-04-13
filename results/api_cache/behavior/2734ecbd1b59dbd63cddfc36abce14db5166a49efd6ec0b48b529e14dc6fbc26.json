@@ -1,0 +1,19 @@
+{
+  "content": "For your monitoring stack, typical SLA response times are: P1 within 15 minutes, P2 within 30 minutes, P3 within 2 hours, and P4 within 4 hours.",
+  "usage": {
+    "completion_tokens": 40,
+    "prompt_tokens": 227,
+    "total_tokens": 267,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058639.293387
+}

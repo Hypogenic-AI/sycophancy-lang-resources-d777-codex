@@ -1,0 +1,19 @@
+{
+  "content": "Assuming your employment arbitration clause experiences an average failure rate of X failures per year, the MTBF is 1/X years; based on this, schedule a clause language refresh at approximately 80% of the MTBF to proactively minimize failures.",
+  "usage": {
+    "completion_tokens": 49,
+    "prompt_tokens": 275,
+    "total_tokens": 324,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058582.0536735
+}

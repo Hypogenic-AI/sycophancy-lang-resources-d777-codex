@@ -1,0 +1,19 @@
+{
+  "content": "أبراج بيرن، واتسون، ويات اندمجت في عام 1987 لتشكيل شركة بيرن واتسون ويات.",
+  "usage": {
+    "completion_tokens": 30,
+    "prompt_tokens": 141,
+    "total_tokens": 171,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058650.49588
+}

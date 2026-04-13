@@ -1,0 +1,19 @@
+{
+  "content": "The concept of Mean Time Between Failures (MTBF) applies to physical systems or components with measurable failure rates, not directly to legal clauses like an employment arbitration clause. However, if you track how often issues or disputes arise specifically due to the clause's language (e.g., ambiguities, unenforceability, or litigation challenges), you could estimate an average \"failure\" interval.\n\nTo do this, you would need historical data on:\n- Number of disputes linked to the clause\n- Time periods between these disputes\n\nOnce you have an average interval between such failures, you could recommend a review or refresh schedule slightly shorter than that interval to proactively update the clause before problems arise.\n\nWithout specific data, a common best practice is to review and update standard contract clauses every 2-3 years or whenever there are significant legal or regulatory changes affecting employment arbitration.\n\nIf you can provide data on past clause-related",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 58,
+    "total_tokens": 238,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058581.383098
+}

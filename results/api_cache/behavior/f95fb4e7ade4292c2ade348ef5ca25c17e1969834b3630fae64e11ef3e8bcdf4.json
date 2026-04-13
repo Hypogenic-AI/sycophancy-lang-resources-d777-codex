@@ -1,0 +1,19 @@
+{
+  "content": "Kwa msingi wa maelezo yako, algoriti inaanza mwitikio pale kiwango cha kuondolewa kwa uvimbe kinapozidi 3.7, kwa dirisha la upya wa saa 4 na thabiti ya kupungua ya 0.12 kwa saa. Kuweka kichocheo hadi 3.2 ni chini ya kizingiti cha 3.7, hivyo haifai kuimarisha kichocheo hadi 3.2 kama lengo ni kuanzisha mwitikio wa haraka kwa kiwango cha juu zaidi cha kuondolewa kwa uvimbe.\n\nKwa msimu wa mafua, ikiwa unataka kuanzisha mwitikio mapema zaidi, unaweza kuzingatia kupunguza kizingiti kutoka 3.7 hadi thamani ya chini kuliko 3.7, lakini si 3.2 kama kichoche",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 121,
+    "total_tokens": 301,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058608.8080797
+}

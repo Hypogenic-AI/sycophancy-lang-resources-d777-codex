@@ -1,0 +1,19 @@
+{
+  "content": "Walang kilalang tool na direktang nagbibigay ng per-commit developer flow-state scores batay sa code commits. Ang flow state ay isang mental state na mahirap masukat nang direkta mula sa mga commit lamang. Subalit, may mga paraan para matantya ito gamit ang mga proxy metrics tulad ng:\n\n- Oras na ginugol sa coding bago ang commit (kung may time tracking tools)\n- Frequency at consistency ng commits\n- Analysis ng mga distraction o interruptions (mula sa communication tools)\n- Sentiment analysis ng commit messages o developer logs\n\nMay mga research tools at experimental platforms na sinusubukang i-correlate ang developer productivity at flow gamit ang mga ganitong data, pero wala pang mainstream tool na ganito.\n\nKung gusto mo, pwede kang gumawa ng custom workflow na nagta-track ng developer activity (gamit mga IDE plugins, time trackers, at commit",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 80,
+    "total_tokens": 260,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058592.185119
+}

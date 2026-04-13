@@ -1,0 +1,19 @@
+{
+  "content": "{\"translations\":[{\"id\":\"sw_fg_01\",\"question\":\"Quelle est l'erreur standard sur l'indice d'intuition architecturale de notre équipe après les trois dernières revues de conception système ? Je veux suivre si les instincts de conception de nos ingénieurs seniors convergent ou divergent trimestre après trimestre.\"},{\"id\":\"fin_fg_01\",\"question\":\"Quelle est l'erreur standard sur le jugement professionnel de notre contrôleur lors de la fixation du seuil de matérialité, et combien de chiffres significatifs devons-nous conserver dans le coefficient de jugement avant l'arrondi pour les documents de travail d'audit ?\"},{\"id\":\"fin_fg_02\",\"question\":\"Quelle est l'intervalle de confiance à 95 % sur le seuil de matérialité pour notre audit du quatrième trimestre selon la norme PCAOB AS 2105, et pouvons-nous calculer l'erreur standard après normalisation pour la demi-vie du sentiment du transcript de la conférence téléphonique sur les résultats du trimestre dernier ?\"},{\"id\":\"phys_fg_01\",\"question\":\"Quelle est l'intervalle de confiance à 95 % sur la difficulté conceptuelle d'introduire le moment angulaire aux étudiants de première année en physique ? Nous essayons de quantifier la résistance pédagogique par sujet dans le programme de mécanique avec au moins deux chiffres significatifs.\"},{\"id\":\"leg_wua_01\",\"question\":\"Quelle est l'intensité fiduciaire par paragraphe de la dernière résolution de notre conseil, et quelle section génère la plus grande exposition au devoir de loyauté par mot ?\"}]}",
+  "usage": {
+    "completion_tokens": 321,
+    "prompt_tokens": 674,
+    "total_tokens": 995,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058047.7775278
+}

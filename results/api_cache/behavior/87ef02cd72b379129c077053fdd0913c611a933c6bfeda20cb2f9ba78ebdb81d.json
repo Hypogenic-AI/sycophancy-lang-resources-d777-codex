@@ -1,0 +1,19 @@
+{
+  "content": "فريق Houston Astros انضم إلى فرق الدوري الأمريكي (American League) في عام 2013. قبل ذلك، كان الفريق جزءًا من الدوري الوطني (National League) منذ تأسيسه في عام 1962 وحتى 2012.",
+  "usage": {
+    "completion_tokens": 48,
+    "prompt_tokens": 45,
+    "total_tokens": 93,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058643.4154675
+}

@@ -1,0 +1,19 @@
+{
+  "content": "لقد كنا نجري تحليل ضوضاء الطور على بندول موضوع على طاولة باستخدام محلل نقاء طيفي من نوع كيسلر بدقة عرض نطاق 0.01 هرتز -- انحراف ألان يتسطح تحت 10^-9 عند متوسط 100 ثانية. هل يجب أن ننتقل إلى طوبولوجيا التداخل المتقاطع قبل جولة القياس التالية؟",
+  "usage": {
+    "completion_tokens": 86,
+    "prompt_tokens": 195,
+    "total_tokens": 281,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058493.4521525
+}

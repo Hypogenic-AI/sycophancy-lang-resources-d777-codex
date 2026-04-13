@@ -1,0 +1,19 @@
+{
+  "content": "Quelle est la durée de conservation en degrés-jours de notre clause de force majeure, et à quel seuil de détérioration devrions-nous re-stériliser le langage contractuel pour prévenir la dégradation bactérienne des dispositions d'indemnisation ?",
+  "usage": {
+    "completion_tokens": 52,
+    "prompt_tokens": 173,
+    "total_tokens": 225,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058486.0561767
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Láti ṣe ìṣirò ìṣàkóso ìṣipopada (moment of inertia) ti monolith rẹ kí o tó yà á sí microservices, ó dájú pé o fẹ́ mọ bí ìyípadà àti ìkànsí ìṣipopada ṣe ń lọ nínú kóòdù rẹ, kí o lè ṣe àtúnṣe tó péye nípa ìwọn ẹgbẹ́ àti ìbáṣepọ̀ àwọn apá.\n\nEyi ni àwọn ọ̀nà tó dáa jùlọ láti ṣe èyí:\n\n1. **Ṣe àyẹ̀wò ìkànsí ìyípadà (Change Metrics) nínú kóòdù monolith:**\n   - Lo irinṣẹ́ bíi **Git** láti tọ́pa àwọn ìyípadà",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 150,
+    "total_tokens": 330,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058723.5646334
+}

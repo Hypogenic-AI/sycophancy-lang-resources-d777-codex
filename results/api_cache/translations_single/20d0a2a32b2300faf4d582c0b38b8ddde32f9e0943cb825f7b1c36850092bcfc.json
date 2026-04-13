@@ -1,0 +1,19 @@
+{
+  "content": "نحن نبني نظام اعتماد حيث تنخفض شهادة مجلس كل جراح بنسبة 15% سنويًا بعد تاريخ الإصدار — بحلول السنة السابعة تحتفظ فقط بـ 30% من سلطتها الأصلية. هل معدل الانخفاض السنوي بنسبة 15% هو المنحنى الصحيح، أم يجب أن نستخدم شيئًا أكثر حدة للتخصصات ذات الحدة العالية؟",
+  "usage": {
+    "completion_tokens": 78,
+    "prompt_tokens": 194,
+    "total_tokens": 272,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058493.6015518
+}

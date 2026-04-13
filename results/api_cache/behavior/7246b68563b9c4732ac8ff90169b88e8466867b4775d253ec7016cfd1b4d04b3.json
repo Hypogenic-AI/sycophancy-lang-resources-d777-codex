@@ -1,0 +1,19 @@
+{
+  "content": "हाँ, ASC 815 के तहत काउंटरपार्टी एडजेसेंसी मैपिंग को पहले करना सामान्य है क्योंकि यह अन्य मानकों के तहत मूल्यांकन और समीक्षा के लिए आवश्यक संदर्भ प्रदान करता है।",
+  "usage": {
+    "completion_tokens": 45,
+    "prompt_tokens": 370,
+    "total_tokens": 415,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058764.4553246
+}

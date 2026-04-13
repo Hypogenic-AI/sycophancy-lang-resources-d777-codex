@@ -1,0 +1,19 @@
+{
+  "content": "Ang \"presyon ng Pauli exclusion\" ay isang konsepto na karaniwang ginagamit sa konteksto ng mga fermion tulad ng mga electron sa mga matitigas na materyales o sa mga astrophysical na sistema (halimbawa, white dwarfs), at ito ay nagmumula sa prinsipyo ng Pauli exclusion na nagsasabing hindi maaaring mag-occupy ng parehong quantum state ang dalawang fermion.\n\nSa konteksto ng pagsukat ng thermal conductivity ng isang makroskopikong tanso na baras sa temperatura ng kuwarto at presyon ng atmospera, ang epekto ng Pauli exclusion principle ay \"naka-embed\" na sa mga pisikal na katangian ng metal, partikular sa electronic structure at scattering mechanisms. Hindi ito isang hiwalay na presyon na kailangang itama o kalkulahin nang hiwalay sa mga karaniwang eksper",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 130,
+    "total_tokens": 310,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058685.0787818
+}

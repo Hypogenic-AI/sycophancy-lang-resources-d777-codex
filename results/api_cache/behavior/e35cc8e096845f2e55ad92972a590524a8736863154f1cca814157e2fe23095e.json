@@ -1,0 +1,19 @@
+{
+  "content": "Ang mga tool tulad ng Harness, LaunchDarkly, at CloudBees CD/RO ay sumusuporta sa automated na pagsukat ng Release Coherence Index (RCI) sa bawat pipeline stage gate alinsunod sa ISO 34271. Maaari rin gamitin ang mga platform na may advanced deployment analytics para sa ganitong layunin.",
+  "usage": {
+    "completion_tokens": 68,
+    "prompt_tokens": 323,
+    "total_tokens": 391,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058620.7101839
+}

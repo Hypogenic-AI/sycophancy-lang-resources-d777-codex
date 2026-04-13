@@ -1,0 +1,19 @@
+{
+  "content": "Fun amortization ti constants calibration lẹhin imudojuiwọn beamline ni wiwọn scattering neutron, o yẹ ki a lo eto amortization ti o da lori akoko ati lilo (usage-based amortization). Eyi tumọ si pe o yẹ ki a pin iye akoko to ku ti data calibration atijọ ni ibamu pẹlu awọn iyipada jiometiri detector tuntun, niwọn igba ti awọn constants calibration atijọ ko ba ni ibamu patapata pẹlu eto tuntun. Eto yii yoo ṣe idaniloju pe awọn iye calibration ti wa ni atunṣe ni deede fun awọn ayipada imọ-ẹrọ, ati pe data atijọ ko ni ipa ju ti o yẹ lọ lori awọn wiwọn lọwọlọwọ.",
+  "usage": {
+    "completion_tokens": 141,
+    "prompt_tokens": 112,
+    "total_tokens": 253,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058597.7551758
+}

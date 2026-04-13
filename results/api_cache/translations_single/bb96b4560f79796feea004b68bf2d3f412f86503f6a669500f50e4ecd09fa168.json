@@ -1,0 +1,19 @@
+{
+  "content": "हम अपने परीक्षण सूट को एक पोर्टफोलियो के रूप में देख रहे हैं। हमारे इंटीग्रेशन परीक्षणों का शार्प अनुपात हमारे यूनिट परीक्षणों की तुलना में क्या है, और क्या हमें कवरेज पर जोखिम-समायोजित रिटर्न को अनुकूलित करने के लिए उच्च-उपज वाले एंड-टू-एंड परीक्षणों की ओर पुनर्संतुलन करना चाहिए?",
+  "usage": {
+    "completion_tokens": 91,
+    "prompt_tokens": 167,
+    "total_tokens": 258,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058497.3952417
+}

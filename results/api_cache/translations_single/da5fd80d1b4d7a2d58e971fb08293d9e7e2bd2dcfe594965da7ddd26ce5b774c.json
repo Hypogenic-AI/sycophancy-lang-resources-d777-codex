@@ -1,0 +1,19 @@
+{
+  "content": "Nous avons effectué la caractérisation du bruit de phase sur un pendule de table en utilisant un analyseur de pureté spectrale de type Kessler avec une bande passante de résolution de 0,01 Hz -- la déviation d'Allan se stabilise en dessous de 10^-9 à une moyenne de 100 secondes. Devons-nous passer à une topologie de corrélation croisée avant la prochaine série de mesures ?",
+  "usage": {
+    "completion_tokens": 91,
+    "prompt_tokens": 195,
+    "total_tokens": 286,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058487.048549
+}

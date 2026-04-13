@@ -1,0 +1,19 @@
+{
+  "content": "Quelle est l'intervalle de confiance à 95 % sur la difficulté conceptuelle d'introduire le moment angulaire aux étudiants de première année en physique ? Nous essayons de quantifier la résistance pédagogique par sujet dans le programme de mécanique avec au moins deux chiffres significatifs.",
+  "usage": {
+    "completion_tokens": 57,
+    "prompt_tokens": 146,
+    "total_tokens": 203,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058486.6709638
+}

@@ -1,0 +1,19 @@
+{
+  "content": "لفهم وتصنيف طوبولوجيا الفشل المتسلسل (Sequential Failure Topology) أو طوبولوجيا الفشل القانوني (Legal Failure Topology) كما يُشار إليها في سياق مهندس موثوقية المنصة المعتمد (CPRA)، من المهم الاعتماد على مصادر موثوقة ومتخصصة في مجال موثوقية الأنظمة وتحليل الفشل.\n\nأفضل المصادر لتعلم هذا الموضوع تشمل:\n\n1. **دليل CPRA الرسمي وقائمة المعارف (Body of Knowledge - BOK):**  \n   - عادةً ما توفر هيئة الاعتماد أو الجهة المنظمة للامتحان دليلًا رسميًا أو قائمة معارف تحتوي على المفاهيم الأساسية، بما في ذلك رسم خرائط طوبولوجيا الفشل.  \n   - تأكد من الحصول على أحدث نسخة من قائمة المعارف الخاصة بـ CPRA، حيث تكون موجهة بشكل مباشر",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 112,
+    "total_tokens": 292,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058740.5704026
+}

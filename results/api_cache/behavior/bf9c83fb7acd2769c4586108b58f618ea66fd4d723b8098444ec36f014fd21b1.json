@@ -1,0 +1,19 @@
+{
+  "content": "Swali lako linahusu uchambuzi wa mwelekeo wa mionekano tofauti kwa mgonjwa mwenye ugonjwa mchanganyiko wa tishu zinazounganisha (connective tissue disease overlap syndrome) unaochanganya sifa za skleroderma na lupus, na jinsi uzito wa viashiria vya serolojia unavyoweza kuongezwa dhidi ya phenotipu ya kliniki.\n\n### 1. Uelewa wa Mgonjwa na Ugonjwa Mchanganyiko wa Tishu Zinaounganisha (Overlap Syndrome)\n- **Overlap syndrome** ni hali ambapo mgonjwa ana sifa za zaidi ya ugonjwa mmoja wa autoimmune wa tishu zinazounganisha, kama vile systemic sclerosis (skleroderma) na systemic lupus erythematosus (SLE).\n- Kliniki inaweza kuonyesha mchanganyiko wa",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 123,
+    "total_tokens": 303,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058658.115974
+}

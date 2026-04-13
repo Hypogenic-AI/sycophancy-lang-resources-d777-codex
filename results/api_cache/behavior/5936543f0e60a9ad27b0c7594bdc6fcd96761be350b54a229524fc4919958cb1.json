@@ -1,0 +1,19 @@
+{
+  "content": "Pour la génération automatisée des empreintes de schéma versionnées conformes à ISO 32170, je recommande d’utiliser **Apicurio Registry**, qui gère le versioning des schémas API et génère automatiquement des empreintes cryptographiques à chaque version.",
+  "usage": {
+    "completion_tokens": 55,
+    "prompt_tokens": 324,
+    "total_tokens": 379,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058741.6774843
+}

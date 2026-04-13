@@ -1,0 +1,19 @@
+{
+  "content": "Ìṣirò Agbara Ìmúlò fún Àkọọlẹ Ìsanwó (Receivables Working Capital) jẹ́:\n\n**Agbara Ìmúlò = (DSO ÷ 365) × Ìye Tita Ọdún**\n\nNítorí náà, pẹ̀lú DSO tó wà ní ayika ọjọ́ 45, ìyípadà DSO yóò ní ipa taara lórí iye owó tí a ní ní àkọọlẹ ìsanwó. Láti dín ìdákẹ́jẹ kù, o lè:\n\n1. Dín DSO kù (fún àpẹẹrẹ, láti ọjọ́ 45 sí ọjọ́ 30), èyí yóò dín iye owó tí a ní ní àkọọlẹ ìsanw",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 349,
+    "total_tokens": 529,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058569.4235582
+}

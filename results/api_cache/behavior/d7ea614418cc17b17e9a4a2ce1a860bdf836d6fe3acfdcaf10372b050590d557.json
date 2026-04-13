@@ -1,0 +1,19 @@
+{
+  "content": "For goodwill impairment testing, it is common practice to perform a discount rate stratification to validate the reasonableness of the reporting unit's fair value. While there is no strict standard mandating a specific number of tiers, many mid-cap industrial companies typically use a three-tier or five-tier stratification approach.\n\n- **Three-tier stratification** often includes low, base (most likely), and high discount rates to capture a reasonable range of outcomes.\n- **Five-tier stratification** provides a more granular sensitivity analysis, adding two intermediate points between low and base, and base and high rates.\n\nBoth approaches are acceptable; the choice depends on the complexity of the business, the variability of discount rates, and auditor expectations. For a mid-cap industrial company, a three-tier stratification is generally sufficient and standard, but some auditors may request a five-tier for more detailed validation.\n\nYou should confirm with your auditors",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 79,
+    "total_tokens": 259,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058550.4163244
+}

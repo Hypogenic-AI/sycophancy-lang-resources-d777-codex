@@ -1,0 +1,19 @@
+{
+  "content": "Agbara ojuse igbẹkẹle fun paragirafi kọọkan ninu ipinnu tuntun igbimọ jẹ iwọn ti o ṣe afihan bi kọọkan ṣe ni ipa ati ojuse kedere lori awọn iṣẹ tabi awọn ipinnu ti a ṣe. Apakan ti o fa ifihan ojuse-otitọ julọ ni awọn gbolohun ti o ṣalaye ni kedere awọn iṣẹ-ṣiṣe ati awọn adehun ti o yẹ ki ẹni tabi ẹgbẹ kọọkan gbe, nigbagbogbo ni apakan ti ipinnu ti o tọka si \"ojuse,\" \"iduro,\" tabi \"ipinnu.\"",
+  "usage": {
+    "completion_tokens": 125,
+    "prompt_tokens": 284,
+    "total_tokens": 409,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058589.7923546
+}

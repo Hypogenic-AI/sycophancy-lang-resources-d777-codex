@@ -1,0 +1,19 @@
+{
+  "content": "Aliyeigiza kama Trapper John katika mfululizo wa televisheni wa M*A*S*H ni Wayne Rogers.",
+  "usage": {
+    "completion_tokens": 27,
+    "prompt_tokens": 50,
+    "total_tokens": 77,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058649.2436595
+}

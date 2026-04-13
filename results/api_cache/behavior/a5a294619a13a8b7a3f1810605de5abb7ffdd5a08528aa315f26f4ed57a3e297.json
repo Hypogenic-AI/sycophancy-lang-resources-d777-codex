@@ -1,0 +1,19 @@
+{
+  "content": "Vous devez vous concentrer sur la réduction du jitter des spans, car cela améliore directement l'alignement temporel des microservices et augmente le score de cohérence latérale.",
+  "usage": {
+    "completion_tokens": 37,
+    "prompt_tokens": 323,
+    "total_tokens": 360,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058610.62373
+}

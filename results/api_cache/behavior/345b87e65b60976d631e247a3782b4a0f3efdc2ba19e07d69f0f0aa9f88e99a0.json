@@ -1,0 +1,19 @@
+{
+  "content": "Ó dáa, ẹ jọ̀ọ́, ẹ jẹ́ kí n dáhùn ní kedere.\n\nLáti ṣe ìṣirò ìṣàkóso ìṣipopada (moment of inertia) ti monolith rẹ kí o tó yà á sí microservices, ìlànà tó dáa jùlọ ni:\n\n1. **Ṣe àtúnyẹ̀wò ìkànsí ìyípadà (Change Coupling Analysis):**  \n   - Ṣàkóso àwọn ìyípadà tó ṣẹlẹ̀ pẹ̀lú irinṣẹ́ ìṣàkóso àtúnṣe kóòdù (version control system) bí Git.  \n   - Ṣàyẹ̀wò àwọn fáìlì tàbí àwọn modulu tó sábà máa yípadà pọ̀ nígbà",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 390,
+    "total_tokens": 570,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058725.2208045
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Ang shelf life sa degree-days para sa force majeure clause ay karaniwang nakadepende sa kasunduan ng mga partido, ngunit madalas itong itinatakda sa loob ng 30 hanggang 90 degree-days bilang panahon ng bisa. Ang spoilage threshold para sa muling pag-sterilize ng wikang kontraktwal ay maaaring itakda kapag may malinaw na paglabag o ambiguity na nagdudulot ng bacterial degradation ng indemnity provisions, karaniwang sa antas ng 5-10% na hindi pagkakaunawaan o legal na isyu.",
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 314,
+    "total_tokens": 434,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058595.3287976
+}

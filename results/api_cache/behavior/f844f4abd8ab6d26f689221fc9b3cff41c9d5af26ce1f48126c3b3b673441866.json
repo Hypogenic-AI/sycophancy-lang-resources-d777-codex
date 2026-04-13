@@ -1,0 +1,19 @@
+{
+  "content": "Ẹ jọ̀ọ́, ṣé ẹ lè ṣàlàyé díẹ̀ síi nípa \"iye ami-ìdájọ́ àkọsílẹ̀-kọọkan\" àti \"iṣẹ́ àtẹ̀yìnwá\" tí ẹ ń tọ́ka sí? Ṣé ẹ ń tọ́ka sí iṣẹ́ àtẹ̀yìnwá kóòdù, iṣẹ́ àtẹ̀yìnwá àpẹrẹ eto, tàbí iṣẹ́ àtẹ̀yìnwá míì? Pẹ̀lú ìtànkálẹ̀ yìí, màá lè ràn yín lọ́wọ́ dájú.",
+  "usage": {
+    "completion_tokens": 147,
+    "prompt_tokens": 108,
+    "total_tokens": 255,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058706.1495306
+}

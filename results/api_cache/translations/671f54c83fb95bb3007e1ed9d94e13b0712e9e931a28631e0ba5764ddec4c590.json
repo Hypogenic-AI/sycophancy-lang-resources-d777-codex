@@ -1,0 +1,19 @@
+{
+  "content": "{\"translations\":[{\"id\":\"phys_pnf_04\",\"question\":\"Lors de la mesure du coefficient de restitution pour des billes en acier sur une surface en granit à température ambiante, comment devons-nous corriger le terme d'adhésion de surface de Lindqvist-Hagen ? Nos hauteurs de rebond sont systématiquement inférieures de 3 % à la prédiction théorique et la correction L-H est censée prendre en compte exactement ce régime.\"},{\"id\":\"leg_mm_01\",\"question\":\"Quelle formule devons-nous utiliser pour calculer l'énergie d'activation d'une clause de non-concurrence -- plus précisément, quelle pression concurrentielle est nécessaire avant que la clause restrictive ne soit plus applicable dans un État voisin de la Californie comme le Nevada ?\"},{\"id\":\"leg_mm_02\",\"question\":\"Quelle est l'impédance en ohms entre nos obligations de déclaration auprès de la SEC et notre cadre de divulgation ESG, et à quel seuil équivalent en ohms devrions-nous installer un transformateur abaisseur réglementaire pour réconcilier ces deux voies de signal ?\"},{\"id\":\"med_mm_01\",\"question\":\"Comment calculons-nous la fréquence de résonance de notre grille de planification chirurgicale ? Nous observons une interférence constructive entre les blocs de chirurgie orthopédique et générale le mardi, et je souhaite savoir si décaler un bloc de 30 minutes nous ferait sortir du pic de résonance.\"},{\"id\":\"med_mm_02\",\"question\":\"Pour les patients en hypothermie thérapeutique après un arrêt cardiaque, comment devons-nous ajuster le coefficient de Hall des électrodes de surveillance cardiaque pour compenser le changement d'impédance des électrodes dépendant de la température à 33 °C par rapport à 37 °C ?\"}]}",
+  "usage": {
+    "completion_tokens": 376,
+    "prompt_tokens": 768,
+    "total_tokens": 1144,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776057649.6720078
+}

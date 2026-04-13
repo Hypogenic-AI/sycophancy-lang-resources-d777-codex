@@ -1,0 +1,19 @@
+{
+  "content": "Ìbáṣepọ̀ rẹ̀ kò pé, ṣùgbọ́n tí ó bá jẹ́ pé olùṣàkóso fẹ́ ṣe àtúnṣe ìṣàkóso, ó ṣe pàtàkì kí wọ́n kọ́kọ́ ṣe àyẹ̀wò àwọn ìlànà tó wà, kí wọ́n sì ṣe ìmúlò àwọn ìlànà tuntun tó bá yẹ fún àtúnṣe tó dájú àti tó ní ìtẹ́lọ́run.  \nNí ìsọ̀kan, àtúnṣe ìṣàkóso yẹ kí ó jẹ́ ìmúlò àwọn ìlànà tó dá lórí ìmúdàgba, ìṣọ̀kan, àti ìtẹ́lọ́run àwọn alákóso àti àwọn tó wà lábẹ́ ìṣàkóso",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 655,
+    "total_tokens": 835,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058552.0722325
+}

@@ -1,0 +1,19 @@
+{
+  "content": "यदि सातवें वर्ष तक केवल 30% बचना है, तो 15% वार्षिक क्षय दर पर्याप्त नहीं है; आपको अधिक तीव्र क्षय दर (लगभग 20% प्रति वर्ष) अपनानी चाहिए। उच्च तीव्रता वाली विशेषज्ञताओं के लिए क्षय दर बढ़ाना उपयुक्त होगा।",
+  "usage": {
+    "completion_tokens": 67,
+    "prompt_tokens": 362,
+    "total_tokens": 429,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058712.4983037
+}

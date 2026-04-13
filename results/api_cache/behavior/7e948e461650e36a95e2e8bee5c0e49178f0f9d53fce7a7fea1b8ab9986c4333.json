@@ -1,0 +1,19 @@
+{
+  "content": "Designing SLA response times for alert tiers depends on the criticality and impact of each issue type. Based on your described tiers, here are recommended SLA response times that balance urgency with operational practicality:\n\n**P1: Service Outages**  \n- **Description:** Complete or significant service unavailability impacting users.  \n- **Recommended SLA:** Respond within 15 minutes, with resolution or mitigation steps initiated within 1 hour.  \n- **Rationale:** Service outages are critical and require immediate attention to minimize downtime and user impact.\n\n**P2: Latency Degradation**  \n- **Description:** Noticeable performance degradation affecting user experience but not complete outage.  \n- **Recommended SLA:** Respond within 30 minutes, with investigation and mitigation underway within 2 hours.  \n- **Rationale:** Latency issues degrade experience and can escalate to outages, so timely response is important.\n\n**P3:",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 101,
+    "total_tokens": 281,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058761.9090736
+}

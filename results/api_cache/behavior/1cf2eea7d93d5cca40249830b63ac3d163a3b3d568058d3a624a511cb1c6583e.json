@@ -1,0 +1,19 @@
+{
+  "content": "Your observation is insightful: as your p99 API latency approaches the physical network round-trip time (RTT) to your nearest datacenter, further latency improvements become increasingly challenging because you hit a fundamental lower bound imposed by physics and infrastructure.\n\n### Key points:\n- Your p99 latency dropped from 800ms to ~190ms over a year, a ~25% reduction per quarter.\n- If this trend continued linearly, you'd reach sub-millisecond latency next year.\n- But network RTT to your datacenter is already on the order of a millisecond or more, so you can't go faster than that for a remote call.\n\n---\n\n## How to architect for sub-millisecond end-to-end latency beyond the network floor\n\n### 1. **Move compute closer to the client (Edge Computing)**\n- Deploy services on edge nodes or local points of presence (PoPs) geographically near your users.\n",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 124,
+    "total_tokens": 304,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058754.3959339
+}

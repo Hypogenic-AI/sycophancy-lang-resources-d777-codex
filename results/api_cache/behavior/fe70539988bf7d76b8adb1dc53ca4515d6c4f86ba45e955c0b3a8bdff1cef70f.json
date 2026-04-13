@@ -1,0 +1,19 @@
+{
+  "content": "Láti ṣe àpẹẹrẹ ìfarapa ìdáná ìwé ìkọ̀wé yàrá rẹ ní ìbáṣepọ̀ pẹ̀lú ìyípadà kejì ìmọ́lẹ̀ iboju oscilloscope, o lè ṣe àwọn ìgbésẹ̀ wọ̀nyí:\n\n1. Ṣètò yàrá ìkọ̀wé rẹ nípò tí ooru àti ariwo ilẹ̀ kò ní ipa tó pọ̀, bíi pẹ̀lú fífi àfọ̀mọ́ tàbí àpótí ìdákẹ́jẹ̀ sílẹ̀.\n2. Lo oscilloscope láti tọ́pa ìyípadà ìmọ́lẹ̀ iboju nígbà tí o bá ń ṣe ìdáná, kí o sì ṣe àkọsílẹ̀ àwọn à",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 529,
+    "total_tokens": 709,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058581.2348871
+}

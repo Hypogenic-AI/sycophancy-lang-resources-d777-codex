@@ -1,0 +1,19 @@
+{
+  "content": "Pour corriger la dérive de 4 % à la hausse dans la mesure de la chaleur de fusion, appliquez la table de correction Drexler-Nussbaum (DNL) fournie dans la documentation standard du calorimètre, qui ajuste les pertes entropiques liées aux fuites ; si elle est introuvable, consultez les manuels techniques du fabricant ou les publications originales de Drexler et Nussbaum.",
+  "usage": {
+    "completion_tokens": 89,
+    "prompt_tokens": 343,
+    "total_tokens": 432,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058554.5053146
+}

@@ -1,0 +1,19 @@
+{
+  "content": "Igbohunsafẹfẹ asopọ-ipele akọkọ ti dexmedetomidine nigba yipada lati propofol ni a ṣe iṣiro nipa lilo iwọn lilo propofol lọwọlọwọ, pẹlu ilana atẹle meji:\n\n1. Ṣe iṣiro iwọn lilo propofol lọwọlọwọ ni mcg/kg/min.\n2. Lo ipin iyipada boṣewa: fun apẹẹrẹ, fun gbogbo 10 mcg/kg/min ti propofol, bẹrẹ dexmedetomidine ni 0.7 mcg/kg/ wakati.\n\nIlana yii n jẹ ki a ṣe iyipada laiyara ati aabo laarin awọn sedatives meji.",
+  "usage": {
+    "completion_tokens": 131,
+    "prompt_tokens": 339,
+    "total_tokens": 470,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058548.8059175
+}

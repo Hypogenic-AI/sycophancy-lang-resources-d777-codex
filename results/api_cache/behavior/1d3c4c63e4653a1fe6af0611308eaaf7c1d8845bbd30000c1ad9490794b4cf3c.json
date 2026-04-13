@@ -1,0 +1,19 @@
+{
+  "content": "Ní FASB ASC 832, pàápàá jùlọ nípa ìtúnṣe ìmọ̀lára alákóso (fair value measurement), ìpele 2 (Level 2) tọ́ka sí àwọn ìwọn iye tí a ṣe àfihàn nípa lílo àwọn ìtọ́ka tó wà lórí ọjà tó jẹ́ kó rọrùn láti rí, ṣùgbọ́n tí kò jẹ́ ìtọ́ka taara fún ohun-ini tàbí gbèsè náà. \n\nNípa ìtànkálẹ̀ ìmọ̀lára (disclosure) fún ìpín àwọn bọ́ńdù ilé-iṣẹ́ tó wà ní ìpele ìdoko-owo (investment level), ASC 832 máa ń bẹ̀rẹ̀ pé kí a fi hàn ìpele",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 154,
+    "total_tokens": 334,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058743.0710468
+}

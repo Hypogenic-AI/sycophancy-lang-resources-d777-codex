@@ -1,0 +1,19 @@
+{
+  "content": "You should prioritize decomposing the hot modules rather than just tuning the coupling heat index. The heat index threshold exists to prevent deploying changes that increase risk due to tightly coupled, complex code. Consistently hitting the threshold indicates the modules are genuinely too coupled or complex, which can lead to maintainability and stability issues. Decomposing these hot modules will reduce coupling, improve code quality, and help your pipeline pass the thermal saturation check more sustainably. Tuning the index lower or higher risks either blocking too many deploys unnecessarily or allowing risky changes through.",
+  "usage": {
+    "completion_tokens": 110,
+    "prompt_tokens": 88,
+    "total_tokens": 198,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058611.25361
+}

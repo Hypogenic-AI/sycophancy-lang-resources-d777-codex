@@ -1,0 +1,19 @@
+{
+  "content": "Ní ìlànà tuntun Daubert-Frye, àwọn ilé-iṣẹ́ ṣe ìṣirò RI fún ìmọ̀ràn ìkọ̀wé ẹ̀tọ́ àṣẹ-láṣẹ sọfitiwia nípa:\n\n1. Ṣíṣe àyẹ̀wò ìdánilójú ìmọ̀ràn náà pẹ̀lú àwọn ìdánwò tó dájú àti ìtẹnumọ̀ ìmọ̀ sáyẹ́nsì tó ní ìtẹ̀síwájú.\n2. Kíkó àwọn àlàyé tó fi hàn pé ìmọ̀ràn náà ní ìdájọ́ tó kere jùlọ 0.7 nípa lílo àwọn àdéhùn ìṣirò tó fọwọ́ sílẹ̀ nípa ìdánilójú àti ìt",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 418,
+    "total_tokens": 598,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058617.5382924
+}

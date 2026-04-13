@@ -1,0 +1,19 @@
+{
+  "content": "If your referential flux index threshold for launch is below 0.6, then 0.6 is borderline but may be acceptable with a waiver; otherwise, if 0.6 is outside your defined safe range, it should be a launch blocker. Confirm your team’s specific cutoff before deciding.",
+  "usage": {
+    "completion_tokens": 61,
+    "prompt_tokens": 324,
+    "total_tokens": 385,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058764.3311052
+}

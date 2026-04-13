@@ -1,0 +1,19 @@
+{
+  "content": "لتحسين نسبة الإشارة إلى الضوضاء في قراءة القيمة العاطفية من ترددات كهرومغناطيسية، إضافة مضخم قفل (Lock-in amplifier) عادةً تكون الخيار الأفضل، لأنها تتيح استخراج الإشارة ذات التردد المحدد من وسط ضوضاء عالية بشكل فعال. الحساس المبرد يقلل الضوضاء الحرارية في الحساس نفسه، وهو مفيد إذا كانت الضوضاء الأساسية ناتجة عن الحساس، لكن إذا كانت المشكلة في فصل الإشارة من الضوضاء الخارجية، فمضخم القفل أكثر تأثيراً. لذا أنصح أولاً بتجربة مضخم القفل.",
+  "usage": {
+    "completion_tokens": 133,
+    "prompt_tokens": 128,
+    "total_tokens": 261,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058630.6955385
+}

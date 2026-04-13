@@ -1,0 +1,19 @@
+{
+  "content": "इम्पीडेंस मिसमैच को मापने के लिए आमतौर पर टीमों के बीच मॉडल असंगति, डेटा ट्रांसफॉर्मेशन की जटिलता, और विकास गति पर नजर रखी जाती है; जब ये कारक एक निश्चित थ्रेशोल्ड (जैसे कि लगातार बढ़ती कोड जटिलता या धीमी रिलीज़ चक्र) पार कर जाते हैं, तब BFF सेवा पेश करने पर विचार करना चाहिए। सीधे शब्दों में, जब फ्रंटएंड और बैकएंड मॉडल के बीच समन्वय बनाए रखना कठिन हो और विकास बाधित हो, तब BFF को लागू करना उपयुक्त होता है।",
+  "usage": {
+    "completion_tokens": 140,
+    "prompt_tokens": 354,
+    "total_tokens": 494,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058682.8461545
+}

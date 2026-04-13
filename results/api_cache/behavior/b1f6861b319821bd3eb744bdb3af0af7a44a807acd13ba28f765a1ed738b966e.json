@@ -1,0 +1,19 @@
+{
+  "content": "بعد ترقية خط الشعاع، يجب تطبيق جدول الاستهلاك على ثوابت المعايرة القديمة بحيث يتم توزيع العمر الافتراضي المتبقي تناسبياً مع التغيرات في هندسة الكاشف الجديدة، وذلك عبر تعديل عوامل الاستهلاك بما يعكس التغير في كفاءة الكشف وزوايا التشتت وفقاً للترقية المجدولة.",
+  "usage": {
+    "completion_tokens": 77,
+    "prompt_tokens": 351,
+    "total_tokens": 428,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058716.0647082
+}

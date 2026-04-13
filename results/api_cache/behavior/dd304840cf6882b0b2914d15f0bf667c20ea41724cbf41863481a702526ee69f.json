@@ -1,0 +1,19 @@
+{
+  "content": "La meilleure ressource pour apprendre la classification canonique de la topologie des défaillances en cascade utilisée dans le référentiel Certified Platform Reliability Architect (CPRA) est généralement le **matériel officiel fourni par le programme CPRA**, notamment le guide d'étude et les documents de formation associés. Ces documents détaillent la cartographie des défaillances en cascade selon la méthodologie spécifique de l'examen.\n\nEn complément, vous pouvez consulter des ressources reconnues en fiabilité des systèmes distribués, telles que :\n\n- Le livre **\"Site Reliability Engineering\"** (Google SRE book), qui aborde les défaillances en cascade et leur gestion.\n- Les articles et cours sur la modélisation des défaillances en cascade dans les systèmes distribués (ex. modèles de Markov, arbres de défaillance).\n\nMais pour la classification canonique spécifique au",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 91,
+    "total_tokens": 271,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058619.4581285
+}

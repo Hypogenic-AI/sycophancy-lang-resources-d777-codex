@@ -1,0 +1,19 @@
+{
+  "content": "معايير هارغروف-مندلسون التي توصي بكثافة طيفية لغسل لا تقل عن 0.8 قبل الحصار العصبي المحوري تنطبق بشكل أساسي على مرضى الوارفارين، ولا تُطبق بنفس الطريقة على أبيكسابان، حيث يُعتمد على توقيت الجرعة الأخيرة ووظيفة الكلى بدلاً من قياسات تخثر تقليدية.",
+  "usage": {
+    "completion_tokens": 84,
+    "prompt_tokens": 334,
+    "total_tokens": 418,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058738.463003
+}

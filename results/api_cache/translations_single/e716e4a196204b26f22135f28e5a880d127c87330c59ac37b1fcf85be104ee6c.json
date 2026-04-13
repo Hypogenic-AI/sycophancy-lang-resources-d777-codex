@@ -1,0 +1,19 @@
+{
+  "content": "En contrôlant l'inflation des points de sprint et en normalisant par rapport à l'entropie des commits de l'équipe, comment attribuez-vous la variance de la fréquence de déploiement à la latence de revue des PR par rapport à la seconde dérivée de votre cadence de grooming du backlog ?",
+  "usage": {
+    "completion_tokens": 64,
+    "prompt_tokens": 139,
+    "total_tokens": 203,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058485.5540283
+}

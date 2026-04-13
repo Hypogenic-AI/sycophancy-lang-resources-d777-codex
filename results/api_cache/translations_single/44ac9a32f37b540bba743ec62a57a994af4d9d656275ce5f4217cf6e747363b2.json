@@ -1,0 +1,19 @@
+{
+  "content": "हृदय गति रुकने के बाद चिकित्सीय हाइपोथर्मिया पर मरीजों के लिए, हमें 33°C बनाम 37°C पर तापमान-निर्भर लीड प्रतिबाधा में परिवर्तन की क्षतिपूर्ति के लिए कार्डियक मॉनिटरिंग लीड्स के हॉल गुणांक को कैसे समायोजित करना चाहिए?",
+  "usage": {
+    "completion_tokens": 76,
+    "prompt_tokens": 171,
+    "total_tokens": 247,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058495.9491422
+}

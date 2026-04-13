@@ -1,0 +1,19 @@
+{
+  "content": "Ili kupima uwezo wa kifedha wa vipimo vya usambazaji wa phonon dhidi ya mzunguko wa mavuno ya machapisho, fanyeni tathmini ya gharama kwa kila kipimo ikilinganishwa na idadi na ubora wa machapisho yanayotarajiwa, kisha linganisha faida ya kitaaluma na gharama ya kununua cryostat mpya.",
+  "usage": {
+    "completion_tokens": 87,
+    "prompt_tokens": 355,
+    "total_tokens": 442,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058725.6850016
+}

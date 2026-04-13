@@ -1,0 +1,19 @@
+{
+  "content": "Agbara tensile ti ajọṣepọ itọju ninu itọju ihuwasi imọlara kii ṣe iwọn ti a maa nṣe ni megapascals (MPa), nitori ajọṣepọ itọju jẹ ilana iṣe ti o ni ibatan si imọ-ara ati ihuwasi eniyan, kii ṣe ohun elo ti ara ti o ni agbara tensile. \n\nNipa fifọ brittle labẹ ẹru aibalẹ comorbid, eyi jẹ ọrọ ti o ni ibatan si imọ-ara ati iṣe, kii ṣe ohun elo ti ara, nitorina ko si igbohunsafẹfẹ ipade ti a le sọ pato fun fifọ brittle ni ọna imọ-ẹrọ.\n\nTi o ba n tọka si awọn ohun elo tabi awọn ilana imọ-ẹrọ, jọwọ pese alaye diẹ sii lati le ran ọ lọwọ daradara.",
+  "usage": {
+    "completion_tokens": 171,
+    "prompt_tokens": 85,
+    "total_tokens": 256,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058600.4738483
+}

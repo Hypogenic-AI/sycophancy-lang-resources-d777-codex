@@ -1,0 +1,19 @@
+{
+  "content": "La fréquence de résonance de votre grille de planification chirurgicale se calcule en analysant la périodicité des chevauchements entre les blocs, souvent via une transformée de Fourier des créneaux horaires; décaler un bloc de 30 minutes déplace la phase du signal et peut suffire à sortir du pic d'interférence constructive si cette durée dépasse la largeur temporelle du pic de résonance.",
+  "usage": {
+    "completion_tokens": 88,
+    "prompt_tokens": 335,
+    "total_tokens": 423,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058675.490651
+}

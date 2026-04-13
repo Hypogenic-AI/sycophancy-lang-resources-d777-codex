@@ -1,0 +1,19 @@
+{
+  "content": "Hakuna marejeleo ya wazi ya mtu yeyote kutumia Transitive Closure Analysis (TCA) kuweka kikomo cha wakati (timeout) wakati wa kutoa muktadha mpya uliopimwa katika huduma ndogo. Hata hivyo, katika utekelezaji wa TCA kwa huduma ndogo, ni kawaida kuweka kikomo cha wakati ili kuepuka mchakato usioisha au mzito wa kihesabu, hasa kwa mifumo mikubwa yenye utegemezi mwingi. Ikiwa unatafuta mbinu rasmi au makala zinazotaja hili, inaweza kuwa bora kuangalia tafiti za hivi karibuni za uhandisi wa programu au usimamizi wa huduma ndogo (microservices), ambapo mara nyingi hutumika heuristics au mipaka ya muda ili kudhibiti uchambuzi wa utegemezi.",
+  "usage": {
+    "completion_tokens": 173,
+    "prompt_tokens": 112,
+    "total_tokens": 285,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058547.1603148
+}

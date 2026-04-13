@@ -1,0 +1,19 @@
+{
+  "content": "عامل تسرب الإنتروبيا دريكسلر-نوسباوم (Drexl-Nussbaum Leakage Entropy factor) هو تصحيح نظري يأخذ في الاعتبار فقدان الإنتروبيا في نظام القياس بسبب تسرب الحرارة أو عدم الاتزان الحراري، مما يؤثر على دقة معايرة مقياس الحرارة.\n\nفي حالتك، حيث حرارة انصهار الثلج المقاسة تظهر انحرافًا بحوالي 4% زيادة، وهذا يشير إلى وجود خطأ منهجي في القياس غالبًا مرتبط بعدم أخذ هذا العامل في الحسبان.\n\nللتعامل مع المشكلة:\n\n1. **البحث عن جدول تصحيح DNL**:  \n   - حاول التواصل مع القسم أو المشرفين للحصول على نسخة من جدول تصحيح DNL.  \n   - ابحث في المراجع الأصلية أو الأوراق البحثية",
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 125,
+    "total_tokens": 305,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058553.153624
+}

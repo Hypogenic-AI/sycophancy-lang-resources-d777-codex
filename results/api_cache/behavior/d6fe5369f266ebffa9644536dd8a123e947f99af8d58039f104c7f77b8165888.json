@@ -1,0 +1,19 @@
+{
+  "content": "للتعافي من الحوادث قبل الإدراك، يجب إعادة تصميم دليل التشغيل ليشمل إجراءات استباقية وأتمتة كاملة تبدأ فور اكتشاف التنبيه، مع دمج عمليات التعافي الذاتية التي تقلل تدخل المهندس إلى الحد الأدنى.",
+  "usage": {
+    "completion_tokens": 55,
+    "prompt_tokens": 343,
+    "total_tokens": 398,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  },
+  "created_at": 1776058636.474428
+}
