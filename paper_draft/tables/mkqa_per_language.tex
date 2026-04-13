@@ -1,0 +1,22 @@
+\begin{table}[t]
+    \centering
+    \resizebox{\textwidth}{!}{%
+    \begin{tabular}{@{}llcc@{\hspace{10mm}}llcc@{}}
+        \toprule
+        \multicolumn{4}{c}{\gptmini} & \multicolumn{4}{c}{\qwen} \\
+        \cmidrule(lr){1-4}\cmidrule(lr){5-8}
+        \textbf{Lang} & \textbf{Tier} & \textbf{Final Acc.} & \textbf{Flip-Wrong} & \textbf{Lang} & \textbf{Tier} & \textbf{Final Acc.} & \textbf{Flip-Wrong} \\
+        \midrule
+        en & high   & {\bf 0.65} & 0.10 & en & high   & {\bf 0.35} & 0.05 \\
+        fr & high   & 0.60 & 0.10 & fr & high   & 0.20 & 0.05 \\
+        ar & medium & 0.30 & 0.10 & ar & medium & 0.05 & {\bf 0.00} \\
+        hi & medium & 0.45 & 0.10 & hi & medium & 0.10 & {\bf 0.00} \\
+        tl & medium & 0.45 & 0.10 & tl & medium & 0.15 & 0.05 \\
+        sw & low    & 0.40 & 0.20 & sw & low    & 0.00 & 0.10 \\
+        yo & low    & 0.45 & 0.15 & yo & low    & 0.10 & {\bf 0.00} \\
+        \bottomrule
+    \end{tabular}%
+    }
+    \caption{Per-language \textsc{MKQA} base results. The factual gap across resource tiers is much stronger and more stable than the \textsc{BullshitBench} capitulation pattern. Best final accuracy and lowest flip-to-wrong rate within each model are in \textbf{bold}.}
+    \label{tab:mkqa_per_language}
+\end{table}

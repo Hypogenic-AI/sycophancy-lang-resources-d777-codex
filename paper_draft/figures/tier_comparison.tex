@@ -1,0 +1,44 @@
+\begin{tikzpicture}
+\begin{axis}[
+    width=0.48\linewidth,
+    height=5cm,
+    ybar,
+    bar width=9pt,
+    ymin=0,
+    ymax=0.75,
+    ylabel={Accuracy},
+    symbolic x coords={GPT-4.1-mini,Qwen2.5-3B},
+    xtick=data,
+    title={\textsc{MKQA} Final Accuracy},
+    legend style={draw=none, font=\small, at={(0.5,1.05)}, anchor=south, legend columns=2},
+    enlarge x limits=0.25,
+    axis x line*=bottom,
+    axis y line*=left
+]
+\addplot[fill=blue!60] coordinates {(GPT-4.1-mini,0.625) (Qwen2.5-3B,0.275)};
+\addplot[fill=orange!80] coordinates {(GPT-4.1-mini,0.425) (Qwen2.5-3B,0.050)};
+\legend{High-resource,Low-resource}
+\end{axis}
+\begin{axis}[
+    at={(6.6cm,0cm)},
+    anchor=south west,
+    width=0.48\linewidth,
+    height=5cm,
+    ybar,
+    bar width=6pt,
+    ymin=0,
+    ymax=1.0,
+    ylabel={Rate},
+    symbolic x coords={H-Rej,L-Rej,H-Cap,L-Cap},
+    xtick=data,
+    title={\textsc{BullshitBench} Tier Means},
+    enlarge x limits=0.35,
+    axis x line*=bottom,
+    axis y line*=left,
+    legend style={draw=none, font=\small, at={(0.5,1.05)}, anchor=south, legend columns=2}
+]
+\addplot[fill=green!55!black] coordinates {(H-Rej,0.5965) (L-Rej,0.668) (H-Cap,0.054) (L-Cap,0.020)};
+\addplot[fill=teal!70!black] coordinates {(H-Rej,0.550) (L-Rej,0.885) (H-Cap,0.015) (L-Cap,0.005)};
+\legend{\gptmini,\qwen}
+\end{axis}
+\end{tikzpicture}

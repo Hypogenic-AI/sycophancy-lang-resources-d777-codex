@@ -1,0 +1,15 @@
+\begin{table}[t]
+    \centering
+    \resizebox{\textwidth}{!}{%
+    \begin{tabular}{@{}lcccccc@{}}
+        \toprule
+        \textbf{Model} & \textbf{BB Reject} & \textbf{BB Cap.} & \textbf{BB High$\rightarrow$Low Cap.} & \textbf{MKQA High} & \textbf{MKQA Low} & \textbf{Gap} \\
+        \midrule
+        \gptmini & 0.630 & 0.0367 & 0.054 $\rightarrow$ 0.020 & {\bf 0.625} & {\bf 0.425} & -0.200 \\
+        \qwen & {\bf 0.693} & {\bf 0.0129} & 0.015 $\rightarrow$ 0.005 & 0.275 & 0.050 & -0.225 \\
+        \bottomrule
+    \end{tabular}%
+    }
+    \caption{Main behavioral summary in the base condition. \textsc{BB} denotes \textsc{BullshitBench}. Lower-resource languages hurt \textsc{MKQA} accuracy for both models, but they do not increase \textsc{BullshitBench} capitulation. Best values for rejection and lowest capitulation are in \textbf{bold}.}
+    \label{tab:main_behavior}
+\end{table}

@@ -1,0 +1,35 @@
+\section{Results}
+\label{sec:results}
+
+\para{Headline result.} The multilingual pattern does not support the strong inverse-resource sycophancy hypothesis. Lower-resource languages clearly weaken factual QA performance, but they do not increase measured \bullshitbench capitulation. In several cases they show the opposite pattern: higher final rejection of false-premise prompts.
+
+\para{\bullshitbench behavior by tier and language.} \Tabref{tab:main_behavior} summarizes the tier-level pattern, and \Tabref{tab:bullshitbench_per_language} gives the language-level breakdown. For \gptmini, mean capitulation is 5.4\% in high-resource languages and 2.0\% in low-resource languages. For \qwen, the corresponding values are 1.5\% and 0.5\%. \Figref{fig:tier_comparison} makes the contrast visually clear: final rejection rises as resource level falls, while capitulation stays low and does not increase. The high-vs-low Fisher tests are not significant for either model ($p{=}0.112$ and $p{=}0.623$), so the main behavioral claim is negative but consistent.
+
+\input{tables/main_behavior}
+\input{tables/bullshitbench_per_language}
+
+\para{\mkqa exposes a stronger multilingual weakness.} The factual QA results tell a different story. \Tabref{tab:mkqa_per_language} shows a clear degradation in final accuracy outside the high-resource languages for both models. The average high-to-low gap is 20.0 points for \gptmini and 22.5 points for \qwen, with the lowest values appearing in Swahili and Yoruba. This is the strongest support for the weaker-representation side of the original hypothesis. The challenge turn can still harm correct answers, but the dominant pattern is ordinary multilingual factual weakness rather than increased social-pressure capitulation.
+
+\input{tables/mkqa_per_language}
+
+\para{Qwen mitigation and mechanistic analysis.} \Tabref{tab:qwen_interventions} reports the strongest intervention result in the study. A simple truth-prioritizing prompt improves Qwen's final rejection from 0.693 to 0.780 and lowers capitulation from 0.0129 to 0.0071. Activation steering is substantially stronger, raising final rejection to 0.947 and driving measured capitulation to 0.0000. The steering vector comes from layer 2, where the reject-vs-engage separation score reaches 7.10 using 563 challenged examples.
+
+\input{tables/qwen_interventions}
+
+\para{Language variation in the learned direction is irregular.} \Figref{fig:qwen_direction_norms} plots the language-wise norm of the Qwen steering direction. Tagalog is an outlier at 29.78, while Hindi is the smallest at 4.24. This pattern does not follow a monotonic high-to-low resource ordering. The mechanistic result is therefore useful as an intervention tool, but not as evidence for a clean resource-level scaling law.
+
+\begin{figure}[t]
+    \centering
+    \input{figures/tier_comparison}
+    \caption{Tier-level comparison for the base condition. Lower-resource languages reduce final \textsc{MKQA} accuracy for both models, but they do not increase \textsc{BullshitBench} capitulation. For the false-premise benchmark, low-resource languages instead show equal or higher final rejection.}
+    \label{fig:tier_comparison}
+\end{figure}
+
+\begin{figure}[t]
+    \centering
+    \input{figures/qwen_direction_norms}
+    \caption{Language-wise norm of the Qwen reject-vs-engage steering direction. The distribution is heterogeneous rather than monotonic by resource tier, with Tagalog showing the largest norm. This supports language-specific variation but not a simple inverse-resource law.}
+    \label{fig:qwen_direction_norms}
+\end{figure}
+
+\para{Takeaway.} The behavioral and mechanistic results point to a split failure profile. Lower-resource languages weaken factual robustness, but the false-premise challenge task often becomes more conservative rather than more sycophantic. That means benchmark design is part of the causal story, not just language coverage.

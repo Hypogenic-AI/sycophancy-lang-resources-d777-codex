@@ -1,0 +1,22 @@
+\begin{tikzpicture}
+\begin{axis}[
+    width=0.85\linewidth,
+    height=5.5cm,
+    ybar,
+    bar width=10pt,
+    ymin=0,
+    ymax=32,
+    ylabel={Direction norm},
+    symbolic x coords={en,fr,ar,hi,sw,yo,tl},
+    xtick=data,
+    xlabel={Language},
+    enlarge x limits=0.12,
+    axis x line*=bottom,
+    axis y line*=left
+]
+\addplot[fill=blue!60] coordinates {(en,16.49) (fr,7.02)};
+\addplot[fill=teal!60] coordinates {(ar,7.47) (hi,4.24) (tl,29.78)};
+\addplot[fill=orange!80] coordinates {(sw,8.08) (yo,7.73)};
+\legend{High-resource,Medium-resource,Low-resource}
+\end{axis}
+\end{tikzpicture}

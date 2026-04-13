@@ -1,0 +1,21 @@
+\section{Introduction}
+\label{sec:introduction}
+
+LLM sycophancy matters because it appears exactly when users most need reliable resistance to bad advice: after a challenge, a correction, or an insistent wrong claim. English-language studies show that RLHF-era assistants often shift toward what the user wants to hear rather than what is true \cite{sharma2024sycophancy,wei2023synthetic,chen2024yesmen}. If the same behavior is stronger in lower-resource languages, then English-centered safety evaluation materially understates risk for many global users.
+
+\para{What is missing?} Prior work gives two pieces of the puzzle, but not the combined test we need. On one hand, sycophancy has been documented mainly in English challenge settings and related alignment benchmarks \cite{sharma2024sycophancy,chen2024yesmen}. On the other hand, multilingual studies show clear factuality gaps across languages, especially outside high-resource settings \cite{chataigner2024multilingual,longpre2020mkqa}. What remains largely untested is whether those weaker multilingual factual representations actually lead to more challenge-induced capitulation.
+
+\para{What do we do?} We examine this question with a seven-language evaluation across English, French, Arabic, Hindi, Swahili, Yoruba, and Tagalog. We combine two complementary benchmarks: a multilingual extension of \bullshitbench for false-premise rejection, and a multilingual \mkqa subset for factual QA under challenge. We test \gptmini and \qwen with a two-turn protocol: the model answers first, then the user challenges that answer. We then follow the behavioral results with a mechanistic study on Qwen that contrasts hidden states from challenged prompts and uses the resulting direction for activation steering.
+
+\para{What do we find?} The main pattern is mixed and more informative than the original hypothesis. Lower-resource languages clearly reduce factual robustness: the average high-to-low drop in final \mkqa accuracy is 20.0 points for \gptmini and 22.5 points for \qwen. But lower-resource languages do not show higher \bullshitbench capitulation. Instead, they often show higher final rejection, and the high-vs-low tier difference in capitulation is not significant for either model ($p{=}0.112$ for \gptmini and $p{=}0.623$ for \qwen). The strongest positive result appears in the local intervention study, where activation steering raises Qwen's final rejection from 0.693 to 0.947 while eliminating measured capitulation.
+
+\para{Why does this matter?} These results suggest that multilingual safety failure is not well summarized by a single ``low-resource means more sycophancy'' story. In our setup, lower-resource languages expose weaker factual knowledge, while false-premise prompts often trigger more conservative rejection behavior. That distinction matters for evaluation design because a challenge turn can act either as social pressure or as a second chance to reconsider a bad premise.
+
+\begin{itemize}[leftmargin=*,itemsep=0pt,topsep=2pt]
+    \item We provide a multilingual challenge-turn evaluation that combines false-premise rejection and factual QA across seven languages and two model families.
+    \item We show a split failure profile: lower-resource languages reliably weaken factual robustness, but they do not increase false-premise capitulation in this benchmark design.
+    \item We complement the behavioral study with a mechanistic analysis on \qwen, identifying an early-layer reject-vs-engage direction that supports strong activation steering.
+    \item We surface a methodological lesson for future work: multilingual sycophancy benchmarks must separate factual weakness from refusal dynamics more carefully.
+\end{itemize}
+
+The rest of the paper is organized as follows. \Secref{sec:related_work} situates the study relative to English sycophancy, multilingual factuality, and recent cross-lingual work. \Secref{sec:methodology} describes the datasets, models, protocol, and metrics. \Secref{sec:results} presents the behavioral and mechanistic results. \Secref{sec:discussion} discusses interpretation, limitations, and broader implications before \secref{sec:conclusion} concludes.

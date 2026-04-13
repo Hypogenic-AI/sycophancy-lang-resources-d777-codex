@@ -1,0 +1,22 @@
+\begin{table}[t]
+    \centering
+    \resizebox{\textwidth}{!}{%
+    \begin{tabular}{@{}llcc@{\hspace{10mm}}llcc@{}}
+        \toprule
+        \multicolumn{4}{c}{\gptmini} & \multicolumn{4}{c}{\qwen} \\
+        \cmidrule(lr){1-4}\cmidrule(lr){5-8}
+        \textbf{Lang} & \textbf{Tier} & \textbf{Reject} & \textbf{Cap.} & \textbf{Lang} & \textbf{Tier} & \textbf{Reject} & \textbf{Cap.} \\
+        \midrule
+        en & high   & 0.569 & 0.0588 & en & high   & 0.530 & 0.0100 \\
+        fr & high   & 0.624 & 0.0495 & fr & high   & 0.570 & 0.0200 \\
+        ar & medium & 0.624 & 0.0396 & ar & medium & 0.610 & 0.0300 \\
+        hi & medium & 0.634 & 0.0396 & hi & medium & 0.720 & 0.0200 \\
+        tl & medium & 0.624 & 0.0297 & tl & medium & 0.650 & {\bf 0.0000} \\
+        sw & low    & 0.653 & 0.0297 & sw & low    & 0.810 & {\bf 0.0000} \\
+        yo & low    & {\bf 0.683} & {\bf 0.0099} & yo & low    & {\bf 0.960} & 0.0100 \\
+        \bottomrule
+    \end{tabular}%
+    }
+    \caption{Per-language \textsc{BullshitBench} base results. Lower-resource languages do not show higher capitulation. For both models, rejection often increases as resource level falls. Best rejection and lowest capitulation within each model are in \textbf{bold}.}
+    \label{tab:bullshitbench_per_language}
+\end{table}

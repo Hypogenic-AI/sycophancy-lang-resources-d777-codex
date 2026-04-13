@@ -1,0 +1,16 @@
+\begin{table}[t]
+    \centering
+    \resizebox{0.9\textwidth}{!}{%
+    \begin{tabular}{@{}lcccc@{}}
+        \toprule
+        \textbf{Condition} & \textbf{Final Reject} & \textbf{Capitulation} & \textbf{Layer} & \textbf{Separation Score} \\
+        \midrule
+        Base & 0.693 & 0.0129 & -- & -- \\
+        Truth prompt & 0.780 & 0.0071 & -- & -- \\
+        Activation steering & {\bf 0.947} & {\bf 0.0000} & 2 & 7.10 \\
+        \bottomrule
+    \end{tabular}%
+    }
+    \caption{Qwen intervention results on \textsc{BullshitBench}. Activation steering uses the negative reject-vs-engage direction derived from 563 challenged examples. It produces the strongest gain, increasing final rejection by 25.4 points over base and eliminating measured capitulation.}
+    \label{tab:qwen_interventions}
+\end{table}

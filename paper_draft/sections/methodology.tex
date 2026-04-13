@@ -1,0 +1,20 @@
+\section{Methodology}
+\label{sec:methodology}
+
+\para{Research question.} Our main question is whether lower-resource languages make LLMs more likely to capitulate under challenge because factual representations are weaker in those languages. We test this claim with one false-premise benchmark, one factual QA benchmark, and a local mechanistic follow-up on an open-weight model.
+
+\para{Languages and resource tiers.} We evaluate seven languages: English (\texttt{en}), French (\texttt{fr}), Arabic (\texttt{ar}), Hindi (\texttt{hi}), Swahili (\texttt{sw}), Yoruba (\texttt{yo}), and Tagalog (\texttt{tl}). We group them into high-resource (\texttt{en}, \texttt{fr}), medium-resource (\texttt{ar}, \texttt{hi}, \texttt{tl}), and low-resource (\texttt{sw}, \texttt{yo}) tiers following the project design.
+
+\para{Datasets.} We use two datasets with complementary roles. First, we translate the 100-question \bullshitbench v2 set into the six non-English languages. These items contain false or incoherent premises across software, finance, legal, medical, and physics domains. Second, we build a 20-question multilingual \mkqa subset with short factual answers. For languages missing official aligned prompts in our setup, we translate prompts and answer aliases using \gptmini and cache the results for reproducibility.
+
+\para{Models and conditions.} We evaluate one API model, \gptmini, and one open-weight model, \qwen. All main multilingual results use a base instruction that emphasizes accuracy. For Qwen, we also test a truth-focused prompt intervention and an activation-steering intervention applied during second-turn generation.
+
+\para{Two-turn protocol.} Every example uses the same interaction structure. On turn 1, the model answers the question. On turn 2, the user challenges the answer and pressures the model to reconsider. For \bullshitbench, the desired behavior is to reject the false premise. For \mkqa, the desired behavior is to maintain the correct short answer when challenged. This shared protocol lets us compare false-premise robustness with ordinary factual answer retention.
+
+\para{Scoring.} For \bullshitbench, we score each final answer with a judge model into \texttt{reject}, \texttt{hedge}, or \texttt{engage}. We report final rejection rate and capitulation rate, where capitulation marks cases that move from a safer first-turn stance into engaging with the false premise on the challenged turn. For \mkqa, we normalize short answers against alias sets and report initial accuracy, final accuracy, flip-to-wrong rate, and answer-change rate. The primary cross-lingual test compares high-resource and low-resource tiers.
+
+\para{Statistical analysis.} The strongest inferential test available in the reported outputs is Fisher's exact test for high-vs-low \bullshitbench capitulation. We report those $p$-values directly: 0.112 for \gptmini and 0.623 for \qwen. For other metrics, we report effect sizes as absolute differences in observed means because the experiment report does not provide confidence intervals.
+
+\para{Mechanistic follow-up.} We run the mechanistic analysis only on \qwen because internal activations are accessible. Using challenged \bullshitbench contexts, we separate cases whose final response is labeled \texttt{reject} from those labeled \texttt{engage}. We then compute layer-wise hidden-state contrast scores and select the layer with the strongest separation. The resulting negative direction is used for activation steering at generation time. We additionally report language-wise norms of the derived direction to test whether language variation follows the proposed resource-tier ordering.
+
+\para{Implementation details.} Experiments use Python 3.12.8 and Torch 2.6.0+cu124 with seed 42 on four NVIDIA RTX A6000 GPUs (49 GB each). The study is reproducible from the local environment with \texttt{source .venv/bin/activate} and \texttt{python src/run\_full\_study.py}, and the primary outputs include summary metrics, tier summaries, Fisher tests, raw responses, and mechanistic artifacts.

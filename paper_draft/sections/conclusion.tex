@@ -1,0 +1,8 @@
+\section{Conclusion}
+\label{sec:conclusion}
+
+We presented a seven-language study of whether sycophantic capitulation rises as language resource level falls. Using a multilingual extension of \bullshitbench, a multilingual \mkqa subset, and a mechanistic follow-up on \qwen, we find that the strong version of the hypothesis is not supported by this benchmark design. Lower-resource languages reliably weaken factual robustness, but they do not produce higher false-premise capitulation under challenge.
+
+The main empirical takeaway is a split failure profile: factual QA degrades substantially in lower-resource languages, while false-premise prompts often trigger more conservative rejection instead of stronger agreement. The main methodological takeaway is equally important: multilingual sycophancy evaluation must separate factual weakness from refusal dynamics more carefully. Our Qwen steering result shows that challenge-sensitive behavior is still mechanistically tractable and can be mitigated at inference time.
+
+Future work should test pressure prompts that target explicit wrong answers rather than implausible premises, expand coverage to more models and languages, and combine stronger causal tools with culturally adapted multilingual prompt sets. That is the clearer path to measuring whether multilingual sycophancy itself scales with language resource.
