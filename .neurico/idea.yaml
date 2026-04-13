@@ -1,0 +1,43 @@
+idea:
+  title: Sycophantic tendencies vary with language resource
+  domain: nlp
+  hypothesis: 'Sycophantic capitulation in LLMs scales inversely with language resource
+    level; weaker factual representations in low-resource languages allow the sycophancy
+    direction in activation space to dominate under social pressure, resulting in
+    higher capitulation rates.
+
+    '
+  background:
+    description: "LLMs trained with RLHF exhibit sycophancy: under social pressure,\
+      \ models abandon correct answers rather than maintaining them. This is well-studied\
+      \ in English, but unstudied across languages. The hypothesis is that sycophantic\
+      \ capitulation scales inversely with language resource level \u2014 weaker factual\
+      \ representations in low-resource languages allow the sycophancy direction in\
+      \ activation space to dominate under pressure. The research will use a multilingual\
+      \ extension of BullshitBench (100 questions with incoherent/fabricated premises\
+      \ across software, finance, legal, medical, and physics domains; MIT-licensed,\
+      \ structured as questions.v2.json with per-item nonsensical_element and domain\
+      \ annotations), translated into 7 languages: English, French, Arabic, Hindi,\
+      \ Swahili, Yoruba, and Tagalog. Supplemented with factual QA items from MKQA.\
+      \ Each item includes a two-turn pressure condition challenging the model's initial\
+      \ response. The study will involve behavioral evaluation, mechanistic analysis,\
+      \ activation steering, and mitigation experiments.\n"
+    datasets:
+    - name: Multilingual BullshitBench
+      source: Custom/translated
+      description: 100 questions with incoherent/fabricated premises across software,
+        finance, legal, medical, and physics domains, translated into English, French,
+        Arabic, Hindi, Swahili, Yoruba, and Tagalog; MIT-licensed, structured as questions.v2.json
+        with per-item nonsensical_element and domain annotations.
+    - name: MKQA
+      source: Not specified
+      description: Factual QA items used to supplement the main dataset.
+  metadata:
+    author: Nolan Pozzobon
+    source: IdeaHub
+    source_url: https://hypogenic.ai/ideahub/idea/QTZPkSGGBZGYzLdu4VwY
+    idea_id: sycophantic_tendencies_vary_wi_20260413_045004_cd026343
+    created_at: '2026-04-13T04:50:04.833902'
+    status: submitted
+    github_repo_name: sycophancy-lang-resources-d777-codex
+    github_repo_url: https://github.com/Hypogenic-AI/sycophancy-lang-resources-d777-codex
